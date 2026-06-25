@@ -1,0 +1,59 @@
+baseURL = 'https://wum630029-cpu.github.io/'
+languageCode = 'zh-CN'
+defaultContentLanguage = 'zh'
+title = '链上指南'
+theme = ''
+
+[params]
+  author = '链上指南'
+  description = '专注加密货币交易所注册、入金、交易与避坑的中文指南站。'
+  keywords = ['加密货币', '币圈', 'OKX', '币安', '注册教程', '比特币', '以太坊']
+  avatar = '/avatar.svg'
+
+[menu]
+  [[menu.main]]
+    name = '首页'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = '文章'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    name = '标签'
+    url = '/tags/'
+    weight = 30
+  [[menu.main]]
+    name = '关于'
+    url = '/about/'
+    weight = 40
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      table = true
+      strikethrough = true
+      linkify = true
+      typographer = true
+  [markup.highlight]
+    style = 'github'
+    lineNos = true
+    codeFences = true
+    guessSyntax = true
+    tabSize = 2
+
+[permalinks]
+  posts = '/:slug/'
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+  taxonomy = ['HTML']
+  term = ['HTML']
+theme = "PaperMod"

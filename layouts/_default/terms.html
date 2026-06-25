@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container">
+  <h1 style="font-size: 2rem; font-weight: 900; margin-bottom: 8px;">{{ .Title }}</h1>
+  <p style="color: var(--text-2);">共 {{ len .Data.Terms }} 个标签</p>
+
+  <div class="tags-cloud">
+    {{ range .Data.Terms.ByCount }}
+      <a href="{{ .Page.RelPermalink }}" class="tag-lg">
+        {{ .Page.Title }}
+        <span style="color: var(--text-3); margin-left: 6px;">{{ .Count }}</span>
+      </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

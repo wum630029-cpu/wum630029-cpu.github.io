@@ -1,0 +1,52 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    <h1>{{ .Site.Title }}<br><span>币圈新手的入门灯塔</span></h1>
+    <p>{{ .Site.Params.description }}</p>
+    <div class="hero-badges">
+      <span class="badge">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+        实时教程
+      </span>
+      <span class="badge">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+        避坑指南
+      </span>
+      <span class="badge">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"></path></svg>
+        交易所攻略
+      </span>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <h2 class="section-title">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="color: var(--primary);">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+      <polyline points="14 2 14 8 20 8"></polyline>
+    </svg>
+    最新文章
+  </h2>
+
+  <div class="article-list">
+    {{ range where .Site.RegularPages "Type" "posts" }}
+      <article class="article-card">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div class="article-meta">
+          <span>{{ .Date.Format "2006-01-02" }}</span>
+          <span>阅读约 {{ math.Round (div (countwords .Content) 300.0) }} 分钟</span>
+        </div>
+        <p class="article-excerpt">
+          {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}
+        </p>
+        <div class="article-tags">
+          {{ range .Params.tags }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
+          {{ end }}
+        </div>
+      </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

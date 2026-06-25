@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="container">
+  <header class="article-header">
+    <div class="article-meta">
+      <span>{{ .Date.Format "2006-01-02" }}</span>
+      <span>阅读约 {{ math.Round (div (countwords .Content) 300.0) }} 分钟</span>
+    </div>
+    <h1>{{ .Title }}</h1>
+    <div class="article-tags">
+      {{ range .Params.tags }}
+        <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+
+  <footer style="margin-top: 64px; padding-top: 32px; border-top: 1px solid var(--border);">
+    <p style="color: var(--text-3); font-size: 0.9rem;">
+      如果这篇文章帮到了你，欢迎分享给身边需要的朋友。投资有风险，入市需谨慎。
+    </p>
+  </footer>
+</article>
+{{ end }}

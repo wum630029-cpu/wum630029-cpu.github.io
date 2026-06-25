@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container">
+  <h1 style="font-size: 2rem; font-weight: 900; margin-bottom: 8px;">{{ .Title }}</h1>
+  {{ with .Content }}
+    <div class="article-content" style="margin-top: 24px;">{{ . }}</div>
+  {{ end }}
+
+  <div class="article-list" style="margin-top: 32px;">
+    {{ range .Pages }}
+      <article class="article-card">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div class="article-meta">
+          <span>{{ .Date.Format "2006-01-02" }}</span>
+          <span>阅读约 {{ math.Round (div (countwords .Content) 300.0) }} 分钟</span>
+        </div>
+        <p class="article-excerpt">
+          {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}
+        </p>
+        <div class="article-tags">
+          {{ range .Params.tags }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
+          {{ end }}
+        </div>
+      </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

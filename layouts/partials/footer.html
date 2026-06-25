@@ -1,0 +1,10 @@
+<footer class="site-footer">
+  <div class="container">
+    <p>© {{ now.Year }} {{ .Site.Title }}. 内容仅供学习参考，不构成投资建议。</p>
+    <div class="footer-links">
+      <a href="{{ "/" | relURL }}">首页</a>
+      <a href="{{ "/posts/" | relURL }}">文章</a>
+      <a href="{{ "/index.xml" | relURL }}">RSS</a>
+    </div>
+  </div>
+</footer>
