@@ -2,7 +2,7 @@ baseURL = 'https://wum630029-cpu.github.io/'
 languageCode = 'zh-CN'
 defaultContentLanguage = 'zh'
 title = '链上指南'
-theme = ''
+theme = 'PaperMod'
 
 [params]
   author = '链上指南'
