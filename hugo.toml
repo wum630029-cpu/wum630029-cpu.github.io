@@ -56,4 +56,3 @@ theme = 'PaperMod'
   section = ['HTML', 'RSS']
   taxonomy = ['HTML']
   term = ['HTML']
-theme = "PaperMod"
