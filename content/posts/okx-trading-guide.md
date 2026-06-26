@@ -1,6 +1,6 @@
 ---
 title: 'OKX 交易指南：现货、合约与跟单交易详解'
-date: 2026-06-27T00:00:00+08:00
+date: 2026-06-26T00:00:00+08:00
 draft: false
 description: '欧易 OKX 交易完整教程，从现货交易到永续合约再到跟单交易，手把手教你使用 OKX 进行加密货币交易。'
 slug: 'okx-trading-guide'
