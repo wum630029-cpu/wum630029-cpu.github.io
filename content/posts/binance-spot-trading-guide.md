@@ -6,6 +6,7 @@ description: '币安现货交易完整指南，从限价单、市价单到止盈
 slug: 'binance-spot-trading-guide'
 tags: ['币安', 'Binance', '现货交易', '限价单', '市价单', '止盈止损', '交易教程']
 categories: ['交易指南']
+readingTime: 4
 ---
 
 完成币安注册和 KYC 认证后，下一步就是开始交易。对于新手来说，**现货交易（Spot Trading）** 是最基础也最安全的交易方式——你直接买入比特币、以太坊等加密资产，持有的就是真实资产，不存在杠杆爆仓风险。

@@ -6,6 +6,7 @@ description: '币安合约交易新手教程，从永续合约原理、杠杆倍
 slug: 'binance-futures-trading-guide'
 tags: ['币安', 'Binance', '合约交易', '永续合约', '杠杆', '期货', '交易教程']
 categories: ['交易指南']
+readingTime: 4
 ---
 
 现货交易学会之后，很多用户会想尝试**合约交易（Futures Trading）**。合约交易可以让你用较少的资金撬动更大头寸——方向判断对了，收益成倍放大；但也意味着方向错了，亏损也会加速。

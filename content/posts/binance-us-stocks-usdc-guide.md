@@ -6,6 +6,7 @@ description: '2026 年最新币安美股交易教程，教你用 USDC 在币安 
 slug: 'binance-us-stocks-usdc-guide'
 tags: ['币安美股', 'Bstocks', 'USDC', '美股', '买美股', '数字资产', '碎股', '投资教程', '2026']
 categories: ['美股教程']
+readingTime: 4
 ---
 
 想投资美股但不想开传统券商账户？2026 年币安通过 **Bstocks** 服务，让你可以直接用 **USDC** 购买苹果、特斯拉、英伟达等美股碎股和 ETF，而且支持 7×24 小时交易，最低 1 美元即可入场。

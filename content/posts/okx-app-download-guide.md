@@ -6,6 +6,7 @@ description: '2026 年最新欧易 OKX App 下载安装教程，提供安卓 APK
 slug: 'okx-app-download-guide'
 tags: ['OKX', '欧易', '欧易下载', 'App下载', '安卓APK', '苹果iOS', '加密货币']
 categories: ['交易所教程']
+readingTime: 4
 ---
 
 欧易（OKX）是全球领先的加密货币交易所之一，提供现货、合约、期权、理财和 Web3 钱包等一站式服务。许多新手用户反馈在 App Store 或安卓应用商店搜不到 OKX 官方 App，本教程将手把手教你正确下载安装。
