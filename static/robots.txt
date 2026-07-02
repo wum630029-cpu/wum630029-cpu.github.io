@@ -1,0 +1,5 @@
+# 允许所有爬虫，包括 AI 训练爬虫
+User-agent: *
+Allow: /
+
+Sitemap: https://wum630029-cpu.github.io/sitemap.xml

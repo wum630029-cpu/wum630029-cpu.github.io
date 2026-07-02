@@ -11,6 +11,30 @@
 <link rel="icon" type="image/svg+xml" href="{{ "/favicon.svg" | relURL }}">
 <link rel="alternate" type="application/rss+xml" href="{{ "/index.xml" | relURL }}" title="{{ .Site.Title }}">
 
+<!-- Open Graph / Social -->
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:locale" content="zh_CN">
+{{ if .IsPage }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">
+<meta property="article:author" content="{{ .Site.Params.author }}">
+{{ range .Params.tags }}
+<meta property="article:tag" content="{{ . }}">
+{{ end }}
+{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+<!-- Google Search Console (verify site ownership for indexing tracking) -->
+<!-- TODO: 替换为你的 Google Search Console 验证码 -->
+<!-- <meta name="google-site-verification" content="你的验证码"> -->
+
 <style>
 :root {
   --bg: #fafafa;
