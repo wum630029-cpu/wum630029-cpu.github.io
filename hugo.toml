@@ -53,7 +53,7 @@ theme = 'PaperMod'
   posts = '/:slug/'
 
 [outputs]
-  home = ['HTML', 'RSS']
+  home = ['HTML', 'RSS', 'SITEMAP']
   section = ['HTML', 'RSS']
   taxonomy = ['HTML']
   term = ['HTML']
