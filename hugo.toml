@@ -57,3 +57,11 @@ theme = 'PaperMod'
   section = ['HTML', 'RSS']
   taxonomy = ['HTML']
   term = ['HTML']
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+[minify]
+  disableXML = true
