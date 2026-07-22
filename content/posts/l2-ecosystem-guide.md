@@ -134,7 +134,9 @@ L2 最主流的技术路径是 **Rollup（卷叠）**——把大量交易打包
 
 1. **从 CEX 直接提币**（推荐给新用户）——币安、欧易等主流 CEX 都已支持 Arbitrum 网络的 USDT、USDC、ETH 和 ARB 直接提现。这是最方便、最适合新手的通道。
 
-   > 🟦 还没注册币安？[立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+   > 🟦 还没注册币安？邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+   > - 🇨🇳 中国区注册：[https://www.bsmkweb.cc/register?ref=GMVOGIBL](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
+   > - 🌐 国际注册：[https://accounts.binance.com/en/register?ref=GMVOGIBL](https://accounts.binance.com/en/register?ref=GMVOGIBL)
 
 2. **通过官方跨链桥（Arbitrum Bridge）**——从以太坊主网跨链到 Arbitrum，适合已经持有以太坊主网资产的用户
 3. **使用第三方跨链桥**——Across、Stargate、Hop 等支持快速跨链（几分钟内到账）
@@ -290,7 +292,9 @@ Base 的 OP Stack 持续优化，2026 年 Base 上的 Gas 费用通常在 $0.01 
 2. **从 Coinbase 无缝转入**——如果你是 Coinbase 用户，可以直接从 Coinbase 账户把资产转入 Base 钱包
 3. **通过第三方跨链桥**——来自 Arbitrum 或 Optimism 的资产可通过 Across 等桥快速转移
 
-> 🟦 注册币安：[https://www.bsmkweb.cc/register?ref=GMVOGIBL](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL** 享 20% 返佣）
+> 🟦 **注册币安**（邀请码 **GMVOGIBL** 享 20% 返佣）：
+> - 🇨🇳 中国区注册：[https://www.bsmkweb.cc/register?ref=GMVOGIBL](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
+> - 🌐 国际注册：[https://accounts.binance.com/en/register?ref=GMVOGIBL](https://accounts.binance.com/en/register?ref=GMVOGIBL)
 > 🟧 注册欧易：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ### 5.4 Base 的独特价值
