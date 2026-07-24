@@ -1,8 +1,7 @@
----
-title: '欧易 Web3 钱包：多链管理与 dApp 交互完整指南'
+---title: '欧易 Web3 钱包完整指南：多链资产管理、跨链转账与 DeFi/NFT dApp 交互教程'
 date: 2026-07-01T00:00:00+08:00
 draft: false
-description: '欧易 OKX Web3 钱包完整教程，从创建钱包、备份助记词到多链资产管理、跨链转账和 DeFi/NFT dApp 交互，手把手带你从 CEX 走向链上世界。'
+description: '从CEX到链上世界，欧易Web3钱包完整指南：学会多链资产管理、跨链转账及DeFi/NFT dApp交互，一站式掌握去中心化操作。'
 slug: 'okx-web3-wallet-guide'
 tags: ['OKX', '欧易', 'Web3钱包', 'DeFi', '跨链', '多链钱包', 'dApp']
 categories: ['欧易 OKX 全系列']

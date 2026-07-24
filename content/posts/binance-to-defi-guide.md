@@ -1,8 +1,7 @@
----
-title: '从币安走向链上：CEX 到 DeFi 的全流程路径'
+---title: '从币安走向链上世界：CEX 到 DeFi 的全流程实操路径与 MetaMask 钱包教程'
 date: 2026-07-17T00:00:00+08:00
 draft: false
-description: '从币安 CEX 走向链上 DeFi 的完整实操指南：MetaMask 钱包创建、币安提币到链上钱包、Gas 费详解、Uniswap 首次 Swap 交互、提供流动性与风险管理——一步步入链上世界。'
+description: '从币安走向链上完整实操指南手把手教你钱包创建与备份从币安提币到链上钱包费计算与优化技巧在完成首次代币交易提供流动性赚取手续费收益三十分钟带你掌握从中心化交易所迈向去中心化链上世界的完整路径'
 slug: 'binance-to-defi-guide'
 tags: ['币安', 'DeFi', '链上', 'MetaMask', '去中心化金融', 'Uniswap', '加密货币入门', 'CEX到DeFi', '区块链交互']
 categories: ['币安从入门到精通']

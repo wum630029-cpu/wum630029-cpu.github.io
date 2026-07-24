@@ -1,8 +1,7 @@
----
-title: '自行搭建区块链节点指南：从零运行以太坊、Solana 节点'
+---title: '自行搭建区块链节点指南：从零运行以太坊、Solana 节点'
 date: 2026-07-08T00:00:00+08:00
 draft: false
-description: '自行搭建区块链全节点的完整教程。涵盖以太坊、Solana 节点的安装配置，硬件要求对比，同步加速技巧以及运维监测方法。适合有一定 Linux 基础的用户。'
+description: '不想依赖Infura或Alchemy？本文教你从零搭建以太坊（执行层+共识层）和Solana全节点，涵盖硬件选型、安装配置、状态剪裁、同步加速与日常运维监控，让你真正掌控区块链数据。'
 slug: 'self-host-blockchain-node-guide'
 tags: ['区块链节点', '以太坊', 'Solana', '全节点', 'Linux', '运维', 'RPC', '节点搭建']
 categories: ['链上操作实战指南']

@@ -1,8 +1,7 @@
----
-title: '币安 Web3 钱包完整指南：创建、跨链交互与 DApp 使用教程'
+---title: '币安 Web3 钱包完整指南：创建、跨链交互与 DApp 使用教程'
 date: 2026-06-28T00:00:00+08:00
 draft: false
-description: '币安 Web3 钱包（Binance Web3 Wallet）保姆级教程，从创建钱包、备份助记词到跨链转账、交互 DApp，一篇讲透所有操作。适合从 CEX 走向 DeFi 的进阶用户。'
+description: '币安 Web3 钱包完整教程，手把手教你创建钱包、备份助记词、跨链转账和交互 DApp，从 CEX 用户无缝过渡到 DeFi 世界，一站式掌握链上操作全流程。'
 slug: 'binance-web3-wallet-guide'
 tags: ['币安', 'Binance', 'Web3钱包', 'DeFi', '跨链', '加密货币钱包', '新手进阶']
 categories: ['币安从入门到精通']

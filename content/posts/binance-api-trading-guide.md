@@ -1,8 +1,7 @@
----
-title: '币安 API 量化交易入门：Python 自动化交易基础教程'
+---title: '币安 API 量化交易入门：Python 自动化交易基础教程'
 date: 2026-07-05T00:00:00+08:00
 draft: false
-description: '币安 API 量化交易完整入门指南，用 Python 从零搭建自动化交易系统。包含 API 申请、环境搭建、行情获取、下单执行和风险管理基础策略。'
+description: '零基础学币安 API 量化交易！用 Python 自动化下单、获取行情、搭建策略，告别手动盯盘，开启你的程序化交易之路。'
 slug: 'binance-api-trading-guide'
 tags: ['币安', 'Binance', 'API', '量化交易', 'Python', '自动化交易', '交易机器人']
 categories: ['交易策略']

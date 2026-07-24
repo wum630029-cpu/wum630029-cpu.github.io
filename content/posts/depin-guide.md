@@ -1,8 +1,7 @@
----
-title: 'DePIN 去中心化物理基础设施网络：让普通人也能参与建设 Web3 基础设施'
+---title: 'DePIN 去中心化物理基础设施网络：让普通人也能参与建设 Web3 基础设施'
 date: 2026-07-16T00:00:00+08:00
 draft: false
-description: 'DePIN（去中心化物理基础设施网络）深度指南：从 Helium、Filecoin、Render Network 等核心项目出发，解析 DePIN 的运行机制、经济模型、投资逻辑与参与方式，助你把握 Web3 基础设施赛道的新机遇。'
+description: 'DePIN 去中心化物理基础设施网络让普通人贡献路由器、硬盘、GPU 即可参与建设，揭秘代币激励、经济模型与投资逻辑，把握 Web3 基建赛道新机遇。'
 slug: 'depin-guide'
 tags: ['DePIN', '去中心化基础设施', 'Helium', 'Filecoin', 'Render Network', 'Web3', '物联网', '分布式网络', '加密投资', '区块链']
 categories: ['Web3 概念与生态']

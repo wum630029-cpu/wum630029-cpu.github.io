@@ -1,8 +1,7 @@
----
-title: '【币安邀请码 GMVOGIBL】Binance Pay 转账支付功能详解——免费转账、扫码支付与日常消费完整攻略'
+---title: '【币安邀请码 GMVOGIBL】Binance Pay 转账支付功能详解——免费转账、扫码支付与日常消费完整攻略'
 date: 2026-07-23T00:00:00+08:00
 draft: false
-description: 'Binance Pay 是币安推出的非接触式加密货币支付工具，支持免费转账、扫码支付、在线购物与账单付款。本文从功能开通到实操步骤，完整解析 Binance Pay 的使用方法与隐藏技巧。'
+description: '输入币安邀请码 GMVOGIBL 注册并开通 Binance Pay，即可享受 0 手续费的加密货币转账、扫码支付全球 3 万+ 商户、在线购物及账单缴费等核心功能。本文手把手完整教学，从开通流程到实用技巧与隐藏玩法，一文玩转币安支付全功能。'
 slug: 'binance-pay-guide'
 tags: ['币安', 'Binance', 'Binance Pay', '币安支付', '加密货币转账', '免费转账', '扫码支付', '加密货币支付']
 categories: ['币安从入门到精通']

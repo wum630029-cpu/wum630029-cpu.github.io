@@ -1,8 +1,7 @@
----
-title: '周末也能炒美股？币安 Bstocks 保姆级实操指南（2026）'
+---title: '周末也能炒美股？币安 Bstocks 保姆级实操指南（2026）'
 date: 2026-06-28T00:00:00+08:00
 draft: false
-description: '币安 Bstocks 是什么？如何用 USDC 在币安交易美股？一篇搞懂 Binance Bstocks 的操作流程、交易时间和注意事项。周末也能炒美股的全新方式。'
+description: '币安 Bstocks 保姆级实操指南：用 USDC 一周 7 天、每天 24 小时交易美股，无需传统券商账户。从开户到第一笔交易，手把手教你周末也能轻松炒美股。'
 slug: 'binance-bstocks-guide'
 tags: ['币安', 'Bstocks', '美股', 'Binance', 'USDC', '加密货币', '币安美股']
 categories: ['币安美股与全球投资']

@@ -1,8 +1,7 @@
----
-title: '欧易 Jumpstart 打新指南：如何参与优质项目抢购'
+---title: '欧易 Jumpstart 打新指南：如何参与优质项目抢购'
 date: 2026-07-02T00:00:00+08:00
 draft: false
-description: 'OKX Jumpstart 是欧易的新币发行平台。本文从参与方式、质押规则到项目评估和抢购技巧，完整覆盖 Jumpstart 打新的全流程操作，帮你不错过每一个优质项目。'
+description: '想参与优质新币发行？这篇欧易 Jumpstart 打新指南详解从参与方式、质押规则到项目评估和抢购技巧的完整流程，手把手教你掌握 OKX Jumpstart 打新操作，抓住每一轮抢购机遇。'
 slug: 'okx-jumpstart-guide'
 tags: ['OKX', '欧易', 'Jumpstart', '打新', '新币挖矿', 'OKB', '加密货币']
 categories: ['欧易 OKX 全系列']

@@ -1,8 +1,7 @@
----
-title: '流动性质押（Liquid Staking）完全指南：Lido、Rocket Pool 与 EtherFi 实操详解'
+---title: '流动性质押（Liquid Staking）完全指南：Lido、Rocket Pool 与 EtherFi 实操详解及收益对比'
 date: 2026-07-24T00:00:00+08:00
 draft: false
-description: '流动性质押是 DeFi 生态最重要的基础设施之一。本文详细讲解 LSD 的工作原理、三大主流协议（Lido、Rocket Pool、EtherFi）的操作流程、收益率对比以及流动性衍生品管理策略，帮你安全高效地参与 ETH 质押。'
+description: '全面解析流动性质押（LSD）运作原理，深入对比Lido、Rocket Pool与EtherFi三大主流协议的质押流程、费用与年化收益，详解stETH等流动性衍生品在DeFi中的组合管理策略，助你安全质押ETH并释放资产流动性获取双重收益，附交易所购买ETH指南。'
 slug: 'liquid-staking-guide'
 tags: ['DeFi', '流动性质押', 'LSD', 'Lido', 'Rocket Pool', 'EtherFi', 'stETH', 'ETH质押', 'EigenLayer', '再质押', '加密货币', '以太坊']
 categories: ['DeFi 深度指南']

@@ -1,8 +1,7 @@
----
-title: '以太坊完全指南：从智能合约到 Layer 2，一文读懂加密世界最大生态'
+---title: '以太坊完全指南：从智能合约到 Layer 2，一文读懂加密世界最大生态'
 date: 2026-06-30T00:00:00+08:00
 draft: false
-description: '以太坊是仅次于比特币的全球第二大区块链，更是整个 DeFi、NFT、Web3 生态的基石。本文从智能合约、EVM、Gas 机制到 Layer 2 扩容，系统梳理以太坊的核心技术与生态全景。'
+description: '从智能合约到 Layer 2 扩容，以太坊凭什么成为 DeFi、NFT 与 Web3 的底层基石？一文为你拆解 EVM、Gas 机制等核心技术，系统梳理这个全球最大智能合约生态的完整图景。'
 slug: 'what-is-ethereum'
 tags: ['以太坊', 'Ethereum', '智能合约', 'EVM', 'Layer2', 'Web3', '加密货币']
 categories: ['新手入门']

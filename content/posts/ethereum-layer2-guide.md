@@ -1,8 +1,7 @@
----
-title: '以太坊 Layer 2 生态指南：Arbitrum、Optimism、Base、zkSync 使用详解'
+---title: '以太坊 Layer 2 生态指南：Arbitrum、Optimism、Base、zkSync 使用与跨链桥操作详解'
 date: 2026-07-11T00:00:00+08:00
 draft: false
-description: '以太坊 Layer 2 完全入门教程：什么是 L2、Arbitrum／Optimism／Base／zkSync 四大主流 L2 的区别、跨链桥操作、网络切换、Gas 对比、生态项目与安全须知。一文搞懂以太坊扩容生态。'
+description: '以太坊 Layer 2 生态指南：对比 Arbitrum、Optimism、Base、zkSync 四大主流方案，详解跨链桥操作、网络切换与 Gas 费用，盘点热门生态项目与安全须知，助你告别高昂手续费，轻松掌握 L2 扩容网络。'
 slug: 'ethereum-layer2-guide'
 tags: ['以太坊', 'Ethereum', 'Layer2', 'Arbitrum', 'Optimism', 'Base', 'zkSync', 'OP', 'ARB', '扩容', '跨链', '链上操作']
 categories: ['链上操作实战指南']

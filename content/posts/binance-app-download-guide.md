@@ -1,8 +1,7 @@
----
-title: '币安 App 下载安装完整教程：安卓 APK / 苹果 iOS 官方渠道'
+---title: '币安 App 下载安装完整教程：安卓 APK / 苹果 iOS 官方渠道'
 date: 2026-06-26T00:00:00+08:00
 draft: false
-description: '2026 年最新币安 App 下载安装教程，提供安卓 APK 下载和苹果 iOS 安装方法。支持中文设置，教你如何避免下载到山寨 App。'
+description: '2026年最新币安App下载安装教程，提供安卓APK和苹果iOS官方渠道，教你识别真假币安避免下载山寨App，支持中文设置与指纹支付，安全交易首选。'
 slug: 'binance-app-download-guide'
 tags: ['币安', 'Binance', '币安下载', 'App下载', '安卓APK', '苹果iOS', '加密货币']
 categories: ['交易所教程']

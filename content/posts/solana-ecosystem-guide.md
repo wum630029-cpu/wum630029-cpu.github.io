@@ -1,5 +1,4 @@
----
-title: 'Solana 生态入门：高速链上的 DeFi、NFT 与实操指南'
+---title: 'Solana 生态入门指南：高速区块链上的 DeFi、DePIN、NFT 生态与实操教程'
 date: 2026-07-20T00:00:00+08:00
 draft: false
 description: 'Solana 生态完整入门教程：从 Solana 与以太坊的核心差异讲起，手把手教你创建 Phantom 钱包、从 CEX 充值 SOL、使用 Jupiter 兑换代币、体验 Raydium 与 Meteora 等主流 DeFi 协议，以及 Solana 生态全景速览——让你一小时掌握这条高速公链的核心玩法。'

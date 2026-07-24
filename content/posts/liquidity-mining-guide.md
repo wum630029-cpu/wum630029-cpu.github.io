@@ -1,8 +1,7 @@
----
-title: '流动性挖矿实战：Uniswap 与 Curve 做市策略详解'
+---title: '流动性挖矿实战指南：Uniswap V3 集中流动性与 Curve 做市策略详解'
 date: 2026-07-19T00:00:00+08:00
 draft: false
-description: '流动性挖矿（Yield Farming）完整实操教程：从 AMM 做市商原理到 Uniswap V3 集中流动性、Curve 稳定币池做市、无常损失计算与对冲、LP 代币质押挖矿——手把手教你成为 DeFi 做市商。'
+description: '从AMM原理出发，手把手教你Uniswap V3集中流动性与Curve稳定币池做市策略，涵盖无常损失计算与对冲、LP代币质押挖矿，助你成为DeFi做市高手。'
 slug: 'liquidity-mining-guide'
 tags: ['Uniswap', 'Curve', '流动性挖矿', 'DeFi', 'AMM', '做市商', '无常损失', 'Yield Farming', '以太坊', '加密货币']
 categories: ['DeFi 去中心化金融深度指南']

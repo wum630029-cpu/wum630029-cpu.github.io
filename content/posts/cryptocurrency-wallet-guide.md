@@ -1,8 +1,7 @@
----
-title: '加密货币钱包选择指南：冷钱包 vs 热钱包 vs 交易所'
+---title: '加密货币钱包选择指南：冷钱包 vs 热钱包 vs 交易所'
 date: 2026-06-27T00:00:00+08:00
 draft: false
-description: '加密货币钱包全面对比：冷钱包（硬件钱包）、热钱包（软件钱包）和交易所钱包的区别、安全性分析。不同资产规模如何选择最适合自己的存储方案，助记词备份的正确方法。'
+description: '还在把加密资产放交易所？冷钱包、热钱包、交易所钱包安全性深度对比。从FTX暴雷教训到"Not your keys, not your coins"核心理念，不同资产规模的最佳存储方案与助记词备份指南。'
 slug: 'cryptocurrency-wallet-guide'
 tags: ['加密货币钱包', '冷钱包', '热钱包', '硬件钱包', 'Ledger', 'MetaMask', 'Trust Wallet', '新手教程']
 categories: ['新手入门']

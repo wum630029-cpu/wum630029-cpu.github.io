@@ -1,8 +1,7 @@
----
-title: 'MetaMask 钱包创建与使用完全指南：从安装到链上交互'
+---title: 'MetaMask 钱包创建与使用完全指南：从安装到链上交互'
 date: 2026-07-02T00:00:00+08:00
 draft: false
-description: 'MetaMask 是最流行的自托管加密钱包，也是进入 Web3 世界的必备工具。本文从下载安装、创建钱包、安全备份到添加网络、交互 DApp，手把手带你完成所有操作。'
+description: 'MetaMask 钱包创建与使用完全指南，从下载安装、安全备份到连接 DApp 交互 DeFi，手把手带你从零掌握 Web3 钱包操作，轻松进入链上世界。'
 slug: 'metamask-guide'
 tags: ['MetaMask', '加密货币钱包', 'Web3', 'DeFi', '以太坊', '智能合约', 'DApp']
 categories: ['链上操作实战指南']

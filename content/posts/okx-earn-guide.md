@@ -1,8 +1,7 @@
----
-title: 'OKX 赚币攻略：Staking、赚币宝与双币投资完整指南'
+---title: 'OKX 赚币攻略：Staking、赚币宝与双币投资完整指南'
 date: 2026-07-01T00:00:00+08:00
 draft: false
-description: 'OKX 赚币（OKX Earn）完整实操指南，从链上 Staking、赚币宝到双币投资，手把手教你用闲置加密货币在欧易获取被动收益。附三大理财产品收益对比与资金配置建议。'
+description: 'OKX 赚币完整实操攻略！手把手教你玩转链上 Staking、赚币宝与双币投资，让闲置 USDT 和各币种轻松获取 5-15% 被动年化收益。附三大产品收益对比与资金配置策略，零基础也能上手。'
 slug: 'okx-earn-guide'
 tags: ['OKX', '欧易', '赚币', 'Staking', '双币投资', '赚币宝', '被动收益', '加密货币理财']
 categories: ['欧易 OKX 全系列']

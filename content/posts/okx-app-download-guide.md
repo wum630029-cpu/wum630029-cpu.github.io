@@ -1,8 +1,7 @@
----
-title: '欧易 App 下载与安装教程：安卓 / 苹果最新渠道'
+---title: '欧易 App 下载与安装教程：安卓 / 苹果最新渠道'
 date: 2026-06-26T00:00:00+08:00
 draft: false
-description: '2026 年最新欧易 OKX App 下载安装教程，提供安卓 APK 下载、苹果 iOS 安装方法及苹果商店切换地区指南。'
+description: '苹果App Store搜不到OKX？2026最新欧易App下载安装教程！提供官方安卓APK下载包、苹果iOS正确安装方法、Apple ID切换地区到香港的完整指南，手把手教你搞定OKX下载难题。'
 slug: 'okx-app-download-guide'
 tags: ['OKX', '欧易', '欧易下载', 'App下载', '安卓APK', '苹果iOS', '加密货币']
 categories: ['交易所教程']

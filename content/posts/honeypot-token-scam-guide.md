@@ -1,8 +1,7 @@
----
-title: '链上安全：如何识别和防范蜜罐地址与貔貅币'
+---title: '链上安全：如何识别和防范蜜罐地址与貔貅币'
 date: 2026-07-14T00:00:00+08:00
 draft: false
-description: '完整指南：什么是蜜罐代币和貔貅币、常见貔貅币诈骗模式（只能买不能卖、高买税、貔貅合约）、Token Sniffer 和 Honeypot 检测工具使用教学、链上溯源分析方法、避免踩坑的实操 CheckList。'
+description: '在DexScreener看到百倍币激动买入，盈利3倍却发现卖不掉？这就是貔貅币——只进不出的蜜罐骗局。本文教你用Token Sniffer检测+链上溯源+实操CheckList，从此避开蜜罐陷阱。'
 slug: 'honeypot-token-scam-guide'
 tags: ['链上安全', '蜜罐地址', '貔貅币', 'Honeypot', '防骗', '代币安全', '智能合约', 'Web3安全', 'Token Sniffer', '貔貅盘']
 categories: ['链上操作实战指南']

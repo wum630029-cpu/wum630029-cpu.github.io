@@ -1,8 +1,7 @@
----
-title: 'DeFi 流动性挖矿与收益农场完全指南：从 LP 到无常损失，一文讲透'
+---title: 'DeFi 流动性挖矿与收益农场完全指南：从 LP 到无常损失，一文讲透'
 date: 2026-06-30T00:00:00+08:00
 draft: false
-description: '流动性挖矿（Yield Farming）是 DeFi 世界的核心玩法之一。本文从 AMM 基本原理讲起，覆盖 LP 代币、无常损失、收益来源分析、风险控制策略，帮你系统掌握 DeFi 收益农场的完整知识体系。'
+description: '2025 年 DeFi TVL 已突破 2000 亿美元，流动性挖矿正成为链上最热门的被动收益方式。本文从 AMM 自动做市商原理到 LP 代币运作机制，从无常损失计算到多策略风险对冲，系统拆解收益农场的完整知识体系与实战风控策略。'
 slug: 'defi-liquidity-farming-guide'
 tags: ['DeFi', '流动性挖矿', '收益农场', 'AMM', '无常损失', 'LP代币', '去中心化金融']
 categories: ['DeFi 指南']

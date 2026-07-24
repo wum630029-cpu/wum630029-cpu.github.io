@@ -1,8 +1,7 @@
----
-title: '链上资产管理工具：DeBank、Zapper、Zerion 一站式看板指南'
+---title: '链上资产管理工具指南：DeBank、Zapper、Zerion 一站式看板对比与使用教程'
 date: 2026-07-12T00:00:00+08:00
 draft: false
-description: '全面指南：什么是链上资产管理工具、DeBank vs Zapper vs Zerion 三大平台对比、如何追踪多链资产查看 DeFi 头寸与 LP 收益、Gas 监控、钱包安全评估与常用进阶功能。一文掌握链上资产全景视图。'
+description: '钱包里资产分散在多个L2和DeFi协议？一文对比DeBank、Zapper、Zerion三大链上资产管理工具，一站式追踪多链资产、DeFi头寸与LP收益，查Gas和安全评估一应俱全。'
 slug: 'onchain-asset-management-tools'
 tags: ['链上工具', 'DeBank', 'Zapper', 'Zerion', '资产管理', '链上操作', 'DeFi', '多链钱包', '投资组合', 'Web3']
 categories: ['链上操作实战指南']

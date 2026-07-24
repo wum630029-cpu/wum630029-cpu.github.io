@@ -1,8 +1,7 @@
----
-title: '比特币 Layer 2 与新生态入门指南：Ordinals、Runes、BTC 质押与比特币 DeFi 全解'
+---title: '比特币 Layer 2 与新生态入门指南：Ordinals、Runes、BTC 质押与比特币 DeFi 全解'
 date: 2026-07-06T00:00:00+08:00
 draft: false
-description: '2026 年比特币生态正在经历前所未有的变革。从 Ordinals 协议引爆的铭文热潮，到 Runes 协议代币化、Babylon BTC 质押再到比特币 L2 百花齐放——本文一站式带你理解比特币新生态的全貌、核心协议、投资机会与风险。'
+description: '比特币的进化远超想象！从 Ordinals 铭文引爆的资产发行革命，到 Runes 代币协议、Babylon 比特币质押，再到数十条 Layer 2 主网上线——比特币正从单一储值资产蜕变为完整的 DeFi 金融生态。本文一站式梳理比特币新生态全貌、核心协议与投资机会。'
 slug: 'bitcoin-layer2-ecosystem-guide'
 tags: ['比特币', 'Bitcoin', 'Layer2', 'Ordinals', 'Runes', 'BRC-20', 'BTC质押', 'Babylon', 'Stacks', '比特币生态', '链上操作']
 categories: ['链上操作实战指南']

@@ -1,8 +1,7 @@
----
-title: '币安美股交易新手教程 2026：用 USDC 买美股完整指南'
+---title: '币安美股交易新手教程 2026：用 USDC 买美股完整指南'
 date: 2026-06-25T00:00:00+08:00
 draft: false
-description: '2026 年最新币安美股交易教程，教你用 USDC 在币安 Bstocks 购买美股碎股与 ETF，从开户、入金到下单全流程。'
+description: '2026 年最新币安美股交易教程，手把手教你用 USDC 在 Bstocks 购买苹果、特斯拉等美股碎股及 ETF，7x24 小时交易，1 美元起投，从开户到下单全流程详解。'
 slug: 'binance-us-stocks-usdc-guide'
 tags: ['币安美股', 'Bstocks', 'USDC', '美股', '买美股', '数字资产', '碎股', '投资教程', '2026']
 categories: ['美股教程']

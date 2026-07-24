@@ -1,5 +1,4 @@
----
-title: 'L2 生态全景指南：Arbitrum、Optimism、Base 与 zkSync 操作入门'
+---title: 'L2 生态全景指南：Arbitrum、Optimism、Base 与 zkSync 操作入门及跨链桥教程'
 date: 2026-07-22T00:00:00+08:00
 draft: false
 description: 'Layer 2 生态完整入门教程：从 Rollup 技术原理到四大主流 L2 的操作实战。涵盖 Arbitrum、Optimism、Base、zkSync 的生态对比、钱包配置、跨链桥使用、DeFi 协议实操——让你一小时掌握 L2 世界的核心玩法。'

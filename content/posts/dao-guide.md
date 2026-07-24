@@ -1,8 +1,7 @@
----
-title: '去中心化自治组织（DAO）入门指南：从概念到参与'
+---title: '去中心化自治组织（DAO）入门指南：从概念到参与'
 date: 2026-07-09T00:00:00+08:00
 draft: false
-description: '2026 年最新 DAO 入门教程，通俗讲解什么是去中心化自治组织、DAO 的运作机制、知名 DAO 案例，以及如何参与 DAO 治理并获得收入。'
+description: '零基础入门DAO（去中心化自治组织）！本文用大白话讲透DAO运作机制与优势，盘点Compound、Uniswap等知名DAO案例及治理模式。从加入社区到投票治理，手把手教你参与DAO治理投票赚取被动收入，一文快速融入Web3去中心化组织协作新范式。'
 slug: 'dao-guide'
 tags: ['DAO', '去中心化自治组织', 'Web3', '治理', '区块链', '加密货币', 'DAO工具']
 categories: ['Web3 科普']

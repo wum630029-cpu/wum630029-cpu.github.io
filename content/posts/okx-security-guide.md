@@ -1,8 +1,7 @@
----
-title: 'OKX 账户安全设置指南：2FA、反钓鱼码与资产保护全攻略'
+---title: 'OKX 账户安全设置指南：2FA、反钓鱼码与资产保护全攻略'
 date: 2026-07-16T00:00:00+08:00
 draft: false
-description: '欧易 OKX 账户安全设置完整指南，从 Google 2FA 双因素认证、防钓鱼码、提现白名单到 API 安全管理，花 15 分钟打造固若金汤的交易所账户安全体系。'
+description: 'OKX 账户安全设置全攻略：从 Google 2FA 双因素认证、反钓鱼码到提现白名单与 API 安全管理，15 分钟搞定全套防护，远离资产被盗风险。'
 slug: 'okx-security-guide'
 tags: ['OKX', '欧易', '账户安全', '2FA', '双因素认证', '防钓鱼码', '安全设置', '资产保护']
 categories: ['欧易 OKX 全系列']

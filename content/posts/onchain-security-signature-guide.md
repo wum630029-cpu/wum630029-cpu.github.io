@@ -1,8 +1,7 @@
----
-title: '链上安全：签名授权与智能合约交互防骗指南'
+---title: '链上安全：签名授权与智能合约交互防骗指南'
 date: 2026-07-10T00:00:00+08:00
 draft: false
-description: '链上交互中最危险的几种操作：代币授权（Approve）、盲目签名、Permit 钓鱼、SetApprovalForAll。详细拆解每种攻击手法的原理和防骗措施，附安全交互 Checklist。'
+description: '链上安全防骗必读！揭秘Approve授权、Permit钓鱼、盲目签名等链上攻击手法，2025年仅授权钓鱼就造成8亿美元损失。附安全交互Checklist，学会识别每一笔签名的真实风险。'
 slug: 'onchain-security-signature-guide'
 tags: ['链上安全', '智能合约', '签名授权', '代币授权', '区块链安全', 'Web3', '防钓鱼', '钱包安全']
 categories: ['链上操作实战指南']

@@ -1,8 +1,7 @@
----
-title: '币安理财全攻略：存币生息、双币投资与 Launchpad'
+---title: '币安理财全攻略：存币生息、双币投资与 Launchpad'
 date: 2026-06-28T00:00:00+08:00
 draft: false
-description: '币安理财（Binance Earn）完整实操指南，从存币生息到双币投资再到 Launchpad 打新，手把手教你用闲置加密货币获取被动收益。附三大理财产品横向对比与资金配置策略。'
+description: '币安理财全攻略：灵活存币享2-5%年化、双币投资赚10-30%收益、Launchpad打新翻倍回报。不看K线不用预测，手把手教你搭配三大产品实现稳定被动收益。'
 slug: 'binance-earn-guide'
 tags: ['币安', 'Binance', '币安理财', '存币生息', '双币投资', 'Launchpad', '被动收益', '加密货币理财']
 categories: ['币安从入门到精通']

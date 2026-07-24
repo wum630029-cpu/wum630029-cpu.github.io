@@ -1,8 +1,7 @@
----
-title: 'DEX 去中心化交易所使用指南：Uniswap、PancakeSwap 操作详解'
+---title: 'DEX 去中心化交易所完整使用指南：Uniswap 与 PancakeSwap 操作详解及连接钱包教程'
 date: 2026-07-07T00:00:00+08:00
 draft: false
-description: 'DEX 去中心化交易所完整使用教程：什么是 DEX、Uniswap 和 PancakeSwap 的操作步骤、连接钱包、Swap 交易、滑点设置、添加流动性、常见风险与注意事项。从 CEX 到 DEX 的全面指南。'
+description: '在币安买了USDT却卡在钱包里？从CEX到DEX完整实操指南：手把手教你连接MetaMask，在Uniswap和PancakeSwap进行Swap兑换、设置滑点、添加流动性。掌握去中心化交易所操作，从交易所用户真正踏入Web3链上世界。'
 slug: 'dex-decentralized-exchange-guide'
 tags: ['DEX', '去中心化交易所', 'Uniswap', 'PancakeSwap', 'DeFi', 'AMM', '去中心化金融', '链上交易', '加密货币']
 categories: ['链上操作实战指南']
