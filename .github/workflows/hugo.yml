@@ -53,3 +53,50 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Notify IndexNow - 即时通知搜索引擎
+        run: |
+          KEY="7275888e4b33465699b61524ef72d30a"
+          SITE="wum630029-cpu.github.io"
+          SITEMAP_URL="${SITE}/sitemap.xml"
+
+          echo "📡 从 sitemap 获取所有 URL..."
+          # 从 sitemap.xml 提取所有 URL
+          URLS=$(curl -sL "https://${SITEMAP_URL}" | grep -oP '<loc>\K[^<]+' || true)
+
+          if [ -z "$URLS" ]; then
+            echo "⚠️ 未获取到 URL，跳过 IndexNow 提交"
+            exit 0
+          fi
+
+          COUNT=$(echo "$URLS" | wc -l)
+          echo "🔗 共 $COUNT 个 URL，提交到 IndexNow..."
+
+          # 分批提交（IndexNow 单次最多 10,000 条）
+          echo "$URLS" | xargs -I{} echo "{}" | while read -r url; do
+            echo "   → $url"
+          done
+
+          # 将 URL 列表转为 JSON 数组并提交
+          URL_LIST=$(echo "$URLS" | jq -R . | jq -s .)
+          PAYLOAD=$(jq -n \
+            --arg host "$SITE" \
+            --arg key "$KEY" \
+            --argjson urls "$URL_LIST" \
+            '{host: $host, key: $key, keyLocation: ("https://" + $host + "/" + $key + ".txt"), urlList: $urls}'
+          )
+
+          HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST "https://api.indexnow.org/IndexNow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d "$PAYLOAD")
+
+          echo "📋 IndexNow 响应: HTTP $HTTP_CODE"
+          if [ "$HTTP_CODE" = "200" ]; then
+            echo "✅ IndexNow 提交成功！$COUNT 个 URL 已通知搜索引擎"
+          else
+            echo "⚠️ IndexNow 返回 $HTTP_CODE，查看错误..."
+            curl -s -X POST "https://api.indexnow.org/IndexNow" \
+              -H "Content-Type: application/json; charset=utf-8" \
+              -d "$PAYLOAD"
+          fi
