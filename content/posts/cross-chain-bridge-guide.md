@@ -1,7 +1,7 @@
----title: '跨链桥与多链生态操作指南：如何在公链之间自由转移资产'
+---title: '跨链桥与多链生态操作指南：如何在公链之间自由转移资产，安全使用 Wormhole 等桥'
 date: 2026-07-02T00:00:00+08:00
 draft: false
-description: '一文精通跨链桥操作！从跨链原理到主流桥教程、费用深度对比与安全风险全解析。2026年每日超30亿美元跨链转账必备技能，学会在以太坊、BNB Chain、Arbitrum、Base等公链间自由转移资产。'
+description: '一文精通跨链桥的完整操作与安全知识！从跨链桥的锁定铸造与销毁解锁核心原理到 Wormhole 等主流桥使用教程，以及不同桥的费用深度对比与跨链安全风险全解析。2026 年每日超 30 亿美元跨链转账的必备技能，学会在以太坊、BNB Chain、Arbitrum、Base 等公链之间自由转移数字资产。'
 slug: 'cross-chain-bridge-guide'
 tags: ['跨链桥', '跨链', '多链', 'Arbitrum', 'Optimism', 'Base', 'BNB Chain', 'Layer2']
 categories: ['链上操作实战指南']

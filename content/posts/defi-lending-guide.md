@@ -1,7 +1,7 @@
----title: 'DeFi 借贷协议完全指南：从 Aave 到 Compound，一文搞懂链上存贷'
+---title: 'DeFi 借贷协议完全指南：从 Aave 到 Compound，一文搞懂链上存贷及收益策略'
 date: 2026-06-30T00:00:00+08:00
 draft: false
-description: 'Aave和Compound哪个更强？一文吃透DeFi借贷协议：从超额抵押到利率模型，从清算规则到闪电贷实战，系统对比两大协议收益策略与风控要点，链上存贷看这篇就够了。'
+description: 'Aave 与 Compound 两大 DeFi 借贷协议到底哪个更适合你？一文吃透链上去中心化借贷的完整知识体系：从超额抵押机制与清算触发原理到浮动利率与稳定利率模型选择，从清算规则比较到闪电贷无抵押套利实战，系统全面对比两大协议的核心差异与优劣、存款收益策略与风险管理要点，链上存贷理财看这篇完整指南就够了。'
 slug: 'defi-lending-guide'
 tags: ['DeFi', '借贷协议', 'Aave', 'Compound', '去中心化金融', '闪电贷', '清算', '利率']
 categories: ['DeFi 指南']

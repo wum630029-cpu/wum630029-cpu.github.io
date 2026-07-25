@@ -1,7 +1,7 @@
 ---title: 'ENS 域名服务完全指南：如何注册与管理 .eth 域名，打造你的 Web3 链上身份'
 date: 2026-07-13T00:00:00+08:00
 draft: false
-description: '从0x地址到yourname.eth，ENS域名让链上身份变得简单。本文详解.eth域名注册、子域名管理与Gas优化技巧，一站式打造你的Web3身份。'
+description: '从 0x 开头长长一串的钱包地址到 yourname.eth 个性化域名，ENS 以太坊域名服务让链上身份变得前所未有的简单易用与个性化。本文详解 .eth 域名注册购买完整流程、反向解析让地址显示为域名、子域名批量管理与 Gas 费优化节省技巧及续费策略，一站式手把手教你打造属于自己的 Web3 链上身份。'
 slug: 'ens-domain-guide'
 tags: ['ENS', '以太坊域名', '域名服务', '.eth', 'Web3', '链上操作', '以太坊', '链上身份']
 categories: ['链上操作实战指南']

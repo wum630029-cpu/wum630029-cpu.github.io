@@ -1,7 +1,7 @@
----title: '加密货币质押（Staking）完全指南：ETH 质押、流动性质押与再质押全解析'
+---title: '加密货币质押（Staking）完全指南：ETH 质押、流动性质押与再质押全解析，获取被动收益'
 date: 2026-06-30T00:00:00+08:00
 draft: false
-description: '从 PoS 原理到 ETH 质押、流动性质押（LSD）与再质押（Restaking）全解析。一文看懂 2026 年加密货币 Staking 完整知识图谱与实操策略，帮你选出最适合的链上被动收益方式。'
+description: '从 PoS 权益证明共识机制的核心原理到 ETH 以太坊质押运行验证者节点获取年化收益、Lido 等 LSD 协议释放流动性获取双重收益、再到 EigenLayer 再质押进一步放大资本效率。一文看懂 2026 年加密货币 Staking 质押的完整知识图谱与实操策略，帮你选出最适合自己资产规模的链上被动稳定收益方式。'
 slug: 'crypto-staking-guide'
 tags: ['质押', 'Staking', 'ETH', 'Lido', '流动性质押', 'LSD', 'Restaking', '加密货币', '以太坊', 'EigenLayer']
 categories: ['新手入门']

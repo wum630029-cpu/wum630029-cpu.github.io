@@ -7,7 +7,7 @@ theme = 'PaperMod'
 [params]
   env = 'production'
   author = '链上指南'
-  description = '专注加密货币交易所注册、入金、交易与避坑的中文指南站。'
+  description = '专注加密货币入门教程：交易所注册、KYC认证、安全交易、链上操作与避坑一站式指南（2026）'
   keywords = ['加密货币', '币圈', 'OKX', '币安', '注册教程', '比特币', '以太坊']
   avatar = '/avatar.svg'
 
