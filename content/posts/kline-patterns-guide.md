@@ -19,7 +19,7 @@ K 线形态（Candlestick Patterns）是技术分析最基础、最直观的语�
 >
 > 本文是「交易技巧实战全系列」的第一篇，下一篇推荐学习 [均线系统实战](/technical-analysis-basics/)。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -327,7 +327,7 @@ K 线形态（Candlestick Patterns）是技术分析最基础、最直观的语�
 
 > 📌 **下一站推荐：** 学完 K 线形态后，建议继续学习 [均线系统实战](/technical-analysis-basics/) 和 [MACD 与 RSI 指标实战](/macd-rsi-practical-guide/)，将 K 线形态与指标结合使用，构建完整的交易分析体系。
 >
-> 🟦 如果你还没有交易账户，[币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+> 🟦 如果你还没有交易账户：🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
 
 📌 **更多学习资源**
 想了解更多加密货币知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯。
