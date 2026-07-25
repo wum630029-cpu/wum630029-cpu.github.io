@@ -1,5 +1,5 @@
 baseURL = 'https://wum630029-cpu.github.io/'
-languageCode = 'zh-CN'
+locale = 'zh-CN'
 defaultContentLanguage = 'zh'
 title = '链上指南'
 theme = 'PaperMod'
@@ -7,7 +7,7 @@ theme = 'PaperMod'
 [params]
   env = 'production'
   author = '链上指南'
-  description = '专注加密货币入门教程：交易所注册、KYC认证、安全交易、链上操作与避坑一站式指南（2026）'
+  description = '链上指南是专注加密货币与Web3入门的中文教程站点，提供交易所注册、KYC认证、安全设置、入金出金及避坑指南，帮助新手安全进入区块链世界。'
   keywords = ['加密货币', '币圈', 'OKX', '币安', '注册教程', '比特币', '以太坊']
   avatar = '/avatar.svg'
 

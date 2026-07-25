@@ -1,41 +1,130 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+{{- $title := "" -}}
+{{- $desc := "" -}}
+{{- $canonical := .Permalink -}}
+
+{{- if .IsHome -}}
+  {{- $title = printf "%s - 加密货币与Web3入门教程站" .Site.Title -}}
+  {{- $desc = "链上指南是专注加密货币与Web3入门的中文教程站点，提供交易所注册、KYC认证、安全设置、入金出金及避坑指南，帮助新手安全进入区块链世界。" -}}
+{{- else if eq .Kind "taxonomy" -}}
+  {{- if eq .Data.Plural "tags" -}}
+    {{- $title = printf "所有标签 - 加密货币入门教程分类导航 | %s" .Site.Title -}}
+    {{- $desc = "浏览链上指南的所有文章标签，快速找到你感兴趣的加密货币、交易所教程、DeFi指南、Web3科普等主题内容。" -}}
+  {{- else if eq .Data.Plural "categories" -}}
+    {{- $title = printf "所有分类 - 加密货币教程文章目录 | %s" .Site.Title -}}
+    {{- $desc = "链上指南的文章分类目录，涵盖新手入门、交易所教程、DeFi指南、交易策略、资产安全等多个加密货币学习主题。" -}}
+  {{- else -}}
+    {{- $title = printf "%s | %s" .Title .Site.Title -}}
+    {{- $desc = or .Description .Site.Params.description -}}
+  {{- end -}}
+{{- else if eq .Kind "term" -}}
+  {{- if eq .Data.Plural "tags" -}}
+    {{- $title = printf "%s标签 - 加密货币%s相关教程与文章 | %s" .Title .Title .Site.Title -}}
+    {{- $desc = printf "浏览链上指南中所有与%s相关的加密货币入门教程、Web3实操指南和安全建议，帮助新手快速掌握区块链知识。" .Title -}}
+  {{- else if eq .Data.Plural "categories" -}}
+    {{- $title = printf "%s - 加密货币%s教程与实操指南 | %s" .Title .Title .Site.Title -}}
+    {{- $desc = printf "链上指南%s分类下的所有加密货币入门教程、实操指南和安全建议，帮助新手安全进入Web3世界。" .Title -}}
+  {{- else -}}
+    {{- $title = printf "%s | %s" .Title .Site.Title -}}
+    {{- $desc = or .Description .Site.Params.description -}}
+  {{- end -}}
+{{- else if eq .Kind "section" -}}
+  {{- if eq .Section "posts" -}}
+    {{- $title = printf "最新文章 - 加密货币入门教程与Web3指南 | %s" .Site.Title -}}
+    {{- $desc = "链上指南最新发布的加密货币入门教程、交易所操作指南、DeFi实操教程和Web3安全建议，帮助新手从零开始安全进入区块链世界。" -}}
+  {{- else -}}
+    {{- $title = printf "%s | %s" .Title .Site.Title -}}
+    {{- $desc = or .Description .Site.Params.description -}}
+  {{- end -}}
+{{- else if eq .Kind "404" -}}
+  {{- $title = printf "页面未找到 | %s" .Site.Title -}}
+  {{- $desc = "抱歉，您访问的页面不存在。返回链上指南首页，浏览更多加密货币入门教程和Web3实操指南。" -}}
+{{- else -}}
+  {{- $title = printf "%s | %s" .Title .Site.Title -}}
+  {{- $desc = or .Description .Site.Params.description -}}
+{{- end -}}
+
+<!-- 长度保护：title ≤ 60 字符，description ≤ 155 字符（中文用 substr 按字符截断） -->
+{{- if gt (len $title) 60 -}}
+  {{- $title = printf "%s..." (substr $title 0 57) -}}
+{{- end -}}
+{{- if gt (len $desc) 155 -}}
+  {{- $desc = printf "%s..." (substr $desc 0 152) -}}
+{{- end -}}
+
+<meta name="description" content="{{ $desc }}">
 <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit . "," }}{{ else }}{{ delimit .Site.Params.keywords "," }}{{ end }}">
 <meta name="author" content="{{ .Site.Params.author }}">
 <meta name="theme-color" content="#0f172a">
 
-<title>{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<title>{{ $title }}</title>
 
-<link rel="canonical" href="{{ .Permalink }}">
+<link rel="canonical" href="{{ $canonical }}">
 <link rel="icon" type="image/svg+xml" href="{{ "/favicon.svg" | relURL }}">
 <link rel="alternate" type="application/rss+xml" href="{{ "/index.xml" | relURL }}" title="{{ .Site.Title }}">
 
 <!-- Open Graph / Social -->
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ $canonical }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:locale" content="zh_CN">
-{{ if .IsPage }}
+{{- if .IsPage -}}
 <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">
 <meta property="article:author" content="{{ .Site.Params.author }}">
-{{ range .Params.tags }}
+{{- range .Params.tags -}}
 <meta property="article:tag" content="{{ . }}">
-{{ end }}
-{{ end }}
+{{- end -}}
+{{- end -}}
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
 
 <!-- Google Search Console -->
 <meta name="google-site-verification" content="google829f9bbc362f0400.html">
 
 <!-- IndexNow - 即时通知搜索引擎内容更新 -->
 <meta name="indexnow" content="7275888e4b33465699b61524ef72d30a">
+
+<!-- JSON-LD Structured Data -->
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ $desc }}"
+}
+</script>
+{{- else if eq .Kind "term" -}}
+{{- if eq .Data.Plural "tags" -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ $title }}",
+  "url": "{{ $canonical }}",
+  "description": "{{ $desc }}"
+}
+</script>
+{{- else if eq .Data.Plural "categories" -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ $title }}",
+  "url": "{{ $canonical }}",
+  "description": "{{ $desc }}"
+}
+</script>
+{{- end -}}
+{{- end -}}
 
 <style>
 :root {

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wum630029-cpu.github.io/sitemap.xml
