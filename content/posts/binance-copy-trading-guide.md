@@ -19,6 +19,10 @@ readingTime: 8
 >
 > 👉 [立即注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
 
+> 🟧 同时也欢迎使用 **OKX 欧易** 跟单功能，注册填写邀请码 **60895497** 可享手续费返佣。
+>
+> 👉 [立即注册欧易](https://www.promooboost.com/join/60895497)
+
 ---
 
 ## 一、什么是跟单交易？适合谁？
