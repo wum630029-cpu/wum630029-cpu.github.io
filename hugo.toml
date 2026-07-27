@@ -1,4 +1,4 @@
-baseURL = 'https://wum630029-cpu.github.io/'
+baseURL = 'https://你的域名/'  # 改成你的实际域名
 locale = 'zh-CN'
 defaultContentLanguage = 'zh'
 title = '链上指南'
@@ -9,7 +9,9 @@ theme = 'PaperMod'
   author = '链上指南'
   description = '链上指南是专注加密货币与Web3入门的中文教程站点，提供交易所注册、KYC认证、安全设置、入金出金及避坑指南，帮助新手安全进入区块链世界。'
   keywords = ['加密货币', '币圈', 'OKX', '币安', '注册教程', '比特币', '以太坊']
-  avatar = '/avatar.svg'
+  avatar = '/logo.png'
+  label.icon = '/logo.png'
+  label.iconHeight = 30
 
 [menu]
   [[menu.main]]
@@ -32,6 +34,12 @@ theme = 'PaperMod'
 [taxonomies]
   tag = 'tags'
   category = 'categories'
+
+[params.assets]
+  favicon = '/logo.png'
+  favicon16x16 = '/logo.png'
+  favicon32x32 = '/logo.png'
+  apple_touch_icon = '/logo.png'
 
 [markup]
   [markup.goldmark]
