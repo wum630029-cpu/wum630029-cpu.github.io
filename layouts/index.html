@@ -1,22 +1,18 @@
 {{ define "main" }}
-<section class="hero">
+<section class="hero hero-cover">
+  <div class="hero-bg"></div>
   <div class="container">
     <h1>{{ .Site.Title }}<br><span>币圈新手的入门灯塔</span></h1>
     <p>{{ .Site.Params.description }}</p>
-    <div class="hero-badges">
-      <span class="badge">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-        实时教程
-      </span>
-      <span class="badge">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
-        避坑指南
-      </span>
-      <span class="badge">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"></path></svg>
-        交易所攻略
-      </span>
+    <div class="hero-features">
+      <span class="hero-feature">🏛️ 交易所注册</span>
+      <span class="hero-feature">🛡️ KYC认证</span>
+      <span class="hero-feature">🔒 安全设置</span>
+      <span class="hero-feature">💰 入金出金</span>
+      <span class="hero-feature">🧭 避坑指南</span>
+      <span class="hero-feature">🌐 Web3</span>
     </div>
+    <a href="/posts/" class="btn btn-primary">🚀 开始学习</a>
   </div>
 </section>
 

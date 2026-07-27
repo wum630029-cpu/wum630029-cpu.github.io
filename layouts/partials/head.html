@@ -348,6 +348,105 @@ img {
   height: 14px;
 }
 
+/* Hero Cover */
+.hero-cover {
+  position: relative;
+  overflow: hidden;
+  padding: 100px 0 80px;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+}
+
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(10, 10, 30, 0.55) 0%,
+      rgba(10, 10, 30, 0.35) 50%,
+      rgba(10, 10, 30, 0.55) 100%
+    ),
+    url('/hero-bg.webp') center / cover no-repeat;
+}
+
+[data-theme="dark"] .hero-bg {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(0, 0, 0, 0.70) 0%,
+      rgba(0, 0, 0, 0.50) 50%,
+      rgba(0, 0, 0, 0.70) 100%
+    ),
+    url('/hero-bg.webp') center / cover no-repeat;
+}
+
+.hero-cover .container {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-cover h1 {
+  color: #fff;
+}
+
+.hero-cover h1 span {
+  background: linear-gradient(135deg, #a5b4fc, #67e8f9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-cover p {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1.15rem;
+  max-width: 560px;
+  margin: 0 auto 28px;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.15);
+}
+
+.hero-features {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 32px;
+}
+
+.hero-feature {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 7px 16px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.20);
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+[data-theme="dark"] .hero-feature {
+  background: rgba(255, 255, 255, 0.10);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+.hero-cover .btn-primary {
+  background: linear-gradient(135deg, #6366f1, #818cf8);
+  color: #fff;
+  box-shadow: 0 4px 20px 0 rgba(99, 102, 241, 0.45);
+  font-size: 1.05rem;
+  padding: 16px 36px;
+}
+
+.hero-cover .btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px 0 rgba(99, 102, 241, 0.55);
+}
+
 /* Main content */
 main {
   flex: 1;
@@ -684,6 +783,24 @@ main {
 
   .hero {
     padding: 56px 0 40px;
+  }
+
+  .hero-cover {
+    padding: 64px 0 56px;
+  }
+
+  .hero-features {
+    gap: 8px;
+  }
+
+  .hero-feature {
+    font-size: 0.8rem;
+    padding: 5px 12px;
+  }
+
+  .hero-cover .btn-primary {
+    padding: 14px 28px;
+    font-size: 0.95rem;
   }
 
   .article-card {
