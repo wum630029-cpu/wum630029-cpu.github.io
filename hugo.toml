@@ -1,4 +1,4 @@
-baseURL = 'https://你的域名/'  # 改成你的实际域名
+baseURL = 'https://coinvado.net/'
 locale = 'zh-CN'
 defaultContentLanguage = 'zh'
 title = '链上指南'
