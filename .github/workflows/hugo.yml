@@ -59,7 +59,7 @@ jobs:
       - name: Notify IndexNow - 即时通知搜索引擎
         run: |
           KEY="7275888e4b33465699b61524ef72d30a"
-          SITE="wum630029-cpu.github.io"
+          SITE="coinvado.net"
           SITEMAP_URL="${SITE}/sitemap.xml"
 
           echo "📡 从 sitemap 获取所有 URL..."
