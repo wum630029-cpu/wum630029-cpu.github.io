@@ -47,10 +47,10 @@
 {{- end -}}
 
 <!-- 长度保护：title ≤ 60 字符，description ≤ 155 字符（中文用 substr 按字符截断） -->
-{{- if gt (len $title) 60 -}}
+{{- if gt (strings.RuneCount $title) 60 -}}
   {{- $title = printf "%s..." (substr $title 0 57) -}}
 {{- end -}}
-{{- if gt (len $desc) 155 -}}
+{{- if gt (strings.RuneCount $desc) 155 -}}
   {{- $desc = printf "%s..." (substr $desc 0 152) -}}
 {{- end -}}
 
