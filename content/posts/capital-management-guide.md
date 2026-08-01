@@ -11,7 +11,7 @@ readingTime: 8
 
 > **你有没有遇到过这种账户：BTC、ETH、SOL 各买了一点，自认为「分散持仓」很安全；结果一次宏观利空，三只币一起跳水 20%，账户单日回撤接近两成——不是没分散，而是全把钱押在了同一条船上。**
 
-资金管理（Money Management）是交易系统里最容易被忽视、却最决定生死的一环。绝大多数交易者把注意力花在「信号准不准」上，把「每笔风险 1%」挂在嘴边，却几乎没人回答一个更关键的问题：**整个账户同时暴露了多少风险？**[Bloomberg Crypto](https://www.bloomberg.com/crypto) 在对职业交易员与爆仓账户的对比研究中反复提到：同样一个「1% 单笔风险」的规则，执行良好的账户和爆仓的账户，差别往往不在单笔，而在**账户整体的敞口结构**。
+资金管理（Money Management）是交易系统里最容易被忽视、却最决定生死的一环。绝大多数交易者把注意力花在「信号准不准」上，把「每笔风险 1%」挂在嘴边，却几乎没人回答一个更关键的问题：**整个账户同时暴露了多少风险？** 发表于 [Financial Markets and Portfolio Management](https://link.springer.com/article/10.1007/s11408-025-00485-6) 的一项针对约 2 万名散户投资者组合的行为归因研究显示：**持仓集中与频繁交易会显著放大亏损**——亏损者与盈利者的差距，往往不在选标的，而在账户整体的敞口结构与资金管理。
 
 本文从账户整体的资金管理讲起，系统覆盖：
 - 单笔风险 vs 总敞口：为什么总敞口才是账户的生死线
@@ -104,7 +104,7 @@ readingTime: 8
 3. **跨时间**：分批入场，避免所有仓位在同一价位、同一事件点暴露
 4. **跨风险层级**：高风险高波动仓位占比小，低风险仓位占比大
 
-[Messari Research](https://messari.io/research/research-and-protocols) 在 2026 年的一季度报告中测算了主流币种的相关系数：**BTC 与 ETH 的 90 日相关系数长期在 0.8 以上，主流山寨与 BTC 的相关性同样普遍高于 0.7**——这意味着在风险建模时，把「BTC 仓位 + ETH 仓位」当成两个独立风险源，是严重高估了自己账户的分散度。
+[Macroaxis](https://www.macroaxis.com/invest/pair-correlation/ETH.CC/BTC.CC/Ethereum-vs-Bitcoin) 等行情数据平台基于历史收益的测算显示：**ETH 与 BTC 的 90 日相关性约 0.81，属于「强正相关」**——市值最大的两个加密资产，收益走势几乎同步。在风险建模时，把「BTC 仓位 + ETH 仓位」当成两个独立风险源，等于严重高估了自己账户的分散度。
 
 > 📌 实操示例：2026 年某次宏观利空，BTC 单日 -12%，ETH 随之下跌约 -18%，多数山寨 -25% 以上。一个「持仓 BTC、ETH、SOL、ARB 各 25%」的账户当日回撤约 20%；而一个「60% 现金 + 30% 稳定币理财 + 10% BTC 现货」的账户，当日回撤不足 2%。**真正的分散在极端行情里能救命的不是币种数量，而是资产类别之间的低相关性。**
 
@@ -142,7 +142,7 @@ readingTime: 8
 
 ### 5.2 重大事件前减仓
 
-FOMC 议息、CPI 公布、减半前后等宏观事件窗口，插针与跳空风险显著放大（插针与清算的应对详见本站 [合约交易风险控制指南](/futures-risk-management-guide/)）。[Federal Reserve](https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm) 在 2026 年的多份金融稳定报告反复提示：**宏观不确定性上升时，家庭与个体投资者的过度杠杆和集中持仓，是放大市场波动冲击的典型因素**。事件公布前把总敞口临时砍半，是低成本高价值的保险。
+FOMC 议息、CPI 公布、减半前后等宏观事件窗口，插针与跳空风险显著放大（插针与清算的应对详见本站 [合约交易风险控制指南](/futures-risk-management-guide/)）。[Federal Reserve](https://www.federalreserve.gov/publications/2026-may-financial-stability-report-overview.htm) 在 2026 年 5 月发布的《金融稳定报告》中提示：**杠杆与集中持仓仍是放大金融波动的脆弱性来源**——对冲基金杠杆率接近历史高位，且高度集中于少数大型基金。事件公布前把总敞口临时砍半，是低成本高价值的保险。
 
 ### 5.3 连亏降仓 + 盈利再平衡
 
@@ -227,4 +227,4 @@ FOMC 议息、CPI 公布、减半前后等宏观事件窗口，插针与跳空�
 
 *免责声明：本文仅为交易知识分享，不构成任何投资建议。加密货币市场波动剧烈，交易存在较大亏损风险，请务必根据自身风险承受能力谨慎参与。*
 
-*参考资料：[Federal Reserve 金融稳定报告](https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm)、[Bloomberg Crypto 交易员访谈报道](https://www.bloomberg.com/crypto)、[Messari The Crypto Theses 2026 及 Q1 加密市场研究报告](https://messari.io/research/research-and-protocols)*
+*参考资料：[Federal Reserve 2026 年 5 月金融稳定报告](https://www.federalreserve.gov/publications/2026-may-financial-stability-report-overview.htm)、[Springer：Behavioral performance attribution of retail investors' portfolio returns](https://link.springer.com/article/10.1007/s11408-025-00485-6)、[Macroaxis：Ethereum vs Bitcoin 相关性数据](https://www.macroaxis.com/invest/pair-correlation/ETH.CC/BTC.CC/Ethereum-vs-Bitcoin)*
