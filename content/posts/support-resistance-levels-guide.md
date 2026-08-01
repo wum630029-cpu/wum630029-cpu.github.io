@@ -221,6 +221,6 @@ ETH 跌破 3000 的支撑后，每当价格反弹到 2950-3020 区域，都出�
 4. 🎯 **支撑阻力角色互换**——突破后阻力变支撑，跌破后支撑变阻力
 5. 🎯 **多时间框架共振**——大周期定方向，小周期定入场，三者共振最可靠
 
-**下一步学习建议：** 学完支撑阻力判断之后，建议继续学习 [均线系统实战](/moving-average-strategy-guide/)——将均线的动态支撑和本文的静态支撑结合起来，构建更完整的分析框架。
+**下一步学习建议：** 学完水平支撑阻力之后，建议继续学习 [支撑阻力位与斐波那契回撤线](/support-resistance-fibonacci-guide/)——用斐波那契回撤定位更精细的关键位；再将均线的动态支撑和本文的静态支撑结合，参考 [均线系统实战](/moving-average-strategy-guide/) 构建更完整的分析框架。
 
 > 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**

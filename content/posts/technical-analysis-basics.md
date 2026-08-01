@@ -1,4 +1,4 @@
----title: '技术分析入门教程：K 线图、MA 均线、RSI、MACD、布林带与成交量指标详解，看懂行情'
+---title: '技术分析入门完整教程：K线图、MA均线、RSI、MACD、布林带与成交量指标详解，看懂行情'
 date: 2026-07-15T00:00:00+08:00
 draft: false
 description: '零基础也能轻松学会的技术分析入门完整教程！从 K 线图单根与组合形态原理到 MA 移动平均线金叉死叉判断趋势方向、RSI 超买超卖识别价格反转时机、MACD 柱状线与信号线交叉分析用法以及布林带与成交量等核心指标用法，手把手教你读懂图表信息、识别买卖信号，完整建立起属于自己的技术分析框架与交易系统。'
@@ -407,6 +407,19 @@ OBV 是成交量的累计指标：价格上涨日 +当日成交量，价格下�
 - **TradingView** ——专业图表工具，支持自定义指标和策略回测
 - **CoinGecko / CoinMarketCap**——查看历史数据和成交量
 - 建议用 **TradingView 的 Paper Trading 功能**进行模拟交易练习
+
+### 进阶阅读：把每个指标学透
+
+本文是技术分析的地基。想针对某个工具深入，建议按需学习本站专篇：
+
+- [K 线形态识别完整教程](/kline-patterns-guide/) —— 13 种经典 K 线组合形态识别
+- [均线系统实战指南](/moving-average-strategy-guide/) —— MA5/MA20/MA60/EMA 多周期组合
+- [MACD 与 RSI 指标实战指南](/macd-rsi-practical-guide/) 与 [RSI 与 MACD 背离实战](/rsi-macd-practical-guide/)
+- [布林带实战：开口收口与买卖时机](/bollinger-bands-guide/)
+- [成交量分析实战指南](/volume-analysis-guide/)
+- [支撑阻力位判断完整实战教程](/support-resistance-levels-guide/) 与 [斐波那契回撤线](/support-resistance-fibonacci-guide/)
+
+将这些专篇逐一看完，你就从「看懂行情」进阶到「系统交易」。
 
 ### 风险提示
 

@@ -1,4 +1,4 @@
----title: 'L2 生态全景指南：Arbitrum、Optimism、Base 与 zkSync 操作入门及跨链桥教程'
+---title: 'L2 生态全景入门指南：Arbitrum、Optimism、Base 与 zkSync 操作教程'
 date: 2026-07-22T00:00:00+08:00
 draft: false
 description: 'Layer 2 生态完整入门教程：从 Rollup 技术原理与分类到 Arbitrum、Optimism、Base、zkSync 四大主流 L2 的实际操作与体验。涵盖各生态对比、钱包配置、跨链桥使用及 L2 上 DeFi 协议实操体验，手把手让你一小时快速掌握 L2 世界的核心玩法与操作实操技能。'
@@ -538,7 +538,7 @@ zkSync 使用 Matter Labs 自研的证明生成器 BOOM，证明速度和成本�
 
 L2 的世界并不复杂——本质上就是把以太坊主网的操作以更低的费用、更快的速度完成。**选定一条链开始操作，先做一次 Swap，你就已经走进了 L2 的世界。**
 
-> 💡 **后续可以阅读**：本站的 [Solana 生态入门](/solana-ecosystem-guide/) 了解非 EVM 公链的另一个极速世界，或阅读 [跨链桥与多链生态操作指南](/cross-chain-bridge-guide/) 深入学习链间资产转移。
+> 💡 **后续可以阅读**：本站的 [Solana 生态入门](/solana-ecosystem-guide/) 了解非 EVM 公链的另一个极速世界，或阅读 [跨链桥与多链生态操作指南](/cross-chain-bridge-guide/) 深入学习链间资产转移。若你想聚焦以太坊 L2 的跨链桥实操与钱包配置，可看 [以太坊 Layer 2 指南：跨链桥操作详解](/ethereum-layer2-guide/)。
 
 ---
 
