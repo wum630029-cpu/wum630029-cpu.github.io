@@ -279,11 +279,11 @@ readingTime: 6
 
 做完以上步骤，你已经完成了从法币到加密资产的关键一步。接下来你可以探索：
 
-- [币安定投策略](https://wum630029-cpu.github.io/binance-dca-guide/) — 定期买入，摊平成本，适合长期持有者
-- [币安理财指南](https://wum630029-cpu.github.io/binance-earn-guide/) — 闲置资产生息，年化 3-10%
-- [币安 Web3 钱包](https://wum630029-cpu.github.io/binance-web3-wallet-guide/) — 开始探索去中心化世界
-- [币安合约交易入门](https://wum630029-cpu.github.io/binance-futures-trading-guide/) — 等熟练现货后再学习
-- [加密货币钱包入门](https://wum630029-cpu.github.io/cryptocurrency-wallet-guide/) — 学习如何安全存储数字资产
+- [币安定投策略](/binance-dca-guide/) — 定期买入，摊平成本，适合长期持有者
+- [币安理财指南](/binance-earn-guide/) — 闲置资产生息，年化 3-10%
+- [币安 Web3 钱包](/binance-web3-wallet-guide/) — 开始探索去中心化世界
+- [币安合约交易入门](/binance-futures-trading-guide/) — 等熟练现货后再学习
+- [加密货币钱包入门](/cryptocurrency-wallet-guide/) — 学习如何安全存储数字资产
 
 ---
 

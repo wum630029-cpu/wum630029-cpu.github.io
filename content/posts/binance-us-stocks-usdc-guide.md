@@ -45,7 +45,7 @@ readingTime: 4
 3. 完成 KYC 身份认证（建议高级认证）
 4. 绑定谷歌验证器和资金密码，确保账户安全
 
-> 详细的注册、KYC 和安全设置步骤，可以参考我写的《[2026 币安注册完整指南](https://wum630029-cpu.github.io/binance-register-guide/)》。
+> 详细的注册、KYC 和安全设置步骤，可以参考我写的《[2026 币安注册完整指南](/binance-register-guide/)》。
 
 ## 三、购买 USDC 作为交易资金
 

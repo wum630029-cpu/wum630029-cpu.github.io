@@ -67,7 +67,7 @@ Binance Pay 集成在币安 App 内，不需要额外下载任何 App。
 | VIP 1-3 | 300,000 USDT | 1,500,000 USDT | 3,000,000 USDT |
 | VIP 4-9 | 500,000 USDT | 2,500,000 USDT | 5,000,000 USDT |
 
-> ⚠️ **注意：使用 Binance Pay 必须先完成 KYC 认证（基础认证以上）。** 如果你还没有完成 KYC，请先参考 [币安注册教程](https://wum630029-cpu.github.io/binance-register-guide/) 完成实名认证。
+> ⚠️ **注意：使用 Binance Pay 必须先完成 KYC 认证（基础认证以上）。** 如果你还没有完成 KYC，请先参考 [币安注册教程](/binance-register-guide/) 完成实名认证。
 
 ## 三、用 Binance Pay 转账和收款
 
@@ -149,7 +149,7 @@ Binance Pay 除了转账和消费，还能作为出金通道：
 2. 选择「卖币」→ 选择 P2P 或直接入金到银行卡
 3. 售出后的法币将直接转入你的绑定银行账户
 
-> 具体 P2P 操作可参考 [币安 C2C 交易指南](https://wum630029-cpu.github.io/binance-c2c-guide/)。
+> 具体 P2P 操作可参考 [币安 C2C 交易指南](/binance-c2c-guide/)。
 
 ### 2️⃣ 多人和团体收款
 
@@ -171,7 +171,7 @@ Binance Pay 支持 **自动兑换**：
 部分场景下，你可以将 Binance Pay 绑定到币安 Visa 卡（Binance Card）：
 - 通过 Binance Pay 充值到 Binance Card
 - 使用 Binance Card 在实体店刷卡消费
-- 适用于 [币安卡](https://wum630029-cpu.github.io/binance-card-guide/) 已覆盖的区域
+- 适用于 [币安卡](/binance-card-guide/) 已覆盖的区域
 
 ## 六、Binance Pay 安全指南
 
@@ -233,7 +233,7 @@ A：可以。如果你输入的收款人手机号/邮箱尚未注册币安，对
 A：正常个人转账不会。但短时间内频繁大额转账（尤其是新账户）可能触发安全风控，需进行人脸验证。
 
 **Q：Binance Pay 和 Binance P2P 有什么区别？**
-A：Binance P2P 是点对点法币交易市场（买卖 U/卖 U 换人民币）；Binance Pay 是加密货币转账支付工具。具体 P2P 操作见 [币安 P2P 防骗指南](https://wum630029-cpu.github.io/binance-p2p-security-guide/)。
+A：Binance P2P 是点对点法币交易市场（买卖 U/卖 U 换人民币）；Binance Pay 是加密货币转账支付工具。具体 P2P 操作见 [币安 P2P 防骗指南](/binance-p2p-security-guide/)。
 
 **Q：已发送的 Binance Pay 转账可以撤回吗？**
 A：不可以。Binance Pay 转账一旦确认即完成，无法取消或撤回。**转账前务必仔细核对收款人信息。**

@@ -83,7 +83,7 @@ DEX 是 DeFi 最基础也最常用的应用，允许用户直接交换代币，*
 | 加密抵押 | DAI | 超额抵押 ETH 等 | 去中心化但需超额抵押 |
 | 算法稳定币 | FRAX | 部分抵押+算法 | 曾经 UST 因此崩盘 |
 
-**DAI**是最值得关注的去中心化稳定币——由 MakerDAO 协议发行，通过超额抵押 ETH 等加密资产生成，完全链上运行。详细可看之前的文章《[USDT、USDC 与 DAI：三大稳定币全方位对比解析](https://wum630029-cpu.github.io/stablecoin-comparison-guide/)》。
+**DAI**是最值得关注的去中心化稳定币——由 MakerDAO 协议发行，通过超额抵押 ETH 等加密资产生成，完全链上运行。详细可看之前的文章《[USDT、USDC 与 DAI：三大稳定币全方位对比解析](/stablecoin-comparison-guide/)》。
 
 ### 5. 跨链桥与聚合器
 

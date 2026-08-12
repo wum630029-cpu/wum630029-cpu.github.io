@@ -52,7 +52,7 @@ Bstocks 是币安推出的**代币化美股产品**。简单来说，就是把�
 - 在币安 C2C 用人民币购买 USDT，然后在现货市场将 USDT 兑换为 USDC
 - 或者直接从外部钱包转入 USDC
 
-> 详细入金教程参考《[币安 C2C 交易指南](https://wum630029-cpu.github.io/binance-c2c-guide/)》。
+> 详细入金教程参考《[币安 C2C 交易指南](/binance-c2c-guide/)》。
 
 ### 第 2 步：找到 Bstocks 入口
 

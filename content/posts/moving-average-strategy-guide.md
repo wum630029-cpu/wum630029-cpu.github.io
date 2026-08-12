@@ -309,4 +309,4 @@ SMA 和 EMA 之间的选择本质上是**速度与稳定性**的权衡：
 > 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 >
-> 📎 本文是「交易技巧实战全系列」模块一技术分析基础的第三篇文章。更多交易技巧请访问 [链上指南](https://wum630029-cpu.github.io/) 和 [CoinVado](https://coinvado.com/zh/)。
+> 📎 本文是「交易技巧实战全系列」模块一技术分析基础的第三篇文章。更多交易技巧请访问 [链上指南](/) 和 [CoinVado](https://coinvado.com/zh/)。
