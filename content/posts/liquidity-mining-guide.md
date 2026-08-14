@@ -665,3 +665,5 @@ Convex  ┌─┴──┐
 ---
 
 *下一篇 DeFi 系列预告：流动性质押（Liquid Staking）指南——Lido、Rocket Pool 与 EtherFi，敬请关注。*
+
+🔗 **延伸阅读**：[流动性挖矿](https://coinvado.com/posts/defi-liquidity-pool-impermanent-loss-guide-2026/) —— CoinVado 更完整版本，建议收藏。

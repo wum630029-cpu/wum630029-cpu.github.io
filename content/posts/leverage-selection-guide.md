@@ -266,3 +266,5 @@ FOMC 决议、CPI 公布这类宏观事件，价格往往先剧烈波动、再�
 *免责声明：本文仅为交易知识分享，不构成任何投资建议。合约交易杠杆风险极高，可能损失全部本金，请务必根据自身风险承受能力谨慎参与。*
 
 *参考资料：[Federal Reserve 货币政策声明](https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm)、[Bloomberg Crypto 衍生品清算报道](https://www.bloomberg.com/crypto)、[Messari The Crypto Theses 2026 及 Q2 衍生品市场报告](https://messari.io/research/research-and-protocols)*
+
+🔗 **延伸阅读**：[合约杠杆选择](https://coinvado.com/posts/binance-futures-trading-guide-2026/) —— CoinVado 更完整版本，建议收藏。

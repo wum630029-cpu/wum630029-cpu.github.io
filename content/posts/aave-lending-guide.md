@@ -508,3 +508,5 @@ Aave V3 的新功能：**如果你存入和借出的是高度相关的资产（�
 ---
 
 *下一篇 DeFi 系列预告：流动性挖矿实战——Uniswap 与 Curve 做市策略详解，敬请关注。*
+
+🔗 **延伸阅读**：[Aave 借贷教程](https://coinvado.com/posts/aave-lending-borrowing-guide-2026/) —— CoinVado 更完整版本，建议收藏。

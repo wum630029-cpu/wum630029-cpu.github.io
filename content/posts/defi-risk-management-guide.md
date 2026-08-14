@@ -364,3 +364,5 @@ DeFi 的风险很多，但这恰恰也是它的魅力所在——**当你真正�
 - [《Aave 借贷协议实操：存入与借出资产全流程指南》](/aave-lending-guide/) — 学习如何在主流借贷协议中操作
 - [《流动性挖矿实战：Uniswap 与 Curve 做市策略详解》](/liquidity-mining-guide/) — 了解 LP 做市的具体操作
 - [《加密货币钱包选择指南：冷钱包 vs 热钱包 vs 交易所》](/cryptocurrency-wallet-guide/) — 选择一个安全的钱包
+
+🔗 **延伸阅读**：[DeFi 风险管理](https://coinvado.com/posts/defi-complete-guide-2026-beginner-to-advanced/) —— CoinVado 更完整版本，建议收藏。

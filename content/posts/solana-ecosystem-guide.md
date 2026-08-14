@@ -450,5 +450,6 @@ Solana 提供了一种与以太坊完全不同的区块链体验——**低费�
 
 > 🌐 **学习建议：** 先花 1-2 天用少量资金（0.5-1 SOL）熟悉基本操作，感受 Solana 的速度和低费用，再根据自己的兴趣深入研究 DeFi、DePIN 或 NFT 赛道。
 
+> 🔗 **延伸阅读**：[Solana 生态](https://coinvado.com/posts/eth-vs-sol-layer1-comparison-2026/) —— CoinVado 更完整版本，建议收藏。
 > 📌 **更多学习资源**
 > 想了解更多加密货币知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

@@ -24,6 +24,9 @@ readingTime: 4
 - **可 1:1 兑换真实股票**：部分标的支持兑换为底层真实股票
 - **操作简单**：全部在币安 App 内完成
 
+
+🔗 **延伸阅读**：[币安 USDC 买美股](https://coinvado.com/posts/binance-us-stock-trading-usdc-guide-kyc-dividend-2026/) —— CoinVado 更完整版本，建议收藏。
+
 <div class="callout callout-info">
 <div class="callout-title">ℹ️ 适用说明</div>
 <p>Bstocks 服务目前仅对部分国家和地区的用户开放，且需要完成币安 KYC 身份认证。注册时请留意 App 内是否显示「Bstocks」或「股票」入口。</p>
