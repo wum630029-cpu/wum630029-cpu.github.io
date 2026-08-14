@@ -133,8 +133,7 @@ FTX 的教训不远：中心化平台把"别人的资产"和"自己的资产负�
 - [极端行情生存指南：插针、黑天鹅与清算连锁反应应对](/extreme-market-survival-guide/)
 
 ### 📌 更多学习资源
-
-想了解更多加密货币与链上投资知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[股票代币五大风险](https://coinvado.com/posts/binance-us-stock-trading-usdc-guide-kyc-dividend-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
@@ -149,5 +148,3 @@ FTX 的教训不远：中心化平台把"别人的资产"和"自己的资产负�
 - [OneKey 博客：币安推出代币化证券 bStocks 的链上敞口分析](https://onekey.so/blog/zh-HK/ecosystem/binance-launches-tokenized-securities-bstocks-bringing-24-7-us-equity-exposure-on-chain-20260611225948/)
 - [Morgan Lewis：SEC Clarifies Federal Securities Law Treatment of Tokenized Securities](https://www.morganlewis.com/pubs/2026/02/sec-clarifies-federal-securities-law-treatment-of-tokenized-securities)
 - [CNBC：Crypto exchange Binance stops selling digital versions of stocks like Tesla and Apple as regulators circle](https://www.cnbc.com/2021/07/16/crypto-exchange-binance-halts-stock-tokens-as-regulators-circle.html)
-
-🔗 **延伸阅读**：[股票代币五大风险](https://coinvado.com/posts/binance-us-stock-trading-usdc-guide-kyc-dividend-2026/) —— CoinVado 更完整版本，建议收藏。

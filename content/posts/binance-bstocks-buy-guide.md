@@ -165,8 +165,7 @@ bStocks 以 **USDC** 为主要计价与结算币种，所以第一步是让资�
 - [币安美股交易新手教程：用 USDC 买美股完整指南](/binance-us-stocks-usdc-guide/)
 
 ### 📌 更多学习资源
-
-想了解更多加密货币与链上投资知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[币安股票代币买卖](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
@@ -177,5 +176,3 @@ bStocks 以 **USDC** 为主要计价与结算币种，所以第一步是让资�
 - [币安官方公告：bStocks 正式上线：代币化证券 1:1 支持，24/7 全天候交易](https://www.binance.com/zh-TC/support/announcement/detail/2c0c92ed15ac42d1b14bb1eac00d22bb)
 - [币安官方公告：bStocks 现已在币安闪兑上线，最低仅需 0.01 USDC 即可交易](https://www.binance.com/en/support/announcement/detail/e87980ae86524568ba511a08ab92ea44)
 - [币安 Square：Recurring Transactions for bStocks Now Available on Binance Convert](https://www.binance.com/en/square/post/337851245236289)
-
-🔗 **延伸阅读**：[币安股票代币买卖](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/) —— CoinVado 更完整版本，建议收藏。

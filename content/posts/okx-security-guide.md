@@ -384,11 +384,8 @@ OKX 账户安全不是一个选项，而是 **必做事项**。在加密货币�
 
 ---
 
-
-🔗 **延伸阅读**：[欧意账户安全](https://coinvado.com/posts/okx-comprehensive-review-2026-fees-safety/) —— CoinVado 更完整版本，建议收藏。
-
 📌 **更多学习资源**
-想了解更多加密货币知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯。
+想看更完整的内容？可看 CoinVado 社区的[欧意账户安全](https://coinvado.com/posts/okx-comprehensive-review-2026-fees-safety/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

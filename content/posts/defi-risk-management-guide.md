@@ -354,15 +354,11 @@ DeFi 的核心逻辑可以用一句话概括：**收益 = 承担风险。** 不�
 
 DeFi 的风险很多，但这恰恰也是它的魅力所在——**当你真正理解并管理好这些风险后，你能获得的不仅是收益，还有对自己财务的完全主权。**
 
-
 ### 📌 更多学习资源
-
-想了解更多 DeFi 知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在 DeFi 世界少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[DeFi 风险管理](https://coinvado.com/posts/defi-complete-guide-2026-beginner-to-advanced/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 **相关文章推荐：**
 - [《什么是 DeFi？去中心化金融入门指南》](/what-is-defi/) — 了解 DeFi 的基础概念
 - [《Aave 借贷协议实操：存入与借出资产全流程指南》](/aave-lending-guide/) — 学习如何在主流借贷协议中操作
 - [《流动性挖矿实战：Uniswap 与 Curve 做市策略详解》](/liquidity-mining-guide/) — 了解 LP 做市的具体操作
 - [《加密货币钱包选择指南：冷钱包 vs 热钱包 vs 交易所》](/cryptocurrency-wallet-guide/) — 选择一个安全的钱包
-
-🔗 **延伸阅读**：[DeFi 风险管理](https://coinvado.com/posts/defi-complete-guide-2026-beginner-to-advanced/) —— CoinVado 更完整版本，建议收藏。

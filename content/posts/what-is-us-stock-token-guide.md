@@ -111,8 +111,7 @@ readingTime: 8
 - 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 `60895497`）
 
 ### 📌 更多学习资源
-
-想了解更多加密货币与链上投资知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[股票代币是什么](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
@@ -123,5 +122,3 @@ readingTime: 8
 - [币安官方博客：bStocks Hit $100 Million AUM Two Weeks After Launch](https://www.binance.com/en/blog/markets/6482144027290476688)
 - [币安官方公告：将新增 10 种 bStocks 代币化证券作为抵押资产](https://www.binance.com/zh-CN/support/announcement/detail/6a167ac6ee74496b83a820675aea1dbe)
 - [币安 Square：币安交易平台新增 10 种 bStocks 交易对](https://www.binance.com/zh-TC/square/post/349861532729266)
-
-🔗 **延伸阅读**：[股票代币是什么](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/) —— CoinVado 更完整版本，建议收藏。

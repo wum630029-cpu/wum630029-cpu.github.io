@@ -352,11 +352,8 @@ Babylon 的质押机制不依赖第三方托管，安全性相对较高。但仍
 
 ---
 
-
-🔗 **延伸阅读**：[比特币 Layer 2](https://coinvado.com/posts/bitcoin-complete-guide-2026-mining-layer2/) —— CoinVado 更完整版本，建议收藏。
-
 📌 **更多学习资源**
-想更系统地学习加密货币知识、获取最新生态动态？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更完整的教程体系、视频讲解和实时资讯，帮助你在币圈稳步成长。
+想看更完整的内容？可看 CoinVado 社区的[比特币 Layer 2](https://coinvado.com/posts/bitcoin-complete-guide-2026-mining-layer2/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

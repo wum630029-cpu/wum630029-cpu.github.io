@@ -198,13 +198,10 @@ arXiv 论文《Dynamic Grid Trading Strategy》的核心证明：在简单市场
 ---
 
 ### 📌 更多学习资源
-
-想了解更多加密货币交易技巧和风险管理知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈持续成长。
+想看更完整的内容？可看 CoinVado 社区的[网格交易参数详解](https://coinvado.com/posts/binance-grid-trading-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
 *免责声明：本文仅为交易知识分享，不构成任何投资建议。加密货币市场波动剧烈，交易存在较大亏损风险，请务必根据自身风险承受能力谨慎参与。*
 
 *参考资料：[Chen, K.-Y., Chen, K.-H. & Jang, J.-S. R.：Dynamic Grid Trading Strategy: From Zero Expectation to Market Outperformance（arXiv:2506.11921, 2025；证明传统静态网格在简单假设下期望收益≈0、价格出界即停止；BTC/ETH 分钟级数据 2021-01 至 2024-07 回测，动态网格在 IRR 与回撤控制上优于静态网格与买入持有）](https://arxiv.org/abs/2506.11921)、[OKX 帮助中心：Spot Grid（现货网格定义：区间内低买高卖、最适合横盘震荡或缓慢上涨；参数：上界/下界在价格出界时停止挂单、网格数、等差/等比网格定义）](https://www.okx.com/en-gb/help/i-spot-grid)、[OKX 帮助中心：Spot Grid Bot FAQ（运行中修改区间与网格数会重置订单；上界触及时网格整体上移的追踪机制）](https://www.okx.com/en-ae/help/spot-grid-bot-faq)*
-
-🔗 **延伸阅读**：[网格交易参数详解](https://coinvado.com/posts/binance-grid-trading-guide-2026/) —— CoinVado 更完整版本，建议收藏。

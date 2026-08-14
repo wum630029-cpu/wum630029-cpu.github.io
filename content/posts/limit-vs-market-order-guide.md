@@ -191,13 +191,10 @@ readingTime: 8
 ---
 
 ### 📌 更多学习资源
-
-想了解更多加密货币交易技巧和风险管理知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈持续成长。
+想看更完整的内容？可看 CoinVado 社区的[限价单与市价单的区别](https://coinvado.com/posts/crypto-trading-beginners-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
 *免责声明：本文仅为交易知识分享，不构成任何投资建议。加密货币市场波动剧烈，交易存在较大亏损风险，请务必根据自身风险承受能力谨慎参与。*
 
 *参考资料：[SEC：Types of Orders（市价单保证成交不保证价格、限价单不保证成交）](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders)、[SEC：Investor Bulletin - Understanding Order Types（快速行情下大额市价单可能多价位成交）](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-14)、[SEC：Executing an Order（订单到达市场时价格可能已变化）](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/executing-order)、[Kyle, A.S.：Continuous Auctions and Insider Trading（Econometrica, 1985；订单规模与价格影响模型）](https://jstor.econometricsociety.org/publications/econometrica/1985/11/01/continuous-auctions-and-insider-trading)、[Chordia, T., Sarkar, A. & Subrahmanyam, A.：An Empirical Analysis of Stock and Bond Market Liquidity（纽约联储 Staff Report No.164, 2003；波动上升时流动性下降、点差扩大）](https://www.newyorkfed.org/research/staff_reports/sr164.html)、[美联储：2026 年 5 月金融稳定报告（杠杆与集中持仓是脆弱性来源）](https://www.federalreserve.gov/publications/2026-may-financial-stability-report-overview.htm)*
-
-🔗 **延伸阅读**：[限价单与市价单的区别](https://coinvado.com/posts/crypto-trading-beginners-guide-2026/) —— CoinVado 更完整版本，建议收藏。

@@ -58,9 +58,7 @@ Bstocks 使用 **USDC** 作为结算币种，不是 USDT，这里要注意区分
 3. 复制充值地址，从外部发起转账
 4. 等待网络确认（通常几分钟内到账）
 
-
-🔗 **延伸阅读**：[币安美股交易快速上手](https://coinvado.com/posts/binance-us-stock-trading-usdc-guide-kyc-dividend-2026/) —— CoinVado 更完整版本，建议收藏。
-
+想看更完整的内容？可看 CoinVado 社区的[币安美股交易快速上手](https://coinvado.com/posts/binance-us-stock-trading-usdc-guide-kyc-dividend-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 <div class="callout callout-warning">
 <div class="callout-title">⚠️ 重要提醒</div>
 <ul>

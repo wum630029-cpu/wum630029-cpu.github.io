@@ -311,11 +311,8 @@ Ledger 可以通过 Ledger Live 或 MetaMask 插件实现 **冷钱包签名 + �
 
 ---
 
-
-🔗 **延伸阅读**：[加密货币钱包](https://coinvado.com/posts/crypto-wallet-complete-guide-2026-hot-cold/) —— CoinVado 更完整版本，建议收藏。
-
 📌 **更多学习资源**
-想了解更多加密货币知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[加密货币钱包](https://coinvado.com/posts/crypto-wallet-complete-guide-2026-hot-cold/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

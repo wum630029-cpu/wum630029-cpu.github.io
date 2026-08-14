@@ -132,8 +132,7 @@ bStocks 对上市公司分红采用「**自动再投资**」机制：公司发�
 - [币安 Bstocks 保姆级实操指南：周末也能炒美股](/binance-bstocks-guide/)
 
 ### 📌 更多学习资源
-
-想了解更多加密货币与链上投资知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[币安股票代币介绍](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
@@ -146,5 +145,3 @@ bStocks 对上市公司分红采用「**自动再投资**」机制：公司发�
 - [币安 Square：交易平台新增 10 种 bStocks 交易对（含苹果、亚马逊）](https://www.binance.com/zh-TC/square/post/349861532729266)
 - [Cryptonomist：币安上线包括奈飞在内的 10 只新代币化股票](https://cn.cryptonomist.ch/2026/08/05/%e5%b8%81%e5%ae%89%e4%b8%8a%e7%ba%bf%e5%8c%85%e6%8b%ac%e5%a5%88%e9%a3%9e%e5%9c%a8%e5%86%85%e7%9a%8410%e5%8f%aa%e6%96%b0%e4%bb%a3%e5%b8%81%e5%8c%96%e8%82%a1%e7%a5%a8/)
 - [ChainCatcher：Binance bStocks 持仓突破 1 亿美元，累计交易量 4.58 亿美元](https://www.chaincatcher.com/article/2274460)
-
-🔗 **延伸阅读**：[币安股票代币介绍](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/) —— CoinVado 更完整版本，建议收藏。

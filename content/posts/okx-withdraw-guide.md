@@ -315,16 +315,12 @@ OKX App → 左上角头像 → 个人中心 → 在昵称下方可看到「UID�
 
 ---
 
-
-🔗 **延伸阅读**：[加密货币提现教程](https://coinvado.com/posts/crypto-deposit-withdraw-guide-2026/) —— CoinVado 更完整版本，建议收藏。
-
 📌 **更多学习资源**
 - [OKX C2C 买币指南与防冻卡技巧](/okx-c2c-guide/) — 学习 C2C 安全交易技巧
 - [OKX 注册开户与 KYC 教程](/okx-register-guide/) — 从注册开始的完整流程
 - [OKX 交易指南：现货/合约/跟单](/okx-trading-guide/) — 掌握核心交易功能
 - [加密货币钱包入门教程](/cryptocurrency-wallet-guide/) — 学习钱包基本概念
-
-想更系统性地学习加密货币知识和操作技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有完整的教程体系、实战技巧和最新资讯。
+想看更完整的内容？可看 CoinVado 社区的[加密货币提现教程](https://coinvado.com/posts/crypto-deposit-withdraw-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

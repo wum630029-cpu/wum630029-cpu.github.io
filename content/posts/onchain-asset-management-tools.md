@@ -330,7 +330,6 @@ Zerion App 内置了 WalletConnect 功能，可以直接在手机上连接各种
 | 「连接资产管理工具是不是在授权？」 | 连接钱包 ≠ 授权（Approve）。连接只是让平台读取你的地址。但注意：在 Zapper 上执行 Swap 或存款时，会有标准的智能合约交互——和你在 Uniswap 上操作一样。 |
 | 「这个平台要我的私钥/助记词？」 | **任何资产管理工具都不应该要求你的私钥或助记词。** 如果有人索要，100% 是钓鱼。 |
 
-
 ### 8.3 合规与隐私提示
 
 链上资产管理工具读取的是**公开的链上数据**。任何人在 Etherscan 上输入你的地址也能看到你的资产——资产管理工具只是把数据整理成更容易看懂的格式。
@@ -371,7 +370,4 @@ Zerion App 内置了 WalletConnect 功能，可以直接在手机上连接各种
 > - [欧易注册链接](https://www.promooboost.com/join/60895497)
 
 ### 📌 更多学习资源
-
-想了解更多加密货币知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
-
-🔗 **延伸阅读**：[链上资产管理工具](https://coinvado.com/posts/what-are-on-chain-assets-2026-beginner-guide-wallet-to-rwa/) —— CoinVado 更完整版本，建议收藏。
+想看更完整的内容？可看 CoinVado 社区的[链上资产管理工具](https://coinvado.com/posts/what-are-on-chain-assets-2026-beginner-guide-wallet-to-rwa/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

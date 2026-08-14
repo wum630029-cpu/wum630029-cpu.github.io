@@ -659,11 +659,8 @@ Convex  ┌─┴──┐
 > - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
 
 ### 📌 更多学习资源
-
-想了解更多加密货币知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[流动性挖矿](https://coinvado.com/posts/defi-liquidity-pool-impermanent-loss-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
 *下一篇 DeFi 系列预告：流动性质押（Liquid Staking）指南——Lido、Rocket Pool 与 EtherFi，敬请关注。*
-
-🔗 **延伸阅读**：[流动性挖矿](https://coinvado.com/posts/defi-liquidity-pool-impermanent-loss-guide-2026/) —— CoinVado 更完整版本，建议收藏。

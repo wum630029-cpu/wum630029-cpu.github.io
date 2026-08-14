@@ -201,13 +201,10 @@ ATR（平均真实波幅，Average True Range）衡量一只币近期的平均�
 ---
 
 ### 📌 更多学习资源
-
-想了解更多加密货币交易技巧和风险管理知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈持续成长。
+想看更完整的内容？可看 CoinVado 社区的[止盈止损设置](https://coinvado.com/posts/crypto-trading-beginners-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
 *免责声明：本文仅为交易知识分享，不构成任何投资建议。加密货币市场波动剧烈，交易存在较大亏损风险，请务必根据自身风险承受能力谨慎参与。*
 
 *参考资料：[SEC：Investor Bulletin - Stop, Stop-Limit, and Trailing Stop Orders（止损价不是保证成交价、止损限价单可能不成交、追踪止损的触发与盘中误触发风险）](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-15)、[Kaminski, K. M. & Lo, A. W.：When Do Stop-Loss Rules Stop Losses?（SIFR Working Paper No. 63, 2008；随机游走下滑损规则降低期望收益、动量下可增值、美国股市止损期每月约 +50-100 个基点）](https://swopec.hhs.se/sifrwp/abs/sifrwp0063.htm)、[美联储：2026 年 5 月金融稳定报告（杠杆与集中持仓是脆弱性来源，压力环境下可能引发连锁清算）](https://www.federalreserve.gov/publications/2026-may-financial-stability-report-overview.htm)*
-
-🔗 **延伸阅读**：[止盈止损设置](https://coinvado.com/posts/crypto-trading-beginners-guide-2026/) —— CoinVado 更完整版本，建议收藏。

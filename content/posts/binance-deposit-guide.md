@@ -330,16 +330,12 @@ P2P 的操作和 C2C 基本一致：
 
 ---
 
-
-🔗 **延伸阅读**：[币安入金充值方法详解](https://coinvado.com/posts/binance-deposit-guide-2026/) —— CoinVado 更完整版本，建议收藏。
-
 📌 **更多学习资源**
 - [币安从注册到交易全流程指南](/binance-complete-guide/) — 从注册到第一笔交易的完整流程
 - [币安定投策略进阶指南](/binance-dca-advanced-guide/) — 学会用定投降低持仓成本
 - [从币安走向链上](/binance-to-defi-guide/) — 学会把资产提到链上钱包自主保管
 - [加密货币钱包入门](/cryptocurrency-wallet-guide/) — 学习钱包的基本概念和安全用法
-
-想更系统性地学习加密货币知识和操作技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有完整的教程体系、实战技巧和最新资讯，帮你从新手成长为合格的加密投资者。
+想看更完整的内容？可看 CoinVado 社区的[币安入金充值方法详解](https://coinvado.com/posts/binance-deposit-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

@@ -673,4 +673,4 @@ bitcoind -daemon -datadir=/data/bitcoin
 > - [Solana 验证节点指南](https://docs.anza.xyz/operations/setup-solana-validator)
 > - [以太坊节点监控工具 ethdo](https://github.com/wealdtech/ethdo)
 
-🔗 **延伸阅读**：[区块链节点类型](https://coinvado.com/posts/blockchain-node-types-full-light-archive-2026/) —— CoinVado 更完整版本，建议收藏。
+想看更完整的内容？可看 CoinVado 社区的[区块链节点类型](https://coinvado.com/posts/blockchain-node-types-full-light-archive-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

@@ -464,11 +464,8 @@ MEV（最大可提取价值）是一种链上「抢跑」攻击：机器人看�
 
 ---
 
-
-🔗 **延伸阅读**：[去中心化交易所 DEX](https://coinvado.com/posts/cex-vs-dex-crypto-exchange-comparison-2026/) —— CoinVado 更完整版本，建议收藏。
-
 📌 **更多学习资源**
-想了解更多加密货币知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[去中心化交易所 DEX](https://coinvado.com/posts/cex-vs-dex-crypto-exchange-comparison-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

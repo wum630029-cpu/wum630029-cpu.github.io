@@ -234,13 +234,10 @@ readingTime: 8
 ---
 
 ### 📌 更多学习资源
-
-想了解更多加密货币知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈持续成长。
+想看更完整的内容？可看 CoinVado 社区的[币安理财 vs DeFi](https://coinvado.com/posts/defi-complete-guide-2026-beginner-to-advanced/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
 *免责声明：本文仅为加密货币理财知识分享，不构成任何投资建议。币安储蓄存在平台信用风险，DeFi 协议存在智能合约与黑客攻击风险，收益率为动态数据，请以各平台实时页面为准。加密货币市场波动剧烈，请根据自身风险承受能力谨慎配置资产。*
 
 *参考资料：[币安 Simple Earn 官方页面（USDT 活期利率）](https://www.binance.com/en/earn/simple-earn)、[币安 2026-06 公告（USDT 灵活产品最高 6% APR）](https://www.binance.com/en/support/announcement/detail/7c272e07830b47fa9378827c5b15de81)、[Lido How It Works（ETH 质押年化约 2.5%）](https://lido.fi/how-lido-works)、[Aave 官方（链上借贷存款）](https://aave.com/)、[TRM Labs H1 2026 加密安全报告（207 起攻击、损失约 9.72 亿美元，DeFi 合约漏洞仍最常见）](https://www.trmlabs.com/resources/blog/h1-2026-crypto-hacks-reach-record-high-as-losses-fall-below-usd-1-billion)、[DefiLlama（DeFi 总锁仓量 TVL 实时数据）](https://defillama.com/)*
-
-🔗 **延伸阅读**：[币安理财 vs DeFi](https://coinvado.com/posts/defi-complete-guide-2026-beginner-to-advanced/) —— CoinVado 更完整版本，建议收藏。
