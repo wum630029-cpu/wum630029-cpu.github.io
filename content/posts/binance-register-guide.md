@@ -506,7 +506,7 @@ C2C 买币是用户之间的点对点交易，平台 0 手续费。商家的报�
 ---
 
 📌 **更多学习资源**
-想更系统性地学习加密货币知识和操作技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有完整的教程体系、实战技巧和最新资讯，帮助你在币圈少走弯路。
+想跟着视频一步步完成注册？可看 CoinVado 社区的[币安注册与 KYC 教程](https://coinvado.com/posts/binance-registration-guide-kyc-deposit-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

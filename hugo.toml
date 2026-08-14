@@ -27,6 +27,10 @@ theme = 'PaperMod'
     url = '/tags/'
     weight = 30
   [[menu.main]]
+    name = '资源'
+    url = '/resources/'
+    weight = 35
+  [[menu.main]]
     name = '关于'
     url = '/about/'
     weight = 40

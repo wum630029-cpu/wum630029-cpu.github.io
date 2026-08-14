@@ -12,6 +12,8 @@ readingTime: 4
 
 本教程面向零基础用户，带你一步步完成 **OKX 注册 → KYC 认证 → 安全设置 → 首笔入金**，并附上邀请码返佣的填写方式。
 
+想看视频版一步步操作？可参考 CoinVado 社区的[欧易 OKX 注册与 KYC 教程](https://coinvado.com/posts/okx-registration-guide-kyc-deposit-2026/)。
+
 > 💡 **提示**：邀请码只能在注册时填写，注册完成后无法补填。如果你还没有账号，建议直接通过 [OKX 欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）注册，可享手续费返佣。
 
 ## 一、注册前准备
