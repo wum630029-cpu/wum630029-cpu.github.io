@@ -654,6 +654,15 @@ main {
   margin: 24px 0;
 }
 
+/* 修复代码块在暗色模式下「白字浅底」显示成空白的问题：
+   Chroma(github 样式 + lineNos) 会给 pre/内层 div 注入内联 background-color:#f7f7f7，
+   优先级高于上面的 var(--surface)，导致暗色模式 --text(近白) 落在浅灰底上不可见 */
+.article-content .highlight,
+.article-content .highlight > div,
+.article-content .highlight pre {
+  background: var(--surface) !important;
+}
+
 .article-content pre code {
   background: transparent;
   padding: 0;
