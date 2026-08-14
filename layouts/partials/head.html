@@ -450,6 +450,30 @@ img {
   box-shadow: 0 8px 30px 0 rgba(99, 102, 241, 0.55);
 }
 
+.hero-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hero-cover .btn-hero-outline {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #fff;
+  box-shadow: none;
+}
+
+.hero-cover .btn-hero-outline:hover {
+  background: rgba(255, 255, 255, 0.22);
+  border-color: rgba(255, 255, 255, 0.4);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: none;
+}
+
 /* Main content */
 main {
   flex: 1;
@@ -804,6 +828,15 @@ main {
   .hero-cover .btn-primary {
     padding: 14px 28px;
     font-size: 0.95rem;
+  }
+
+  .hero-actions {
+    gap: 8px;
+  }
+
+  .hero-cover .btn-hero-outline {
+    padding: 12px 20px;
+    font-size: 0.9rem;
   }
 
   .article-card {
