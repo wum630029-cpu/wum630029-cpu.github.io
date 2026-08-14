@@ -258,7 +258,7 @@ Bybit 是一个值得信赖的加密货币交易平台，尤其在合约交易�
 
 <div class="callout callout-info">
 <div class="callout-title">📌 更多学习资源</div>
-<p>想了解更多加密货币知识和实操技巧？欢迎访问 <a href="https://coinvado.com/zh/" target="_blank">CoinVado - 新手进入链上资产世界的第一站</a>，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。</p>
+<p>想看更多交易所对比与选择？欢迎访问 <a href="https://coinvado.com/zh/exchanges/" target="_blank">CoinVado 交易所专区</a>，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。</p>
 </div>
 
 ---

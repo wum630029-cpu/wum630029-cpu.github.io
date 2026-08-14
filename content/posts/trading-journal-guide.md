@@ -233,8 +233,7 @@ Berkeley 教授 Barber 与 Odean 对 66,465 个家庭账户的研究[《Trading 
 ---
 
 ### 📌 更多学习资源
-
-想了解更多加密货币交易技巧和风险管理知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈持续成长。
+想看更多行情分析与技术指标实战？欢迎访问 CoinVado 的[行情分析专栏](https://coinvado.com/zh/market-analysis/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
 
 ---
 

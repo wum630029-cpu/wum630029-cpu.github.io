@@ -127,8 +127,7 @@ bStocks 的保护逻辑不同：它靠「1:1 底层资产背书 + 受监管托�
 - 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 `60895497`）
 
 ### 📌 更多学习资源
-
-想了解更多加密货币与链上投资知识？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更多币安功能与教程？欢迎访问 CoinVado 的[币安专区](https://coinvado.com/zh/binance/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
 
 ---
 

@@ -172,7 +172,7 @@ ETH 在 7 月的表现远超 BTC，涨幅是 BTC 的三倍以上。背后有几�
 
 ---
 
-> 📌 **更完整教程请访问 → https://coinvado.com/**
+> 📌 **想看更多行情分析？访问 CoinVado 的[行情分析专栏](https://coinvado.com/zh/market-analysis/)。**
 
 ---
 

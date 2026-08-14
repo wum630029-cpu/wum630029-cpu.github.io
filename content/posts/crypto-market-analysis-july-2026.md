@@ -352,5 +352,4 @@ Coinbase 溢价指数衡量的是 Coinbase（美国散户 + 机构）与 Binance
 > - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
 
 ### 📌 更多学习资源
-
-想了解更多加密货币知识和市场分析？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更多行情分析与技术指标实战？欢迎访问 CoinVado 的[行情分析专栏](https://coinvado.com/zh/market-analysis/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

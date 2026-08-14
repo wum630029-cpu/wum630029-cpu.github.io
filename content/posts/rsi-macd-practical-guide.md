@@ -358,4 +358,4 @@ MACD差离值DIF转向确认
 > 🟦 **还没有交易所账号?** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 >
 > 📌 **更多学习资源**
-> 想了解更多加密货币知识和实操技巧?欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/),这里有更系统的教程、视频和最新资讯,帮助你在币圈少走弯路。
+> 想看更多行情分析与技术指标实战？欢迎访问 CoinVado 的[行情分析专栏](https://coinvado.com/zh/market-analysis/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

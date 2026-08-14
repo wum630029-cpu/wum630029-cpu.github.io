@@ -478,8 +478,7 @@ LSD 赛道仍在快速演进——EigenLayer 的再质押生态、EtherFi 的 AV
 
 
 ### 📌 更多学习资源
-
-想了解更多 DeFi 知识和实操技巧？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在 DeFi 世界少走弯路。
+想深入了解 DeFi 玩法？欢迎访问 CoinVado 的[DeFi 专区](https://coinvado.com/zh/defi/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
 
 **相关文章推荐：**
 - [《什么是 DeFi？去中心化金融入门指南》](/what-is-defi/) — 如果还不熟悉 DeFi 基础概念，先阅读这篇
