@@ -14,7 +14,7 @@ readingTime: 5
 
 如果你已经读了我们之前的《什么是区块链？》和《什么是 DeFi？》，那这篇文章将帮你把以太坊这块最后的拼图补上——它是目前加密生态最核心的基础设施，理解了以太坊，就理解了整个 Web3 世界的底层逻辑。
 
-> 💡 **想在以太坊上体验？** 通过[币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）购买 ETH，提币到 MetaMask 钱包，即可开始在以太坊生态中探索。
+> 💡 **想在以太坊上体验？** 通过[币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）购买 ETH，提币到 MetaMask 钱包，即可开始在以太坊生态中探索。
 
 ---
 
@@ -375,7 +375,7 @@ ERC-20 代币
 
 ### 如果你想买 ETH（投资/交易）
 ```
-□ 选择合规交易所：[注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
+□ 选择合规交易所：[注册币安](https://www.binance.com/register?ref=BINANBT)
 □ 完成 KYC 认证
 □ 用法币购买 ETH
 □ 如果金额较大，提币到自己的钱包

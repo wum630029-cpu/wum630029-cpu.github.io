@@ -16,7 +16,7 @@ readingTime: 7
 
 ⚠️ 本文介绍的策略属于「低风险」而非「零风险」。任何套利都有风险，下文会详细分析。
 
-🟦 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+🟦 **还没有币安账号？** [立即注册](https://www.binance.com/register?ref=BINANBT)，输入邀请码 **BINANBT** 享 20% 手续费返佣。
 
 ---
 

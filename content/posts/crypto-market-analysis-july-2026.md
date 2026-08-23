@@ -18,7 +18,7 @@ readingTime: 18
 
 > 💡 **本教程属于「行情分析与市场评论」系列。** 建议先阅读本站的 [技术分析入门：K 线图与常用指标详解](/technical-analysis-basics/) 和 [MACD 与 RSI 指标实战](/macd-rsi-practical-guide/) 打底，再读本文效果更佳。技术分析和市场评论各有侧重——本文着重于综合判断当前的市场位置。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -348,7 +348,7 @@ Coinbase 溢价指数衡量的是 Coinbase（美国散户 + 机构）与 Binance
 > ⚠️ **加密货币市场具有极高风险。本文为市场分析与新闻评论，不构成任何投资建议。** 文中提及的所有价格目标均为分析情景推演，实际走势可能完全相反。杠杆交易会放大损益。请根据个人风险承受能力谨慎决策，切勿投入超过自身可承受亏损的资金。
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
-> - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）
+> - 🟦 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）
 > - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
 
 ### 📌 更多学习资源

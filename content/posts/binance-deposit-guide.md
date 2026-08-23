@@ -12,9 +12,9 @@ readingTime: 8
 >
 > 这是每个币安新手都会遇到的第一道坎。别担心，币安提供了多种入金方式，覆盖了从国内用户到海外玩家的所有场景。这篇文章帮你把所有方式梳理清楚，选最适合你的那一种。
 
-如果你还没注册币安账号，注册时填写邀请码 **GMVOGIBL** 可享 20% 手续费永久返佣：
+如果你还没注册币安账号，注册时填写邀请码 **BINANBT** 可享 20% 手续费永久返佣：
 
-👉 [立即注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
+👉 [立即注册币安](https://www.binance.com/register?ref=BINANBT)
 
 ---
 

@@ -14,7 +14,7 @@ MetaMask 是目前使用最广泛的 Web3 钱包，全球月活跃用户超过 3
 
 本文从零开始，完整带你走一遍 MetaMask 的安装、创建、安全设置、日常使用和高级操作。
 
-🟦 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邀请码 **GMVOGIBL**。你可以通过币安购买 ETH 后提币到 MetaMask，开始链上之旅。
+🟦 **还没有币安账号？** [立即注册](https://www.binance.com/register?ref=BINANBT)，输入邀请码 **BINANBT**。你可以通过币安购买 ETH 后提币到 MetaMask，开始链上之旅。
 
 ---
 

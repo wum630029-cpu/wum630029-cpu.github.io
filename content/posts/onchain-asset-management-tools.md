@@ -366,7 +366,7 @@ Zerion App 内置了 WalletConnect 功能，可以直接在手机上连接各种
 > ⚠️ **加密资产投资有风险，本文仅提供技术教学，不构成投资建议。** 链上资产透明公开，任何人都可以查看你的地址的资产情况。使用资产管理工具时请注意隐私保护，不要在任何网站上输入你的私钥或助记词。在进行任何链上交互前，请充分理解你所签署的每笔交易的含义——如果不了解基础安全知识，请先阅读本站的 [链上安全：签名授权与智能合约交互防骗指南](/onchain-security-signature-guide/)。
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
-> - [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
+> - [币安注册链接](https://www.binance.com/register?ref=BINANBT)
 > - [欧易注册链接](https://www.promooboost.com/join/60895497)
 
 ### 📌 更多学习资源

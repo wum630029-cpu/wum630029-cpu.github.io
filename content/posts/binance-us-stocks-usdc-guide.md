@@ -34,15 +34,15 @@ readingTime: 4
 
 如果你还没有币安账户，建议先完成注册和 KYC，这是使用 Bstocks 的前提。
 
-<a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=GMVOGIBL" target="_blank" rel="noopener noreferrer">👉 立即注册币安</a>
+<a class="btn btn-primary" href="https://www.binance.com/register?ref=BINANBT" target="_blank" rel="noopener noreferrer">👉 立即注册币安</a>
 
-- **邀请链接**：[https://www.bsmkweb.cc/register?ref=GMVOGIBL](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
-- **邀请码**：`GMVOGIBL`
+- **邀请链接**：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)
+- **邀请码**：`BINANBT`
 
 ### 注册后需要完成的准备
 
 1. 下载币安 App（iOS 需非大陆 Apple ID）
-2. 使用邮箱/手机号完成注册，填写邀请码 **GMVOGIBL**
+2. 使用邮箱/手机号完成注册，填写邀请码 **BINANBT**
 3. 完成 KYC 身份认证（建议高级认证）
 4. 绑定谷歌验证器和资金密码，确保账户安全
 

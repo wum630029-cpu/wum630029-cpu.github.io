@@ -13,7 +13,7 @@ categories: ['币安从入门到精通']
 >
 > 这篇文章帮你一次搞懂币安理财三大产品怎么选、怎么用、怎么搭配。
 
-> 💡 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+> 💡 **还没有币安账号？** [立即注册](https://www.binance.com/register?ref=BINANBT)，输入邀请码 **BINANBT** 享 20% 手续费返佣。
 
 ## 一、币安理财产品全景
 

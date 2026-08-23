@@ -23,7 +23,7 @@ readingTime: 8
 
 > 💡 **学习前提**：制定计划前，你需要先会算单笔风险，看 [仓位计算器实战指南](/position-sizing-calculator-guide/)；计划里的止损止盈怎么写，配合 [止盈止损设置实战](/take-profit-stop-loss-guide/)；计划写完了靠什么守住，见 [交易纪律养成](/trading-discipline-guide/)；执行得怎么样，用 [交易日志与复盘方法](/trading-journal-guide/) 检验——本文是「交易技巧实战全系列」模块四交易心理与纪律的第六篇，系列十四总第二十八篇，上一篇 [过度交易的危害](/over-trading-harm-guide/) 解决了「少做无效交易」，本文解决「每笔该做的交易怎么先写好剧本」；下一篇推荐「逆势交易的陷阱：抄底摸顶的心理根源与纠正方法」。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -198,7 +198,7 @@ Berkeley 教授 Barber 与 Odean 对 66,465 个美国家庭账户的研究[《Tr
 > - [交易日志与复盘方法](/trading-journal-guide/) — 统计「按计划执行占比」，让计划每月迭代
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

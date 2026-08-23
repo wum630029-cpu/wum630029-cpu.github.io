@@ -13,7 +13,7 @@ categories: ['交易策略']
 >
 > 有——**网格交易**。
 
-> 💡 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+> 💡 **还没有币安账号？** [立即注册](https://www.binance.com/register?ref=BINANBT)，输入邀请码 **BINANBT** 享 20% 手续费返佣。
 
 ## 一、什么是网格交易？
 
@@ -240,7 +240,7 @@ categories: ['交易策略']
 1. 购买少量 BNB（建议 20-50 USDT 等值）
 2. 在币安「设置」→「手续费折扣」中开启 BNB 抵扣
 3. 网格交易的手续费自动从 BNB 扣除，享受 25% 折扣
-4. 使用邀请码 `GMVOGIBL` 注册再享 20% 手续费返佣
+4. 使用邀请码 `BINANBT` 注册再享 20% 手续费返佣
 
 ### 技巧 4：设置自动暂停条件
 

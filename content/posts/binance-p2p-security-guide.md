@@ -17,7 +17,7 @@ readingTime: 7
 本文不是要吓唬你——而是要系统拆解 P2P 交易中的每一种常见骗局，告诉你如何识别、如何应对，以及如何建立一套「进可攻、退可守」的 P2P 安全操作体系。
 
 > 🟦 **注册币安账户**
-> 如果你还没有币安账户，可以[点此注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**），完成 KYC 认证后即可使用 P2P 交易功能。
+> 如果你还没有币安账户，可以[点此注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**），完成 KYC 认证后即可使用 P2P 交易功能。
 
 ---
 

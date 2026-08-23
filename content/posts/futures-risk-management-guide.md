@@ -18,7 +18,7 @@ readingTime: 8
 
 > ⚠️ **风险提示**：合约交易风险极高，不适合所有投资者。本文仅为风控知识分享，请勿投入超过你能承受亏损的资金。
 >
-> 🟦 **开始交易前**：如果你还没有币安账户，[点此注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**），开设合约账户后才可使用本文所述的风控功能。
+> 🟦 **开始交易前**：如果你还没有币安账户，[点此注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**），开设合约账户后才可使用本文所述的风控功能。
 
 ---
 

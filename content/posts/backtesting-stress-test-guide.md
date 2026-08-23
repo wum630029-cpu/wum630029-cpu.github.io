@@ -25,7 +25,7 @@ readingTime: 8
 >
 > 本文是「交易技巧实战全系列」模块三的第七篇、系列十四总第二十二篇——下一篇推荐学习「FOMO 与 FUD：情绪化交易的识别与应对策略」，进入模块四交易心理与纪律。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -192,7 +192,7 @@ readingTime: 8
 > - [极端行情生存指南](/extreme-market-survival-guide/) — 用 312、519 式行情给策略做一次「极限压测」
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

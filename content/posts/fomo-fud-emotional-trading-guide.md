@@ -23,7 +23,7 @@ FOMO（Fear of Missing Out，害怕错过）与 FUD（Fear、Uncertainty、Doubt
 
 > 💡 **学习前提**：识别情绪后要用 [交易日志与复盘方法](/trading-journal-guide/) 把情绪「数据化」，冲动仓位用 [仓位计算器实战指南](/position-sizing-calculator-guide/) 约束，回撤红线参考 [最大回撤控制](/max-drawdown-control-guide/)，极端行情下的恐慌应对见 [极端行情生存指南](/extreme-market-survival-guide/)——本文是「交易技巧实战全系列」模块四交易心理与纪律的第一篇，上一篇 [压力测试自己](/backtesting-stress-test-guide/) 验证了「你有没有能力」，本文解决「你这个人能不能按规则执行」。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -251,7 +251,7 @@ FOMO 与 FUD 不是性格缺陷，而是演化写入大脑的默认程序——�
 > - [RSI 与 MACD 背离实战](/rsi-macd-practical-guide/) — 用客观指标替代「感觉该买/该卖」
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

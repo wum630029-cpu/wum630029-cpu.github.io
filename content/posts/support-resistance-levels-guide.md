@@ -25,7 +25,7 @@ readingTime: 7
 >
 > 本文是「交易技巧实战全系列」的第二篇，下一篇推荐学习 [均线系统实战](/moving-average-strategy-guide/)。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -223,7 +223,7 @@ ETH 跌破 3000 的支撑后，每当价格反弹到 2950-3020 区域，都出�
 
 **下一步学习建议：** 学完水平支撑阻力之后，建议继续学习 [支撑阻力位与斐波那契回撤线](/support-resistance-fibonacci-guide/)——用斐波那契回撤定位更精细的关键位；再将均线的动态支撑和本文的静态支撑结合，参考 [均线系统实战](/moving-average-strategy-guide/) 构建更完整的分析框架。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 ---
 
 📌 **更多学习资源**

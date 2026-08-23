@@ -14,7 +14,7 @@ readingTime: 16
 >
 > 本文从原理到实操，系统讲解流动性质押的运作逻辑、三大主流协议（Lido、Rocket Pool、EtherFi）的优缺点，以及如何用 LSD 代币在 DeFi 中组合出更高收益的策略。
 
-> 💡 **参与流动性质押前需要先拥有 ETH。** 还没有 ETH？通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）或 [欧易注册](https://www.promooboost.com/join/60895497) 购买后提现到钱包即可开始质押。
+> 💡 **参与流动性质押前需要先拥有 ETH。** 还没有 ETH？通过 [币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）或 [欧易注册](https://www.promooboost.com/join/60895497) 购买后提现到钱包即可开始质押。
 
 ---
 
@@ -474,7 +474,7 @@ stETH 余额增加 → wstETH 对 ETH 的汇率上升
 
 LSD 赛道仍在快速演进——EigenLayer 的再质押生态、EtherFi 的 AVS 市场、以及新的 L2 原生质押方案都在持续改变格局。保持学习，不断优化你的策略。
 
-> 💡 **还没有 ETH？** 通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）购买 ETH 后提现到钱包，即可开始你的流动性质押之旅。也可通过 [欧易注册](https://www.promooboost.com/join/60895497) 获取 ETH。
+> 💡 **还没有 ETH？** 通过 [币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）购买 ETH 后提现到钱包，即可开始你的流动性质押之旅。也可通过 [欧易注册](https://www.promooboost.com/join/60895497) 获取 ETH。
 
 
 ### 📌 更多学习资源

@@ -23,7 +23,7 @@ readingTime: 8
 
 > 💡 **学习前提**：下单前先看懂盘口与买卖价，[币安现货交易新手入门](/binance-spot-trading-guide/) 讲过限价单、市价单与止盈止损的基础操作，[技术分析基础](/technical-analysis-basics/) 能帮你判断该买还是该等；想算清一笔单子的总成本，先看 [币安手续费与返佣揭秘](/binance-fee-rebate-guide/)。本文是「交易技巧实战全系列」模块二订单策略与执行的第一篇，下一篇推荐「止盈止损设置实战：移动止盈、分批止盈与追踪止损」。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -185,7 +185,7 @@ readingTime: 8
 > - [浮盈管理实操完整指南](/floating-profit-management-guide/) — 移动止盈、分批止盈与目标位离场
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

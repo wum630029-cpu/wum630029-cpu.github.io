@@ -67,10 +67,10 @@ readingTime: 4
 
 1. **访问币安官网并注册**
 
-<a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=GMVOGIBL" target="_blank" rel="noopener noreferrer">👉 访问币安官网下载 App</a>
+<a class="btn btn-primary" href="https://www.binance.com/register?ref=BINANBT" target="_blank" rel="noopener noreferrer">👉 访问币安官网下载 App</a>
 
-- 官网链接：[https://www.bsmkweb.cc/register?ref=GMVOGIBL](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
-- 邀请码（注册时填写）：**`GMVOGIBL`**
+- 官网链接：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)
+- 邀请码（注册时填写）：**`BINANBT`**
 
 2. **下载 APK 安装包**
    - 进入官网后找到「下载」或「Download」按钮
@@ -111,7 +111,7 @@ readingTime: 4
 下载并安装完成后：
 
 - **新用户**：点击「注册」，输入邮箱或手机号完成注册
-  - 注册时填写邀请码：**`GMVOGIBL`**（享手续费返佣 20%）
+  - 注册时填写邀请码：**`BINANBT`**（享手续费返佣 20%）
 - **老用户**：直接输入账号密码登录
 
 > 🔑 **还未注册？** 使用邀请码注册可获得 20% 交易手续费永久返佣。
@@ -151,7 +151,7 @@ readingTime: 4
 
 1. **官方渠道下载** — 官网或正规应用商店，不要用第三方链接
 2. **认准 App 特征** — 图标、开发者名称、功能完整性
-3. **下载后注册** — 填写邀请码 **`GMVOGIBL`**，不要错过返佣机会
+3. **下载后注册** — 填写邀请码 **`BINANBT`**，不要错过返佣机会
 
 下载并注册完成后，你就可以开始你的加密货币之旅了。建议先进行 KYC 实名认证，再体验 C2C 买币、现货交易等功能。
 

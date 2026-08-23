@@ -359,7 +359,7 @@ EIP-4844 上线后，L2 的 Gas 费在大多数网络上又降低了 **10-15 倍
 > ⚠️ **加密资产投资有风险，本文仅提供技术教学，不构成投资建议。** 在进行任何链上交互前，请充分理解你所签署的每一笔交易的含义。保护私钥和安全使用钱包是链上操作的第一要务——如果你还不了解这些，请先阅读本站的 [链上安全：签名授权与智能合约交互防骗指南](/onchain-security-signature-guide/)。
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
-> - [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
+> - [币安注册链接](https://www.binance.com/register?ref=BINANBT)
 > - [欧易注册链接](https://www.promooboost.com/join/60895497)
 
 想看更完整的内容？可看 CoinVado 社区的[以太坊 Layer 2 生态](https://coinvado.com/posts/ethereum-layer2-comparison-2026-arbitrum-base-optimism/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

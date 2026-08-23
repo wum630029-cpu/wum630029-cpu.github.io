@@ -137,7 +137,7 @@ readingTime: 4
 3. 阅读并同意合约交易协议
 4. 系统会自动创建合约账户
 
-> **如果你还没有币安账号**：[立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，邀请码 **`GMVOGIBL`** 享手续费返佣。
+> **如果你还没有币安账号**：[立即注册](https://www.binance.com/register?ref=BINANBT)，邀请码 **`BINANBT`** 享手续费返佣。
 
 ### 第二步：转入保证金
 

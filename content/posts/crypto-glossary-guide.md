@@ -22,7 +22,7 @@ readingTime: 9
 
 > 💡 **学习前提**：术语表最好的用法是「哪里不懂查哪里」。想系统打基础，先读 [什么是比特币](/what-is-bitcoin/) 和 [什么是区块链](/what-is-blockchain/)；想快速上手交易，从 [加密货币钱包选择指南](/cryptocurrency-wallet-guide/) 和 [2026 新手如何安全购买第一枚加密货币](/how-to-buy-cryptocurrency-safely/) 开始。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -134,7 +134,7 @@ readingTime: 9
 > - [2026 新手如何安全购买第一枚加密货币](/how-to-buy-cryptocurrency-safely/) — 注册、认证、买币全流程
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

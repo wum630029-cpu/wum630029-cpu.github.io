@@ -11,7 +11,7 @@ DeFi——全称 Decentralized Finance（去中心化金融）——是过去几
 
 听起来很不可思议？本教程用最通俗的语言，带你从头理解 DeFi。
 
-> 💡 **想参与 DeFi？** 首先你需要一个钱包和少量加密货币。通过[币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)或[欧易](https://www.promooboost.com/join/60895497)购买 ETH 或 USDT，提币到钱包后即可开始探索 DeFi 世界。
+> 💡 **想参与 DeFi？** 首先你需要一个钱包和少量加密货币。通过[币安](https://www.binance.com/register?ref=BINANBT)或[欧易](https://www.promooboost.com/join/60895497)购买 ETH 或 USDT，提币到钱包后即可开始探索 DeFi 世界。
 
 ## 一、什么是 DeFi？一句话理解
 
@@ -117,7 +117,7 @@ DEX 是 DeFi 最基础也最常用的应用，允许用户直接交换代币，*
 
 ### 第 2 步：购买一些加密货币
 
-通过[币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)或[欧易](https://www.promooboost.com/join/60895497)用人民币买入 ETH 或 USDT。
+通过[币安](https://www.binance.com/register?ref=BINANBT)或[欧易](https://www.promooboost.com/join/60895497)用人民币买入 ETH 或 USDT。
 
 ### 第 3 步：提币到钱包
 

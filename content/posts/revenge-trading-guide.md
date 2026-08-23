@@ -24,7 +24,7 @@ readingTime: 8
 
 > 💡 **学习前提**：报复性交易常和 [FOMO 与 FUD 情绪化交易](/fomo-fud-emotional-trading-guide/) 交替出现——先追高被套、再报复加仓，构成完整的亏损循环。止损金额要用 [仓位计算器实战指南](/position-sizing-calculator-guide/) 提前锁死，连续亏损的账要用 [交易日志与复盘方法](/trading-journal-guide/) 一笔笔记下来，回撤底线参考 [最大回撤控制](/max-drawdown-control-guide/)——本文是「交易技巧实战全系列」模块四交易心理与纪律的第二篇，上一篇 [FOMO 与 FUD](/fomo-fud-emotional-trading-guide/) 解决了「追涨杀跌」，本文解决它最危险的后续动作：越亏越做；下一篇推荐「交易纪律养成：入场前检查清单与规则化交易系统」。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -216,7 +216,7 @@ readingTime: 8
 > - [压力测试自己](/backtesting-stress-test-guide/) — 用回测验证策略，重建「亏完还能赚回来」的信心
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

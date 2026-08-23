@@ -193,7 +193,7 @@ categories: ['币安从入门到精通']
 
 每次定投的手续费虽然不高（通常在 0.1%），但长期积累也是一笔不小的支出。
 
-- 使用 [币安邀请链接注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）可获得手续费返佣
+- 使用 [币安邀请链接注册](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）可获得手续费返佣
 - 持有 BNB 并开启「使用 BNB 抵扣手续费」功能，手续费再打 75 折
 - 提高 VIP 等级（持有足量 BNB 或 30 天内交易量达标）后手续费进一步降低
 
@@ -313,7 +313,7 @@ DCA 是一种买入策略，不是持有策略。到了牛市后期，同样需�
 
 从今天开始，打开币安，创建一个定投计划，设置好金额和周期，然后——忘记它。几年后回来再看，你可能会惊讶于它的效果。
 
-> 🟦 **还没注册币安？** 通过 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）开户，享受手续费返佣优惠。定投之前不要忘记开启「使用 BNB 抵扣手续费」，每年能省下不少钱。
+> 🟦 **还没注册币安？** 通过 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）开户，享受手续费返佣优惠。定投之前不要忘记开启「使用 BNB 抵扣手续费」，每年能省下不少钱。
 
 ---
 

@@ -12,7 +12,7 @@ readingTime: 4
 
 但比特币到底是什么？它为什么有价值？普通人如何获得比特币？本教程用最通俗的语言，7 分钟带你搞懂。
 
-> 💡 **想直接购买比特币？** 最快的方式是通过正规交易所购买。[注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)或[注册欧易](https://www.promooboost.com/join/60895497)，完成 KYC 后即可用 C2C 方式买币。
+> 💡 **想直接购买比特币？** 最快的方式是通过正规交易所购买。[注册币安](https://www.binance.com/register?ref=BINANBT)或[注册欧易](https://www.promooboost.com/join/60895497)，完成 KYC 后即可用 C2C 方式买币。
 
 ## 一、比特币是什么？
 
@@ -101,7 +101,7 @@ readingTime: 4
 这是最简单、最安全的方式。你只需要：
 
 1. **注册一个交易所账号**
-   - 推荐：币安（[注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，邀请码 `GMVOGIBL`）
+   - 推荐：币安（[注册链接](https://www.binance.com/register?ref=BINANBT)，邀请码 `BINANBT`）
    - 推荐：欧易（[注册链接](https://www.promooboost.com/join/60895497)，邀请码 `60895497`）
 
 2. **完成 KYC 实名认证** — 上传身份证 + 人脸识别

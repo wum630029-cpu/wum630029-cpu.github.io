@@ -138,7 +138,7 @@ Uniswap V3 提供四个手续费等级，选择依据是交易对的波动性和
 ✅ 建议启动资金：$100-500 作为初始测试
 
 🟦 如果还没有资产：
-   通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）
+   通过 [币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）
    入金后提币到钱包
 ```
 
@@ -655,7 +655,7 @@ Convex  ┌─┴──┐
 > ⚠️ **风险提示：** 流动性挖矿涉及无常损失、智能合约风险和代币价格波动风险。本文仅为教学目的，不构成任何投资建议。做市前请充分理解风险，**只用你愿意承受损失的资金参与**。首次操作务必用小额测试完整流程。
 
 > 💡 如果你觉得本文有帮助，欢迎通过以下链接注册交易所支持本站持续产出更多 DeFi 教程：
-> - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）
+> - 🟦 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）
 > - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
 
 ### 📌 更多学习资源

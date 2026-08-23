@@ -24,7 +24,7 @@ OCO 与冰山订单（OCO & Iceberg Orders）是两类"高级订单类型"——
 
 > 💡 **学习前提**：挂单执行与滑点先看 [限价单与市价单实战指南](/limit-vs-market-order-guide/)；止盈止损位怎么定、追踪止损与分批止盈的机制在 [止盈止损设置实战完整指南](/take-profit-stop-loss-guide/)；保本止损与盈亏比联动的心理博弈看 [浮盈管理实操完整指南](/floating-profit-management-guide/)；单笔 1R 风险怎么算看 [仓位计算器实战指南](/position-sizing-calculator-guide/)。本文是「交易技巧实战全系列」模块二订单策略与执行的第三篇，前两篇分别解决「挂单怎么挂」「止损止盈怎么设」，本文解决「如何用进阶订单类型把两条腿自动化」；下一篇推荐「网格交易实战：现货网格与合约网格的参数调优技巧」。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -204,7 +204,7 @@ OCO 与冰山订单是两类"管理订单本身"的高级订单类型。**OCO** 
 > - [交易纪律养成](/trading-discipline-guide/) — 把离场规则外化成订单，让情绪没有投票权
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

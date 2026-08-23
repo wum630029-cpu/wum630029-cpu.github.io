@@ -14,7 +14,7 @@ readingTime: 12
 
 > 💡 **本教程属于「交易策略与收益提升」系列。** 建议先阅读本站的 [币安网格交易指南](/binance-grid-trading-guide/) 和 [合约交易风险控制](/futures-risk-management-guide/)，了解常见交易策略后再系统学习技术分析。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -426,7 +426,7 @@ OBV 是成交量的累计指标：价格上涨日 +当日成交量，价格下�
 > ⚠️ **加密资产交易有极高风险，本文仅提供技术教学，不构成投资建议。** 技术分析本质上是一种概率分析——没有任何指标能保证 100% 准确。杠杆交易会放大收益也会放大亏损，请根据自己的风险承受能力合理控制仓位。永远不要投入你无法承受损失的资金。如果你是新手，建议先学习、模拟交易，再实盘小额操作。
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
-> - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）
+> - 🟦 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）
 > - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
 
 ### 📌 更多学习资源

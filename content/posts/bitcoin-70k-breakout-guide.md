@@ -23,7 +23,7 @@ readingTime: 8
 
 > 💡 **学习前提**：判断 7 万是不是关键位，先看 [支撑与阻力判断技巧](/support-resistance-levels-guide/)；辨别真假突破离不开量能，配合 [成交量分析：量价背离与趋势拐点](/volume-analysis-guide/)；突破前算仓位，用 [仓位计算器实战指南](/position-sizing-calculator-guide/)；进场后止损怎么放，见 [止盈止损设置实战](/take-profit-stop-loss-guide/)——本文是「交易技巧实战全系列」模块五高级交易策略的第三篇，系列十四总第三十二篇。模块四收官篇 [交易计划 vs 随心交易](/trading-plan-guide/) 解决了「进场前先写好剧本」，本文解决「怎么识别并交易一次关键位的突破」；下一篇推荐「背离交易系统：RSI/MACD 背离的入场时机与止损设置」。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -201,7 +201,7 @@ readingTime: 8
 > - [仓位计算器实战指南](/position-sizing-calculator-guide/) — 突破前把单笔风险提前算死
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

@@ -14,7 +14,7 @@ readingTime: 14
 >
 > 本文是你参与 DeFi 前必读的风控手册，系统梳理无常损失、清算风险、合约漏洞、预言机攻击和治理威胁五大核心风险，并给出每条风险对应的实操避险方案。
 
-> 💡 **参与 DeFi 前需要先拥有加密货币。** 还没有 BTC、ETH 或 USDT？通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）或 [欧易注册](https://www.promooboost.com/join/60895497) 购买后提现到钱包。钱包基础操作可参考本站的 [《加密货币钱包选择指南》](/cryptocurrency-wallet-guide/)。
+> 💡 **参与 DeFi 前需要先拥有加密货币。** 还没有 BTC、ETH 或 USDT？通过 [币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）或 [欧易注册](https://www.promooboost.com/join/60895497) 购买后提现到钱包。钱包基础操作可参考本站的 [《加密货币钱包选择指南》](/cryptocurrency-wallet-guide/)。
 
 ---
 
@@ -329,7 +329,7 @@ Rug Pull 是 DeFi 中最常见的骗局形式。项目方在吸引大量用户�
 第 7 步：深入研究永续合约 DEX 和更复杂的 DeFi 策略
 ```
 
-> 💡 **需要钱包 Gas 费？** 通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）购买 ETH 或 BNB 后提现到钱包即可开始 DeFi 之旅。
+> 💡 **需要钱包 Gas 费？** 通过 [币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）购买 ETH 或 BNB 后提现到钱包即可开始 DeFi 之旅。
 
 ---
 

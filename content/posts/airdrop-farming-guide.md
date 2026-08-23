@@ -14,7 +14,7 @@ readingTime: 9
 
 但 2026 年的空投环境已经和 2020 年完全不同：竞争更激烈、女巫检测更严格、交互策略更复杂。本文系统梳理空投的核心逻辑、工具准备、交互策略和防骗知识，帮你用最低成本获得最大回报。
 
-> 💡 **空投交互需要钱包和 Gas 费。** 还没钱包？先阅读本站的 [《MetaMask 钱包完全指南》](/metamask-guide/)。需要买 ETH 作为 Gas？通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 或 [欧易注册](https://www.promooboost.com/join/60895497) 买币提现到钱包。
+> 💡 **空投交互需要钱包和 Gas 费。** 还没钱包？先阅读本站的 [《MetaMask 钱包完全指南》](/metamask-guide/)。需要买 ETH 作为 Gas？通过 [币安注册](https://www.binance.com/register?ref=BINANBT) 或 [欧易注册](https://www.promooboost.com/join/60895497) 买币提现到钱包。
 
 ---
 

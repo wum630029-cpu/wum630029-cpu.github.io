@@ -14,7 +14,7 @@ readingTime: 4
 >
 > **这 10 种骗局，遇到任何一个都可能让你倾家荡产。**
 
-> 💡 **选择正规交易所是防骗第一步**：[注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)或[注册欧易](https://www.promooboost.com/join/60895497)，远离不明平台。
+> 💡 **选择正规交易所是防骗第一步**：[注册币安](https://www.binance.com/register?ref=BINANBT)或[注册欧易](https://www.promooboost.com/join/60895497)，远离不明平台。
 
 ## 一、2026 年最新「高科技」骗局
 
@@ -186,7 +186,7 @@ readingTime: 4
 
 **加密货币世界的核心安全原则：Not Your Keys, Not Your Coins（不是你的私钥，就不是你的币）。** 始终用正规交易所、保护好助记词、保持怀疑精神，你就能避开至少 95% 的骗局。
 
-> 💰 **安全第一**：选择正规交易所是防骗的第一步。[注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）或[注册欧易](https://www.promooboost.com/join/60895497)（邀请码：60895497），远离不明平台，安全交易。
+> 💰 **安全第一**：选择正规交易所是防骗的第一步。[注册币安](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）或[注册欧易](https://www.promooboost.com/join/60895497)（邀请码：60895497），远离不明平台，安全交易。
 
 ---
 

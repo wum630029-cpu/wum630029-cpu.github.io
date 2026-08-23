@@ -16,7 +16,7 @@ readingTime: 16
 >
 > 本文是「交易策略与收益提升」系列的一部分，后续可学习 [网格交易策略](/binance-grid-trading-guide/) 和 [合约交易风险控制](/futures-risk-management-guide/)。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -636,7 +636,7 @@ K 线形态是支撑阻力判断的重要辅助工具。**一个形态出现在�
 
 > 🔗 **想先掌握水平支撑阻力与趋势线的基础？** 本站的 [支撑阻力位判断完整实战教程](/support-resistance-levels-guide/) 从前高前低、整数关口、密集成交区讲起，与本文的斐波那契定位互为补充。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ### 📌 更多学习资源
 想看更多行情分析与技术指标实战？欢迎访问 CoinVado 的[行情分析专栏](https://coinvado.com/zh/market-analysis/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

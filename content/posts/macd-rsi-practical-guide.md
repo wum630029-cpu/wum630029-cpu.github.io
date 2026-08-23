@@ -16,7 +16,7 @@ readingTime: 15
 >
 > 本文是「交易策略与收益提升」系列的一部分，下一站可学习 [网格交易策略](/binance-grid-trading-guide/) 和 [合约交易风险控制](/futures-risk-management-guide/)。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -450,7 +450,7 @@ MACD 底背离 + 成交量持续萎缩 → 底部还没到 ❌
 > ⚠️ **加密资产交易有极高风险，本文仅提供技术教学，不构成投资建议。** MACD 和 RSI 是滞后/同步指标，任何信号都有失败的可能。杠杆交易会放大收益也会放大亏损。永远不要投入你无法承受损失的资金，永远设置止损。
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
-> - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）
+> - 🟦 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）
 > - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
 
 ### 📌 更多学习资源

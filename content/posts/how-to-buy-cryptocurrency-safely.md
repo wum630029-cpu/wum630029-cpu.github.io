@@ -45,9 +45,9 @@ readingTime: 5
 
 ### 币安注册流程
 
-1. 打开 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邮箱或手机号
+1. 打开 [币安注册链接](https://www.binance.com/register?ref=BINANBT)，输入邮箱或手机号
 2. 设置高强度密码（建议 12 位以上，含大小写字母 + 数字 + 特殊符号）
-3. 输入邀请码：`GMVOGIBL`（可享受手续费折扣）
+3. 输入邀请码：`BINANBT`（可享受手续费折扣）
 4. 完成邮箱/手机验证
 5. 下载币安 App（iOS 用海外 Apple ID，安卓直接从官网下载 APK）
 

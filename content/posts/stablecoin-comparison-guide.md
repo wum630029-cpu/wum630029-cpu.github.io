@@ -12,7 +12,7 @@ readingTime: 4
 >
 > 简单说——**稳定币是加密货币世界的「现金」**。它们锚定法币（主要是美元），价值稳定，是交易、理财、转账的核心工具。但不同稳定币的发行机制、安全性和使用场景差异很大，选错了可能多花手续费，甚至承担不必要的风险。
 
-> 💡 **想买稳定币？** 最快的方式是通过交易所用 C2C 购买。[注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)或[注册欧易](https://www.promooboost.com/join/60895497)，完成入金后即可交易主流稳定币。
+> 💡 **想买稳定币？** 最快的方式是通过交易所用 C2C 购买。[注册币安](https://www.binance.com/register?ref=BINANBT)或[注册欧易](https://www.promooboost.com/join/60895497)，完成入金后即可交易主流稳定币。
 
 ## 一、稳定币是什么？为什么需要它？
 
@@ -137,7 +137,7 @@ readingTime: 4
 
 > 💡 **新手建议**：先在交易所用 USDT 进行交易和学习，等熟悉了链上操作后，再根据需求分散持有 USDC 和 DAI。
 
-> 💰 **开始你的加密货币之旅**：还没有交易所账号？[注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）或[注册欧易](https://www.promooboost.com/join/60895497)（邀请码：60895497），完成认证后即可购买主流稳定币。
+> 💰 **开始你的加密货币之旅**：还没有交易所账号？[注册币安](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）或[注册欧易](https://www.promooboost.com/join/60895497)（邀请码：60895497），完成认证后即可购买主流稳定币。
 
 ---
 

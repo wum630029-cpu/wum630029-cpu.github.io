@@ -11,7 +11,7 @@ categories: ['交易指南']
 
 但很多新手不知道的是：C2C 买币虽然方便，但如果操作不当，可能遇到商家跑路、冻卡、资金被拦截等风险。
 
-> 💡 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+> 💡 **还没有币安账号？** [立即注册](https://www.binance.com/register?ref=BINANBT)，输入邀请码 **BINANBT** 享 20% 手续费返佣。
 
 ## 一、什么是 C2C 交易？
 

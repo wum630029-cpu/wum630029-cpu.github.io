@@ -17,7 +17,7 @@ readingTime: 16
 >
 > 本文从机制、费用、安全性和实际体验出发，系统对比三个主流平台，帮你找到最适合自己的去中心化合约交易入口。
 
-> 💡 **交易前需要先购买加密货币。** 还没有加密资产？通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）或 [欧易注册](https://www.promooboost.com/join/60895497) 购买后提现到钱包即可开始去中心化合约交易。
+> 💡 **交易前需要先购买加密货币。** 还没有加密资产？通过 [币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）或 [欧易注册](https://www.promooboost.com/join/60895497) 购买后提现到钱包即可开始去中心化合约交易。
 
 ---
 
@@ -339,7 +339,7 @@ Hyperliquid 对提供流动性的挂单者给予负费率（返佣），这吸�
 ### 7.3 注册与充值的通用路径
 
 > 💡 **快速上手指南：**
-> 1. 还没有加密资产？通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）或 [欧易注册](https://www.promooboost.com/join/60895497) 购买 ETH/USDC
+> 1. 还没有加密资产？通过 [币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）或 [欧易注册](https://www.promooboost.com/join/60895497) 购买 ETH/USDC
 > 2. 将购买的资产提现到你的钱包（建议从 Arbitrum 或 Ethereum 主网操作）
 > 3. 选择目标平台，连接钱包并按要求充值
 > 4. 从一笔小额交易开始测试流程
@@ -431,7 +431,7 @@ GLP 的收益由三部分构成：
 
 去中心化永续合约仍处于高速发展期。随着 HyperEVM 的生态扩展、dYdX Chain 的持续优化、GMX 对更多链的支持，这个赛道的竞争将更加激烈——而最终受益的是我们这些交易者。
 
-> 💡 **还没有加密资产？** 通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）购买加密货币后提现到钱包，即可开始你的去中心化合约交易之旅。也可通过 [欧易注册](https://www.promooboost.com/join/60895497) 获取资产。
+> 💡 **还没有加密资产？** 通过 [币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）购买加密货币后提现到钱包，即可开始你的去中心化合约交易之旅。也可通过 [欧易注册](https://www.promooboost.com/join/60895497) 获取资产。
 
 
 ### 📌 更多学习资源

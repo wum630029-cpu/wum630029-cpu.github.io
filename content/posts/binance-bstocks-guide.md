@@ -13,7 +13,7 @@ categories: ['币安美股与全球投资']
 
 本教程手把手教你用币安 Bstocks 炒美股，从开户到第一笔交易，包教包会。
 
-> 💡 **开始之前：** 如果你还没有币安账号，[点击这里注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，邀请码 `GMVOGIBL`，完成 KYC 后充入 USDC 即可开始。
+> 💡 **开始之前：** 如果你还没有币安账号，[点击这里注册](https://www.binance.com/register?ref=BINANBT)，邀请码 `BINANBT`，完成 KYC 后充入 USDC 即可开始。
 
 ## 一、什么是 Bstocks？
 
@@ -45,7 +45,7 @@ Bstocks 是币安推出的**代币化美股产品**。简单来说，就是把�
 ### 第 1 步：准备工作
 
 **你需要：**
-1. 一个已通过 KYC 的[币安账号](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
+1. 一个已通过 KYC 的[币安账号](https://www.binance.com/register?ref=BINANBT)
 2. 账户中充入 USDC
 
 **如何获得 USDC：**
@@ -211,7 +211,7 @@ Bstocks 是币安平台的产品，依赖币安的运营。和任何中心化产
 **操作步骤速记：**
 
 ```
-注册币安（邀请码 GMVOGIBL）
+注册币安（邀请码 BINANBT）
   ↓
 完成 KYC
   ↓
@@ -222,7 +222,7 @@ C2C 买入 USDT → 换成 USDC
 随时查看/卖出
 ```
 
-> 💡 如果你还没有币安账户，[点击这里注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，完成 KYC 后即可开始交易 Bstocks。邀请码：`GMVOGIBL`
+> 💡 如果你还没有币安账户，[点击这里注册](https://www.binance.com/register?ref=BINANBT)，完成 KYC 后即可开始交易 Bstocks。邀请码：`BINANBT`
 
 ---
 

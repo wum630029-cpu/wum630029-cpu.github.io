@@ -13,7 +13,7 @@ categories: ['交易策略']
 >
 > 有。DCA 定投就是那个看似简单却被反复验证有效的答案。
 
-> 💡 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+> 💡 **还没有币安账号？** [立即注册](https://www.binance.com/register?ref=BINANBT)，输入邀请码 **BINANBT** 享 20% 手续费返佣。
 
 ## 一、什么是 DCA 定投？
 

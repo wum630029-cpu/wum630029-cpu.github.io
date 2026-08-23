@@ -25,7 +25,7 @@ readingTime: 8
 >
 > 本文是「交易技巧实战全系列」模块三的第六篇，系列十四总第二十一篇——下一篇推荐学习「压力测试自己：模拟回测与实盘验证的交易能力评估」，用数据检验这套复盘系统到底有没有用。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -227,7 +227,7 @@ Berkeley 教授 Barber 与 Odean 对 66,465 个家庭账户的研究[《Trading 
 > - [极端行情生存指南](/extreme-market-survival-guide/) — 把极端行情的教训沉淀成可迭代的纪律
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

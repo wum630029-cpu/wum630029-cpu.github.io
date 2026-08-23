@@ -3,31 +3,31 @@ date: 2026-07-20T00:00:00+08:00
 draft: false
 description: '2026 年想买美股却嫌传统券商开户流程太繁琐？币安通过 Bstocks 提供了一条快捷投资通道。这篇完整攻略教你用 USDC 稳定币直接购买苹果、特斯拉、英伟达等热门美股碎股，支持 7 天 24 小时含周末全天候随时交易，无需开通传统美股证券账户。从注册入金到选择心仪股票下单买入卖出，小白也能轻松上手。'
 slug: 'binance-us-stocks-quickstart-guide'
-tags: ['币安', '美股', 'Bstocks', '邀请码', 'GMVOGIBL', 'USDC', '美碎股', '2026']
+tags: ['币安', '美股', 'Bstocks', '邀请码', 'BINANBT', 'USDC', '美碎股', '2026']
 categories: ['美股教程']
 ---
 
 想买美股却嫌传统券商开户麻烦？2026 年，**币安（Binance）** 提供了一条捷径——通过 Bstocks 功能，直接用 USDC 购买苹果（AAPL）、特斯拉（TSLA）、英伟达（NVDA）等热门美股，而且还支持 **7×24 小时交易**，周末也能操作。
 
-本文用最直接的方式，带你走完 **注册 → 入金 → 交易** 全流程。建议先复制邀请码 `GMVOGIBL`，注册时用上。
+本文用最直接的方式，带你走完 **注册 → 入金 → 交易** 全流程。建议先复制邀请码 `BINANBT`，注册时用上。
 
 > 📌 **为什么要在注册时填邀请码？** 邀请码关联后，现货交易可享受 **20% 手续费返现**，长期交易能省下不少钱。而且注册后无法补填，建议一口气完成。
 
 ---
 
-## 一、注册币安（填邀请码 GMVOGIBL）
+## 一、注册币安（填邀请码 BINANBT）
 
 如果你还没有币安账户，这是第一步。
 
-<a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=GMVOGIBL" target="_blank" rel="noopener noreferrer">👉 立即注册币安（邀请码 GMVOGIBL）</a>
+<a class="btn btn-primary" href="https://www.binance.com/register?ref=BINANBT" target="_blank" rel="noopener noreferrer">👉 立即注册币安（邀请码 BINANBT）</a>
 
-**注册链接：** [https://www.bsmkweb.cc/register?ref=GMVOGIBL](https://www.bsmkweb.cc/register?ref=GMVOGIBL)
-**邀请码：** `GMVOGIBL`
+**注册链接：** [https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)
+**邀请码：** `BINANBT`
 
 ### 注册步骤
 
 1. 打开上方链接，输入邮箱或手机号
-2. 设置密码，在邀请码位置填写 **GMVOGIBL**
+2. 设置密码，在邀请码位置填写 **BINANBT**
 3. 完成邮箱/手机验证
 4. 下载币安 App（iOS 建议用非大陆 Apple ID）
 5. 完成 **KYC 身份认证**（中级或高级认证）
@@ -148,7 +148,7 @@ Bstocks 的买入操作和加密货币现货交易非常类似，上手很快。
 | 点差 | 买入价和卖出价之差，属于隐性成本 |
 | USDC 兑换费 | C2C 购买 USDC 时，商家会有一定溢价 |
 
-> 💡 **使用邀请码 GMVOGIBL 注册**，现货交易享受 20% 手续费返现，长期使用能明显降低成本。
+> 💡 **使用邀请码 BINANBT 注册**，现货交易享受 20% 手续费返现，长期使用能明显降低成本。
 
 ---
 
@@ -210,14 +210,14 @@ Bstocks 定价会参考标的资产的最新市场价格。周末虽然不是美
 
 **币安买美股** 只需四步：
 
-1. ✅ **注册币安** → 填邀请码 **GMVOGIBL**（享手续费折扣）
+1. ✅ **注册币安** → 填邀请码 **BINANBT**（享手续费折扣）
 2. ✅ **入金 USDC** → C2C 买币或外部转入
 3. ✅ **进入 Bstocks** → 找到股票入口
 4. ✅ **下单买入** → 开始你的美股投资之旅
 
 整个过程不需要美元银行卡，不需要传统券商开户，有加密资产就能操作。7×24 小时交易更是解决了传统券商「周末不能交易」的最大痛点。
 
-<a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=GMVOGIBL" target="_blank" rel="noopener noreferrer">🚀 开始币安买美股之旅（邀请码 GMVOGIBL）</a>
+<a class="btn btn-primary" href="https://www.binance.com/register?ref=BINANBT" target="_blank" rel="noopener noreferrer">🚀 开始币安买美股之旅（邀请码 BINANBT）</a>
 
 <div class="callout callout-info">
 <div class="callout-title">📌 免责声明</div>

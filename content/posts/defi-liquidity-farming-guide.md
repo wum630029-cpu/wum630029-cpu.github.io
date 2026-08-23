@@ -16,7 +16,7 @@ readingTime: 5
 
 如果你已经了解了 DeFi 的基本概念（还不清楚的话可以先看我们之前的[《什么是 DeFi？去中心化金融入门指南》](/what-is-defi/)），那本文就是你的 DeFi 进阶第一课。
 
-> 💡 **还没注册交易所？** 如果你还没有币安账户，[立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**），入金后开始你的 DeFi 之旅。
+> 💡 **还没注册交易所？** 如果你还没有币安账户，[立即注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**），入金后开始你的 DeFi 之旅。
 
 ---
 

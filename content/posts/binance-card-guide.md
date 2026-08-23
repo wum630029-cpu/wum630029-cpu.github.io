@@ -14,7 +14,7 @@ readingTime: 6
 
 这篇文章从卡片申请、充值激活、日常使用到费用说明，完整覆盖币安卡的一切操作。
 
-🟦 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。完成 KYC 认证后即可申请币安卡。
+🟦 **还没有币安账号？** [立即注册](https://www.binance.com/register?ref=BINANBT)，输入邀请码 **BINANBT** 享 20% 手续费返佣。完成 KYC 认证后即可申请币安卡。
 
 ---
 

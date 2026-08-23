@@ -91,7 +91,7 @@ readingTime: 8
 
 搞懂概念后，落地只差三步：
 
-1. **注册正规交易所**：主流的两个是 **OKX 欧易**（[注册链接](https://www.promooboost.com/join/60895497)，邀请码 `60895497`）和 **币安 Binance**（[注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，邀请码 `GMVOGIBL`）。
+1. **注册正规交易所**：主流的两个是 **OKX 欧易**（[注册链接](https://www.promooboost.com/join/60895497)，邀请码 `60895497`）和 **币安 Binance**（[注册链接](https://www.binance.com/register?ref=BINANBT)，邀请码 `BINANBT`）。
 2. **完成 KYC 实名认证**：上传证件 + 人脸识别，通过后才能充值交易。
 3. **买第一枚币**：用 C2C 买 USDT（支付宝/微信/银行卡）→ 在现货市场用 USDT 买入 BTC 或 ETH。
 

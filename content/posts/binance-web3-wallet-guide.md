@@ -12,7 +12,7 @@ readingTime: 4
 >
 > **币安 Web3 钱包就是你的最佳入口。** 它内置于币安 App 中，既有自托管钱包的私钥自主权，又有交易所级别的便捷体验。本文手把手带你完成从创建到使用的一切操作。
 
-> 💡 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+> 💡 **还没有币安账号？** [立即注册](https://www.binance.com/register?ref=BINANBT)，输入邀请码 **BINANBT** 享 20% 手续费返佣。
 
 ## 一、什么是币安 Web3 钱包？
 
@@ -187,7 +187,7 @@ A：币安 Web3 钱包内置在币安 App 中，与交易所账户互通更方�
 
 币安 Web3 钱包是**从中心化交易所走向去中心化世界的最佳桥梁**。它让你在享受自托管安全性的同时，不必承担太多操作复杂度。从今天开始，尝试把你的第一步 DeFi 交互从 Web3 钱包开始吧！
 
-> 💰 **开始你的 Web3 之旅**：[注册币安](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL），完成认证后即可创建 Web3 钱包，探索去中心化金融世界。
+> 💰 **开始你的 Web3 之旅**：[注册币安](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT），完成认证后即可创建 Web3 钱包，探索去中心化金融世界。
 
 ---
 

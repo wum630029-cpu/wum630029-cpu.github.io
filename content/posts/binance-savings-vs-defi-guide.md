@@ -17,7 +17,7 @@ readingTime: 8
 
 > 💡 **学习前提**：链上 DeFi 的基础概念建议先看 [什么是 DeFi](/what-is-defi/)；想理解提币到链上这步怎么走，参考 [从币安走向链上：CEX 到 DeFi 全流程](/binance-to-defi-guide/)；币安理财产品全景在 [币安理财全攻略](/binance-earn-guide/) 里已经写过，本文聚焦「币安储蓄 vs 链上灵活存币」这个二选一问题。本文是「币安从入门到精通」系列的最后一篇（第 14 篇）。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | 🟧 [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | 🟧 [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -228,7 +228,7 @@ readingTime: 8
 > - [加密货币钱包选择指南](/cryptocurrency-wallet-guide/) — 冷热钱包与资产托管方式选择
 
 > 🟦 **开始你的理财之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

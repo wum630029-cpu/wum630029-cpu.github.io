@@ -296,7 +296,7 @@ Gas 费 = Gas Limit（上限） × Gas Price（单价）
 
 从今天开始，你不再是只在 CEX 里交易的用户了——你已经迈入了链上资产世界的大门。
 
-> 🟦 **还没注册币安？** 通过 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）开户并完成 KYC，然后就可以从币安提币到钱包，开始你的链上之旅了。
+> 🟦 **还没注册币安？** 通过 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）开户并完成 KYC，然后就可以从币安提币到钱包，开始你的链上之旅了。
 
 ---
 

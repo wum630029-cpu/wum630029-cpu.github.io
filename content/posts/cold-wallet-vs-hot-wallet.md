@@ -13,7 +13,7 @@ categories: ['资产安全']
 
 在加密货币的世界里，「钱包」分为冷热两大类，它们的核心区别只有一个：**私钥是否接触过联网设备。**
 
-> 💡 **还没注册交易所？** 如果你还没有币安账户，[立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**），入金后用本指南的方案妥善存储你的资产。
+> 💡 **还没注册交易所？** 如果你还没有币安账户，[立即注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**），入金后用本指南的方案妥善存储你的资产。
 
 ---
 

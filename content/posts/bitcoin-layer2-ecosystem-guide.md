@@ -14,7 +14,7 @@ readingTime: 10
 
 如果你还认为比特币只是一个「买完存冷钱包」的资产，这篇文章将彻底刷新你的认知。
 
-> 💡 **参与比特币生态交互需要 BTC 和钱包。** 还没有 BTC？通过 [币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 或 [欧易注册](https://www.promooboost.com/join/60895497) 购买 BTC 后提现到钱包。关于基础钱包知识，先阅读本站的 [《加密货币钱包选择指南》](/cryptocurrency-wallet-guide/)。
+> 💡 **参与比特币生态交互需要 BTC 和钱包。** 还没有 BTC？通过 [币安注册](https://www.binance.com/register?ref=BINANBT) 或 [欧易注册](https://www.promooboost.com/join/60895497) 购买 BTC 后提现到钱包。关于基础钱包知识，先阅读本站的 [《加密货币钱包选择指南》](/cryptocurrency-wallet-guide/)。
 
 ---
 

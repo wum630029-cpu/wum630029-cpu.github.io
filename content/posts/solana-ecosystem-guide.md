@@ -132,7 +132,7 @@ Solana 链上的一切操作都需要 SOL 作为 Gas 费，所以第一步是获
    - 地址：粘贴你的 Phantom 钱包地址
    - 数量：建议首次转 0.5-1 SOL（约几十美元，足够上千次交易）
 
-> 🟦 还没有币安账号？[点击注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+> 🟦 还没有币安账号？[点击注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣。
 
 **从欧易购买 SOL 并提现：**
 

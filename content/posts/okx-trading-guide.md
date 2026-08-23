@@ -186,7 +186,7 @@ OKX 提供 BTC 和 ETH 的期权交易，支持做多/做空，适合专业交�
 
 很多用户选择**两个平台都注册**，哪个好用哪个：
 
-- 🟦 币安注册：[https://www.bsmkweb.cc/register?ref=GMVOGIBL](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，邀请码 `GMVOGIBL`
+- 🟦 币安注册：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)，邀请码 `BINANBT`
 - 🟧 欧易注册：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)，邀请码 `60895497`
 
 ---

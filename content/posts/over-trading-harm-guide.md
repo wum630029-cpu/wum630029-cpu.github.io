@@ -24,7 +24,7 @@ readingTime: 8
 
 > 💡 **学习前提**：先分清「过度交易」和「报复性交易」的区别——后者是亏损后的情绪失控，见 [亏损后的报复性交易](/revenge-trading-guide/)；情绪根源可回溯 [FOMO 与 FUD 情绪化交易](/fomo-fud-emotional-trading-guide/)；少做、做好之后，要用 [交易日志与复盘方法](/trading-journal-guide/) 检验频率与质量，用 [交易纪律养成](/trading-discipline-guide/) 的检查清单兜底——本文是「交易技巧实战全系列」模块四交易心理与纪律的第五篇，上一篇 [浮盈管理实战指南](/floating-profit-management-guide/) 解决了「拿得住盈利」，本文解决「为什么越做越亏，以及怎么从高频低质转到低频高质」；下一篇推荐「交易计划 vs 随心交易：如何制定并严格执行交易计划」。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -240,7 +240,7 @@ readingTime: 8
 > - [RSI 与 MACD 背离实战](/rsi-macd-practical-guide/) — 用客观指标替代「手痒式下单」
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

@@ -12,7 +12,7 @@ readingTime: 6
 
 本教程将从零开始，带你掌握币安 API 量化交易的基础技能。
 
-> ⚠️ **前置条件**：你需要一个已完成 KYC 的币安账号。还没有？[立即注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)，填写邀请码 **GMVOGIBL** 享 20% 手续费返佣。
+> ⚠️ **前置条件**：你需要一个已完成 KYC 的币安账号。还没有？[立即注册](https://www.binance.com/register?ref=BINANBT)，填写邀请码 **BINANBT** 享 20% 手续费返佣。
 
 ## 一、量化交易是什么？适合什么样的人？
 

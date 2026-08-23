@@ -429,7 +429,7 @@ ENS 支持一次续费最多 10 年：
 > ⚠️ **加密资产投资有风险，本文仅提供技术教学，不构成投资建议。** ENS 域名是一种数字资产，其价格可能波动。域名注册费以 ETH 计价，ETH 本身的价格波动会直接影响你的实际花费。在购买高价域名（如 3–4 位短域名）前，请充分了解市场行情。在管理 ENS 域名时，请确保使用官方渠道 `app.ens.domains`，不要在任何不明网站上连接钱包或签署交易。
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
-> - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）
+> - 🟦 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）
 > - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
 
 ### 📌 更多学习资源

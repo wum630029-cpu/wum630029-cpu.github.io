@@ -24,7 +24,7 @@ readingTime: 10
 
 > 💡 **学习前提**：挂单执行与滑点先看 [限价单与市价单实战指南](/limit-vs-market-order-guide/)；止盈止损与离场单设置在 [止盈止损设置实战完整指南](/take-profit-stop-loss-guide/)；上一篇 [OCO与冰山订单实战完整指南](/oco-iceberg-order-guide/) 讲了如何用高级订单类型自动化离场；单笔风险与仓位先看 [仓位计算器实战指南](/position-sizing-calculator-guide/)。本文是「交易技巧实战全系列」模块二订单策略与执行的第四篇，上一篇 [OCO与冰山订单实战完整指南](/oco-iceberg-order-guide/) 解决「如何管理订单」，本文解决「如何用网格把震荡行情变成重复的买卖执行」；下一篇推荐「DCA 定投策略优化：U本位与币本位的定投技巧对比」。
 
-> 🟦 **还没有交易所账号？** 🇨🇳 [中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) / 🌐 [国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 输入邀请码 **GMVOGIBL** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 
@@ -192,7 +192,7 @@ arXiv 论文《Dynamic Grid Trading Strategy》的核心证明：在简单市场
 > - [极端行情生存指南](/extreme-market-survival-guide/) — 插针黑天鹅时网格满仓套牢怎么应对
 
 > 🟦 **开始你的交易之旅**：
-> 🇨🇳 [币安中国区注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL) | 🌐 [币安国际注册](https://accounts.binance.com/en/register?ref=GMVOGIBL) 邀请码 **GMVOGIBL**
+> [币安注册](https://www.binance.com/register?ref=BINANBT) 邀请码 **BINANBT**
 > 🟧 [欧易 OKX 注册](https://www.promooboost.com/join/60895497) 邀请码 **60895497**
 
 ---

@@ -16,7 +16,7 @@ readingTime: 6
 
 如果你手里持有 ETH、BNB、SOL 等 PoS 代币，不参与质押相当于白白放弃了每年 3-10% 的被动收益。
 
-> 💡 **想在交易所得 ETH 参与质押？** 通过[币安注册](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码 **GMVOGIBL**）购买 ETH，既可以提到链上自行质押，也可直接使用币安的质押产品。
+> 💡 **想在交易所得 ETH 参与质押？** 通过[币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）购买 ETH，既可以提到链上自行质押，也可直接使用币安的质押产品。
 
 ---
 

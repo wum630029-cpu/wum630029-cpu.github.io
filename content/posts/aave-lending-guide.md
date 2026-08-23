@@ -91,7 +91,7 @@ Aave 目前已部署在多个主流公链上：
 1. 在钱包里准备 **0.005-0.01 Base ETH** 用于支付 Gas（约 $0.01-0.05，绰绰有余）
 2. 准备 **USDC 或 ETH** 用于存入 Aave
 
-> 🟦 **如果还没资产：** 通过 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）注册币安，入金后提币到钱包。
+> 🟦 **如果还没资产：** 通过 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）注册币安，入金后提币到钱包。
 
 ---
 
@@ -498,7 +498,7 @@ Aave V3 的新功能：**如果你存入和借出的是高度相关的资产（�
 > ⚠️ **风险提示**：DeFi 借贷涉及智能合约风险、市场波动风险和清算风险。本文仅为教学目的，不构成投资建议。参与前请充分了解风险，**不要投入你无法承受损失的资金**。首次操作请务必用小额测试。
 >
 > 💡 如果你觉得本文有帮助，欢迎通过以下链接注册交易所支持本站持续产出更多 DeFi 教程：
-> - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=GMVOGIBL)（邀请码：GMVOGIBL）
+> - 🟦 [币安注册链接](https://www.binance.com/register?ref=BINANBT)（邀请码：BINANBT）
 > - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
 
 ### 📌 更多学习资源
