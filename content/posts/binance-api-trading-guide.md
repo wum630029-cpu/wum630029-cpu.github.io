@@ -71,12 +71,13 @@ readingTime: 6
 
 ### 安全设置建议
 
-```
-⚠️ 以下设置建议全部开启：
-□ IP 白名单 → 限制只有你的服务器 IP 能调用
-□ 不允许提现 → 必须关闭（默认关闭，确认一下）
-□ 限制访问时间 → 按需设置
-```
+创建完成后，回到 API 管理页面逐项确认下面三处：
+
+| 设置项 | 建议 | 为什么 |
+|------|:----:|------|
+| **IP 白名单** | 必开 | 限定只有你的服务器 IP 能调用，Key 万一泄露别人也用不了 |
+| **允许提现** | 必关 | 默认就是关闭状态，但一定要亲自确认一遍 |
+| **限制访问时间** | 按需 | 只在特定时段跑策略的话，可以进一步收紧 |
 
 > **注意**：Secret Key 要像密码一样保管，不要上传到 GitHub 或分享给任何人。
 
@@ -84,36 +85,19 @@ readingTime: 6
 
 ### 安装 Python 环境
 
-```bash
-# 检查 Python 版本（需 3.7+）
-python --version
+先在终端执行 `python --version` 确认版本，需要 **3.7 以上**。然后安装三组依赖：
 
-# 安装币安 Python SDK
-pip install python-binance
-
-# 安装辅助库（数据处理和可视化）
-pip install pandas numpy matplotlib
-```
+| 安装命令 | 装的是什么 |
+|------|------|
+| `pip install python-binance` | 币安 Python SDK，本文所有操作都靠它 |
+| `pip install pandas numpy` | 数据处理，K 线转表格、算指标要用 |
+| `pip install matplotlib` | 绘图，回测时看资金曲线用得上 |
 
 ### 连接测试
 
-```python
-from binance.client import Client
+从 `binance.client` 模块导入 `Client` 类，把 API Key 和 Secret Key 两个字符串**按顺序**传进去，得到一个客户端对象——后面所有操作都通过它发出。
 
-# 填入你的 API Key 和 Secret Key
-api_key = '你的_API_KEY'
-api_secret = '你的_SECRET_KEY'
-
-# 初始化客户端
-client = Client(api_key, api_secret)
-
-# 测试连接
-try:
-    status = client.get_system_status()
-    print(f'连接成功！系统状态：{status["msg"]}')  # 正常返回 "System normal"
-except Exception as e:
-    print(f'连接失败：{e}')
-```
+验证是否连通，调用客户端的 `get_system_status()` 方法。正常会返回一个字典，其中 `msg` 字段的值是 "System normal"。建议把这一步包在 try / except 里，连不上时把异常信息打印出来，方便区分到底是 Key 填错了、网络不通，还是 IP 没进白名单。
 
 ### 安全存储 API 密钥
 
@@ -121,21 +105,9 @@ except Exception as e:
 
 **推荐方案**——使用环境变量：
 
-```bash
-# 终端设置环境变量（或写入 ~/.zshrc）
-export BINANCE_API_KEY='你的API_KEY'
-export BINANCE_SECRET_KEY='你的SECRET_KEY'
-```
+在终端用 `export BINANCE_API_KEY='你的KEY'` 设置，Secret 同理设成 `BINANCE_SECRET_KEY`。想让它长期生效，就把这两行写进 `~/.zshrc` 或 `~/.bashrc`。
 
-```python
-import os
-from binance.client import Client
-
-client = Client(
-    os.getenv('BINANCE_API_KEY'),
-    os.getenv('BINANCE_SECRET_KEY')
-)
-```
+代码里改用 `os.getenv('BINANCE_API_KEY')` 把值读出来，再传给 `Client`，密钥就完全不出现在源码中。
 
 也可以用 `.env` 文件配合 `python-dotenv` 管理密钥，但**务必把 `.env` 加入 `.gitignore`**。
 
@@ -143,214 +115,108 @@ client = Client(
 
 ### 1. 获取实时行情
 
-```python
-# 获取 BTC/USDT 当前价格
-ticker = client.get_symbol_ticker(symbol='BTCUSDT')
-print(f'BTC/USDT 当前价格：{ticker["price"]} USDT')
+查价格有两个方法，区别在于返回的详细程度：
 
-# 获取 24 小时统计
-stats = client.get_ticker(symbol='BTCUSDT')
-print(f'24h 最高价：{stats["highPrice"]}')
-print(f'24h 最低价：{stats["lowPrice"]}')
-print(f'24h 成交量：{stats["volume"]} BTC')
-```
+| 方法 | 传入 | 返回的关键字段 |
+|------|:----:|------|
+| `get_symbol_ticker(symbol='BTCUSDT')` | 交易对 | `price`——当前价 |
+| `get_ticker(symbol='BTCUSDT')` | 交易对 | `highPrice`、`lowPrice`、`volume` 等 24 小时统计 |
+
+有个坑要先说：币安返回的所有价格、数量字段**都是字符串**，不是数字。参与计算前必须先用 `float()` 转换，否则会得到字符串拼接这种莫名其妙的结果。
 
 ### 2. 获取 K 线数据
 
-```python
-import pandas as pd
+调用 `get_klines` 方法，传入三个参数：
 
-# 获取 BTC/USDT 最近 100 根 1 小时 K 线
-klines = client.get_klines(
-    symbol='BTCUSDT',
-    interval=Client.KLINE_INTERVAL_1HOUR,
-    limit=100
-)
+| 参数 | 填什么 | 示例 |
+|------|------|------|
+| `symbol` | 交易对 | BTCUSDT |
+| `interval` | K 线周期 | `Client.KLINE_INTERVAL_1HOUR` |
+| `limit` | 获取根数 | 100（最大 1000）|
 
-# 转换为 DataFrame
-columns = ['timestamp', 'open', 'high', 'low', 'close', 'volume',
-           'close_time', 'quote_asset_volume', 'trades',
-           'taker_buy_volume', 'taker_quote_volume', 'ignore']
-df = pd.DataFrame(klines, columns=columns)
+返回的是嵌套列表，每行 12 个字段，前 6 个是常用的：时间戳、开盘价、最高价、最低价、收盘价、成交量。
 
-# 只用关键列
-df = df[['timestamp', 'open', 'high', 'low', 'close', 'volume']]
-df['timestamp'] = pd.to_datetime(df['timestamp'], unit='ms')
-print(df.tail())
-```
+处理方式是用 pandas 的 `DataFrame` 包一层，给这 12 列起好名字，再把不用的列切掉只留前 6 个。最后把时间戳列用 `pd.to_datetime()` 转成可读时间（**单位要指定为毫秒**，币安返回的是 13 位时间戳），就能直接拿去做技术指标计算了。
 
 ### 3. 查询账户余额
 
-```python
-# 获取账户信息（需要 API 有读取权限）
-account = client.get_account()
+调用 `get_account()`（API 需要读取权限），返回字典里的 `balances` 是一个列表，每个元素形如「资产名 + free + locked」三个字段：`free` 是可用余额，`locked` 是挂单冻结的部分。
 
-# 获取 USDT 余额
-balances = account['balances']
-usdt_balance = next(b for b in balances if b['asset'] == 'USDT')
-print(f'USDT 可用余额：{float(usdt_balance["free"])}')
-print(f'USDT 锁定余额：{float(usdt_balance["locked"])}')
-```
+想取某个币种，遍历这个列表匹配 `asset` 字段即可。注意币安会把**所有**币种都返回回来，其中绝大多数余额为 0，实际使用时通常会先过滤掉零余额再展示。
 
 ### 4. 下单交易
 
-```python
-# 市价买入 0.001 BTC
-order = client.order_market_buy(
-    symbol='BTCUSDT',
-    quantity=0.001
-)
-print(f'订单号：{order["orderId"]}')
-print(f'成交均价：{order["fills"][0]["price"]}')
+下单方法按「市价 / 限价」和「买 / 卖」组合成四个：
 
-# 限价卖出（挂单）
-order = client.order_limit_sell(
-    symbol='BTCUSDT',
-    quantity=0.001,
-    price='70000.00'
-)
-print(f'限价单已挂出，订单号：{order["orderId"]}')
+| 方法 | 必填参数 | 作用 |
+|------|------|------|
+| `order_market_buy` | symbol、quantity | 市价买入，立即成交 |
+| `order_market_sell` | symbol、quantity | 市价卖出，立即成交 |
+| `order_limit_buy` | symbol、quantity、price | 限价买入，挂单等成交 |
+| `order_limit_sell` | symbol、quantity、price | 限价卖出，挂单等成交 |
 
-# 查询订单状态
-status = client.get_order(
-    symbol='BTCUSDT',
-    orderId=order['orderId']
-)
-print(f'订单状态：{status["status"]}')  # FILLED / NEW / PARTIALLY_FILLED / CANCELED
-```
+下单成功后返回的字典里，`orderId` 是订单号，后续查询和撤单都要用它。市价单还会带一个 `fills` 列表，里面是实际成交明细，取第一笔的 `price` 就是成交价。
+
+限价单挂出后不会立即成交，用 `get_order()` 传入 symbol 和 orderId 查状态，`status` 字段有四种取值：
+
+| 状态值 | 含义 |
+|------|------|
+| `NEW` | 已挂单，尚未成交 |
+| `PARTIALLY_FILLED` | 部分成交 |
+| `FILLED` | 完全成交 |
+| `CANCELED` | 已撤销 |
+
+限价单的 `price` 参数**要传字符串**（比如 '70000.00'），传浮点数容易因为精度问题被服务器拒绝。
 
 ### 5. 获取历史订单
 
-```python
-# 获取最近 10 笔已成交订单
-trades = client.get_my_trades(symbol='BTCUSDT', limit=10)
-for t in trades:
-    print(f'{t["time"]} | {"买" if t["isBuyer"] else "卖"} | '
-          f'价格：{t["price"]} | 数量：{t["qty"]}')
-```
+`get_my_trades()` 传入交易对和 `limit`，返回最近的成交记录列表。每条记录里 `time` 是毫秒时间戳，`isBuyer` 为 True 表示这笔是你买入，`price` 和 `qty` 分别是成交价和数量，`commission` 是手续费。遍历一遍就能做简单的交易流水统计。
 
 ## 六、两个实用策略示例
 
 ### 策略一：定投机器人
 
-每天自动买入固定金额的 BTC，消除择时焦虑：
+每天自动买入固定金额的 BTC，消除择时焦虑。整个逻辑只有四步：
 
-```python
-import time
-from datetime import datetime
+1. **取当前价** — 用 `get_symbol_ticker` 拿到 `price`，转成 float
+2. **算买入量** — 定投金额 ÷ 当前价，结果用 `round()` 保留 6 位小数（不同交易对精度要求不同，见第九节）
+3. **市价买入** — 把算出的数量传给 `order_market_buy`
+4. **异常兜底** — 整段包在 try / except 里，失败时打印原因并返回 None，别让脚本直接崩掉
 
-def dca_buy(symbol='BTCUSDT', amount_usdt=50):
-    """每日定投指定金额"""
-    try:
-        # 获取当前价格，确认非异常
-        price = float(client.get_symbol_ticker(symbol=symbol)['price'])
-        print(f'[{datetime.now()}] 当前 {symbol} 价格：{price} USDT')
+把这四步写成一个函数（比如叫 `dca_buy`，参数是交易对和定投金额），存成 `dca_bot.py`。
 
-        # 计算买入数量 = 金额 / 价格
-        quantity = round(amount_usdt / price, 6)
-
-        # 执行市价买入
-        order = client.order_market_buy(
-            symbol=symbol,
-            quantity=quantity
-        )
-        print(f'✅ 定投成功：花费 {amount_usdt} USDT，买入 {quantity} {symbol}')
-        return order
-
-    except Exception as e:
-        print(f'❌ 定投失败：{e}')
-        return None
-
-# 配合定时任务（cron / 系统任务计划器）每天执行一次
-dca_buy('BTCUSDT', amount_usdt=50)
-```
-
-配合 Linux crontab 实现定时运行：
-
-```bash
-# 每天早上 10 点执行定投
-0 10 * * * cd /path/to/script && python dca_bot.py >> dca_log.txt
-```
+定时执行交给系统的定时任务。Linux 下编辑 crontab 加一行规则：分钟填 0、小时填 10、后面三位都填星号，命令部分先 `cd` 到脚本目录再执行 `python dca_bot.py`，并用 `>>` 把输出追加到日志文件——含义就是每天早上 10:00 跑一次定投并留下记录。Windows 用「任务计划程序」配置等效规则。
 
 ### 策略二：移动止盈止损监控
 
-当价格从最高点回落一定比例时自动卖出，锁定利润：
+当价格从最高点回落一定比例时自动卖出，锁定利润。
 
-```python
-import time
+核心是维护一个「历史最高价」变量，在循环里不断刷新：
 
-def trailing_stop(symbol, trail_percent=5, check_interval=60):
-    """移动止盈止损监控"""
-    highest_price = 0
+1. **初始化** — 最高价设为 0，设定回撤阈值（比如 5%）和检查间隔（比如 60 秒）
+2. **循环取价** — 每轮拿一次最新价
+3. **刷新高点** — 当前价高于记录的最高价就更新它
+4. **算回撤** — （最高价 − 当前价）÷ 最高价 × 100，得到从高点回落的百分比
+5. **判断触发** — 回撤 ≥ 阈值就市价卖出并跳出循环；否则 `time.sleep()` 等下一轮
+6. **异常处理** — except 里同样要 sleep 后 continue，而不是退出循环
 
-    print(f'启动移动止盈止损：{symbol}，回撤 {trail_percent}% 触发')
+有两个细节新手最容易忽略：**卖出数量要实时查持仓**，不能写死一个固定值；**循环里的异常必须捕获**，否则一次网络波动就会让监控悄悄停摆，而你还以为它在跑。
 
-    while True:
-        try:
-            ticker = client.get_symbol_ticker(symbol=symbol)
-            current_price = float(ticker['price'])
-
-            # 更新历史最高价
-            if current_price > highest_price:
-                highest_price = current_price
-                print(f'📈 新高：{highest_price} USDT')
-
-            # 计算从最高点的回撤幅度
-            drawdown = (highest_price - current_price) / highest_price * 100
-
-            if drawdown >= trail_percent:
-                # 回撤到位，触发卖出
-                quantity = get_balance(symbol.replace('USDT', ''))
-                if quantity > 0:
-                    order = client.order_market_sell(
-                        symbol=symbol,
-                        quantity=quantity
-                    )
-                    print(f'🔔 触发卖出！回撤 {drawdown:.2f}%，成交价 {current_price}')
-                    break
-                else:
-                    print('没有可卖仓位')
-                    break
-
-            time.sleep(check_interval)
-
-        except Exception as e:
-            print(f'监控异常：{e}')
-            time.sleep(check_interval)
-
-# 用法
-trailing_stop('BTCUSDT', trail_percent=5, check_interval=30)
-
-# 建议：在云服务器上运行，保持终端不断开
-# 或者使用 nohup：nohup python trailing_stop.py &
-```
+部署上建议放云服务器，用 `nohup python trailing_stop.py &` 让它在后台运行，关掉终端也不中断。
 
 ## 七、WebSocket 实时数据
 
-REST API 请求有频率限制（每秒 20 次），实时行情应该用 WebSocket：
+REST API 请求有频率限制（每秒 20 次），实时行情应该用 WebSocket。
 
-```python
-from binance.websocket.spot.websocket_client import SpotWebsocketClient as WebsocketClient
+WebSocket 的思路和 REST 正好相反——不是你反复去问，而是服务器主动推给你。用法分三步：
 
-def handle_message(msg):
-    """WebSocket 消息回调"""
-    if msg.get('e') == '24hrTicker':
-        print(f'{msg["s"]} 当前价格：{msg["c"]} USDT')
+1. **写回调函数** — 定义一个函数接收消息，币安每推来一条数据就调用它一次。消息是字典，`e` 字段是事件类型（行情推送为 `24hrTicker`），`s` 是交易对，`c` 是最新价
+2. **启动客户端** — 从 `binance.websocket.spot.websocket_client` 导入客户端类，实例化后调用 `start()`
+3. **订阅频道** — 调用 `ticker()` 方法，传入交易对和刚写好的回调函数
 
-# 初始化 WebSocket 客户端
-ws_client = WebsocketClient()
-ws_client.start()
+这里有个容易翻车的地方：**订阅时交易对要用小写**（`btcusdt` 而不是 `BTCUSDT`），跟 REST 接口的习惯相反。
 
-# 订阅 BTC/USDT 实时行情
-ws_client.ticker(
-    symbol='btcusdt',
-    callback=handle_message,
-)
-
-# 让程序一直运行
-input('按回车停止...')
-ws_client.stop()
-```
+另外订阅之后主线程不能退出，否则连接跟着断。测试阶段用一个 `input()` 挂住就行，正式运行时通常用 while 循环或专门的事件循环保持。结束时记得调用 `stop()` 关闭连接。
 
 ## 八、代码运行环境推荐
 
@@ -390,23 +256,11 @@ ws_client.stop()
 
 ### 精度问题处理
 
-不同交易对的数量精度不同，可以用代码自适应：
+不同交易对的数量精度不同——BTC 能买 0.00001 个，有些币就必须是整数。下单数量小数位超标会直接报 `LOT_SIZE` 错误，这是新手最高频的报错之一。
 
-```python
-def get_precision(symbol):
-    """获取交易对的数量精度"""
-    info = client.get_symbol_info(symbol)
-    for f in info['filters']:
-        if f['filterType'] == 'LOT_SIZE':
-            step_size = float(f['stepSize'])
-            precision = len(str(step_size).split('.')[-1].rstrip('0'))
-            return precision
-    return 8
+自适应的做法是先查交易规则：调用 `get_symbol_info(symbol)`，返回字典里的 `filters` 是一个规则列表，从中找出 `filterType` 等于 `LOT_SIZE` 的那一条，它的 `stepSize` 字段就是最小变动单位（比如 BTC 是 0.00001000）。
 
-# 使用示例
-precision = get_precision('BTCUSDT')
-quantity = round(0.00123456, precision)
-```
+拿到 `stepSize` 后按小数点切开，取后半段、去掉末尾的 0，剩下的字符长度就是允许的小数位数。下单前用 `round(数量, 位数)` 处理一遍，就不会再触发 LOT_SIZE 报错。建议把这段写成一个工具函数，所有下单前都过一道。
 
 ## 十、进阶方向
 
