@@ -48,13 +48,13 @@
     }
   }
 
-  // 桌面端：卡片常驻展开（点空白处不收起，Esc 可收起、悬停重新展开），点按钮复制 QQ 号；
+  // 桌面端：卡片仅在鼠标悬停时显示（移开收起），点按钮复制 QQ 号；
   // 触屏端：点按展开/收起，点空白处收起
   var hoverCapable = window.matchMedia && window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 
   if (hoverCapable) {
-    open();
     floatEl.addEventListener('mouseenter', open);
+    floatEl.addEventListener('mouseleave', close);
     toggleBtn.addEventListener('click', function(e) {
       e.stopPropagation();
       doCopy(copyBtn.getAttribute('data-qq'));

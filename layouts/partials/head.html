@@ -885,10 +885,15 @@ main {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  gap: 12px;
+  /* 顶部 12px 悬停桥接区：卡片绝对定位在按钮上方，
+     这段 padding 保证鼠标从按钮移到卡片时不经过空隙，避免误触发收起 */
+  padding-top: 12px;
 }
 
 .qq-card {
+  position: absolute;
+  right: 0;
+  bottom: 100%;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 16px;
