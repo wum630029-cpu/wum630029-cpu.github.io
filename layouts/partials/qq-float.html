@@ -35,12 +35,9 @@
     toggleBtn.setAttribute('aria-expanded', 'true');
   }
 
-  function close(byUser) {
+  function close() {
     floatEl.classList.remove('open');
     toggleBtn.setAttribute('aria-expanded', 'false');
-    if (byUser) {
-      try { sessionStorage.setItem('qqFloatClosed', '1'); } catch (err) {}
-    }
   }
 
   function doCopy(qq) {
@@ -51,33 +48,29 @@
     }
   }
 
-  // 桌面端：进页面默认展开卡片（无需悬停），点按钮复制 QQ 号；
-  // 用户手动收起后本次会话不再自动弹出；触屏端：点按展开/收起
+  // 桌面端：卡片常驻展开（点空白处不收起，Esc 可收起、悬停重新展开），点按钮复制 QQ 号；
+  // 触屏端：点按展开/收起，点空白处收起
   var hoverCapable = window.matchMedia && window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-  var wasClosed = false;
-  try { wasClosed = sessionStorage.getItem('qqFloatClosed') === '1'; } catch (err) {}
 
   if (hoverCapable) {
-    if (!wasClosed) open();
+    open();
     floatEl.addEventListener('mouseenter', open);
     toggleBtn.addEventListener('click', function(e) {
       e.stopPropagation();
       doCopy(copyBtn.getAttribute('data-qq'));
+    });
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && floatEl.classList.contains('open')) close();
     });
   } else {
     toggleBtn.addEventListener('click', function(e) {
       e.stopPropagation();
       if (floatEl.classList.contains('open')) { close(); } else { open(); }
     });
+    document.addEventListener('click', function(e) {
+      if (floatEl.classList.contains('open') && !floatEl.contains(e.target)) close();
+    });
   }
-
-  document.addEventListener('click', function(e) {
-    if (floatEl.classList.contains('open') && !floatEl.contains(e.target)) close(true);
-  });
-
-  document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape' && floatEl.classList.contains('open')) close(true);
-  });
 
   function showTip() {
     tip.classList.add('show');
