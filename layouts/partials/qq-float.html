@@ -1,0 +1,87 @@
+<div class="qq-float" id="qqFloat">
+  <div class="qq-card" id="qqCard" role="region" aria-label="QQ 咨询">
+    <div class="qq-card-title">问买 USDT / 注册 / 提币?</div>
+    <p class="qq-card-desc">加 QQ 一对一答疑，比翻文章更快。</p>
+    <div class="qq-card-row">
+      <span>QQ：</span>
+      <button type="button" class="qq-copy-btn" id="qqCopyBtn" data-qq="2205140368" title="点击复制 QQ 号">2205140368</button>
+      <span class="qq-copied-tip" id="qqCopiedTip" role="status">已复制 ✓</span>
+    </div>
+  </div>
+  <button type="button" class="qq-btn" id="qqToggleBtn" aria-expanded="false" aria-controls="qqCard">
+    <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+      <ellipse cx="12.5" cy="35" rx="4.5" ry="10.5" fill="#1b1b1b" transform="rotate(18 12.5 35)"/>
+      <ellipse cx="51.5" cy="35" rx="4.5" ry="10.5" fill="#1b1b1b" transform="rotate(-18 51.5 35)"/>
+      <path fill="#1b1b1b" d="M32 2.5c-8.2 0-13.5 6-13.5 14.5 0 2-.4 3.8-1.2 5.6C15.6 26.3 14 30.6 14 34.8 14 43.6 20.6 49.5 32 49.5s18-5.9 18-14.7c0-4.2-1.6-8.5-3.3-12.2-.8-1.8-1.2-3.6-1.2-5.6C45.5 8.5 40.2 2.5 32 2.5z"/>
+      <ellipse cx="32" cy="41.5" rx="10" ry="8" fill="#fff"/>
+      <path fill="#fff" d="M32 8.5c-5 0-8.6 3.6-8.6 8.3 0 1.4-.3 2.7-.9 4-.9 2-1.8 4.2-1.8 6.2 0 4.6 4.3 8 11.3 8s11.3-3.4 11.3-8c0-2-.9-4.2-1.8-6.2-.6-1.3-.9-2.6-.9-4 0-4.7-3.6-8.3-8.6-8.3z"/>
+      <path fill="#e33d3d" d="M19.5 30.5c3.3 2.2 7.6 3.4 12.5 3.4s9.2-1.2 12.5-3.4l-.9 4.6c-3 1.8-7 2.8-11.6 2.8s-8.6-1-11.6-2.8z"/>
+      <path fill="#e33d3d" d="M41 34.8l4.6 1.3-.9 8.3c-.1 1.2-2 1.2-2.1 0z"/>
+      <circle cx="28.2" cy="17.5" r="2" fill="#1b1b1b"/>
+      <circle cx="35.8" cy="17.5" r="2" fill="#1b1b1b"/>
+      <path fill="#f6b40e" d="M32 21.5l5 3-5 3.4-5-3.4z"/>
+      <ellipse cx="25.5" cy="51.5" rx="5" ry="2.6" fill="#f6b40e"/>
+      <ellipse cx="38.5" cy="51.5" rx="5" ry="2.6" fill="#f6b40e"/>
+    </svg>
+    <span>QQ 咨询</span>
+  </button>
+</div>
+
+<script>
+(function() {
+  var floatEl = document.getElementById('qqFloat');
+  var toggleBtn = document.getElementById('qqToggleBtn');
+  var copyBtn = document.getElementById('qqCopyBtn');
+  var tip = document.getElementById('qqCopiedTip');
+  var hideTimer = null;
+
+  function open() {
+    floatEl.classList.add('open');
+    toggleBtn.setAttribute('aria-expanded', 'true');
+  }
+
+  function close() {
+    floatEl.classList.remove('open');
+    toggleBtn.setAttribute('aria-expanded', 'false');
+  }
+
+  toggleBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    if (floatEl.classList.contains('open')) { close(); } else { open(); }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (floatEl.classList.contains('open') && !floatEl.contains(e.target)) close();
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') close();
+  });
+
+  function showTip() {
+    tip.classList.add('show');
+    clearTimeout(hideTimer);
+    hideTimer = setTimeout(function() { tip.classList.remove('show'); }, 2000);
+  }
+
+  function fallbackCopy(qq) {
+    var ta = document.createElement('textarea');
+    ta.value = qq;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); showTip(); } catch (err) {}
+    document.body.removeChild(ta);
+  }
+
+  copyBtn.addEventListener('click', function() {
+    var qq = copyBtn.getAttribute('data-qq');
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(qq).then(showTip, function() { fallbackCopy(qq); });
+    } else {
+      fallbackCopy(qq);
+    }
+  });
+})();
+</script>
