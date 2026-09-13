@@ -26,7 +26,7 @@ readingTime: 8
 
 > 💡 **学习前提**：本文是系列十四（交易技巧实战全系列）第 42 篇，属于「工具与效率」模块。如果你还看不懂 K 线和常用指标，建议先看 [技术分析入门：K 线图与常用指标详解](/technical-analysis-basics/) 和 [RSI 与 MACD：两大经典指标的背离与共振实战](/rsi-macd-practical-guide/)。
 
-> 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[通过邀请链接注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**，享手续费返佣）。**返佣披露**：此链接为返佣推广，注册成功后我可能获得平台佣金，不影响你的费率与操作，是否使用请自行判断。
+> 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[通过邀请链接注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）。**返佣披露**：此链接为返佣推广，注册成功后我可能获得平台佣金，不影响你的费率与操作，是否使用请自行判断。
 
 ---
 
@@ -159,8 +159,8 @@ readingTime: 8
 
 ---
 
-> **币安注册链接**：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)
-> 🔑 **邀请码：BINANBT**（享手续费返佣，注册时填写）
+> **币安注册链接**：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)
+> 🔑 **邀请码：BT123**（享手续费返佣，注册时填写）
 
 ---
 

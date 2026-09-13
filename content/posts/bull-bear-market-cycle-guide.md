@@ -23,7 +23,7 @@ readingTime: 9
 
 > 💡 **学习前提**：本文是系列三（加密货币新手入门）第 24 篇。建议先读 [什么是加密货币](/what-is-cryptocurrency/) 和 [什么是比特币](/what-is-bitcoin/) 建立基础认知；读完本文，可配合 [恐惧贪婪指数市场情绪实战指南](/fear-greed-index-sentiment-guide/) 一起看，把「判断周期」落到可执行的指标上。
 
-> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）或[注册欧易 OKX](https://www.promooboost.com/join/60895497)（邀请码 **60895497**），享手续费返佣。**返佣披露**：这两个链接为返佣推广，注册成功后我可能获得平台佣金，不影响你的费率与操作，是否使用请自行判断。
+> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.promooboost.com/join/60895497)（邀请码 **60895497**），享手续费返佣。**返佣披露**：这两个链接为返佣推广，注册成功后我可能获得平台佣金，不影响你的费率与操作，是否使用请自行判断。
 
 ---
 
@@ -158,7 +158,7 @@ readingTime: 9
 
 ---
 
-> **币安注册链接**：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT) ｜ 邀请码 **BINANBT**（享手续费返佣）
+> **币安注册链接**：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
 > **欧易 OKX 注册链接**：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497) ｜ 邀请码 **60895497**（享手续费返佣）
 
 ---

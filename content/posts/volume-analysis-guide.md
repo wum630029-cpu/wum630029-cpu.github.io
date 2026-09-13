@@ -28,7 +28,7 @@ readingTime: 9
 >
 > 本文是「交易技巧实战全系列」的第四篇，下一篇推荐学习 [RSI与MACD指标实战：背离与共振判断买卖点](/rsi-macd-practical-guide/)。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.binance.com/register?ref=BINANBT) 输入邀请码 **BINANBT** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
 
 ---
 

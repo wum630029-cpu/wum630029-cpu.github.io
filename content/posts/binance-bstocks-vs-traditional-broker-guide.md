@@ -27,7 +27,7 @@ readingTime: 10
 
 🟦 **需要账户？** 用下方链接注册，现货交易可享手续费返佣：
 
-- 币安注册：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)（邀请码 BINANBT）
+- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
 - 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 60895497）
 
 ---

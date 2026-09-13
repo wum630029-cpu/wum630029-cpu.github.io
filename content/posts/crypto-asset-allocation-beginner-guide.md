@@ -99,7 +99,7 @@ readingTime: 8
 
 到这里，你已经有了完整的骨架。落地只需要一个完成 KYC 的交易所账户和一笔闲钱：
 
-- 币安注册：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)（邀请码 BINANBT，注册后现货买卖可享手续费返佣）
+- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123，注册后现货买卖可享手续费返佣）
 
 > 想系统了解新手第一步怎么走，可对照 CoinVado 的[新手第一步入门指南](https://coinvado.com/posts/crypto-beginner-first-step-2026/)，与本文互为补充。
 

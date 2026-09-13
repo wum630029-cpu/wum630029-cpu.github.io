@@ -24,7 +24,7 @@ readingTime: 8
 
 > 💡 **学习前提**：本文是系列三（加密货币新手入门）第 19 篇。建议先读 [什么是加密货币](/what-is-cryptocurrency/) 建立基础认知；读完本文，可直接进入 [币安注册完整指南](/binance-register-guide/) 或 [OKX 欧易注册教程](/okx-register-guide/) 实操开户。
 
-> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**）或[注册欧易 OKX](https://www.promooboost.com/join/60895497)（邀请码 **60895497**），享手续费返佣。**返佣披露**：这两个链接为返佣推广，注册成功后我可能获得平台佣金，不影响你的费率与操作，是否使用请自行判断。
+> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.promooboost.com/join/60895497)（邀请码 **60895497**），享手续费返佣。**返佣披露**：这两个链接为返佣推广，注册成功后我可能获得平台佣金，不影响你的费率与操作，是否使用请自行判断。
 
 ---
 
@@ -158,7 +158,7 @@ KYC 核心就查三件事：
 
 ---
 
-> **币安注册链接**：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT) ｜ 邀请码 **BINANBT**（享手续费返佣）
+> **币安注册链接**：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
 > **欧易 OKX 注册链接**：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497) ｜ 邀请码 **60895497**（享手续费返佣）
 
 ---

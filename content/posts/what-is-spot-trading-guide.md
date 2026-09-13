@@ -157,7 +157,7 @@ readingTime: 8
 
 > 需要交易所账户来买现货或试合约？以下为本站的合作推广链接，通过它们注册并完成交易，你可能会获得手续费优惠，本站也会获得少量返佣（已如实披露）：
 >
-> - 币安：注册链接 [binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)，邀请码 **BINANBT**；
+> - 币安：注册链接 [bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**；
 > - 欧易（OKX）：注册链接 [promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)，邀请码 **60895497**。
 
 ### 📌 更多学习资源

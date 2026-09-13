@@ -89,7 +89,7 @@ Web3 的「账号」，不是你注册的手机号 + 密码，而是一个**加�
 3. 从交易所把少量 ETH 提币到钱包地址。
 4. 用钱包连接一个 dApp（比如一个去中心化交易所），体验一次「链上操作」。
 
-> 想动手体验？可以先通过[币安注册](https://www.binance.com/register?ref=BINANBT)（邀请码 **BINANBT**，注册后现货交易可享手续费返佣），买入少量 ETH，再提币到钱包开始探索。**务必先用小钱走通流程，别一上来就投大额。**
+> 想动手体验？可以先通过[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，注册后现货交易可享手续费返佣），买入少量 ETH，再提币到钱包开始探索。**务必先用小钱走通流程，别一上来就投大额。**
 
 进入 Web3 的门槛其实就卡在「钱包 + 私钥」这两件事上，而这也是风险最集中的地方——**Web3 世界里「丢了私钥 = 丢了资产」，「泄露私钥 = 资产被偷」，没有客服能帮你找回**。如何安全签名、避免被钓鱼，是进入之前必须补的一课，进阶可看 CoinVado 的 [Web3 安全完全指南](https://coinvado.com/posts/web3-security-complete-guide-2026-wallet-smart-contract)，以及本站的 [链上安全：签名授权与智能合约交互防骗指南](/onchain-security-signature-guide/)。
 

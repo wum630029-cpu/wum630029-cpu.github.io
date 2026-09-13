@@ -114,7 +114,7 @@ readingTime: 9
 
 如果你决定开户，可参考以下返佣渠道（通过链接注册不增加你的任何成本，我们可能获得返佣）：
 
-- 币安注册：[https://www.binance.com/register?ref=BINANBT](https://www.binance.com/register?ref=BINANBT)（邀请码 BINANBT）
+- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
 - 欧易注册：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 60895497）
 
 ## 常见误区
