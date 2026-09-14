@@ -1,4 +1,4 @@
-{{- /* 站点搜索框：首页「最新文章」与文章详情页共用，基于内嵌索引的即时搜索 */ -}}
+{{- /* 站点搜索框：首页「最新文章」与文章列表页(/posts/)共用，基于内嵌索引的即时搜索 */ -}}
 {{- $index := slice -}}
 {{- range where .Site.RegularPages "Type" "posts" -}}
   {{- $snippet := .Description -}}

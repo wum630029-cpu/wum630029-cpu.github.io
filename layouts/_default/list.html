@@ -5,6 +5,8 @@
     <div class="article-content" style="margin-top: 24px;">{{ . }}</div>
   {{ end }}
 
+  {{ partial "search.html" . }}
+
   <div class="article-list" style="margin-top: 32px;">
     {{ range .Pages }}
       <article class="article-card">
