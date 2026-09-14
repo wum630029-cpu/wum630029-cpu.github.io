@@ -50,6 +50,20 @@
     {{ .Content }}
   </div>
 
+  {{- $related := .Site.RegularPages.Related . | first 4 -}}
+  {{- with $related -}}
+  <section class="related-posts" style="margin-top: 48px; padding: 24px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);">
+    <h2 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 14px;">📚 相关阅读</h2>
+    <ul style="margin: 0; padding: 0; list-style: none; display: grid; gap: 10px;">
+      {{- range . -}}
+      <li style="margin: 0;">
+        <a href="{{ .RelPermalink }}" style="color: var(--primary); font-weight: 600; font-size: 0.98rem;">{{ .Title }}</a>
+      </li>
+      {{- end -}}
+    </ul>
+  </section>
+  {{- end -}}
+
   <footer style="margin-top: 64px; padding-top: 32px; border-top: 1px solid var(--border);">
     <p style="color: var(--text-3); font-size: 0.9rem;">
       如果这篇文章帮到了你，欢迎分享给身边需要的朋友。投资有风险，入市需谨慎。
