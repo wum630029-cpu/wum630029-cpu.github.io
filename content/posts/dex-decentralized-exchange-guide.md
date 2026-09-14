@@ -1,4 +1,5 @@
----title: 'DEX 去中心化交易所完整使用指南：Uniswap 与 PancakeSwap 操作详解及连接钱包教程'
+---
+title: 'DEX 去中心化交易所完整使用指南：Uniswap 与 PancakeSwap 操作详解及连接钱包教程'
 date: 2026-07-07T00:00:00+08:00
 draft: false
 description: '买了 USDT 不知道怎样在链上用？从 CEX 到 DEX 实操完整指南。手把手连接 MetaMask 到以太坊主网与 BNB Chain、在 Uniswap 和 PancakeSwap 进行代币兑换并正确设置滑点保护、以及添加流动性赚取手续费收益。掌握 DEX 操作，从 CEX 用户踏入 Web3 链上世界。'
