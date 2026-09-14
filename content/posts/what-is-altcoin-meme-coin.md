@@ -1,6 +1,7 @@
 ---
-title: '什么是山寨币与 Meme 币？Altcoin、狗狗币与 SHIB 等模因币的区别和风险一次讲明白新手入门指南'
+title: '什么是山寨币与 Meme 币？Altcoin、狗狗币与 SHIB 的区别和风险一次讲明白'
 date: 2026-08-22T00:00:00+08:00
+lastmod: 2026-09-14T00:00:00+08:00
 draft: false
 description: '山寨币和 Meme 币是什么？比特币以太坊之外的上万种币都算山寨币吗？本文用「正餐 vs 开胃菜 vs 盲盒」的比喻讲清 Altcoin 的分类、狗狗币 SHIB PEPE 等模因币的炒作逻辑、为什么它们涨得猛也跌得惨，以及新手该不该碰、怎么用小仓位试水、如何识别貔貅盘和割韭菜骗局，附对比表与常见误区，适合零基础新手。'
 slug: 'what-is-altcoin-meme-coin'

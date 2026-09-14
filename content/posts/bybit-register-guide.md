@@ -1,6 +1,7 @@
 ---
-title: 'Bybit 交易所注册与操作指南：2026 最新开户、KYC 认证与合约交易全流程'
+title: 'Bybit 怎么注册开户？KYC 实名认证、邀请码返佣与合约交易入门完整流程一次全讲清'
 date: 2026-07-30T00:00:00+08:00
+lastmod: 2026-09-14T00:00:00+08:00
 draft: false
 description: '2026 年 Bybit 交易所注册开户完整教程，零基础教你完成账号注册、KYC 身份认证与安全设置全流程。涵盖 App 下载安装、合约交易入门、Launchpad 打新以及资金费率套利等特色功能，手把手带你从注册到完成首次交易。'
 slug: 'bybit-register-guide'
