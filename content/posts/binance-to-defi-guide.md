@@ -55,14 +55,12 @@ MetaMask 是最主流、生态最完善的链上钱包，支持以太坊及所�
 
 ### 创建钱包的关键步骤
 
-```
-📋 创建流程（全程注意安全！）
+📋 创建流程（全程注意安全！）：
 
 1. 点击「创建钱包」→ 设置密码（至少 8 位，大小写字母+数字+符号）
 2. 系统显示 12 个助记词 → 📝 手写抄下来，不要截图、不要存手机
 3. 按顺序确认助记词 → 完成创建
 4. 点击左上角菜单 → 切换网络 → 添加 BNB Chain
-```
 
 ### ⚠️ 助记词安全铁律
 
@@ -80,12 +78,12 @@ MetaMask 默认只有以太坊主网。为了与币安生态交互，需要手�
 | 参数 | 值 |
 |:----|:---|
 | 网络名称 | BNB Smart Chain |
-| RPC URL | `https://bsc-dataseed.binance.org` |
+| RPC URL | https://bsc-dataseed.binance.org |
 | 链 ID | 56 |
 | 符号 | BNB |
-| 区块浏览器 | `https://bscscan.com` |
+| 区块浏览器 | https://bscscan.com |
 
-> 也可以用 Chainlist（`chainlist.org`）一键添加——连接 MetaMask，搜索 BNB Chain，点「Add Chain」即可。
+> 也可以用 Chainlist（chainlist.org）一键添加——连接 MetaMask，搜索 BNB Chain，点「Add Chain」即可。
 
 ---
 
@@ -101,14 +99,12 @@ MetaMask 默认只有以太坊主网。为了与币安生态交互，需要手�
 
 ### 实操步骤（以 BNB Chain 为例）
 
-```
-1️⃣ 打开币安 App → 点击「钱包」→ 选择「提现」
-2️⃣ 选择提现币种（如 BUSD 或 USDT）
-3️⃣ 在「接收地址」粘贴你的 MetaMask 钱包地址
-4️⃣ 网络选择 → ⚠️ 务必选择「BSC」或「BNB Smart Chain」
-5️⃣ 输入金额 → 确认所有信息无误
-6️⃣ 通过 2FA 验证 → 等待链上确认（通常 1-5 分钟）
-```
+1. 打开币安 App → 点击「钱包」→ 选择「提现」
+2. 选择提现币种（如 BUSD 或 USDT）
+3. 在「接收地址」粘贴你的 MetaMask 钱包地址
+4. 网络选择 → ⚠️ 务必选择「BSC」或「BNB Smart Chain」
+5. 输入金额 → 确认所有信息无误
+6. 通过 2FA 验证 → 等待链上确认（通常 1-5 分钟）
 
 ### ⚠️ 提币网络选择——选错就没了！
 
@@ -127,7 +123,7 @@ MetaMask 默认只有以太坊主网。为了与币安生态交互，需要手�
 
 提币完成后，打开 MetaMask：
 1. 确认钱包网络切换到 BNB Smart Chain
-2. 如果转的是 USDT/BUSD，可能需要手动添加代币：点击「导入代币」→ 粘贴合约地址（USDT on BSC：`0x55d398326f99059fF775485246999027B3197955`）
+2. 如果转的是 USDT/BUSD，可能需要手动添加代币：点击「导入代币」→ 粘贴合约地址（USDT on BSC：0x55d398326f99059fF775485246999027B3197955）
 3. 应该能看到余额显示了 ✅
 
 ---
@@ -138,12 +134,10 @@ MetaMask 默认只有以太坊主网。为了与币安生态交互，需要手�
 
 ### Gas 费三要素
 
-```
-Gas 费 = Gas Limit（上限） × Gas Price（单价）
+**Gas 费 = Gas Limit（上限） × Gas Price（单价）**
 
 - Gas Limit：操作需要消耗的计算量（简单的转账 ~21,000，复杂合约交互 ~100,000+）
 - Gas Price：你愿意为每单位 Gas 支付的 gwei 数（越高越快确认）
-```
 
 ### 不同链的 Gas 费对比
 
@@ -172,18 +166,16 @@ Gas 费 = Gas Limit（上限） × Gas Price（单价）
 
 ### PancakeSwap 操作流程
 
-```
-1️⃣ 打开 https://pancakeswap.finance/swap
-2️⃣ 连接钱包 → 点击「Connect Wallet」→ 选择 MetaMask
-3️⃣ MetaMask 弹出确认 → 点击连接
-4️⃣ 选择交易对：比如 USDT → CAKE
+1. 打开 https://pancakeswap.finance/swap
+2. 连接钱包 → 点击「Connect Wallet」→ 选择 MetaMask
+3. MetaMask 弹出确认 → 点击连接
+4. 选择交易对：比如 USDT → CAKE
    - From：选择 USDT（第一次需要授权代币）
    - To：选择 CAKE
-5️⃣ 输入你想换的 USDT 数量
-6️⃣ 点击「Swap」→ 在 MetaMask 中确认交易
-7️⃣ 等待区块确认（几秒钟到几分钟不等）
-8️⃣ ✅ 交易完成！你的钱包里现在有 CAKE 了
-```
+5. 输入你想换的 USDT 数量
+6. 点击「Swap」→ 在 MetaMask 中确认交易
+7. 等待区块确认（几秒钟到几分钟不等）
+8. ✅ 交易完成！你的钱包里现在有 CAKE 了
 
 ### 第一次 Swp 的关键操作解释
 
@@ -196,9 +188,9 @@ Gas 费 = Gas Limit（上限） × Gas Price（单价）
 
 每一笔链上交易都有唯一的 **Transaction Hash（交易哈希/TxHash）**，把它粘贴到对应的区块浏览器就能看到完整记录：
 
-- BNB Chain → `https://bscscan.com/tx/你的TxHash`
-- 以太坊 → `https://etherscan.io/tx/你的TxHash`
-- Polygon → `https://polygonscan.com/tx/你的TxHash`
+- BNB Chain → https://bscscan.com/tx/你的TxHash
+- 以太坊 → https://etherscan.io/tx/你的TxHash
+- Polygon → https://polygonscan.com/tx/你的TxHash
 
 > 你可以在这里查看交易状态（成功/进行中/失败），以及实际支付的 Gas 费。这是链上世界最强大的「查账本」功能。
 
@@ -214,25 +206,21 @@ Gas 费 = Gas Limit（上限） × Gas Price（单价）
 
 以 PancakeSwap 的 CAKE/USDT 池为例：
 
-```
 你的操作：
 1. 准备等值的 CAKE 和 USDT
 2. 存入 PancakeSwap 的流动性池
 3. 获得 LP Token（流动性凭证）
 4. 每次有人在池子交易，你分到手续费
 5. 想退出时，销毁 LP Token 取回你的 CAKE + USDT
-```
 
 ### 操作步骤
 
-```
-1️⃣ 在 PancakeSwap 点「Liquidity」→「Add Liquidity」
-2️⃣ 选择 CAKE/USDT 交易对
-3️⃣ 输入 CAKE 的数量 → 系统自动算出需要的 USDT 数量
-4️⃣ 点击「Approve CAKE/USDT」（第一次需要）
-5️⃣ 确认授权 → 再点击「Supply」→ 确认
-6️⃣ ✅ 完成！你现在是 PancakeSwap 的流动性提供者了
-```
+1. 在 PancakeSwap 点「Liquidity」→「Add Liquidity」
+2. 选择 CAKE/USDT 交易对
+3. 输入 CAKE 的数量 → 系统自动算出需要的 USDT 数量
+4. 点击「Approve CAKE/USDT」（第一次需要）
+5. 确认授权 → 再点击「Supply」→ 确认
+6. ✅ 完成！你现在是 PancakeSwap 的流动性提供者了
 
 ### ⚠️ 关键风险：无常损失
 
@@ -252,31 +240,25 @@ Gas 费 = Gas Limit（上限） × Gas Price（单价）
 
 把你现在会的和即将要学的串起来：
 
-```
-┌─────────────────────────────────────────────────┐
-│                   你的完整工具箱                   │
-├─────────────────────────────────────────────────┤
-│                                                    │
-│  🟦 币安 (CEX)                                     │
-│  ├── 现货/合约交易（市场买卖）                      │
-│  ├── 理财/Launchpad（被动收益）                    │
-│  └── 提币 → 链上钱包（通往下方的入口）            │
-│                                                    │
-│  🟩 链上钱包 (MetaMask)                            │
-│  ├── DEX Swap（Uniswap、PancakeSwap）              │
-│  ├── 提供流动性（做市赚手续费）                    │
-│  ├── 借贷（Aave：存入赚息/借出支付利息）           │
-│  ├── Staking（质押代币获取收益）                   │
-│  └── 跨链桥（在公链之间转移资产）                  │
-│                                                    │
-│  决策原则：                                         │
-│  · 常规买卖 → 币安（快、省、简单）                 │
-│  · 长期持有 → 提到钱包（安全、自主控制）           │
-│  · 追求收益 → 链上 DeFi（高收益但也高风险）        │
-│  · 参与新项目 → 链上（空投/测试网/IDO）            │
-│                                                    │
-└─────────────────────────────────────────────────┘
-```
+你的完整工具箱：
+
+**🟦 币安 (CEX)：**
+- 现货/合约交易（市场买卖）
+- 理财/Launchpad（被动收益）
+- 提币 → 链上钱包（通往下方的入口）
+
+**🟩 链上钱包 (MetaMask)：**
+- DEX Swap（Uniswap、PancakeSwap）
+- 提供流动性（做市赚手续费）
+- 借贷（Aave：存入赚息/借出支付利息）
+- Staking（质押代币获取收益）
+- 跨链桥（在公链之间转移资产）
+
+**决策原则：**
+- 常规买卖 → 币安（快、省、简单）
+- 长期持有 → 提到钱包（安全、自主控制）
+- 追求收益 → 链上 DeFi（高收益但也高风险）
+- 参与新项目 → 链上（空投/测试网/IDO）
 
 ---
 

@@ -14,7 +14,7 @@ categories: ['币安美股与全球投资']
 
 本教程手把手教你用币安 Bstocks 炒美股，从开户到第一笔交易，包教包会。
 
-> 💡 **开始之前：** 如果你还没有币安账号，[点击这里注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 `BT123`，完成 KYC 后充入 USDC 即可开始。
+> 💡 **开始之前：** 如果你还没有币安账号，[点击这里注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**，完成 KYC 后充入 USDC 即可开始。
 
 ## 一、什么是 Bstocks？
 
@@ -68,13 +68,13 @@ Bstocks 是币安推出的**代币化美股产品**。简单来说，就是把�
 **方式二（网页端）：**
 1. 登录币安官网
 2. 顶部菜单选择「交易」→「现货」
-3. 在搜索框输入股票代码+BSTOCK，如 `AAPLBSTOCK`、`TSLABSTOCK`
+3. 在搜索框输入股票代码+BSTOCK，如 AAPLBSTOCK、TSLABSTOCK
 
 ### 第 3 步：下单买入
 
 Bstocks 的交易界面和币安现货交易基本一致：
 
-1. 选择交易对，例如 `AAPLBSTOCK/USDC`
+1. 选择交易对，例如 AAPLBSTOCK/USDC
 2. 选择订单类型：
    - **市价单**：按当前最优价格立即成交
    - **限价单**：设定你愿意买入的价格，达到后自动成交
@@ -149,14 +149,10 @@ Bstocks 的 K 线图和数据直接显示在币安交易界面，和交易加密
 ### 出入金流程
 
 **入金（充值 USDC）：**
-```
 币安 C2C 买 USDT → 币安现货卖出 USDT 买入 USDC → 用 USDC 买 Bstocks
-```
 
 **出金（提现）：**
-```
 卖出 Bstocks → 获得 USDC → 在币安 C2C 将 USDC 换为 USDT → 卖出 USDT 得人民币
-```
 
 > 💡 **小技巧：** BNB Chain 上的 USDC 提现费用最低（约 0.1-0.3 USDC），适合日常操作。
 
@@ -211,19 +207,13 @@ Bstocks 是币安平台的产品，依赖币安的运营。和任何中心化产
 
 **操作步骤速记：**
 
-```
-注册币安（邀请码 BT123）
-  ↓
-完成 KYC
-  ↓
-C2C 买入 USDT → 换成 USDC
-  ↓
-搜索 Bstocks → 选择股票 → 下单买入
-  ↓
-随时查看/卖出
-```
+1. 注册币安（邀请码 BT123）
+2. 完成 KYC
+3. C2C 买入 USDT → 换成 USDC
+4. 搜索 Bstocks → 选择股票 → 下单买入
+5. 随时查看/卖出
 
-> 💡 如果你还没有币安账户，[点击这里注册](https://www.bsmkweb.cc/register?ref=BT123)，完成 KYC 后即可开始交易 Bstocks。邀请码：`BT123`
+> 💡 如果你还没有币安账户，[点击这里注册](https://www.bsmkweb.cc/register?ref=BT123)，完成 KYC 后即可开始交易 Bstocks。邀请码：**BT123**
 
 ---
 

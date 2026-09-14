@@ -2,7 +2,7 @@
 title: '美股代币 vs 传统美股：股东权益、分红与投票权对比，币安 bStocks 投资者必读指南'
 date: 2026-08-10T00:00:00+08:00
 draft: false
-description: '美股代币与真实股票到底差在哪？本文从法律定性、投票权、分红处理、交易时段与破产隔离五大维度全面对比币安 bStocks 与传统美股，用对比表格讲清哪些权益被保留、哪些缺失：谁无投票权、股息为何再投资并扣 30% 预扣税、7×24 vs T+1、SIPC 为何不保代币，帮你判断美股代币是否适合你的投资目标与风险承受力。'
+description: '美股代币与真实股票到底差在哪？本文从法律定性、投票权、分红处理、交易时段与破产隔离五大维度全面对比币安 bStocks 与传统美股，用对比表讲清哪些权益被保留、哪些缺失：谁无投票权、股息为何再投资并扣 30% 预扣税、7×24 vs T+1、SIPC 为何不保代币，帮你判断是否适合你的投资目标与风险承受力。'
 slug: 'us-stock-token-vs-traditional-stock-guide'
 tags: ['美股代币', '代币化证券', '美股', 'bStocks', '股东权益', '投资对比']
 categories: ['美股教程']
@@ -21,9 +21,9 @@ readingTime: 9
 
 💡 **学习前提**：不了解美股代币是什么，先读 [什么是美股代币？代币化证券原理与 1:1 锚定机制详解](/what-is-us-stock-token-guide/)（系列十五第 1 篇）；想先上手实操，看 [币安 Bstocks 保姆级实操指南](/binance-bstocks-guide/)。本文是系列十五第 2 篇，下一篇推荐：**美股代币如何定价：预言机锚定、做市商与溢价折价机制**。
 
-🟦 **注册链接**：想买美股代币先要有币安账户，建议注册时填邀请码 `BT123`（注册后无法补填）：
+🟦 **注册链接**：想买美股代币先要有币安账户，建议注册时填邀请码 **BT123**（注册后无法补填）：
 - 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)
-- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 `60895497`）
+- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ---
 
@@ -121,8 +121,8 @@ bStocks 的保护逻辑不同：它靠「1:1 底层资产背书 + 受监管托�
 ## 🟦 注册链接
 
 还没开户？用下方链接注册币安 / 欧易，现货交易可享手续费返佣：
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 `BT123`）
-- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 `60895497`）
+- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
+- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 想看更多币安功能与教程？欢迎访问 CoinVado 的[币安专区](https://coinvado.com/zh/binance/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

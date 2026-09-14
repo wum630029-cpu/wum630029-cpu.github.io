@@ -2,7 +2,7 @@
 title: '以太坊 Layer 2 指南：Arbitrum、Optimism、Base、zkSync 跨链桥操作详解'
 date: 2026-07-11T00:00:00+08:00
 draft: false
-description: '以太坊 Layer 2 生态完整指南：对比 Arbitrum、Optimism、Base、zkSync 四大扩容方案的关键差异，详解跨链桥操作步骤、网络切换至 L2 的 MetaMask 钱包配置方法与 Gas 费用大幅降低优势，盘点热门生态项目与安全须知，助你告别以太坊主网高昂手续费，轻松掌握 L2 扩容网络。'
+description: '以太坊 Layer 2 生态完整指南：对比 Arbitrum、Optimism、Base、zkSync 四大扩容方案的关键差异，详解跨链桥操作步骤、切换至 L2 的 MetaMask 钱包配置方法与 Gas 费用大幅降低优势，盘点热门生态项目与安全须知，助你告别以太坊主网高昂手续费，轻松掌握 L2 扩容网络。'
 slug: 'ethereum-layer2-guide'
 tags: ['以太坊', 'Ethereum', 'Layer2', 'Arbitrum', 'Optimism', 'Base', 'zkSync', 'OP', 'ARB', '扩容', '跨链', '链上操作']
 categories: ['链上操作实战指南']
@@ -214,13 +214,11 @@ L2 的核心思路可以简化为三步：
 你可以手动添加，也可以使用 [Chainlist](https://chainlist.org) 自动添加。
 
 **手动添加 Arbitrum One**：
-```
-网络名称：Arbitrum One
-RPC URL：https://arb1.arbitrum.io/rpc
-链 ID：42161
-符号：ETH
-浏览器：https://arbiscan.io
-```
+- 网络名称：Arbitrum One
+- RPC URL：https://arb1.arbitrum.io/rpc
+- 链 ID：42161
+- 符号：ETH
+- 浏览器：https://arbiscan.io
 
 **常用 L2 网络参数汇总**：
 
@@ -275,7 +273,7 @@ RPC URL：https://arb1.arbitrum.io/rpc
 很多人担心从 Arbitrum 提现到 L1 需要 7 天「冻结」。实际上：
 - **只有通过官方桥 L2→L1 传统提现才有 7 天等待期**
 - 使用 CEX 提现或第三方桥（Across、Stargate）可实现即时提现
-- Arbitrum 的 `加速提现`（Fast Withdrawal）服务让流动性提供商垫付资金，几分钟到账
+- Arbitrum 的加速提现（Fast Withdrawal）服务让流动性提供商垫付资金，几分钟到账
 
 **2. 排序器宕机**
 
@@ -326,7 +324,7 @@ L2 的排序器（Sequencer）是负责接收和排序交易的中心化组件�
 
 ### 6.2 EIP-4844（Proto-Danksharding）的影响
 
-2024 年 3 月实施的 EIP-4844 引入了一种新的临时数据空间——**Blob**——专门用于 L2 向 L1 提交数据。在此之前，L2 的数据只能存储在昂贵的 `CALLDATA` 中。
+2024 年 3 月实施的 EIP-4844 引入了一种新的临时数据空间——**Blob**——专门用于 L2 向 L1 提交数据。在此之前，L2 的数据只能存储在昂贵的 CALLDATA 中。
 
 EIP-4844 上线后，L2 的 Gas 费在大多数网络上又降低了 **10-15 倍**。原本 $0.10 的交易降到了 $0.01 以下，使得 L2 对小额交易也非常友好。
 

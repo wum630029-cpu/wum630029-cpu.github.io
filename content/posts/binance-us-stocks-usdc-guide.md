@@ -3,7 +3,7 @@ title: '币安美股交易新手教程：用 USDC 购买美股完整指南，港
 date: 2026-06-25T00:00:00+08:00
 lastmod: 2026-09-14T00:00:00+08:00
 draft: false
-description: '2026 年最新币安美股交易完整教程，手把手教你用 USDC 稳定币在 Bstocks 购买苹果、特斯拉、英伟达等热门美股碎股及 ETF 基金。支持 7 天 24 小时全天候交易含周末时段，最低 1 美元即可起步投资。涵盖 Bstocks 开通流程、USDC 入金充值、搜索股票与下单买入到查看持仓与卖出管理全流程详解。'
+description: '2026 年最新币安美股交易完整教程，手把手教你用 USDC 稳定币在 Bstocks 购买苹果、特斯拉、英伟达等热门美股碎股及 ETF 基金。支持 7 天 24 小时全天候交易，最低 1 美元即可起步。涵盖 Bstocks 开通流程、USDC 入金充值、搜索股票与下单买入到查看持仓与卖出管理全流程详解。'
 slug: 'binance-us-stocks-usdc-guide'
 tags: ['币安美股', 'Bstocks', 'USDC', '美股', '买美股', '数字资产', '碎股', '投资教程', '2026']
 categories: ['美股教程']
@@ -39,7 +39,7 @@ readingTime: 4
 <a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=BT123" target="_blank" rel="noopener noreferrer">👉 立即注册币安</a>
 
 - **邀请链接**：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)
-- **邀请码**：`BT123`
+- **邀请码**：BT123
 
 ### 注册后需要完成的准备
 

@@ -2,7 +2,7 @@
 title: 'DEX 去中心化交易所完整使用指南：Uniswap 与 PancakeSwap 操作详解及连接钱包教程'
 date: 2026-07-07T00:00:00+08:00
 draft: false
-description: '买了 USDT 不知道怎样在链上用？从 CEX 到 DEX 实操完整指南。手把手连接 MetaMask 到以太坊主网与 BNB Chain、在 Uniswap 和 PancakeSwap 进行代币兑换并正确设置滑点保护、以及添加流动性赚取手续费收益。掌握 DEX 操作，从 CEX 用户踏入 Web3 链上世界。'
+description: '买了 USDT 不知道怎样在链上用？从 CEX 到 DEX 实操完整指南。手把手连接 MetaMask 到以太坊主网与 BNB Chain、在 Uniswap 和 PancakeSwap 进行代币兑换并正确设置滑点保护、以及添加流动性赚取手续费收益。掌握 DEX 操作，从 CEX 踏入 Web3 链上世界。'
 slug: 'dex-decentralized-exchange-guide'
 tags: ['DEX', '去中心化交易所', 'Uniswap', 'PancakeSwap', 'DeFi', 'AMM', '去中心化金融', '链上交易', '加密货币']
 categories: ['链上操作实战指南']
@@ -62,9 +62,7 @@ DEX 绝大多数使用 **AMM（Automated Market Maker，自动做市商）** 机
 
 **池子规则：** 两边水的总量相乘必须保持恒定。
 
-```
-USDT × ETH = 常数（k）
-```
+**USDT × ETH = 常数（k）**
 
 - 当你想用 USDT 换 ETH：你把 USDT 倒进左边，右边 ETH 的水位就会上升，你从右边取走相应量的 ETH
 - USDT 倒得越多，ETH 变得越贵（滑点）
@@ -139,19 +137,13 @@ Uniswap 是以太坊上最大的 DEX，也是最经典的 AMM 协议。它在多
 7. 钱包弹出确认窗口 → 确认交易
 8. 等待链上确认（几秒到几分钟不等）
 
-```
-┌──────────────────────────────────┐
-│        Swap                       │
-├──────────────────────────────────┤
-│ You Pay:     USDC  100.00        │
-│ You Get:    ETH   0.0325         │
-│ Rate:       1 ETH = 3,076 USDC   │
-│ Network Fee:      0.0012 ETH     │
-│ Max Slippage:     0.5%           │
-├──────────────────────────────────┤
-│          [Swap]                   │
-└──────────────────────────────────┘
-```
+| 字段 | 示例值 |
+|:----|:------|
+| You Pay（支付） | USDC 100.00 |
+| You Get（收到） | ETH 0.0325 |
+| Rate（汇率） | 1 ETH = 3,076 USDC |
+| Network Fee（网络费） | 0.0012 ETH |
+| Max Slippage（最大滑点） | 0.5% |
 
 ### 步骤四：滑点设置（重要！）
 
@@ -244,7 +236,7 @@ Uniswap X 和 PancakeSwap 都支持限价单功能——设定一个目标价格
 
 有些币对没有直接流动性池。例如你想把 MATIC 换成 SOL（两者在以太坊上都没有原生池）。
 
-Uniswap 会自动帮你走中间路径，例如：`MATIC → USDC → SOL`。
+Uniswap 会自动帮你走中间路径，例如：「MATIC → USDC → SOL」。
 
 > **Gas 费影响：** 多跳 = 多步操作 = 更高的 Gas 费。如果可能，直接在有充足流动性的交易对上进行 Swap。
 

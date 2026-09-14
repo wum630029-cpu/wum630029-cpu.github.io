@@ -42,18 +42,12 @@ readingTime: 18
 
 ### 1.3 L2 的演变时间线
 
-```
-2020 ──── Optimistic Rollup 概念验证，早期 L2 萌芽
-2021 ──── Arbitrum 主网上线，Optimism 推出 OVM
-2022 ──── Arbitrum 生态爆发，Optimism OP Stack 开源
-           zkSync Lite 运行，StarkNet 主网 alpha
-2023 ──── Arbitrum 发币，Base 主网上线（Coinbase 背书）
-           zkSync Era 主网上线，OP Stack 超级链愿景
-2024 ──── L2 交易量超越 L1，Blob 空间降低 L2 费用 90%
-           多链部署成为 DeFi 协议标配
-2025-2026 ── L2 格局基本稳定：Arbitrum 生态最丰富，
-           Base 用户数第一，ZK Rollup 技术成熟但生态待完善
-```
+- **2020：** Optimistic Rollup 概念验证，早期 L2 萌芽
+- **2021：** Arbitrum 主网上线，Optimism 推出 OVM
+- **2022：** Arbitrum 生态爆发，Optimism OP Stack 开源；zkSync Lite 运行，StarkNet 主网 alpha
+- **2023：** Arbitrum 发币，Base 主网上线（Coinbase 背书）；zkSync Era 主网上线，OP Stack 超级链愿景
+- **2024：** L2 交易量超越 L1，Blob 空间降低 L2 费用 90%；多链部署成为 DeFi 协议标配
+- **2025-2026：** L2 格局基本稳定：Arbitrum 生态最丰富，Base 用户数第一，ZK Rollup 技术成熟但生态待完善
 
 ---
 
@@ -147,17 +141,17 @@ Arbitrum 完全兼容 MetaMask 等 EVM 钱包。在 MetaMask 中手动添加 Arb
 | 配置项 | 值 |
 |:------|:--|
 | **网络名称** | Arbitrum One |
-| **RPC URL** | `https://arb1.arbitrum.io/rpc` |
+| **RPC URL** | https://arb1.arbitrum.io/rpc |
 | **链 ID** | 42161 |
 | **代币符号** | ETH |
-| **区块浏览器** | `https://arbiscan.io/` |
+| **区块浏览器** | https://arbiscan.io/ |
 
-也可以使用 Chainlist（`https://chainlist.org`）一键添加网络。
+也可以使用 Chainlist（https://chainlist.org）一键添加网络。
 
 **第三步：开始交互**
 
 Arbitrum 上的 DeFi 操作与以太坊主网几乎完全一样：
-- 打开 Uniswap（`https://app.uniswap.org`）→ 切换网络到 Arbitrum
+- 打开 Uniswap（https://app.uniswap.org）→ 切换网络到 Arbitrum
 - Swap、添加流动性、提走 LP——所有操作都类似，只是 Gas 费从 $10 降到了 $0.05
 
 ### 3.4 Arbitrum 的独特优势
@@ -186,23 +180,9 @@ OP Stack 的「超级链（Superchain）」愿景：**让多条 L2 共享同一�
 
 传统上，每条 L2 都是孤立的——Arbitrum 和 Optimism 之间不能直接通信。**Superchain 的解决方案是：所有基于 OP Stack 构建的链共享排序器，这意味着它们之间可以进行原生级别的资产转移和信息传递。**
 
-```
-传统 L2 格局：
-  以太坊主网
-  ├── Arbitrum（独立排序器）
-  ├── Optimism（独立排序器）
-  └── zkSync（独立排序器）
-  → 链间通信需要跨链桥
+**传统 L2 格局：** 以太坊主网下挂 Arbitrum（独立排序器）、Optimism（独立排序器）、zkSync（独立排序器），链间通信需要跨链桥。
 
-Superchain 格局：
-  以太坊主网
-  └── OP Stack 共享排序器
-      ├── OP Mainnet
-      ├── Base
-      ├── Mode
-      └── Zora（等等）
-  → 链间原生互操作
-```
+**Superchain 格局：** 以太坊主网下挂 OP Stack 共享排序器，再挂 OP Mainnet、Base、Mode、Zora（等等），实现链间原生互操作。
 
 这对用户的意义：**未来你只需在 Superchain 的一条链上存入资产，就可以在所有 OP Stack 链上无缝使用**，不需要反复跨链。
 
@@ -222,14 +202,14 @@ Superchain 格局：
 | 配置项 | 值 |
 |:------|:--|
 | **网络名称** | OP Mainnet |
-| **RPC URL** | `https://mainnet.optimism.io` |
+| **RPC URL** | https://mainnet.optimism.io |
 | **链 ID** | 10 |
 | **代币符号** | ETH |
-| **区块浏览器** | `https://optimistic.etherscan.io/` |
+| **区块浏览器** | https://optimistic.etherscan.io/ |
 
 **跨链方式：**
 1. **CEX 直接提币**——币安、欧易均支持 OP Mainnet 网络的 ETH 和 OP 代币直接提现
-2. **官方桥**——`https://app.optimism.io/bridge`（同样需要 7 天挑战期）
+2. **官方桥**——https://app.optimism.io/bridge（同样需要 7 天挑战期）
 3. **快速桥**——Across、Stargate（约 1-5 分钟到账）
 
 ### 4.5 OP 代币的作用
@@ -280,10 +260,10 @@ Base 的 OP Stack 持续优化，2026 年 Base 上的 Gas 费用通常在 $0.01 
 | 配置项 | 值 |
 |:------|:--|
 | **网络名称** | Base |
-| **RPC URL** | `https://mainnet.base.org` |
+| **RPC URL** | https://mainnet.base.org |
 | **链 ID** | 8453 |
 | **代币符号** | ETH |
-| **区块浏览器** | `https://basescan.org/` |
+| **区块浏览器** | https://basescan.org/ |
 
 **为 Base 充值资产：**
 
@@ -356,7 +336,7 @@ zkSync 使用 Matter Labs 自研的证明生成器 BOOM，证明速度和成本�
 
 **3. EVM 兼容性**
 
-早期 ZK Rollup 的 EVM 兼容性是最大短板。zkSync Era 的兼容性已大幅提升——绝大多数 Solidity 合约无需修改即可部署，但仍有一些细微差异需要注意（比如 `block.timestamp`、`CREATE` 操作码等）。
+早期 ZK Rollup 的 EVM 兼容性是最大短板。zkSync Era 的兼容性已大幅提升——绝大多数 Solidity 合约无需修改即可部署，但仍有一些细微差异需要注意（比如区块时间戳、CREATE 操作码等）。
 
 ### 6.4 如何开始使用 zkSync Era？
 
@@ -365,15 +345,15 @@ zkSync 使用 Matter Labs 自研的证明生成器 BOOM，证明速度和成本�
 | 配置项 | 值 |
 |:------|:--|
 | **网络名称** | zkSync Era Mainnet |
-| **RPC URL** | `https://mainnet.era.zksync.io` |
+| **RPC URL** | https://mainnet.era.zksync.io |
 | **链 ID** | 324 |
 | **代币符号** | ETH |
-| **区块浏览器** | `https://explorer.zksync.io/` |
+| **区块浏览器** | https://explorer.zksync.io/ |
 
 **为 zkSync 充值：**
 
 1. **CEX 直接提币**——币安、欧易支持 zkSync Era 网络的 ETH 提现（但 USDC/USDT 提现支持不如 Arbitrum 普遍，建议提纯 ETH）
-2. **官方跨链桥**——`https://bridge.zksync.io/`
+2. **官方跨链桥**——https://bridge.zksync.io/
 3. **第三方桥**——Orbiter Finance、Across
 
 > ⚠️ **注意：** 在 zkSync 上操作时，如果钱包中没有 ETH，可以利用它的账户抽象功能直接用 USDC 支付 Gas。但这在 MetaMask 中可能无法直接触发，需要使用 zkSync 原生的钱包或发起特定类型的交易。
@@ -440,14 +420,12 @@ zkSync 使用 Matter Labs 自研的证明生成器 BOOM，证明速度和成本�
 
 在 MetaMask 中一键添加 L2 网络的步骤：
 
-```
 1. 打开 https://chainlist.org
 2. 连接 MetaMask 钱包
 3. 搜索 "Arbitrum One" → "Add Chain" → 确认
 4. 搜索 "OP Mainnet" → "Add Chain" → 确认
 5. 搜索 "Base" → "Add Chain" → 确认
 6. 搜索 "zkSync Era" → "Add Chain" → 确认
-```
 
 ### 8.3 跨链：在 L2 之间转移资产
 
@@ -462,20 +440,17 @@ zkSync 使用 Matter Labs 自研的证明生成器 BOOM，证明速度和成本�
 
 **实操示例：从 Arbitrum 跨链 USDC 到 Base**
 
-```
 1. 打开 Stargate（https://stargate.finance）
 2. 连接钱包，切换到 Arbitrum 网络
 3. 选择 USDC → USDC（原生）
 4. 源链：Arbitrum → 目标链：Base
 5. 输入金额，确认交易（需支付 Arbitrum 上少量 Gas）
 6. 等待 2-5 分钟，在 MetaMask 中切换到 Base 网络即可看到余额
-```
 
 ### 8.4 L2 上的 DeFi 实操：一笔完整的交易流程
 
 以在 **Arbitrum 的 Uniswap 上用 USDC 换 ETH** 为例：
 
-```
 1. 在 MetaMask 中切换到 Arbitrum 网络（确保有 USDC 和少量 ETH 作 Gas）
 2. 打开 Uniswap（https://app.uniswap.org）→ 连接钱包
 3. 确认网络已自动切换到 Arbitrum
@@ -483,7 +458,6 @@ zkSync 使用 Matter Labs 自研的证明生成器 BOOM，证明速度和成本�
 5. 确认 Swap，签名交易
 6. 等待约 1-3 秒确认
 7. Gas 费：约 $0.03-0.05（对比主网同操作需 $5-20）
-```
 
 ### 8.5 实用工具推荐
 

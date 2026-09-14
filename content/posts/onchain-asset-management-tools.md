@@ -97,7 +97,7 @@ DeBank 覆盖面最广且无需注册，最适合作为入门选择。下面以 
 
 ### 3.2 搜索钱包地址
 
-在搜索框中输入你的钱包地址（以 `0x` 开头的以太坊系地址），回车。
+在搜索框中输入你的钱包地址（以 0x 开头的以太坊系地址），回车。
 
 **示例**：
 - 你可以输入你的 MetaMask 地址
@@ -111,15 +111,15 @@ DeBank 覆盖面最广且无需注册，最适合作为入门选择。下面以 
 
 页面顶部展示你所有链上的**总资产净值**，按 USD 计价。下方是按链分类的代币列表：
 
-```
-总资产净值：$12,345.67
+总资产净值：$12,345.67。
 
-Ethereum        $5,200.00    ETH: 1.5 | USDC: 500 | UNI: 100
-Arbitrum        $3,100.00    ETH: 0.8 | USDC: 1,000
-Base            $2,500.00    ETH: 0.5 | AERO: 1,000
-Optimism        $1,200.00    ETH: 0.3 | OP: 200
-BNB Chain       $345.67      BNB: 1
-```
+| 链 | 资产价值 | 代币明细 |
+|:----|:--------|:--------|
+| Ethereum | $5,200.00 | ETH: 1.5、USDC: 500、UNI: 100 |
+| Arbitrum | $3,100.00 | ETH: 0.8、USDC: 1,000 |
+| Base | $2,500.00 | ETH: 0.5、AERO: 1,000 |
+| Optimism | $1,200.00 | ETH: 0.3、OP: 200 |
+| BNB Chain | $345.67 | BNB: 1 |
 
 > 💡 **提示**：DeBank 会自动将各类代币（包括 LP 代币、质押代币）的价值折算为 USD，直接在总资产中体现。
 
@@ -139,26 +139,24 @@ BNB Chain       $345.67      BNB: 1
 - 近 7 天/30 天的收益变化
 
 **示例 — 查看 Uniswap LP 头寸**：
-```
-Uniswap V3 (Arbitrum)
-├── ETH/USDC 0.05%
-│   ├── ETH: 2.5 ($8,250)
-│   ├── USDC: $7,800
-│   ├── 未收手续费: $12.50
-│   └── 收益率: 15.2% APR
-└── ARB/ETH 0.30%
-    └── ... 
-```
+- **Uniswap V3 (Arbitrum)**
+  - **ETH/USDC 0.05% 池**
+    - ETH: 2.5（$8,250）
+    - USDC: $7,800
+    - 未收手续费: $12.50
+    - 收益率: 15.2% APR
+  - **ARB/ETH 0.30% 池**
+    - …（其他头寸）
 
 #### 交易历史（History）
 
 按时间倒序展示你所有链上的交易记录：
 
-```
-2026-07-11 20:15  → Swap 0.5 ETH → 1,500 USDC     Arbitrum    ✅
-2026-07-11 14:30  → Approve USDC for Uniswap       Arbitrum    ✅
-2026-07-10 22:00  → Provide ETH/USDC LP            Base        ✅
-```
+| 时间 | 操作 | 链 | 状态 |
+|:----|:----|:----|:----|
+| 2026-07-11 20:15 | Swap 0.5 ETH → 1,500 USDC | Arbitrum | ✅ |
+| 2026-07-11 14:30 | Approve USDC for Uniswap | Arbitrum | ✅ |
+| 2026-07-10 22:00 | Provide ETH/USDC LP | Base | ✅ |
 
 每条记录都可以点击，直接跳转到对应的区块浏览器查看详情。
 
@@ -166,13 +164,11 @@ Uniswap V3 (Arbitrum)
 
 这是一个非常重要的安全功能。**「代币授权」** 页面会列出你曾经 Approve 过的所有智能合约——即你授权过的、可以用你钱包里的某种代币扣款的合约。
 
-```
-授权代币      被授权合约            额度              状态
-───────     ─────────           ─────             ────
-USDC        0xUniswapRouter  →  无限额            正常
-USDC        0xOldProtocol    →  10,000 USDC       ⚠️ 已废弃，建议撤销
-USDC        0xUnknownDApp    →  无限额             🚨 高风险！立即撤销
-```
+| 授权代币 | 被授权合约 | 额度 | 状态 |
+|:--------|:----------|:----|:----|
+| USDC | 0xUniswapRouter | 无限额 | 正常 |
+| USDC | 0xOldProtocol | 10,000 USDC | ⚠️ 已废弃，建议撤销 |
+| USDC | 0xUnknownDApp | 无限额 | 🚨 高风险！立即撤销 |
 
 > ⚠️ **安全提示**：定期检查 Token Approvals 页面，**撤销对不再使用的智能合约的授权**是保护资产安全的重要手段。如果有未知合约获得了「无限额」授权，应立即撤销。关于授权的安全风险详细解读，请参考本站 [链上安全：签名授权与智能合约交互防骗指南](/onchain-security-signature-guide/)。
 
@@ -319,9 +315,9 @@ Zerion App 内置了 WalletConnect 功能，可以直接在手机上连接各种
 - Zapper/Zerion 虽然支持「操作」功能，但每笔操作都需要你在钱包中签名确认——和直接在 DApp 上操作一样安全
 
 > ⚠️ **唯一需要警惕的是钓鱼网站。** 确保你访问的网址是正确的：
-> - DeBank：`debank.com`（不是 `debank.pro` 或其他变体）
-> - Zapper：`zapper.fi`（不是 `zapper.app` 等）
-> - Zerion：`zerion.io`（注意拼写）
+> - DeBank：debank.com（不是 debank.pro 或其他变体）
+> - Zapper：zapper.fi（不是 zapper.app 等）
+> - Zerion：zerion.io（注意拼写）
 
 ### 8.2 常见误区
 

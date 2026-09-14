@@ -86,19 +86,19 @@ readingTime: 6
 
 ### 安装 Python 环境
 
-先在终端执行 `python --version` 确认版本，需要 **3.7 以上**。然后安装三组依赖：
+先在终端执行 python --version 命令确认版本，需要 **3.7 以上**。然后安装三组依赖：
 
-| 安装命令 | 装的是什么 |
+| 安装方式 | 装的是什么 |
 |------|------|
-| `pip install python-binance` | 币安 Python SDK，本文所有操作都靠它 |
-| `pip install pandas numpy` | 数据处理，K 线转表格、算指标要用 |
-| `pip install matplotlib` | 绘图，回测时看资金曲线用得上 |
+| 用 pip 安装 python-binance | 币安 Python SDK，本文所有操作都靠它 |
+| 用 pip 安装 pandas 和 numpy | 数据处理，K 线转表格、算指标要用 |
+| 用 pip 安装 matplotlib | 绘图，回测时看资金曲线用得上 |
 
 ### 连接测试
 
-从 `binance.client` 模块导入 `Client` 类，把 API Key 和 Secret Key 两个字符串**按顺序**传进去，得到一个客户端对象——后面所有操作都通过它发出。
+从 binance.client 模块导入 Client 类，把 API Key 和 Secret Key 两个字符串**按顺序**传进去，得到一个客户端对象——后面所有操作都通过它发出。
 
-验证是否连通，调用客户端的 `get_system_status()` 方法。正常会返回一个字典，其中 `msg` 字段的值是 "System normal"。建议把这一步包在 try / except 里，连不上时把异常信息打印出来，方便区分到底是 Key 填错了、网络不通，还是 IP 没进白名单。
+验证是否连通，调用客户端的 get_system_status 方法。正常会返回一个字典，其中 msg 字段的值是 "System normal"。建议把这一步包在 try / except 里，连不上时把异常信息打印出来，方便区分到底是 Key 填错了、网络不通，还是 IP 没进白名单。
 
 ### 安全存储 API 密钥
 
@@ -106,11 +106,11 @@ readingTime: 6
 
 **推荐方案**——使用环境变量：
 
-在终端用 `export BINANCE_API_KEY='你的KEY'` 设置，Secret 同理设成 `BINANCE_SECRET_KEY`。想让它长期生效，就把这两行写进 `~/.zshrc` 或 `~/.bashrc`。
+在终端用 export 命令把 BINANCE_API_KEY 环境变量设为你的密钥，Secret 同理设为 BINANCE_SECRET_KEY。想让它长期生效，就把这两行写进 ~/.zshrc 或 ~/.bashrc。
 
-代码里改用 `os.getenv('BINANCE_API_KEY')` 把值读出来，再传给 `Client`，密钥就完全不出现在源码中。
+代码里改用 os.getenv 函数读取 BINANCE_API_KEY 环境变量的值，再传给 Client，密钥就完全不出现在源码中。
 
-也可以用 `.env` 文件配合 `python-dotenv` 管理密钥，但**务必把 `.env` 加入 `.gitignore`**。
+也可以用 .env 文件配合 python-dotenv 库管理密钥，但**务必把 .env 加入 .gitignore**。
 
 ## 五、基础操作实战
 
@@ -120,30 +120,30 @@ readingTime: 6
 
 | 方法 | 传入 | 返回的关键字段 |
 |------|:----:|------|
-| `get_symbol_ticker(symbol='BTCUSDT')` | 交易对 | `price`——当前价 |
-| `get_ticker(symbol='BTCUSDT')` | 交易对 | `highPrice`、`lowPrice`、`volume` 等 24 小时统计 |
+| get_symbol_ticker 方法（传入 BTCUSDT 交易对） | 交易对 | price——当前价 |
+| get_ticker 方法（传入 BTCUSDT 交易对） | 交易对 | highPrice、lowPrice、volume 等 24 小时统计 |
 
-有个坑要先说：币安返回的所有价格、数量字段**都是字符串**，不是数字。参与计算前必须先用 `float()` 转换，否则会得到字符串拼接这种莫名其妙的结果。
+有个坑要先说：币安返回的所有价格、数量字段**都是字符串**，不是数字。参与计算前必须先用 float 函数转换成数字，否则会得到字符串拼接这种莫名其妙的结果。
 
 ### 2. 获取 K 线数据
 
-调用 `get_klines` 方法，传入三个参数：
+调用 get_klines 方法，传入三个参数：
 
 | 参数 | 填什么 | 示例 |
 |------|------|------|
-| `symbol` | 交易对 | BTCUSDT |
-| `interval` | K 线周期 | `Client.KLINE_INTERVAL_1HOUR` |
-| `limit` | 获取根数 | 100（最大 1000）|
+| symbol | 交易对 | BTCUSDT |
+| interval | K 线周期 | Client.KLINE_INTERVAL_1HOUR |
+| limit | 获取根数 | 100（最大 1000）|
 
 返回的是嵌套列表，每行 12 个字段，前 6 个是常用的：时间戳、开盘价、最高价、最低价、收盘价、成交量。
 
-处理方式是用 pandas 的 `DataFrame` 包一层，给这 12 列起好名字，再把不用的列切掉只留前 6 个。最后把时间戳列用 `pd.to_datetime()` 转成可读时间（**单位要指定为毫秒**，币安返回的是 13 位时间戳），就能直接拿去做技术指标计算了。
+处理方式是用 pandas 的 DataFrame 包一层，给这 12 列起好名字，再把不用的列切掉只留前 6 个。最后把时间戳列用 pd.to_datetime 函数转成可读时间（**单位要指定为毫秒**，币安返回的是 13 位时间戳），就能直接拿去做技术指标计算了。
 
 ### 3. 查询账户余额
 
-调用 `get_account()`（API 需要读取权限），返回字典里的 `balances` 是一个列表，每个元素形如「资产名 + free + locked」三个字段：`free` 是可用余额，`locked` 是挂单冻结的部分。
+调用 get_account 方法（API 需要读取权限），返回字典里的 balances 是一个列表，每个元素形如「资产名 + free + locked」三个字段：free 是可用余额，locked 是挂单冻结的部分。
 
-想取某个币种，遍历这个列表匹配 `asset` 字段即可。注意币安会把**所有**币种都返回回来，其中绝大多数余额为 0，实际使用时通常会先过滤掉零余额再展示。
+想取某个币种，遍历这个列表匹配 asset 字段即可。注意币安会把**所有**币种都返回回来，其中绝大多数余额为 0，实际使用时通常会先过滤掉零余额再展示。
 
 ### 4. 下单交易
 
@@ -151,27 +151,27 @@ readingTime: 6
 
 | 方法 | 必填参数 | 作用 |
 |------|------|------|
-| `order_market_buy` | symbol、quantity | 市价买入，立即成交 |
-| `order_market_sell` | symbol、quantity | 市价卖出，立即成交 |
-| `order_limit_buy` | symbol、quantity、price | 限价买入，挂单等成交 |
-| `order_limit_sell` | symbol、quantity、price | 限价卖出，挂单等成交 |
+| order_market_buy | symbol、quantity | 市价买入，立即成交 |
+| order_market_sell | symbol、quantity | 市价卖出，立即成交 |
+| order_limit_buy | symbol、quantity、price | 限价买入，挂单等成交 |
+| order_limit_sell | symbol、quantity、price | 限价卖出，挂单等成交 |
 
-下单成功后返回的字典里，`orderId` 是订单号，后续查询和撤单都要用它。市价单还会带一个 `fills` 列表，里面是实际成交明细，取第一笔的 `price` 就是成交价。
+下单成功后返回的字典里，orderId 是订单号，后续查询和撤单都要用它。市价单还会带一个 fills 列表，里面是实际成交明细，取第一笔的 price 就是成交价。
 
-限价单挂出后不会立即成交，用 `get_order()` 传入 symbol 和 orderId 查状态，`status` 字段有四种取值：
+限价单挂出后不会立即成交，用 get_order 方法传入 symbol 和 orderId 查状态，status 字段有四种取值：
 
 | 状态值 | 含义 |
 |------|------|
-| `NEW` | 已挂单，尚未成交 |
-| `PARTIALLY_FILLED` | 部分成交 |
-| `FILLED` | 完全成交 |
-| `CANCELED` | 已撤销 |
+| NEW | 已挂单，尚未成交 |
+| PARTIALLY_FILLED | 部分成交 |
+| FILLED | 完全成交 |
+| CANCELED | 已撤销 |
 
-限价单的 `price` 参数**要传字符串**（比如 '70000.00'），传浮点数容易因为精度问题被服务器拒绝。
+限价单的 price 参数**要传字符串**（比如 '70000.00'），传浮点数容易因为精度问题被服务器拒绝。
 
 ### 5. 获取历史订单
 
-`get_my_trades()` 传入交易对和 `limit`，返回最近的成交记录列表。每条记录里 `time` 是毫秒时间戳，`isBuyer` 为 True 表示这笔是你买入，`price` 和 `qty` 分别是成交价和数量，`commission` 是手续费。遍历一遍就能做简单的交易流水统计。
+get_my_trades 方法传入交易对和 limit，返回最近的成交记录列表。每条记录里 time 是毫秒时间戳，isBuyer 为 True 表示这笔是你买入，price 和 qty 分别是成交价和数量，commission 是手续费。遍历一遍就能做简单的交易流水统计。
 
 ## 六、两个实用策略示例
 
@@ -179,14 +179,14 @@ readingTime: 6
 
 每天自动买入固定金额的 BTC，消除择时焦虑。整个逻辑只有四步：
 
-1. **取当前价** — 用 `get_symbol_ticker` 拿到 `price`，转成 float
-2. **算买入量** — 定投金额 ÷ 当前价，结果用 `round()` 保留 6 位小数（不同交易对精度要求不同，见第九节）
-3. **市价买入** — 把算出的数量传给 `order_market_buy`
+1. **取当前价** — 用 get_symbol_ticker 拿到 price，转成浮点数
+2. **算买入量** — 定投金额 ÷ 当前价，结果用 round 函数保留 6 位小数（不同交易对精度要求不同，见第九节）
+3. **市价买入** — 把算出的数量传给 order_market_buy 方法
 4. **异常兜底** — 整段包在 try / except 里，失败时打印原因并返回 None，别让脚本直接崩掉
 
-把这四步写成一个函数（比如叫 `dca_buy`，参数是交易对和定投金额），存成 `dca_bot.py`。
+把这四步写成一个函数（比如叫 dca_buy，参数是交易对和定投金额），存成 dca_bot.py 文件。
 
-定时执行交给系统的定时任务。Linux 下编辑 crontab 加一行规则：分钟填 0、小时填 10、后面三位都填星号，命令部分先 `cd` 到脚本目录再执行 `python dca_bot.py`，并用 `>>` 把输出追加到日志文件——含义就是每天早上 10:00 跑一次定投并留下记录。Windows 用「任务计划程序」配置等效规则。
+定时执行交给系统的定时任务。Linux 下编辑 crontab 加一行规则：分钟填 0、小时填 10、后面三位都填星号，命令部分先 cd 到脚本目录再执行 python dca_bot.py，并用 >> 重定向把输出追加到日志文件——含义就是每天早上 10:00 跑一次定投并留下记录。Windows 用「任务计划程序」配置等效规则。
 
 ### 策略二：移动止盈止损监控
 
@@ -198,12 +198,12 @@ readingTime: 6
 2. **循环取价** — 每轮拿一次最新价
 3. **刷新高点** — 当前价高于记录的最高价就更新它
 4. **算回撤** — （最高价 − 当前价）÷ 最高价 × 100，得到从高点回落的百分比
-5. **判断触发** — 回撤 ≥ 阈值就市价卖出并跳出循环；否则 `time.sleep()` 等下一轮
+5. **判断触发** — 回撤 ≥ 阈值就市价卖出并跳出循环；否则 time.sleep 休眠等待下一轮
 6. **异常处理** — except 里同样要 sleep 后 continue，而不是退出循环
 
 有两个细节新手最容易忽略：**卖出数量要实时查持仓**，不能写死一个固定值；**循环里的异常必须捕获**，否则一次网络波动就会让监控悄悄停摆，而你还以为它在跑。
 
-部署上建议放云服务器，用 `nohup python trailing_stop.py &` 让它在后台运行，关掉终端也不中断。
+部署上建议放云服务器，用 nohup 命令让脚本在后台运行（nohup python trailing_stop.py &），关掉终端也不中断。
 
 ## 七、WebSocket 实时数据
 
@@ -211,13 +211,13 @@ REST API 请求有频率限制（每秒 20 次），实时行情应该用 WebSoc
 
 WebSocket 的思路和 REST 正好相反——不是你反复去问，而是服务器主动推给你。用法分三步：
 
-1. **写回调函数** — 定义一个函数接收消息，币安每推来一条数据就调用它一次。消息是字典，`e` 字段是事件类型（行情推送为 `24hrTicker`），`s` 是交易对，`c` 是最新价
-2. **启动客户端** — 从 `binance.websocket.spot.websocket_client` 导入客户端类，实例化后调用 `start()`
-3. **订阅频道** — 调用 `ticker()` 方法，传入交易对和刚写好的回调函数
+1. **写回调函数** — 定义一个函数接收消息，币安每推来一条数据就调用它一次。消息是字典，e 字段是事件类型（行情推送为 24hrTicker），s 是交易对，c 是最新价
+2. **启动客户端** — 从 binance.websocket.spot.websocket_client 导入客户端类，实例化后调用 start 方法
+3. **订阅频道** — 调用 ticker 方法，传入交易对和刚写好的回调函数
 
-这里有个容易翻车的地方：**订阅时交易对要用小写**（`btcusdt` 而不是 `BTCUSDT`），跟 REST 接口的习惯相反。
+这里有个容易翻车的地方：**订阅时交易对要用小写**（btcusdt 而不是 BTCUSDT），跟 REST 接口的习惯相反。
 
-另外订阅之后主线程不能退出，否则连接跟着断。测试阶段用一个 `input()` 挂住就行，正式运行时通常用 while 循环或专门的事件循环保持。结束时记得调用 `stop()` 关闭连接。
+另外订阅之后主线程不能退出，否则连接跟着断。测试阶段用一个 input 函数挂住就行，正式运行时通常用 while 循环或专门的事件循环保持。结束时记得调用 stop 方法关闭连接。
 
 ## 八、代码运行环境推荐
 
@@ -245,29 +245,29 @@ WebSocket 的思路和 REST 正好相反——不是你反复去问，而是服�
 **最佳实践：**
 - 行情数据用 WebSocket 接收，不用轮询
 - 下单之间至少间隔 200ms
-- 加上 `time.sleep(0.1)` 避免触发限流
+- 加上 time.sleep(0.1) 做短暂休眠避免触发限流
 
 ### 常见报错
 
 | 错误 | 原因 | 解决方法 |
 |------|:----:|---------|
-| `-2015 Invalid API-key` | API Key 无效或 IP 不在白名单 | 检查 Key 和 IP 白名单 |
-| `-1013 Filter failure: LOT_SIZE` | 数量精度不匹配 | 用 `get_symbol_info()` 查询精度 |
-| `-2010 Account has insufficient balance` | 余额不足 | 检查账户 USDT 余额 |
+| -2015 Invalid API-key | API Key 无效或 IP 不在白名单 | 检查 Key 和 IP 白名单 |
+| -1013 Filter failure: LOT_SIZE | 数量精度不匹配 | 用 get_symbol_info 方法查询精度 |
+| -2010 Account has insufficient balance | 余额不足 | 检查账户 USDT 余额 |
 
 ### 精度问题处理
 
-不同交易对的数量精度不同——BTC 能买 0.00001 个，有些币就必须是整数。下单数量小数位超标会直接报 `LOT_SIZE` 错误，这是新手最高频的报错之一。
+不同交易对的数量精度不同——BTC 能买 0.00001 个，有些币就必须是整数。下单数量小数位超标会直接报 LOT_SIZE 错误，这是新手最高频的报错之一。
 
-自适应的做法是先查交易规则：调用 `get_symbol_info(symbol)`，返回字典里的 `filters` 是一个规则列表，从中找出 `filterType` 等于 `LOT_SIZE` 的那一条，它的 `stepSize` 字段就是最小变动单位（比如 BTC 是 0.00001000）。
+自适应的做法是先查交易规则：调用 get_symbol_info 方法（传入交易对），返回字典里的 filters 是一个规则列表，从中找出 filterType 等于 LOT_SIZE 的那一条，它的 stepSize 字段就是最小变动单位（比如 BTC 是 0.00001000）。
 
-拿到 `stepSize` 后按小数点切开，取后半段、去掉末尾的 0，剩下的字符长度就是允许的小数位数。下单前用 `round(数量, 位数)` 处理一遍，就不会再触发 LOT_SIZE 报错。建议把这段写成一个工具函数，所有下单前都过一道。
+拿到 stepSize 后按小数点切开，取后半段、去掉末尾的 0，剩下的字符长度就是允许的小数位数。下单前用 round 函数（传入数量和允许的小数位数）处理一遍，就不会再触发 LOT_SIZE 报错。建议把这段写成一个工具函数，所有下单前都过一道。
 
 ## 十、进阶方向
 
 当你掌握了以上基础，可以考虑以下进阶方向：
 
-1. **策略回测** — 用历史数据验证策略表现，使用 `backtrader` 等框架
+1. **策略回测** — 用历史数据验证策略表现，使用 backtrader 等框架
 2. **网格交易** — 利用 API 实现自定义网格（币安自带网格功能但定制有限）
 3. **跨交易所套利** — 在多个交易所之间捕捉价差
 4. **[资金费率套利](/funding-rate-arbitrage-guide/)** — 结合现货和合约市场套取资金费率

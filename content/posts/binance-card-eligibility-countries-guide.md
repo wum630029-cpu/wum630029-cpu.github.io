@@ -3,7 +3,7 @@ title: '币安卡申请条件与支持国家全解析：还能办吗？三大版
 date: 2026-09-11T00:00:00+08:00
 lastmod: 2026-09-14T00:00:00+08:00
 draft: false
-description: '币安卡申请条件与支持国家全解析：2026 币安卡已从 Visa 换成 Mastercard 虚拟卡，旧欧洲卡 2023 停服。本文拆解 Global 拉美/独联体版与 APAC 亚太版支持国家、KYC 与证件要求、虚拟卡实体卡区别、申请五步流程，讲清中国大陆用户为何不能办及替代思路，附币安注册邀请码 BT123。'
+description: '币安卡申请条件与支持国家全解析：2026 币安卡已从 Visa 换成 Mastercard 虚拟卡，旧欧洲卡 2023 停服。本文拆解 Global 拉美/独联体版与 APAC 亚太版支持国家、KYC 与证件要求、虚拟卡实体卡区别、申请五步流程，讲清中国大陆用户为何不能办及替代思路，附注册邀请码 BT123。'
 slug: 'binance-card-eligibility-countries-guide'
 tags: ['币安', 'Binance', '币安卡', 'Binance Card', '币安卡申请', '加密货币卡', '虚拟卡', 'U卡']
 categories: ['币安从入门到精通']

@@ -102,8 +102,8 @@ readingTime: 4
 这是最简单、最安全的方式。你只需要：
 
 1. **注册一个交易所账号**
-   - 推荐：币安（[注册链接](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 `BT123`）
-   - 推荐：欧易（[注册链接](https://www.promooboost.com/join/60895497)，邀请码 `60895497`）
+   - 推荐：币安（[注册链接](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 BT123）
+   - 推荐：欧易（[注册链接](https://www.promooboost.com/join/60895497)，邀请码 60895497）
 
 2. **完成 KYC 实名认证** — 上传身份证 + 人脸识别
 3. **充入资金** — 通过 C2C 用支付宝/微信/银行卡买 USDT

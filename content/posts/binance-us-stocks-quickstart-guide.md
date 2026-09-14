@@ -11,7 +11,7 @@ categories: ['美股教程']
 
 想买美股却嫌传统券商开户麻烦？2026 年，**币安（Binance）** 提供了一条捷径——通过 Bstocks 功能，直接用 USDC 购买苹果（AAPL）、特斯拉（TSLA）、英伟达（NVDA）等热门美股，而且还支持 **7×24 小时交易**，周末也能操作。
 
-本文用最直接的方式，带你走完 **注册 → 入金 → 交易** 全流程。建议先复制邀请码 `BT123`，注册时用上。
+本文用最直接的方式，带你走完 **注册 → 入金 → 交易** 全流程。建议先复制邀请码 BT123，注册时用上。
 
 > 📌 **为什么要在注册时填邀请码？** 邀请码关联后，现货交易可享受 **20% 手续费返现**，长期交易能省下不少钱。而且注册后无法补填，建议一口气完成。
 
@@ -24,7 +24,7 @@ categories: ['美股教程']
 <a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=BT123" target="_blank" rel="noopener noreferrer">👉 立即注册币安（邀请码 BT123）</a>
 
 **注册链接：** [https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)
-**邀请码：** `BT123`
+**邀请码：** BT123
 
 ### 注册步骤
 
