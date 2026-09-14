@@ -21,7 +21,7 @@ readingTime: 9
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<div class="callout-title">⚡ TL;DR</div>
 <ul>
 <li><strong>空投是项目方免费发币</strong>，你的成本只是 Gas 费和时间，不是稳赚。</li>
 <li><strong>2026 年竞争激烈、女巫检测更严</strong>，需要多钱包 + 真实交互才有戏。</li>

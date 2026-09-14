@@ -23,7 +23,7 @@ readingTime: 7
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<div class="callout-title">⚡ TL;DR</div>
 <ul>
 <li><strong>套利 = 做多现货 + 做空等量永续合约</strong>，赚的是资金费率，不是方向。</li>
 <li><strong>资金费率为正时做空合约每天收钱</strong>，实际年化通常 10%–30%。</li>

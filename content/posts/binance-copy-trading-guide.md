@@ -27,7 +27,7 @@ readingTime: 8
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<div class="callout-title">⚡ TL;DR</div>
 <ul>
 <li><strong>跟单 = 一键复制交易员的买卖</strong>，省去自己分析 K 线、盯盘。</li>
 <li><strong>选交易员看胜率更要看最大回撤</strong>，回撤大会连累你一起亏。</li>

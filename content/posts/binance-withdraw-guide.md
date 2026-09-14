@@ -29,7 +29,7 @@ readingTime: 9
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<div class="callout-title">⚡ TL;DR</div>
 <ul>
 <li><strong>出金就三条路</strong>：C2C 卖币换人民币、链上提币到钱包、内部转账互转。</li>
 <li><strong>链上提币务必选对网络</strong>（TRC-20/ERC-20），错了可能丢币。</li>

@@ -27,7 +27,7 @@ readingTime: 8
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<div class="callout-title">⚡ TL;DR</div>
 <ul>
 <li><strong>现货是「持有资产」，合约是「押注方向」</strong>，合约不真正持有币。</li>
 <li><strong>杠杆放大波动不是胜率</strong>，10 倍杠杆做多跌 10% 就爆仓。</li>

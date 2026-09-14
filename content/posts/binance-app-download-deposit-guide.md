@@ -23,7 +23,7 @@ readingTime: 12
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<div class="callout-title">⚡ TL;DR</div>
 <ul>
 <li><strong>苹果国区搜不到币安</strong>，需注册海外 Apple ID + VPN 才能下载。</li>
 <li><strong>安卓直接去官网下载 APK</strong>，开启「未知来源」权限安装。</li>

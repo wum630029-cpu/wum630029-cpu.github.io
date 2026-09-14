@@ -26,7 +26,7 @@ readingTime: 9
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<div class="callout-title">⚡ TL;DR</div>
 <ul>
 <li><strong>买 U 和卖 U 风险相反</strong>：买怕遇到骗子，卖怕收到黑钱冻卡。</li>
 <li><strong>买 U 选成交多、带认证标识的商家</strong>；卖 U 一定等银行真实到账再放币。</li>
