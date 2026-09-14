@@ -27,6 +27,15 @@ readingTime: 9
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>Launchpool 是「锁 BNB/USDC 免费挖新币」</strong>，本金可随时赎回，不是花钱认购。</li>
+<li><strong>但 BNB 会跌、显示年化会被稀释、新币常高开低走</strong>，所以不是稳赚。</li>
+<li><strong>判断值不值看三点</strong>：真实年化、质押币本身的波动、新币上市价。</li>
+</ul>
+</div>
+
 ## 一、先分清：币安「打新」不只 Launchpool 一种
 
 很多人把「币安打新」和 Launchpool 划等号，其实币安这几年陆续推出了至少五种「在上市前拿到新币」的玩法，门槛和风险完全不同。先把这张全景表看懂，后面才好判断你该碰哪一种。

@@ -20,6 +20,15 @@ OKX 的 **C2C（点对点）交易** 是目前最主流的入金方式——你�
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>OKX C2C 是 0 手续费的人民币买 U 通道</strong>，支付宝/微信/银行卡都能付。</li>
+<li><strong>选认证商家、看成交单数与好评率</strong>，平台托管资金防跑路。</li>
+<li><strong>注意单笔限额和冻卡风险</strong>，全程在平台内操作、别私下交易。</li>
+</ul>
+</div>
+
 ## 一、什么是 C2C 交易？
 
 C2C（Customer to Customer）是 OKX 作为平台担保的 **点对点交易市场**。你直接在平台上和认证商家交易，OKX 负责资金托管——你付了钱，商家不释放币？平台会冻结商家资产并介入处理。

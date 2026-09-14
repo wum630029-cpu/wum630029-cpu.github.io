@@ -745,6 +745,48 @@ main {
   color: var(--success);
 }
 
+.callout-tldr {
+  border-color: var(--primary);
+  background: rgba(99, 102, 241, 0.08);
+}
+
+.callout-tldr .callout-title {
+  color: var(--primary);
+}
+
+/* Table of Contents */
+.toc-box {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 16px 20px;
+  margin: 0 0 28px;
+}
+.toc-box-title {
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+.toc-box #TableOfContents ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.toc-box #TableOfContents li {
+  margin: 6px 0;
+  line-height: 1.6;
+}
+.toc-box #TableOfContents ul ul {
+  padding-left: 16px;
+}
+.toc-box #TableOfContents a {
+  text-decoration: none;
+  color: var(--text);
+}
+.toc-box #TableOfContents a:hover {
+  color: var(--primary);
+}
+
 /* CTA Button */
 .btn {
   display: inline-flex;

@@ -18,6 +18,15 @@ readingTime: 4
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>合约是「押注价格涨跌」</strong>，不真正持有币，可做多也可做空。</li>
+<li><strong>杠杆放大收益也放大亏损</strong>，高杠杆可能直接爆仓归零。</li>
+<li><strong>先懂资金费率和强平机制，必设止损、用低杠杆</strong>，只用亏得起的钱。</li>
+</ul>
+</div>
+
 ## 一、什么是合约交易？
 
 ### 核心概念

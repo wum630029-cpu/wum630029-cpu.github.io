@@ -28,6 +28,15 @@ readingTime: 9
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>出金就三条路</strong>：C2C 卖币换人民币、链上提币到钱包、内部转账互转。</li>
+<li><strong>链上提币务必选对网络</strong>（TRC-20/ERC-20），错了可能丢币。</li>
+<li><strong>国内首选 C2C 卖币</strong>，0 平台手续费，但注意防冻卡。</li>
+</ul>
+</div>
+
 ## 一、出金方式总览：先分清「要钱」还是「要币」
 
 币安的「出金」本质上是两件事：把加密资产换成法币（人民币/美元）到账银行卡，或者把币转到另一个地址（自己的钱包 / 别的交易所）。

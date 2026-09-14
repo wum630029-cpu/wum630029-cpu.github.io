@@ -20,6 +20,15 @@ readingTime: 6
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>币安卡是加密借记卡</strong>，把 BTC/USDT 充进卡，在 Mastercard 商户直接刷卡消费。</li>
+<li><strong>刷卡时币安自动把加密资产换成当地法币</strong>，商户收到的是法币，不是币。</li>
+<li><strong>注意费用结构与支持地区</strong>，多数地区免月费、有返现，但看具体条款。</li>
+</ul>
+</div>
+
 ## 一、币安卡是什么？
 
 币安卡是一张由币安发行的加密借记卡（2026 年由 Mastercard 网络受理，新西兰 Immersve 提供服务，美元/USDC 结算），与你币安账户中的资金账户绑定。你可以选择一种或多种加密资产作为支付来源，刷卡时币安实时兑换为当地法币完成结算。

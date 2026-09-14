@@ -16,6 +16,15 @@ Bybit 是全球知名的加密货币衍生品交易所，以**深度流动性、
 
 > 💡 Bybit 支持简体中文，注册流程对大陆用户相对友好，产品线也在持续扩展——除了核心的合约交易外，目前已涵盖现货、理财、Launchpad 和 NFT 市场。
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>Bybit 以合约交易起家</strong>，合约深度和交易体验是核心优势。</li>
+<li><strong>流程：注册 → KYC（建议直接 Lv.2）→ 绑 2FA + 资金密码 + 提现白名单</strong>。</li>
+<li><strong>大陆用户可注册</strong>，但部分国家/地区不支持，请自行确认。</li>
+</ul>
+</div>
+
 ## 一、Bybit 的核心优势
 
 在开始注册之前，先简单了解一下 Bybit 的定位和亮点：

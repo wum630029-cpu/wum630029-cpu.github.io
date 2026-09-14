@@ -22,6 +22,15 @@ readingTime: 12
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>苹果国区搜不到币安</strong>，需注册海外 Apple ID + VPN 才能下载。</li>
+<li><strong>安卓直接去官网下载 APK</strong>，开启「未知来源」权限安装。</li>
+<li><strong>装好后注册 → KYC → C2C 买 USDT</strong>，完成首次入金买币。</li>
+</ul>
+</div>
+
 ## 一、准备篇：动手前先搞清楚三件事
 
 很多新手上来就乱点，结果卡在半路。动手前先想清楚这三点，能省掉 90% 的返工。

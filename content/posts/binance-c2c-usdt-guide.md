@@ -25,6 +25,15 @@ readingTime: 9
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>买 U 和卖 U 风险相反</strong>：买怕遇到骗子，卖怕收到黑钱冻卡。</li>
+<li><strong>买 U 选成交多、带认证标识的商家</strong>；卖 U 一定等银行真实到账再放币。</li>
+<li><strong>买卖价差约 1%–2% 是正常成本</strong>，不是被骗，别贪明显低于市价的报价。</li>
+</ul>
+</div>
+
 ## 一、先给结论：币安 C2C 买卖 USDT，记住三个判断
 
 一句话回答：**买卖 USDT 本身不违法，真正的风险是「买到黑钱冻卡」和「遇到骗子」；买 U 走认证商家、按市价略高一点买最稳，卖 U 一定等银行到账再放币。买卖之间有一笔约 1% 左右的价差成本，这是正常的「过路费」，不是被骗。**

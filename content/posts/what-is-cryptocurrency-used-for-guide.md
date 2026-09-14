@@ -25,6 +25,15 @@ readingTime: 9
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>除了炒币，加密货币的真实用途是储值避险、DeFi 理财、稳定币支付</strong>。</li>
+<li><strong>分工很明确</strong>：比特币负责储值（数字黄金），稳定币负责支付，DeFi 负责生息。</li>
+<li><strong>技术/资产不是骗局，骗局在「炒空气」项目</strong>；用途真实 ≠ 稳赚。</li>
+</ul>
+</div>
+
 ## 一、先回答最尖锐的问题：加密货币是不是骗局？
 
 这个问题不该用「是」或「否」来回答，因为它把三样完全不同的东西搅在了一起。拆开看：

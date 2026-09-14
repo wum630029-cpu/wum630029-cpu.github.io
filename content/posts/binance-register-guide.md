@@ -18,6 +18,15 @@ readingTime: 10
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>邀请码 BT123 只能在注册时填</strong>，注册后无法补填，填了享 20% 手续费永久返佣。</li>
+<li><strong>必须完成 KYC 实名认证</strong>才能充值、交易、提现，上传身份证照片 + 人脸即可。</li>
+<li><strong>务必绑谷歌验证器 2FA、设资金密码</strong>，防账号被盗，这是入金前最该做的事。</li>
+</ul>
+</div>
+
 ## 一、为什么选择币安？
 
 在开始注册之前，先了解币安的核心优势——这不仅是选择交易所的参考，也是本文 SEO 内容的一部分。

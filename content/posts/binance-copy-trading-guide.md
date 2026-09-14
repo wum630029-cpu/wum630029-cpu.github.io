@@ -26,6 +26,15 @@ readingTime: 8
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>跟单 = 一键复制交易员的买卖</strong>，省去自己分析 K 线、盯盘。</li>
+<li><strong>选交易员看胜率更要看最大回撤</strong>，回撤大会连累你一起亏。</li>
+<li><strong>跟单不是躺赚</strong>，有回撤/爆仓/数据滞后风险，用亏得起的钱。</li>
+</ul>
+</div>
+
 ## 一、什么是跟单交易？适合谁？
 
 跟单交易（Copy Trading）是一种社交化交易模式。专业交易员在平台上公开自己的交易策略和仓位，普通用户可以选择「跟随」这些交易员。当交易员下单时，系统会自动在你的账户中执行相同的交易操作。

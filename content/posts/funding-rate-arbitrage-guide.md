@@ -22,6 +22,15 @@ readingTime: 7
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>套利 = 做多现货 + 做空等量永续合约</strong>，赚的是资金费率，不是方向。</li>
+<li><strong>资金费率为正时做空合约每天收钱</strong>，实际年化通常 10%–30%。</li>
+<li><strong>低风险≠零风险</strong>：费率转负、极端行情价差扩大会亏，需充足保证金。</li>
+</ul>
+</div>
+
 ## 一、资金费率是什么？
 
 ### 永续合约的特殊机制

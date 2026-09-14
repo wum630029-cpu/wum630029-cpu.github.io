@@ -26,6 +26,15 @@ readingTime: 8
 
 ---
 
+<div class="callout callout-tldr">
+<div class="callout-title">⚡ 太长不看（TL;DR）</div>
+<ul>
+<li><strong>现货是「持有资产」，合约是「押注方向」</strong>，合约不真正持有币。</li>
+<li><strong>杠杆放大波动不是胜率</strong>，10 倍杠杆做多跌 10% 就爆仓。</li>
+<li><strong>新手三条安全线</strong>：只用亏得起的钱、杠杆不超 5x 必带止损、先模拟再实盘。</li>
+</ul>
+</div>
+
 ## 一、合约交易是什么：现货 vs 合约的根本区别
 
 **现货（Spot）**，就是「一手交钱、一手交货」：你花 1 万块，买到价值 1 万块的比特币，它涨 10% 你赚 10%，跌 10% 你亏 10%，只要你不卖、币还在，亏损只是「浮亏」。
