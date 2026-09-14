@@ -1,0 +1,99 @@
+{{- /* 站点搜索框：首页「最新文章」与文章详情页共用，基于内嵌索引的即时搜索 */ -}}
+{{- $index := slice -}}
+{{- range where .Site.RegularPages "Type" "posts" -}}
+  {{- $snippet := .Description -}}
+  {{- if not $snippet -}}
+    {{- $snippet = .Summary | plainify | truncate 90 -}}
+  {{- end -}}
+  {{- $index = $index | append (dict "t" .Title "u" .RelPermalink "tags" .Params.tags "s" $snippet) -}}
+{{- end -}}
+<div class="search-box" id="site-search">
+  <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <circle cx="11" cy="11" r="8"></circle>
+    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+  </svg>
+  <input id="site-search-input" type="search" placeholder="搜索文章：标题、标签或关键词" autocomplete="off" aria-label="搜索文章" maxlength="50">
+  <ul class="search-results" id="site-search-results" hidden></ul>
+</div>
+<script>
+window.__siteSearchIndex = {{ $index | jsonify | safeJS }};
+(function () {
+  var idx = window.__siteSearchIndex || [];
+  var box = document.getElementById('site-search');
+  var input = document.getElementById('site-search-input');
+  var results = document.getElementById('site-search-results');
+  if (!box || !input || !results || !idx.length) { return; }
+
+  function norm(s) { return String(s || '').toLowerCase(); }
+
+  // 返回 0/1/2 表示命中在标题/标签/摘要，数值越小排名越高；-1 表示未命中
+  function score(item, tokens) {
+    var title = norm(item.t);
+    var tags = norm((item.tags || []).join(' '));
+    var snip = norm(item.s);
+    var total = 0;
+    for (var i = 0; i < tokens.length; i++) {
+      var q = tokens[i];
+      if (!q) { continue; }
+      if (title.indexOf(q) !== -1) { total += 0; }
+      else if (tags.indexOf(q) !== -1) { total += 1; }
+      else if (snip.indexOf(q) !== -1) { total += 2; }
+      else { return -1; }
+    }
+    return total;
+  }
+
+  function clear() {
+    results.hidden = true;
+    results.innerHTML = '';
+  }
+
+  function render(q) {
+    var tokens = q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    if (!tokens.length) { clear(); return; }
+    var matched = [];
+    for (var i = 0; i < idx.length; i++) {
+      var s = score(idx[i], tokens);
+      if (s >= 0) { matched.push({ item: idx[i], score: s }); }
+    }
+    if (!matched.length) {
+      results.innerHTML = '<li class="empty">未找到相关文章，换个关键词试试</li>';
+      results.hidden = false;
+      return;
+    }
+    matched.sort(function (a, b) { return a.score - b.score; });
+    matched = matched.slice(0, 10);
+    results.innerHTML = '';
+    matched.forEach(function (m) {
+      var item = m.item;
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = item.u;
+      var st = document.createElement('span');
+      st.className = 'st';
+      st.textContent = item.t;
+      var ss = document.createElement('span');
+      ss.className = 'ss';
+      ss.textContent = item.s || '';
+      a.appendChild(st);
+      a.appendChild(ss);
+      li.appendChild(a);
+      results.appendChild(li);
+    });
+    results.hidden = false;
+  }
+
+  var timer;
+  input.addEventListener('input', function () {
+    clearTimeout(timer);
+    timer = setTimeout(function () { render(input.value); }, 120);
+  });
+  input.addEventListener('focus', function () { if (input.value.trim()) { render(input.value); } });
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') { input.value = ''; clear(); input.blur(); }
+  });
+  document.addEventListener('click', function (e) {
+    if (!box.contains(e.target)) { clear(); }
+  });
+})();
+</script>

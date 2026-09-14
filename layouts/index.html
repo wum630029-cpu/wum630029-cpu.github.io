@@ -31,6 +31,8 @@
     最新文章
   </h2>
 
+  {{ partial "search.html" . }}
+
   <div class="article-list">
     {{ range where .Site.RegularPages "Type" "posts" }}
       <article class="article-card">
