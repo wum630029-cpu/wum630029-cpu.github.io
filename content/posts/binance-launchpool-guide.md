@@ -28,7 +28,7 @@ readingTime: 9
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ TL;DR</div>
+<div class="callout-title">TL;DR</div>
 <ul>
 <li><strong>Launchpool 是「锁 BNB/USDC 免费挖新币」</strong>，本金可随时赎回，不是花钱认购。</li>
 <li><strong>但 BNB 会跌、显示年化会被稀释、新币常高开低走</strong>，所以不是稳赚。</li>

@@ -26,7 +26,7 @@ readingTime: 9
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ TL;DR</div>
+<div class="callout-title">TL;DR</div>
 <ul>
 <li><strong>除了炒币，加密货币的真实用途是储值避险、DeFi 理财、稳定币支付</strong>。</li>
 <li><strong>分工很明确</strong>：比特币负责储值（数字黄金），稳定币负责支付，DeFi 负责生息。</li>

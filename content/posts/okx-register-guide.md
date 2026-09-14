@@ -19,7 +19,7 @@ readingTime: 4
 > 💡 **提示**：邀请码只能在注册时填写，注册完成后无法补填。如果你还没有账号，建议直接通过 [OKX 欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）注册，可享手续费返佣。
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ TL;DR</div>
+<div class="callout-title">TL;DR</div>
 <ul>
 <li><strong>邀请码 60895497 只能在注册时填</strong>，享手续费返佣，注册后无法补填。</li>
 <li><strong>KYC 分 L1/L2</strong>，L2 需人脸识别，通过后才能正常交易和提现。</li>

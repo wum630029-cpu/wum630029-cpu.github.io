@@ -18,7 +18,7 @@ categories: ['交易策略']
 > 💡 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=BT123)，输入邀请码 **BT123** 享 20% 手续费返佣。
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ TL;DR</div>
+<div class="callout-title">TL;DR</div>
 <ul>
 <li><strong>网格交易是「把价格区间分成格子，跌买涨卖」</strong>，程序自动执行，不用盯盘。</li>
 <li><strong>不用预测涨跌，适合横盘震荡市</strong>，单边行情会失灵甚至亏损。</li>

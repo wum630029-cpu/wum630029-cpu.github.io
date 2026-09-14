@@ -21,7 +21,7 @@ OKX 的 **C2C（点对点）交易** 是目前最主流的入金方式——你�
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ TL;DR</div>
+<div class="callout-title">TL;DR</div>
 <ul>
 <li><strong>OKX C2C 是 0 手续费的人民币买 U 通道</strong>，支付宝/微信/银行卡都能付。</li>
 <li><strong>选认证商家、看成交单数与好评率</strong>，平台托管资金防跑路。</li>

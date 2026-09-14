@@ -21,7 +21,7 @@ readingTime: 6
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ TL;DR</div>
+<div class="callout-title">TL;DR</div>
 <ul>
 <li><strong>币安卡是加密借记卡</strong>，把 BTC/USDT 充进卡，在 Mastercard 商户直接刷卡消费。</li>
 <li><strong>刷卡时币安自动把加密资产换成当地法币</strong>，商户收到的是法币，不是币。</li>

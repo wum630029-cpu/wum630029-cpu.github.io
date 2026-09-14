@@ -19,7 +19,7 @@ readingTime: 10
 ---
 
 <div class="callout callout-tldr">
-<div class="callout-title">⚡ TL;DR</div>
+<div class="callout-title">TL;DR</div>
 <ul>
 <li><strong>邀请码 BT123 只能在注册时填</strong>，注册后无法补填，填了享 20% 手续费永久返佣。</li>
 <li><strong>必须完成 KYC 实名认证</strong>才能充值、交易、提现，上传身份证照片 + 人脸即可。</li>
