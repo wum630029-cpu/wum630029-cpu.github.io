@@ -17,7 +17,7 @@ import sys
 from pathlib import Path
 
 # ========== 配置 ==========
-HOST = "wum630029-cpu.github.io"
+HOST = "coinvado.net"
 KEY = "7275888e4b33465699b61524ef72d30a"
 SITEMAP_PATH = Path("/Users/wuzhimin/wum630029-cpu.github.io/public/sitemap.xml")
 # 支持多个搜索引擎端点
