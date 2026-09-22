@@ -45,7 +45,7 @@ OKX 支持 iOS、Android 和网页端，但**手机 App 功能最全**，推荐�
 - **Android 用户**：访问 OKX 官网下载 APK 安装包
 - **网页端**：直接访问 OKX 官网注册
 
-> 💡 **认准官网：** OKX 唯一官方网站是 **www.okx.com**。注册、下载 App 都从这里进，任何让你输入验证码、助记词、或提前付款的「仿冒官网」都是钓鱼。想带返佣注册，可用本站 [邀请链接](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）。
+> 💡 **认准官网：** OKX 唯一官方网站是 **www.okx.com**。注册、下载 App 都从这里进，任何让你输入验证码、助记词、或提前付款的「仿冒官网」都是钓鱼。想带返佣注册，可用本站 [欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）。
 
 <div class="callout callout-info">
 <div class="callout-title">ℹ️ 下载提醒</div>
