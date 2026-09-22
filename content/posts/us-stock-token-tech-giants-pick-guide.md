@@ -181,8 +181,8 @@ PE（市盈率）= 股价 ÷ 每股盈利。苹果约 30 倍，意味着市场�
 ## 🟦 注册链接
 
 想实际操作美股代币，先开好账户：
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）
-- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）
+- 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 

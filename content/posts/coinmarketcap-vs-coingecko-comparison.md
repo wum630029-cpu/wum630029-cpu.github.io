@@ -184,8 +184,8 @@ CoinGecko 则从一开始就用「信任评分（Trust Score）」对抗刷量�
 
 > 💰 **看完了行情，该入场了？** 通过下方本站合作链接注册交易所，完成认证即可开始交易（本站会获得少量返佣，已如实披露）：
 >
-> - 币安：注册链接 [bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**；
-> - 欧易：注册链接 [promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)，邀请码 **60895497**。
+> - 币安：注册链接 [币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**；
+> - 欧易：注册链接 [欧易注册](https://www.promooboost.com/join/60895497)，邀请码 **60895497**。
 
 ## 推荐阅读
 

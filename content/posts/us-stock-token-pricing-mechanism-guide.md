@@ -164,8 +164,8 @@ bStocks 提供**每日抵押品证明（Proof of Collateral）**页面，公开�
 ## 🟦 注册链接
 
 想实际操作美股代币，先开好账户：
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）
-- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）
+- 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 想看视频版讲解？CoinVado 社区的[币安美股分红机制讲解](https://coinvado.com/videos/binance-us-stocks-dividends/)与本文的倍数章节互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

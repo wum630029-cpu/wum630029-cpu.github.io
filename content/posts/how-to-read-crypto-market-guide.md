@@ -134,8 +134,8 @@ K 线的进阶形态（锤子线、吞没、十字星等）和均线、RSI、MAC
 
 看完这三步，你已经比「只会看价格、听喊单」的新手多了一层独立判断。落地看盘只需要一个完成 KYC 的交易所账户：
 
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123，注册后现货买卖可享手续费返佣）
-- 欧易注册：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 60895497）
+- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123，注册后现货买卖可享手续费返佣）
+- 欧易注册：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 60895497）
 
 > 想系统了解新手第一步怎么走，可对照 CoinVado 的[新手第一步入门指南](https://coinvado.com/posts/crypto-beginner-first-step-2026/)，与本文互为补充。
 

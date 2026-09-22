@@ -22,8 +22,8 @@ readingTime: 9
 💡 **学习前提**：不了解美股代币是什么，先读 [什么是美股代币？代币化证券原理与 1:1 锚定机制详解](/what-is-us-stock-token-guide/)（系列十五第 1 篇）；想先上手实操，看 [币安 Bstocks 保姆级实操指南](/binance-bstocks-guide/)。本文是系列十五第 2 篇，下一篇推荐：**美股代币如何定价：预言机锚定、做市商与溢价折价机制**。
 
 🟦 **注册链接**：想买美股代币先要有币安账户，建议注册时填邀请码 **BT123**（注册后无法补填）：
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)
-- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+- 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ---
 
@@ -121,8 +121,8 @@ bStocks 的保护逻辑不同：它靠「1:1 底层资产背书 + 受监管托�
 ## 🟦 注册链接
 
 还没开户？用下方链接注册币安 / 欧易，现货交易可享手续费返佣：
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
-- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 想看更多币安功能与教程？欢迎访问 CoinVado 的[币安专区](https://coinvado.com/zh/binance/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

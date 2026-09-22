@@ -71,7 +71,7 @@ readingTime: 4
 1. **访问欧易官网**
 
 [👉 立即注册欧易](https://www.promooboost.com/join/60895497)
-- 邀请链接：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)
+- 邀请链接：[欧易注册](https://www.promooboost.com/join/60895497)
 - 邀请码：**60895497**
 
 2. **下载 APK 安装包**

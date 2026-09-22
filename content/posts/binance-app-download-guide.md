@@ -70,7 +70,7 @@ readingTime: 4
 
 <a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=BT123" target="_blank" rel="noopener noreferrer">👉 访问币安官网下载 App</a>
 
-- 官网链接：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)
+- 官网链接：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 - 邀请码（注册时填写）：**BT123**
 
 2. **下载 APK 安装包**

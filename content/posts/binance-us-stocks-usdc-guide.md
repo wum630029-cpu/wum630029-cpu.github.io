@@ -38,7 +38,7 @@ readingTime: 4
 
 <a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=BT123" target="_blank" rel="noopener noreferrer">👉 立即注册币安</a>
 
-- **邀请链接**：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)
+- **邀请链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 - **邀请码**：BT123
 
 ### 注册后需要完成的准备

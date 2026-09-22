@@ -141,8 +141,8 @@ readingTime: 9
 
 > 两家都用得上，下面是本站的合作推广链接，通过它们注册并完成交易，你可能获得手续费优惠，本站也会获得少量返佣（已如实披露）：
 >
-> - 欧易（OKX）：注册链接 [promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)，邀请码 **60895497**；
-> - 币安：注册链接 [bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**。
+> - 欧易（OKX）：注册链接 [欧易注册](https://www.promooboost.com/join/60895497)，邀请码 **60895497**；
+> - 币安：注册链接 [币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**。
 
 ### 📌 更多学习资源
 

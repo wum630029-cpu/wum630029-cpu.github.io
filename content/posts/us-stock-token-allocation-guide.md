@@ -91,7 +91,7 @@ readingTime: 8
 
 还没有币安账户？用下方链接注册，现货交易可享手续费返佣：
 
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
+- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
 
 > 关于币安买入美股的更多介绍，可参考 CoinVado 的[币安美股介绍](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/)，与本文互为补充。
 

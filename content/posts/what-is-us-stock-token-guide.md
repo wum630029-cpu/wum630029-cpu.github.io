@@ -22,8 +22,8 @@ readingTime: 8
 💡 **学习前提**：还不清楚怎么在币安实操？先看 [币安 Bstocks 保姆级实操指南](/binance-bstocks-guide/)；对「上链」没概念，可先读 [什么是区块链？从零理解去中心化技术](/what-is-blockchain/) 补基础。本文是系列十五（链上美股与 RWA 专题）第 1 篇，下一篇推荐：**美股代币 vs 传统美股：股东权益、分红与投票权对比**。
 
 🟦 **注册链接**：想买美股代币先要有币安账户，建议注册时填邀请码 **BT123**（注册后无法补填）：
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)
-- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+- 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ---
 
@@ -105,8 +105,8 @@ readingTime: 8
 ## 🟦 注册链接
 
 还没开户？用下方链接注册币安 / 欧易，现货交易可享手续费返佣：
-- 币安注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
-- 🟧 欧易（OKX）：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 想看更完整的内容？可看 CoinVado 社区的[股票代币是什么](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

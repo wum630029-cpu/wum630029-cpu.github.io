@@ -255,7 +255,7 @@ Binance Pay 是一个被很多人低估的实用工具。它解决了一个很�
 
 > **一句话记住：只要对方在币安，就用 Binance Pay——免费、块、安全。**
 
-> 💡 **如果你还没注册币安，现在就是最好的时机。** 使用邀请码 **BT123** 注册：[https://www.bsmkweb.cc/register?ref=BT123](https://www.bsmkweb.cc/register?ref=BT123)，享 20% 永续合约手续费返佣。
+> 💡 **如果你还没注册币安，现在就是最好的时机。** 使用邀请码 **BT123** 注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)，享 20% 永续合约手续费返佣。
 想看更多币安功能与教程？欢迎访问 CoinVado 的[币安专区](https://coinvado.com/zh/binance/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
 
 ---

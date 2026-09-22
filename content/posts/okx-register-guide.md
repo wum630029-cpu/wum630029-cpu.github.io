@@ -58,7 +58,7 @@ OKX 支持 iOS、Android 和网页端，但**手机 App 功能最全**，推荐�
 
 通过邀请链接注册，邀请码会自动填入，无需手动输入，同时还能享受手续费返佣。
 
-- **邀请链接**：[https://www.promooboost.com/join/60895497](https://www.promooboost.com/join/60895497)
+- **邀请链接**：[欧易注册](https://www.promooboost.com/join/60895497)
 - **邀请码**：60895497
 
 点击链接后，按页面提示输入邮箱或手机号、设置密码，完成验证码验证即可。
