@@ -139,7 +139,7 @@ readingTime: 9
 - [OKX 欧易注册教程：开户、KYC 与手续费返佣](/okx-register-guide/)
 - [币安注册完整指南](/binance-register-guide/)
 
-> 两家都用得上，下面是本站的合作推广链接，通过它们注册并完成交易，你可能获得手续费优惠，本站也会获得少量返佣（已如实披露）：
+> 两家都用得上：
 >
 > - 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)，邀请码 **60895497**；
 > - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**。

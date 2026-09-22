@@ -155,7 +155,7 @@ readingTime: 8
 - [合约交易风险控制：止盈止损与仓位管理](/futures-risk-management-guide/)
 - [加密货币怎么赚钱？新手 7 大赚钱方式全对比](/how-to-make-money-with-crypto-guide/)
 
-> 需要交易所账户来买现货或试合约？以下为本站的合作推广链接，通过它们注册并完成交易，你可能会获得手续费优惠，本站也会获得少量返佣（已如实披露）：
+> 需要交易所账户来买现货或试合约？
 >
 > - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**；
 > - 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)，邀请码 **60895497**。

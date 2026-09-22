@@ -25,7 +25,7 @@ readingTime: 10
 
 > 💡 **学习前提**：本文假设你已经会下单、理解限价/市价单，对网格、DCA、止盈止损有基础认知。还不熟的朋友，先看 [网格交易实战：参数调优技巧](/grid-trading-parameter-guide/) 理解网格的核心参数，再看 [止盈止损设置实战](/take-profit-stop-loss-guide/) 补齐保护单基础，合约部分先过 [什么是合约交易](/what-is-futures-contract-guide/)。本文是「交易技巧实战全系列」模块六工具与效率的一篇、系列十四总第三十九篇；本模块此前已发布 [恐惧贪婪指数市场情绪实战指南](/fear-greed-index-sentiment-guide/)，下一篇推荐「TradingView 高手用法」，把图表、预警与多图联动配成你的交易工作台。
 
-> 🔵 **想用上这些自动交易功能，先要有交易所账户。** 可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣），或[注册欧易 OKX](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）。**返佣披露**：以上链接为返佣推广，注册成功后我可能获得平台佣金，不影响你的费率与操作，是否使用请自行决定。
+> 🔵 **想用上这些自动交易功能，先要有交易所账户。** 可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣），或[注册欧易 OKX](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）。
 
 ---
 

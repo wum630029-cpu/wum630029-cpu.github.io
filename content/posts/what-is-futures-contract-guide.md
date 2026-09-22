@@ -137,7 +137,6 @@ readingTime: 8
 - **币安**：通过 [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123) 开户，注册时填写邀请码 **BT123**；合约操作见 [币安合约交易入门指南](/binance-futures-trading-guide/)。
 - **欧意 OKX**：通过 [欧意注册链接](https://www.promooboost.com/join/60895497) 开户，邀请码 **60895497**；合约操作见 [OKX 合约交易进阶教程](/okx-futures-trading-guide/)。
 
-> *返佣披露：以上币安、欧意链接为本站邀请链接，通过它们注册交易，平台可能向本站提供一定比例的返佣（对你无需额外支付任何费用）。是否使用完全自愿，你也可以直接在官网注册，功能与费用完全相同。*
 
 ## 常见误区
 

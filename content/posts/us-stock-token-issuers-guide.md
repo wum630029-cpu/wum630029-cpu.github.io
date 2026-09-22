@@ -21,7 +21,7 @@ readingTime: 9
 
 💡 **学习前提**：还没分清美股代币和真实股票的区别？先看 [什么是美股代币](/what-is-us-stock-token-guide/) 和 [美股代币 vs 传统美股](/us-stock-token-vs-traditional-stock-guide/)；价格与折溢价原理见 [美股代币定价机制详解](/us-stock-token-pricing-mechanism-guide/)。本文是系列十五（链上美股与 RWA 专题）第 4 篇，下一篇推荐：**代币化证券赛道：RWA 如何改变传统资产配置**。
 
-> 🔵 **注册链接**：想实操美股代币，先要有币安账户。[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享现货与合约手续费返佣）；🟧 欧易用户可用 [OKX 注册链接](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）。**返佣披露**：以上为返佣推广链接，注册成功后我可能获得平台佣金，不影响你的费率与操作。
+> 🔵 **注册链接**：想实操美股代币，先要有币安账户。[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享现货与合约手续费返佣）；🟧 欧易用户可用 [OKX 注册链接](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）。
 
 <div class="callout callout-tldr">
 <div class="callout-title">TL;DR</div>

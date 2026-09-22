@@ -150,7 +150,7 @@ TRON 上，收款地址若从未持有过 USDT，需要额外「激活」，能�
 - [什么是 Gas 费？转账和交易为什么要收手续费](/what-is-gas-fee/)
 - [私钥、公钥与钱包地址是什么](/private-key-public-key-address-guide/)
 
-> 需要交易所账户来买卖或提币 USDT？以下为本站的合作推广链接，通过它们注册并完成交易，你可能会获得手续费优惠，本站也会获得少量返佣（已如实披露）：
+> 需要交易所账户来买卖或提币 USDT？
 >
 > - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**；
 > - 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)，邀请码 **60895497**。
