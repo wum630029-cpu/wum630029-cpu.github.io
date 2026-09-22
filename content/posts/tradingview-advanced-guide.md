@@ -203,7 +203,7 @@ TradingView 本身是**图表分析工具，不是交易所**，不能直接持�
 
 ---
 
-> **币安注册链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+> [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 > 🔑 **邀请码：BT123**（享手续费返佣，注册时填写）
 
 ---

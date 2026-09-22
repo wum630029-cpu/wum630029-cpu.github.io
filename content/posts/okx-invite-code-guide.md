@@ -136,7 +136,7 @@ readingTime: 9
 | 返佣大头 | 邀请人手续费分成 | 邀请人手续费分成 |
 
 - **欧意注册**：[欧意注册入口](https://www.promooboost.com/join/60895497)，邀请码 **60895497**；
-- **币安注册**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**。
+- [币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**。
 
 返佣披露：以上均为带返佣的推广链接，通过链接注册并交易，本站会获得平台的手续费分成；这不影响你的费率与权益，两家的官方活动你可以照常参加。两个交易所怎么选，可以看这篇[主流交易所横向对比](/crypto-exchange-comparison-guide/)；两边的码不通用，各自注册时各自填。
 

@@ -63,8 +63,8 @@ readingTime: 8
 
 如果你身处虚拟货币交易合法的司法管辖区（如香港、新加坡等），且确需通过持牌交易所操作，可参考以下渠道（均为返佣链接，通过链接注册不增加你的任何成本，我们可能获得返佣）：
 
-- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
-- 欧易注册：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 60895497）
+- [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
+- [欧易注册](https://www.promooboost.com/join/60895497)（邀请码 60895497）
 
 ## 四、个人买 U 到底违不违法
 

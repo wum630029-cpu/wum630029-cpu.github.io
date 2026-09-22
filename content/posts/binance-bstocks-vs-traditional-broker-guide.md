@@ -27,7 +27,7 @@ readingTime: 10
 
 🟦 **需要账户？** 用下方链接注册，现货交易可享手续费返佣：
 
-- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
+- [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
 - 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 60895497）
 
 ---

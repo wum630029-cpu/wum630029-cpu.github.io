@@ -133,7 +133,7 @@ readingTime: 10
 
 **最快的方式是直接点击专属邀请链接注册，邀请码会自动填入，无需手动输入：**
 
-> **币安注册链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+> [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 >
 > 🔑 **邀请码：BT123**（享 20% 手续费永久返佣，注册时填写，完成无法补填）
 
@@ -504,7 +504,7 @@ C2C 买币是用户之间的点对点交易，平台 0 手续费。商家的报�
 
 ---
 
-> **币安注册链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+> [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 > 🔑 **邀请码：BT123**（20% 手续费永久返佣，注册时填写）
 
 ---

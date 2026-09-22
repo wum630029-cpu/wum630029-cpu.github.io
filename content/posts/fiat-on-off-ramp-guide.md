@@ -149,8 +149,8 @@ C2C 是大陆用户的主通道，也是出问题最多的地方。冻卡的根�
 
 ---
 
-> **币安注册链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
-> **欧易 OKX 注册链接**：[欧易注册](https://www.promooboost.com/join/60895497) ｜ 邀请码 **60895497**（享手续费返佣）
+> [币安注册](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
+> [欧易注册](https://www.promooboost.com/join/60895497) ｜ 邀请码 **60895497**（享手续费返佣）
 
 ---
 

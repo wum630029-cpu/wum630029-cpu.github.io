@@ -23,7 +23,7 @@ categories: ['美股教程']
 
 <a class="btn btn-primary" href="https://www.bsmkweb.cc/register?ref=BT123" target="_blank" rel="noopener noreferrer">👉 立即注册币安（邀请码 BT123）</a>
 
-**注册链接：** [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 **邀请码：** BT123
 
 ### 注册步骤

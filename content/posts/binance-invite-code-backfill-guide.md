@@ -184,7 +184,7 @@ readingTime: 9
 
 ---
 
-> **币安注册链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+> [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 > 🔑 **邀请码：BT123**（享手续费返佣，注册时填写）
 
 ---

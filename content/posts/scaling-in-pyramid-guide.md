@@ -219,10 +219,10 @@ readingTime: 9
 
 ---
 
-> **币安注册链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+> [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 > 🔑 **邀请码：BT123**（享手续费返佣，注册时填写）
 >
-> **欧易注册链接**：[欧易注册](https://www.promooboost.com/join/60895497)
+> [欧易注册](https://www.promooboost.com/join/60895497)
 > 🔑 **邀请码：60895497**（享手续费返佣，注册时填写）
 
 ---

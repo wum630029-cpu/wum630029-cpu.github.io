@@ -85,8 +85,8 @@ readingTime: 8
 
 落地使用稳定币，需要一个完成 KYC 的交易所账户买卖 USDT / USDC：
 
-- 币安注册：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123，注册后现货买卖可享手续费返佣）
-- 欧易注册：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 60895497）
+- [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123，注册后现货买卖可享手续费返佣）
+- [欧易注册](https://www.promooboost.com/join/60895497)（邀请码 60895497）
 
 ## 常见误区
 

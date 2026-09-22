@@ -204,7 +204,7 @@ FOMC 夜真正影响币价的，是三件事，重要性依次递增：
 
 ---
 
-> **币安注册链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)
+> [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 > 🔑 **邀请码：BT123**（享手续费返佣，注册时填写）
 
 ---

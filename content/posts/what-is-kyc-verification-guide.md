@@ -158,8 +158,8 @@ KYC 核心就查三件事：
 
 ---
 
-> **币安注册链接**：[币安注册](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
-> **欧易 OKX 注册链接**：[欧易注册](https://www.promooboost.com/join/60895497) ｜ 邀请码 **60895497**（享手续费返佣）
+> [币安注册](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
+> [欧易注册](https://www.promooboost.com/join/60895497) ｜ 邀请码 **60895497**（享手续费返佣）
 
 ---
 
