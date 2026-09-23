@@ -40,10 +40,10 @@
   </header>
 
   {{ if .TableOfContents }}
-  <div class="toc-box">
-    <div class="toc-box-title">📑 目录</div>
+  <details class="toc-box">
+    <summary class="toc-box-title">📑 目录</summary>
     {{ .TableOfContents }}
-  </div>
+  </details>
   {{ end }}
 
   <div class="article-content">
@@ -63,6 +63,11 @@
     </ul>
   </section>
   {{- end -}}
+
+  <div class="register-cta" style="margin-top: 24px; display: flex; gap: 12px; flex-wrap: wrap;">
+    <a href="https://www.bsmkweb.cc/register?ref=BT123" class="btn btn-hero-outline btn-hero-yellow" target="_blank" rel="noopener sponsored">币安注册</a>
+    <a href="https://www.btmwjnxqvkf.org/join/60895497" class="btn btn-hero-outline btn-hero-blue" target="_blank" rel="noopener sponsored">欧意注册</a>
+  </div>
 
   <footer style="margin-top: 64px; padding-top: 32px; border-top: 1px solid var(--border);">
     <p style="color: var(--text-3); font-size: 0.9rem;">

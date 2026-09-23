@@ -754,18 +754,41 @@ main {
   color: var(--primary);
 }
 
-/* Table of Contents */
+/* Table of Contents（默认折叠，点击标题展开） */
 .toc-box {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
-  padding: 16px 20px;
   margin: 0 0 28px;
 }
 .toc-box-title {
+  list-style: none;
+  cursor: pointer;
   font-weight: 700;
   font-size: 1rem;
-  margin-bottom: 10px;
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  user-select: none;
+}
+.toc-box-title::-webkit-details-marker {
+  display: none;
+}
+.toc-box-title::after {
+  content: "▾";
+  color: var(--text-3);
+  font-size: 0.9rem;
+  line-height: 1;
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+.toc-box[open] .toc-box-title::after {
+  transform: rotate(180deg);
+}
+.toc-box #TableOfContents {
+  padding: 0 20px 16px;
 }
 .toc-box #TableOfContents ul {
   list-style: none;
@@ -812,6 +835,24 @@ main {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px 0 rgba(99, 102, 241, 0.45);
   color: var(--primary-text);
+}
+
+/* 文章内注册 CTA 按钮（与首页 Hero 币安/欧意注册同款配色） */
+.btn-hero-outline {
+  box-shadow: none;
+}
+.btn-hero-yellow {
+  background: linear-gradient(135deg, #fbbf24, #f59e0b);
+  color: #1a1a1a;
+}
+.btn-hero-blue {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  color: #fff;
+}
+.btn-hero-outline:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.08);
+  box-shadow: none;
 }
 
 /* Footer */
