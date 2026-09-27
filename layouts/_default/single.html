@@ -47,7 +47,17 @@
   {{ end }}
 
   <div class="article-content">
-    {{ .Content }}
+    {{- $cta := partial "register-cta.html" . -}}
+    {{- $content := .Content -}}
+    {{- if in $content "callout-tldr" -}}
+      {{- $content = replaceRE `(?s)(<div class="callout callout-tldr">.*?</ul>\s*</div>)` (printf "${1}\n\n%s\n" $cta) $content -}}
+    {{- else if in $content "<h2" -}}
+      {{- $content = replaceRE `(?m)(<h2)` (printf "\n%s\n\n${1}" $cta) $content 1 -}}
+    {{- end -}}
+    {{- if not (in $content "register-cta") -}}
+      {{- $content = printf "%s\n\n%s" $content $cta -}}
+    {{- end -}}
+    {{ $content | safeHTML }}
   </div>
 
   {{- $related := .Site.RegularPages.Related . | first 4 -}}
@@ -63,11 +73,6 @@
     </ul>
   </section>
   {{- end -}}
-
-  <div class="register-cta" style="margin-top: 24px; display: flex; gap: 12px; flex-wrap: wrap;">
-    <a href="https://www.bsmkweb.cc/register?ref=BT123" class="btn btn-hero-outline btn-hero-yellow" target="_blank" rel="noopener sponsored">币安注册</a>
-    <a href="https://www.btmwjnxqvkf.org/join/60895497" class="btn btn-hero-outline btn-hero-blue" target="_blank" rel="noopener sponsored">欧意注册</a>
-  </div>
 
   <footer style="margin-top: 64px; padding-top: 32px; border-top: 1px solid var(--border);">
     <p style="color: var(--text-3); font-size: 0.9rem;">
