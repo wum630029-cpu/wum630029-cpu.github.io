@@ -39,6 +39,8 @@
     </div>
   </header>
 
+  {{ partial "register-cta.html" . }}
+
   {{ if .TableOfContents }}
   <details class="toc-box">
     <summary class="toc-box-title">📑 目录</summary>
@@ -47,17 +49,7 @@
   {{ end }}
 
   <div class="article-content">
-    {{- $cta := partial "register-cta.html" . -}}
-    {{- $content := .Content -}}
-    {{- if in $content "callout-tldr" -}}
-      {{- $content = replaceRE `(?s)(<div class="callout callout-tldr">.*?</ul>\s*</div>)` (printf "${1}\n\n%s\n" $cta) $content -}}
-    {{- else if in $content "<h2" -}}
-      {{- $content = replaceRE `(?m)(<h2)` (printf "\n%s\n\n${1}" $cta) $content 1 -}}
-    {{- end -}}
-    {{- if not (in $content "register-cta") -}}
-      {{- $content = printf "%s\n\n%s" $content $cta -}}
-    {{- end -}}
-    {{ $content | safeHTML }}
+    {{ .Content }}
   </div>
 
   {{- $related := .Site.RegularPages.Related . | first 4 -}}
