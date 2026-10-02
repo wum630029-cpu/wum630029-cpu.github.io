@@ -22,7 +22,16 @@ readingTime: 9
 - OKX 欧易注册后能不能补填的对比
 - 值不值得为了返佣折腾，帮你算一笔账
 
-> 💡 **学习前提**：本文默认你已经注册过币安账号。若还没注册、想从一开始就填对邀请码，先看 [2026 币安注册完整指南](/binance-register-guide/)；想搞清楚返佣到底能省多少手续费，先看 [币安手续费与返佣揭秘](/binance-fee-rebate-guide/)。本文是系列一（币安从入门到精通）第 20 篇。
+<div class="callout callout-tldr">
+<div class="callout-title">TL;DR</div>
+<ul>
+<li><strong>结论一：</strong>币安邀请码注册后无法在 App 里自行补填，但官方留了一条「老用户召回」补绑通道。</li>
+<li><strong>结论二：</strong>补绑前提是「从未绑定邀请人 + 注册超 90 天 + 近 90 天无交易无理财」，用专属邀请链接登录确认绑定，不支持直接输码。</li>
+<li><strong>结论三：</strong>「联系客服补录」「注销重注册」基本不靠谱甚至触发风控，别为一点返佣去折腾。邀请码 <strong>BT123</strong> 享 20% 返佣。</li>
+</ul>
+</div>
+
+> 💡 **学习前提**：本文默认你已经注册过币安账号。若还没注册、想从一开始就填对邀请码，先看 [2026 币安注册完整指南](/binance-register-guide/)；只想拿一个能直接用的码，看 [币安邀请码 BT123 完整指南](/binance-invite-code-bt123-guide/)；想搞清楚返佣到底能省多少手续费，先看 [币安手续费与返佣揭秘](/binance-fee-rebate-guide/)。本文是系列一（币安从入门到精通）第 20 篇。
 
 > 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）。
 

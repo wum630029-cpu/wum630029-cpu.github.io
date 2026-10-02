@@ -15,6 +15,15 @@ readingTime: 4
 
 > 💡 **提示**：币安账号需要在注册时填写邀请码，注册完成后无法补填。如果你还没有账号，建议先通过下方链接注册。
 
+<div class="callout callout-tldr">
+<div class="callout-title">TL;DR</div>
+<ul>
+<li><strong>结论一：</strong>大陆应用商店已下架 Binance，iOS 用美区/港区 Apple ID、安卓从官网下 APK，认准白底黑「B」图标。</li>
+<li><strong>结论二：</strong>最危险的是山寨 App——只从官网或 Google Play 下载，不碰「破解版」「手续费全免版」，安装后检查权限。</li>
+<li><strong>结论三：</strong>下载后先注册再认证，注册时填邀请码 <strong>BT123</strong> 享 20% 手续费返佣。</li>
+</ul>
+</div>
+
 ## 一、为什么推荐使用币安 App？
 
 币安 App 相比网页版有以下几个优势：

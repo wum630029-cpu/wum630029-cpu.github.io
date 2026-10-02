@@ -16,6 +16,15 @@ readingTime: 4
 
 本教程将全面解析币安的费率结构，并教你三招最实用的降费方法。
 
+<div class="callout callout-tldr">
+<div class="callout-title">TL;DR</div>
+<ul>
+<li><strong>结论一：</strong>币安省手续费三招——BNB 抵扣（立省 25%）、填邀请码 BT123 享 20% 返佣、提升 VIP 等级，三者可叠加。</li>
+<li><strong>结论二：</strong>三重叠加后现货费率可从 0.10% 压到约 0.06%，最高省约 50% 交易成本。</li>
+<li><strong>结论三：</strong>普通用户最省事的是「BNB 抵扣 + 邀请码返佣」两招叠加，无需大额交易也立竿见影。</li>
+</ul>
+</div>
+
 > 💡 **还没有币安账号？** [立即注册](https://www.bsmkweb.cc/register?ref=BT123)，填写邀请码 **BT123** 享 20% 手续费返佣，从第一笔交易就开始省钱。
 
 ## 一、币安全面手续费结构
@@ -116,6 +125,8 @@ readingTime: 4
 | 使用邀请码注册 | 20%（长期） | ⭐ 最简单，注册时填写即可 |
 | 开启 BNB 抵扣 | 25%-32% | ⭐⭐ 需持有少量 BNB |
 | 两者叠加 | **约 45%-50%** | ⭐⭐ 一劳永逸 |
+
+想直接拿一个能用的邀请码、搞清 20% 返佣到底怎么拿满，看 [币安邀请码 BT123 完整指南](/binance-invite-code-bt123-guide/) 和 [哪个码真能拿 20% 返佣](/binance-invite-code-20-percent-rebate-guide/)。
 
 ### 进阶：建立返佣网络
 
