@@ -26,6 +26,19 @@ window.__siteSearchIndex = {{ $index | jsonify | safeJS }};
 
   function norm(s) { return String(s || '').toLowerCase(); }
 
+  // 分词：先按空格切，再把「英文/数字连续串」与「单个中文字」拆开，
+  // 使「okx注册」「欧易注册」这类无空格混合词也能分别命中
+  function tokenize(q) {
+    var words = norm(q).trim().split(/\s+/).filter(Boolean);
+    var tokens = [];
+    for (var i = 0; i < words.length; i++) {
+      var m = words[i].match(/[a-z0-9]+|[一-鿿]/g);
+      if (m && m.length) { tokens = tokens.concat(m); }
+      else { tokens.push(words[i]); }
+    }
+    return tokens;
+  }
+
   // 返回 0/1/2 表示命中在标题/标签/摘要，数值越小排名越高；-1 表示未命中
   function score(item, tokens) {
     var title = norm(item.t);
@@ -49,7 +62,7 @@ window.__siteSearchIndex = {{ $index | jsonify | safeJS }};
   }
 
   function render(q) {
-    var tokens = q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    var tokens = tokenize(q);
     if (!tokens.length) { clear(); return; }
     var matched = [];
     for (var i = 0; i < idx.length; i++) {
