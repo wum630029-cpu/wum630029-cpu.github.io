@@ -39,21 +39,26 @@ window.__siteSearchIndex = {{ $index | jsonify | safeJS }};
     return tokens;
   }
 
-  // 返回 0/1/2 表示命中在标题/标签/摘要，数值越小排名越高；-1 表示未命中
+  // 模糊匹配：不要求全部命中，按「命中 token 数」+「命中位置加权」打分
+  // 命中位置权重：标题 0 > 标签 1 > 摘要 2，成本越低排名越靠前
+  // 返回 { m: 命中数, c: 总成本 }，一个都没命中返回 null
   function score(item, tokens) {
     var title = norm(item.t);
     var tags = norm((item.tags || []).join(' '));
     var snip = norm(item.s);
-    var total = 0;
+    var matched = 0;
+    var cost = 0;
     for (var i = 0; i < tokens.length; i++) {
       var q = tokens[i];
       if (!q) { continue; }
-      if (title.indexOf(q) !== -1) { total += 0; }
-      else if (tags.indexOf(q) !== -1) { total += 1; }
-      else if (snip.indexOf(q) !== -1) { total += 2; }
-      else { return -1; }
+      if (title.indexOf(q) !== -1) { matched += 1; cost += 0; }
+      else if (tags.indexOf(q) !== -1) { matched += 1; cost += 1; }
+      else if (snip.indexOf(q) !== -1) { matched += 1; cost += 2; }
     }
-    return total;
+    if (matched === 0) { return null; }
+    // 模糊门槛：单 token 命中即可；多 token 至少命中一半，避免明显跑题
+    if (tokens.length > 1 && matched / tokens.length < 0.5) { return null; }
+    return { m: matched, c: cost };
   }
 
   function clear() {
@@ -67,14 +72,15 @@ window.__siteSearchIndex = {{ $index | jsonify | safeJS }};
     var matched = [];
     for (var i = 0; i < idx.length; i++) {
       var s = score(idx[i], tokens);
-      if (s >= 0) { matched.push({ item: idx[i], score: s }); }
+      if (s) { matched.push({ item: idx[i], m: s.m, c: s.c }); }
     }
     if (!matched.length) {
       results.innerHTML = '<li class="empty">未找到相关文章，换个关键词试试</li>';
       results.hidden = false;
       return;
     }
-    matched.sort(function (a, b) { return a.score - b.score; });
+    // 命中 token 越多越靠前；命中数相同时，标题命中优先（成本低）
+    matched.sort(function (a, b) { return (b.m - a.m) || (a.c - b.c); });
     matched = matched.slice(0, 10);
     results.innerHTML = '';
     matched.forEach(function (m) {
