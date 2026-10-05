@@ -242,7 +242,7 @@ A：两者入金逻辑几乎一样（都是 C2C/银行卡/链上三条路），�
 - [OKX 欧易出金提现完全指南](/okx-withdraw-guide/)
 - [OKX 欧易注册教程与 KYC 认证](/okx-register-guide/)
 - [OKX 账户安全设置指南](/okx-security-guide/)
-- [欧意 OKX 新手入门完整教程](/okx-beginner-guide/)
+- [欧意 OKX 新手入门完整教程](/okx-xiaobai-guide/)
 - [法币出入金总纲：钱怎么进币圈又怎么退出来](/fiat-on-off-ramp-guide/)
 - [币安入金充值教程（对称参考）](/binance-deposit-guide/)
 

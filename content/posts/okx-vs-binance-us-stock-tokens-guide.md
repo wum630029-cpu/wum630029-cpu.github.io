@@ -153,7 +153,7 @@ readingTime: 10
 - [美股代币五大风险详解：价格偏差、流动性、托管、发行方与监管](/us-stock-token-five-risks-guide/)
 - [币安 bStocks 全解析：35 只美股代币标的一览、碎股与 7×24 小时交易完整指南](/binance-bstocks-overview-guide/)
 - [币安买美股实操指南：USDC 入金到首次买入完整流程](/binance-bstocks-buy-guide/)
-- [欧意 OKX 新手入门完整教程：从注册 KYC 到入金买币交易全流程](/okx-beginner-guide/)
+- [欧意 OKX 新手入门完整教程：从注册 KYC 到入金买币交易全流程](/okx-xiaobai-guide/)
 
 ### 📌 更多学习资源
 
