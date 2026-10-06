@@ -514,6 +514,7 @@ main {
 }
 
 .article-card {
+  position: relative;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -542,6 +543,13 @@ main {
   color: var(--primary);
 }
 
+/* 整卡可点击：用标题链接的伪元素铺满卡片，点任意位置都进文章 */
+.article-card h2 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
 .article-meta {
   display: flex;
   gap: 16px;
@@ -556,6 +564,8 @@ main {
 }
 
 .article-tags {
+  position: relative;
+  z-index: 1;
   display: flex;
   gap: 8px;
   margin-top: 16px;
