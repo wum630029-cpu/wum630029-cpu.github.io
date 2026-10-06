@@ -344,7 +344,6 @@ LP 代币的用途：
 | 工具 | 用途 | 链接 |
 |:----|:----|:----|
 | **DeFiLlama** | 查询 TVL、协议数据 | defillama.com |
-| **APY Vision** | 分析 LP 池真实收益 | apy.vision |
 | **Zapper / Zerion** | 一站式管理所有 DeFi 仓位 | zapper.fi |
 | **Revert Finance** | Uniswap V3 仓位管理 | revert.finance |
 | **Yearn Finance** | 自动复投收益聚合器 | yearn.fi |

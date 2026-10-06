@@ -211,7 +211,6 @@ Nouns DAO 的运作方式很特别——每天生成并拍卖一个 NFT，拍卖
 |:----|:----|:----|
 | **治理投票** | [Snapshot](https://snapshot.org) | 链下投票（免费） |
 | | [Tally](https://tally.xyz) | 链上治理仪表盘 |
-| | [Sybil](https://sybil.org) | 治理代表查询 |
 | **金库/资金** | [Safe](https://safe.global)（原 Gnosis Safe） | 多签钱包 |
 | | [Parcel](https://parcel.money) | DAO 工资发放 |
 | | [LlamaPay](https://llamapay.org) | 自动流支付 |
@@ -221,8 +220,7 @@ Nouns DAO 的运作方式很特别——每天生成并拍卖一个 NFT，拍卖
 | **沟通** | Discord | 日常讨论 |
 | | Discourse | 提案讨论 |
 | | Commonwealth | 治理+讨论 |
-| **法律** | [LEGO](https://legoinc.co) | DAO 法律框架 |
-| | [dOrg](https://dorg.tech) | DAO 开发服务 |
+| **法律** | [dOrg](https://dorg.tech) | DAO 开发服务 |
 
 这些工具基本覆盖了 DAO 运作的全部需求——从讨论、投票、资金管理到人员协调。
 

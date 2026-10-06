@@ -332,7 +332,6 @@ Solana 的 NFT 生态虽然从 2023 年的高峰有所回落，但仍然是：
 | **Solscan** | 区块浏览器，查交易、地址、代币详情 | [solscan.io](https://solscan.io/) |
 | **Birdeye** | 代币数据分析，追踪新币、查看 K 线 | [birdeye.so](https://birdeye.so/) |
 | **DexScreener** | 多链 DEX 数据看板，Solana 上新币追踪首选 | [dexscreener.com](https://dexscreener.com/) |
-| **Step Finance** | Solana 一站式资产管理看板 | [step.finance](https://step.finance/) |
 | **Triton (RPC)** | 高可用 RPC 节点服务，Phantom 默认使用 | [triton.one](https://triton.one/) |
 
 ### 7.2 Solana 特有安全风险

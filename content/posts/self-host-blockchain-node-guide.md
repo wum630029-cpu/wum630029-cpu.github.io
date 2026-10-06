@@ -376,7 +376,6 @@ Solana 的性能要求意味着**普通云服务器不适合跑 Solana 验证节
 > 🔗 **扩展阅读**：
 > - [Geth 官方文档](https://geth.ethereum.org/docs/)
 > - [Lighthouse Book](https://lighthouse-book.sigmaprime.io/)
-> - [Solana 验证节点指南](https://docs.anza.xyz/operations/setup-solana-validator)
 > - [以太坊节点监控工具 ethdo](https://github.com/wealdtech/ethdo)
 
 想看更完整的内容？可看 CoinVado 社区的[区块链节点类型](https://coinvado.com/posts/blockchain-node-types-full-light-archive-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

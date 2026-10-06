@@ -305,7 +305,6 @@ Curve 的 LP 代币是你在池中份额的凭证：
 | 工具 | 网址 | 特点 |
 |:----|:----|:----|
 | **Daily Defi IL Calculator** | [dailydefi.org/tools/impermanent-loss-calculator/](https://dailydefi.org/tools/impermanent-loss-calculator/) | 简单直观 |
-| **APY.vision** | [apy.vision](https://apy.vision) | 可查看真实历史表现 |
 | **Revert Finance** | [revert.finance](https://revert.finance) | Uniswap V3 仓位分析工具 |
 | **DeBank** | [debank.com](https://debank.com) | 聚合看板，可追踪做市仓位 |
 
@@ -442,7 +441,6 @@ Step 4：领取奖励（随时操作），点击 Claim Rewards，确认交易，
 | 工具 | 网址 | 用途 |
 |:----|:----|:----|
 | **Revert Finance** | [revert.finance](https://revert.finance) | Uniswap V3 仓位分析 |
-| **APY.vision** | [apy.vision](https://apy.vision) | LP 收益追踪 |
 | **DeBank** | [debank.com](https://debank.com) | 链上资产看板 |
 | **DeFiLlama** | [defillama.com](https://defillama.com) | 协议 TVL 和收益对比 |
 | **Zapper** | [zapper.xyz](https://zapper.xyz) | 资产聚合看板 |

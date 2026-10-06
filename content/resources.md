@@ -16,10 +16,7 @@ description: 'CoinVado 资源中心汇总币安、欧易等主流交易所的视
 
 ## 视频教程（跟着做）
 
-想用视频一步步操作，看这两类：
-
-- [视频实操教程](https://coinvado.com/videos/tutorials/)：比特币入门、币安/欧易注册 KYC、区块链基础、以太坊 ETF 等，边看边做。
-- [视频解读](https://coinvado.com/videos/analysis/)：市场与行业趋势解读，帮你看懂大盘和赛道。
+- [视频实操教程](https://coinvado.com/videos/)：比特币入门、币安/欧易注册 KYC、区块链基础、以太坊 ETF 等，边看边做。
 
 ## 每日资讯与行情（每天看）
 
