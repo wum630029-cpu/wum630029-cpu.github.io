@@ -24,7 +24,7 @@ readingTime: 8
 - 官网打不开怎么办：排查步骤
 - 常见问题 FAQ
 
-🟧 **还没有欧易账号？** [立即注册](https://www.promooboost.com/join/60895497)，使用邀请码 **60895497** 享受手续费返佣。
+🟧 **还没有欧易账号？** [立即注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
 
 ## 一、先给结论：欧易官网唯一正确地址
 
@@ -68,7 +68,7 @@ readingTime: 8
 
 3. **登录或注册**
    - 老用户点右上角「登录」
-   - 新用户点「注册」，[填写邀请码 **60895497**](https://www.promooboost.com/join/60895497) 可享手续费返佣
+   - 新用户点「注册」，[填写邀请码 **60895497**](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 可享手续费返佣
 
 4. **完成安全设置后交易**
    - 登录后建议先完成 Google 验证、防钓鱼码等设置，再开始入金交易

@@ -432,7 +432,7 @@ ENS 支持一次续费最多 10 年：
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
 > - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123)（邀请码：BT123）
-> - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
+> - 🟧 [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码：60895497）
 
 ### 📌 更多学习资源
 想了解链上资产与 Web3？欢迎访问 CoinVado 的[链上资产专区](https://coinvado.com/zh/on-chain-assets/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

@@ -14,7 +14,7 @@ readingTime: 4
 
 本教程用最通俗的语言，一步步带你理解区块链是什么、怎么工作、能做什么。
 
-> 💡 **想亲自体验区块链？** 最快的方式是通过交易所接触加密资产。[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易](https://www.promooboost.com/join/60895497)（邀请码 **60895497**），买一点 USDT/BTC 就能实际体验区块链转账。
+> 💡 **想亲自体验区块链？** 最快的方式是通过交易所接触加密资产。[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），买一点 USDT/BTC 就能实际体验区块链转账。
 
 ---
 
@@ -169,7 +169,7 @@ NFT（非同质化代币）代表独一无二的数字资产所有权：
 
 推荐平台：
 - 🟦 **币安** — [注册链接](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**
-- 🟧 **欧易** — [注册链接](https://www.promooboost.com/join/60895497)，邀请码 **60895497**
+- 🟧 **欧易** — [注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**
 
 ### 方案二：使用 Web3 钱包（进阶）
 

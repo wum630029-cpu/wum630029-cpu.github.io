@@ -142,7 +142,7 @@ readingTime: 9
 
 > 两家都用得上：
 >
-> - 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)，邀请码 **60895497**；
+> - 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**；
 > - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**。
 
 ### 📌 更多学习资源

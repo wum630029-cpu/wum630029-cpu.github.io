@@ -274,7 +274,7 @@ Base 的 OP Stack 持续优化，2026 年 Base 上的 Gas 费用通常在 $0.01 
 
 > 🟦 **注册币安**（邀请码 **BT123** 享 20% 返佣）：
 > - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
-> 🟧 [欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+> 🟧 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ### 5.4 Base 的独特价值
 

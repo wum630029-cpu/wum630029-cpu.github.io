@@ -23,7 +23,7 @@ readingTime: 9
 - 决策框架：什么人适合、什么人不适合用 OKX
 - 降低风险：6 个具体动作
 
-💡 **学习前提**：本文解决的是「要不要相信 OKX」这个信任问题。如果你已经决定注册，直接看 [OKX 欧易注册教程](/okx-register-guide/) 或 [欧意 OKX 新手入门完整教程](/okx-xiaobai-guide/)；还没账号的，可以通过 [欧易注册](https://www.promooboost.com/join/60895497) 注册（邀请码 **60895497**）。
+💡 **学习前提**：本文解决的是「要不要相信 OKX」这个信任问题。如果你已经决定注册，直接看 [OKX 欧易注册教程](/okx-register-guide/) 或 [欧意 OKX 新手入门完整教程](/okx-xiaobai-guide/)；还没账号的，可以通过 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 注册（邀请码 **60895497**）。
 
 ---
 
@@ -139,7 +139,7 @@ A：这笔罚款针对的是早期未合规阶段的历史行为。OKX 目前已
 A：两者都是头部持牌交易所，安全等级相当，各有侧重：币安流动性最大、币种最全；OKX 专业合约工具和 Web3 生态更强、提币手续费更低。详见 [主流交易所横向对比](/crypto-exchange-comparison-guide/)。
 
 **Q：怎么注册 OKX？**
-A：通过 [欧易注册](https://www.promooboost.com/join/60895497) 进入官网，输入邀请码 **60895497** 注册，再按 [OKX 注册教程](/okx-register-guide/) 完成 KYC 即可。
+A：通过 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 进入官网，输入邀请码 **60895497** 注册，再按 [OKX 注册教程](/okx-register-guide/) 完成 KYC 即可。
 
 ## 总结：核心要点回顾
 

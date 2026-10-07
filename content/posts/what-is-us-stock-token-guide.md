@@ -24,7 +24,7 @@ readingTime: 8
 
 🟦 **注册链接**：想买美股代币先要有币安账户，建议注册时填邀请码 **BT123**（注册后无法补填）：
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
-- 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ---
 
@@ -107,7 +107,7 @@ readingTime: 8
 
 还没开户？用下方链接注册币安 / 欧易，现货交易可享手续费返佣：
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
-- 🟧 欧易（OKX）：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 想看更完整的内容？可看 CoinVado 社区的[股票代币是什么](https://coinvado.com/posts/binance-buy-us-stocks-referral-code-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

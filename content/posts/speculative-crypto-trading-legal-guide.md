@@ -109,7 +109,7 @@ readingTime: 8
 如果你身处虚拟货币交易合法的司法管辖区（如香港、新加坡等），且确需通过持牌交易所操作，可参考以下渠道：
 
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
-- [欧易注册](https://www.promooboost.com/join/60895497)（邀请码 60895497）
+- [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 60895497）
 
 **一张自测表，帮你判断自己的炒法站在哪一档：**
 

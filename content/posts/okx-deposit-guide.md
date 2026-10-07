@@ -23,7 +23,7 @@ readingTime: 8
 - 对比总表：手续费、到账时间、单笔额度、风险
 - 新手入金避坑 checklist 与常见误区
 
-🟧 **还没有欧易账号？** [立即注册](https://www.promooboost.com/join/60895497)，使用邀请码 **60895497** 享受手续费返佣。
+🟧 **还没有欧易账号？** [立即注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
 
 ---
 
@@ -47,7 +47,7 @@ readingTime: 8
 
 不管你走哪种入金方式，入金前先把这三件事做完，否则会卡在最后一步：
 
-1. **注册并填邀请码**：通过 [欧易注册](https://www.promooboost.com/join/60895497) 进入官网注册，邀请码填 **60895497**，具体步骤见 [OKX 欧易注册教程](/okx-register-guide/)。
+1. **注册并填邀请码**：通过 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 进入官网注册，邀请码填 **60895497**，具体步骤见 [OKX 欧易注册教程](/okx-register-guide/)。
 2. **完成 KYC 实名认证**：C2C 交易、大额入金都必须先实名。完成 Lv.2 认证才能用 C2C 买卖币，详见 [注册教程的 KYC 部分](/okx-register-guide/)。
 3. **开好安全设置**：Google 2FA 双重验证、资金密码、反钓鱼码、提现白名单，入金前一次性配齐，具体见 [OKX 账户安全设置指南](/okx-security-guide/)。
 

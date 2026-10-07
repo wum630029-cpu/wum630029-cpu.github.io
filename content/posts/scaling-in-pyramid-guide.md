@@ -38,7 +38,7 @@ readingTime: 9
 
 > 💡 **学习前提**：本文是「交易技巧实战全系列」第 15 篇，属于「订单策略与执行」模块。分批建仓的前提是「每笔该下多少」——建议先看 [仓位计算器实战：固定比例与凯利公式](/position-sizing-calculator-guide/) 和 [止盈止损设置实战](/take-profit-stop-loss-guide/)；想理解加仓后的整体风险控制，可对照 [资金管理核心：总敞口控制、相关性对冲与资金分仓](/capital-management-guide/)。
 
-> 🟦 **本文涉及交易所交易。** 若你还没有账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣），或[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）。
+> 🟦 **本文涉及交易所交易。** 若你还没有账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣），或[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
 
 ---
 
@@ -223,7 +223,7 @@ readingTime: 9
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
 > 🔑 **邀请码：BT123**（享手续费返佣，注册时填写）
 >
-> [欧易注册](https://www.promooboost.com/join/60895497)
+> [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
 > 🔑 **邀请码：60895497**（享手续费返佣，注册时填写）
 
 ---

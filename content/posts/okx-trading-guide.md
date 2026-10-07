@@ -14,7 +14,7 @@ readingTime: 4
 
 本教程带你全面了解 OKX 的三大核心交易功能，不管你是完全零基础还是想了解 OKX 的特色功能，这篇都适合你。
 
-> 💡 **还没有欧易账号？** [立即注册](https://www.promooboost.com/join/60895497)，使用邀请码 **60895497** 享受手续费返佣。
+> 💡 **还没有欧易账号？** [立即注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
 
 ---
 
@@ -189,7 +189,7 @@ OKX 提供 BTC 和 ETH 的期权交易，支持做多/做空，适合专业交�
 很多用户选择**两个平台都注册**，哪个好用哪个：
 
 - 🟦 [币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 BT123
-- 🟧 [欧易注册](https://www.promooboost.com/join/60895497)，邀请码 60895497
+- 🟧 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，邀请码 60895497
 
 ---
 

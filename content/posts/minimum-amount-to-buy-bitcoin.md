@@ -103,7 +103,7 @@ readingTime: 9
 两条都走同一个入口：注册 → 实名 → C2C 买 USDT → 现货换 BTC。具体步骤上一篇已经写得极细，直接照着走：
 
 - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（注册时填邀请码 **BT123**）
-- 欧易：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 欧易：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 完整买币流程见 [比特币怎么买？新手第一次买 BTC 全流程](/how-to-buy-bitcoin-beginner/)；软件下载见 [买比特币用什么软件](/what-software-to-buy-bitcoin/)。
 

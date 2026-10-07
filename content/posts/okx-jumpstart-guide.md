@@ -16,7 +16,7 @@ OKX Jumpstart 是欧易推出的新币发行平台，用户通过质押 OKB 或 
 
 这篇文章从参与方式、质押规则到项目评估和抢购技巧，完整覆盖 Jumpstart 打新的全流程。
 
-🟧 **还没有欧易账号？** [立即注册](https://www.promooboost.com/join/60895497)，使用邀请码 **60895497** 享受手续费返佣。
+🟧 **还没有欧易账号？** [立即注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
 
 ---
 

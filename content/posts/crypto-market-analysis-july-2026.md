@@ -20,7 +20,7 @@ readingTime: 18
 
 > 💡 **本教程属于「行情分析与市场评论」系列。** 建议先阅读本站的 [技术分析入门：K 线图与常用指标详解](/technical-analysis-basics/) 和 [MACD 与 RSI 指标实战](/macd-rsi-practical-guide/) 打底，再读本文效果更佳。技术分析和市场评论各有侧重——本文着重于综合判断当前的市场位置。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -343,7 +343,7 @@ Coinbase 溢价指数衡量的是 Coinbase（美国散户 + 机构）与 Binance
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
 > - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123)（邀请码：BT123）
-> - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
+> - 🟧 [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码：60895497）
 
 ### 📌 更多学习资源
 想看更多行情分析与技术指标实战？欢迎访问 CoinVado 的[行情分析专栏](https://coinvado.com/zh/market-analysis/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

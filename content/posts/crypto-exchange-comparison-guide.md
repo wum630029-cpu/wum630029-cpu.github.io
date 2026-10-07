@@ -116,7 +116,7 @@ readingTime: 9
 如果你决定开户，可参考以下渠道：
 
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）
-- [欧易注册](https://www.promooboost.com/join/60895497)（邀请码 60895497）
+- [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 60895497）
 
 ## 常见误区
 

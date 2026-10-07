@@ -24,7 +24,7 @@ readingTime: 9
 
 > 💡 **学习前提**：本文是系列三（加密货币新手入门）第 24 篇。建议先读 [什么是加密货币](/what-is-cryptocurrency/) 和 [什么是比特币](/what-is-bitcoin/) 建立基础认知；读完本文，可配合 [恐惧贪婪指数市场情绪实战指南](/fear-greed-index-sentiment-guide/) 一起看，把「判断周期」落到可执行的指标上。
 
-> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.promooboost.com/join/60895497)（邀请码 **60895497**），享手续费返佣。
+> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），享手续费返佣。
 
 ---
 
@@ -160,7 +160,7 @@ readingTime: 9
 ---
 
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
-> [欧易注册](https://www.promooboost.com/join/60895497) ｜ 邀请码 **60895497**（享手续费返佣）
+> [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) ｜ 邀请码 **60895497**（享手续费返佣）
 
 ---
 

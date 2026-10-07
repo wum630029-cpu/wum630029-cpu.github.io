@@ -137,7 +137,7 @@ Solana 链上的一切操作都需要 SOL 作为 Gas 费，所以第一步是获
 2. 用 USDT 购买 SOL
 3. 提现选择 Solana 网络，输入 Phantom 地址
 
-> 🟧 还没有欧易账号？[点击注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**。
+> 🟧 还没有欧易账号？[点击注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**。
 
 ### 3.2 关于 Rent（账户租金）
 

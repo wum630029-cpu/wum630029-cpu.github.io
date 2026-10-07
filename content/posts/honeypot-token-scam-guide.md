@@ -428,7 +428,7 @@ readingTime: 14
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站。在中心化交易所交易，可以避免绝大部分链上安全隐患：
 > - [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123)
-> - [欧易注册链接](https://www.promooboost.com/join/60895497)
+> - [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
 
 ### 📌 更多学习资源
 

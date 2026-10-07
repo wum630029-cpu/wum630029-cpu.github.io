@@ -135,7 +135,7 @@ readingTime: 8
 想开合约账户体验，主流大所里币安、欧意都提供合约板块：
 
 - **币安**：通过 [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123) 开户，注册时填写邀请码 **BT123**；合约操作见 [币安合约交易入门指南](/binance-futures-trading-guide/)。
-- **欧意 OKX**：通过 [欧意注册链接](https://www.promooboost.com/join/60895497) 开户，邀请码 **60895497**；合约操作见 [OKX 合约交易进阶教程](/okx-futures-trading-guide/)。
+- **欧意 OKX**：通过 [欧意注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 开户，邀请码 **60895497**；合约操作见 [OKX 合约交易进阶教程](/okx-futures-trading-guide/)。
 
 
 ## 常见误区

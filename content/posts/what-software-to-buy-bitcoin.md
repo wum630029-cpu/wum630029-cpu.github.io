@@ -67,7 +67,7 @@ readingTime: 9
 新手别纠结太久，**先注册一个把流程跑通，比纠结选哪家重要得多**。注册入口：
 
 - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（注册时填邀请码 **BT123**）
-- 欧易：[欧易注册](https://www.promooboost.com/join/60895497)（邀请码 **60895497**）
+- 欧易：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 两家的新手定位对比，可看这篇：[欧易 vs 币安，新手选哪个](/okx-vs-binance-beginner-guide/)；更多交易所横向对比见：[主流交易所对比指南](/crypto-exchange-comparison-guide/)。
 

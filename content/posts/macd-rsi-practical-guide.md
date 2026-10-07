@@ -18,7 +18,7 @@ readingTime: 15
 >
 > 本文是「交易策略与收益提升」系列的一部分，下一站可学习 [网格交易策略](/binance-grid-trading-guide/) 和 [合约交易风险控制](/futures-risk-management-guide/)。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.promooboost.com/join/60895497) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -437,7 +437,7 @@ MACD 的柱状体和 DIF/DEA 形成的形态，与 K 线形态有异曲同工之
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
 > - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123)（邀请码：BT123）
-> - 🟧 [欧易注册链接](https://www.promooboost.com/join/60895497)（邀请码：60895497）
+> - 🟧 [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码：60895497）
 
 ### 📌 更多学习资源
 想看更多行情分析与技术指标实战？欢迎访问 CoinVado 的[行情分析专栏](https://coinvado.com/zh/market-analysis/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
