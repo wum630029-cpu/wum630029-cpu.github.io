@@ -1,6 +1,7 @@
 ---
 title: 'USDC 会不会再次脱锚？Circle 合规路线、储备真相与安全边际一次讲清（2026版）'
 date: 2026-09-27T00:00:00+08:00
+lastmod: 2026-09-27T00:00:00+08:00
 draft: false
 description: 'USDC 会不会再次脱锚？本文拆解 Circle 的合规路线：储备全由现金和美债构成、贝莱德管理、每月审计，为何仍因硅谷银行倒闭一度跌破 0.87 美元，MiCA 牌照带来的欧盟独占红利能持续多久，储备收益又为何大半让给了 Coinbase，以及普通持币人该怎么判断 USDC 与 USDT 的差别、分散与避险。'
 slug: 'usdc-circle-guide'

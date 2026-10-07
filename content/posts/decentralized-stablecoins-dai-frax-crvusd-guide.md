@@ -1,6 +1,7 @@
 ---
 title: '去中心化稳定币会崩盘吗？DAI、FRAX、crvUSD 三大机制与取舍一次讲清（2026版）'
 date: 2026-09-28T00:00:00+08:00
+lastmod: 2026-09-28T00:00:00+08:00
 draft: false
 description: '去中心化稳定币会像 UST 一样归零吗？本文拆解 DAI（现 USDS）、FRAX、crvUSD 三大机制：超额抵押、100% 抵押转向与 LLAMMA 软清算，为何它们靠抵押品而非算法撑住 1 美元、各自的真实风险，以及普通用户该不该为「去中心化」把闲钱从 USDT/USDC 换过来，附对比表与决策清单。'
 slug: 'decentralized-stablecoins-dai-frax-crvusd-guide'

@@ -1,6 +1,7 @@
 ---
 title: '去中心化永续合约交易平台对比：dYdX、GMX 与 Hyperliquid 完整指南及选择建议'
 date: 2026-07-25T00:00:00+08:00
+lastmod: 2026-07-25T00:00:00+08:00
 draft: false
 description: '全面对比三大去中心化永续合约平台 dYdX 订单簿、GMX 多资产池与 Hyperliquid 全链上订单簿的交易机制差异、费用结构与 Maker Taker 费率、支持的加密资产种类与链上安全审计记录。通过对比分析每个平台的优劣，帮你找到最适合自己风格的去中心化衍生品平台，无需 KYC 也能享受合约交易。'
 slug: 'decentralized-perpetuals-comparison-guide'

@@ -1,6 +1,7 @@
 ---
 title: '币安 Launchpool 打新怎么参与？质押 BNB 白嫖新币、收益计算与会不会亏一次讲清'
 date: 2026-09-14T00:00:00+08:00
+lastmod: 2026-09-14T00:00:00+08:00
 draft: false
 description: '币安 Launchpool 是新币质押挖矿平台，锁定 BNB、USDC、FDUSD 免费挖新币，本金可随时赎回。本文讲清参与步骤、收益计算与真实年化，拆解新币下跌、APY 稀释等亏损原因，对比 Launchpad、HODLer 空投、Megadrop 五种打新方式，附新手避坑清单，帮你判断值不值得参与。'
 slug: 'binance-launchpool-guide'

@@ -1,6 +1,7 @@
 ---
 title: 'OKX 与币安美股代币对比：xStocks 对 bStocks 费率、标的与功能差异全解析'
 date: 2026-08-29T00:00:00+08:00
+lastmod: 2026-08-29T00:00:00+08:00
 draft: false
 description: 'OKX xStocks 与币安 bStocks 美股代币怎么选？本文从上线时间与背景、标的数量与板块侧重、费率结构、链上提现网络、分红处理与策略工具六个维度逐项对比，并给出一张按账户基础、目标标的与链上需求划分的决策表，帮你选出适合自己的平台，同时提示盘外定价与赎回的关键差异，文末附风险提示。'
 slug: 'okx-vs-binance-us-stock-tokens-guide'
