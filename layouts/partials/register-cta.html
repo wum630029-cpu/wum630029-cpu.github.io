@@ -4,8 +4,6 @@
     <div style="color: var(--text-2); font-size: 0.85rem;">全球最大交易所</div>
     <div style="color: var(--success); font-weight: 700; font-size: 0.95rem; margin: 6px 0 4px;">注册自动享 20% 手续费返佣</div>
     <div style="color: var(--text-2); font-size: 0.85rem; margin: 0 0 14px;">邀请码 <code>BT123</code> · 点下方按钮自动填写</div>
-    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 6px; color: var(--text-2); font-size: 0.85rem; margin: 0 0 8px;">APK 地址：<code>vlink.cc/cipher</code><button type="button" class="apk-copy-btn" data-apk="vlink.cc/cipher" style="border: 1px solid #2563eb; background: #2563eb; color: #fff; font-size: 0.78rem; padding: 1px 8px; border-radius: 6px; cursor: pointer; line-height: 1.5;">复制</button><span class="apk-copied-tip" role="status" style="color: var(--success); font-size: 0.78rem; display: none;">已复制 ✓</span></div>
-    <div style="color: var(--success); font-size: 0.8rem; margin: 0 0 14px;">💡 先注册、再下载，邀请码不丢</div>
     <div style="color: var(--warning); font-size: 0.82rem; margin: 0 0 8px;">⚠️ 注册后需完成身份认证（KYC）才能交易与提币</div>
     <div style="color: var(--success); font-size: 0.82rem; margin: 0 0 12px;">注册页偶有打不开，刷新页面或重新点击即可，无需担心</div>
     <a href="https://www.bsmkweb.cc/register?ref=BT123" class="btn btn-hero-outline btn-hero-yellow" target="_blank" rel="noopener sponsored" data-cta="binance" data-cta-position="article" style="width: 100%; margin-top: auto;">立即注册</a>
@@ -21,41 +19,3 @@
   </div>
 </div>
 
-<script>
-(function() {
-  var btn = document.querySelector('.apk-copy-btn');
-  if (!btn) return;
-  var tip = document.querySelector('.apk-copied-tip');
-  var timer = null;
-
-  function showTip() {
-    if (!tip) return;
-    tip.style.display = 'inline';
-    clearTimeout(timer);
-    timer = setTimeout(function() { tip.style.display = 'none'; }, 2000);
-  }
-
-  function fallbackCopy(text) {
-    var ta = document.createElement('textarea');
-    ta.value = text;
-    ta.style.position = 'fixed';
-    ta.style.opacity = '0';
-    document.body.appendChild(ta);
-    ta.select();
-    try { document.execCommand('copy'); showTip(); } catch (err) {}
-    document.body.removeChild(ta);
-  }
-
-  function doCopy(text) {
-    if (navigator.clipboard && window.isSecureContext) {
-      navigator.clipboard.writeText(text).then(showTip, function() { fallbackCopy(text); });
-    } else {
-      fallbackCopy(text);
-    }
-  }
-
-  btn.addEventListener('click', function() {
-    doCopy(btn.getAttribute('data-apk'));
-  });
-})();
-</script>
