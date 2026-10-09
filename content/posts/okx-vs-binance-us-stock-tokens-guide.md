@@ -29,7 +29,7 @@ readingTime: 10
 
 💡 **学习前提**：建议先读 [什么是美股代币？代币化证券原理与 1:1 锚定机制详解](/what-is-us-stock-token-guide/) 和 [美股代币 vs 传统美股：股东权益、分红与投票权对比](/us-stock-token-vs-traditional-stock-guide/)，理解「凭证」的法律性质；币安侧的细节可参考 [币安 bStocks 全解析](/binance-bstocks-overview-guide/)。本文是系列十五**平台选择与交易实操模块第 4 篇**。
 
-🟧 **还没有欧易账号？** [立即注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
+🟧 **还没有欧易账号？** [立即注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
 
 ---
 

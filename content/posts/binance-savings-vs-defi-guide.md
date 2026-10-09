@@ -18,7 +18,7 @@ readingTime: 8
 
 > 💡 **学习前提**：链上 DeFi 的基础概念建议先看 [什么是 DeFi](/what-is-defi/)；想理解提币到链上这步怎么走，参考 [从币安走向链上：CEX 到 DeFi 全流程](/binance-to-defi-guide/)；币安理财产品全景在 [币安理财全攻略](/binance-earn-guide/) 里已经写过，本文聚焦「币安储蓄 vs 链上灵活存币」这个二选一问题。本文是「币安从入门到精通」系列的最后一篇（第 14 篇）。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | 🟧 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | 🟧 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -230,7 +230,7 @@ readingTime: 8
 
 > 🟦 **开始你的理财之旅**：
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 邀请码 **BT123**
-> 🟧 [欧易 OKX 注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
+> 🟧 [欧易 OKX 注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
 
 ---
 

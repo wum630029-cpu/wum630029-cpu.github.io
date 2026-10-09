@@ -25,11 +25,11 @@ readingTime: 10
 7. 卖出与提现（可选，先了解）
 8. 安全设置（必做）
 
-> 💡 **邀请码提示**：欧意邀请码**只能在注册时填，过后无法补填**。还没账号的话，直接点 [欧意 OKX 注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）注册，邀请码会自动填入并享手续费返佣。
+> 💡 **邀请码提示**：欧意邀请码**只能在注册时填，过后无法补填**。还没账号的话，直接点 [欧意 OKX 注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）注册，邀请码会自动填入并享手续费返佣。
 
 ## 第一步：注册账号 + 填邀请码
 
-1. 点上面的[注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，或用手机号/邮箱在欧意官网、App 注册
+1. 点上面的[注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，或用手机号/邮箱在欧意官网、App 注册
 2. 找到「邀请码 / 推荐码」一栏，确认是 **60895497**（走链接会自动填入）
 3. 设置登录密码，完成邮箱/短信验证码
 4. 登录后先别急着操作，接着做 KYC

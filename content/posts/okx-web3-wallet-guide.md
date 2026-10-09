@@ -16,7 +16,7 @@ readingTime: 6
 
 目前欧易 Web3 钱包已支持 60+ 条公链，包含内置跨链桥、DApp 浏览器、NFT 市场和行情追踪功能，月活跃用户超过 500 万。本文从零开始，带你完整走一遍从创建到深度使用的全过程。
 
-> 🟧 **还没有欧易账号？** [立即注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。注册并完成 KYC 后即可体验欧易 Web3 钱包。
+> 🟧 **还没有欧易账号？** [立即注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。注册并完成 KYC 后即可体验欧易 Web3 钱包。
 
 ---
 

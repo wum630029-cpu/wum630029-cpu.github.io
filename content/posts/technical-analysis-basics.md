@@ -16,7 +16,7 @@ readingTime: 12
 
 > 💡 **本教程属于「交易策略与收益提升」系列。** 建议先阅读本站的 [币安网格交易指南](/binance-grid-trading-guide/) 和 [合约交易风险控制](/futures-risk-management-guide/)，了解常见交易策略后再系统学习技术分析。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -415,7 +415,7 @@ OBV 是成交量的累计指标：价格上涨日 +当日成交量，价格下�
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
 > - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123)（邀请码：BT123）
-> - 🟧 [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码：60895497）
+> - 🟧 [欧易注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码：60895497）
 
 ### 📌 更多学习资源
 想看更完整的内容？可看 CoinVado 社区的[技术分析基础](https://coinvado.com/posts/crypto-trading-beginners-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

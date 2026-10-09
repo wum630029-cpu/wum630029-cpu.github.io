@@ -22,7 +22,7 @@ NFT 是个被神话也被人骂到烂的词。有人靠它一夜暴富，更多�
 - 用数据回答「还能买吗、会亏吗」：2026 的市场现状
 - 新手该不该碰：一套可以复用的判断框架
 
-💡 **学习前提**：本文是系列十（NFT 与数字资产收藏）的第 1 篇，属于「什么是 X」的概念入门。建议先读 [什么是区块链](/what-is-blockchain/) 和 [什么是加密货币](/what-is-cryptocurrency/) 建立底层认知；想深入 NFT 背后的智能合约，可看 [什么是以太坊](/what-is-ethereum/)。买 NFT 需要先有加密货币作为支付工具，可通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 或 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 买到主流币后转入钱包。
+💡 **学习前提**：本文是系列十（NFT 与数字资产收藏）的第 1 篇，属于「什么是 X」的概念入门。建议先读 [什么是区块链](/what-is-blockchain/) 和 [什么是加密货币](/what-is-cryptocurrency/) 建立底层认知；想深入 NFT 背后的智能合约，可看 [什么是以太坊](/what-is-ethereum/)。买 NFT 需要先有加密货币作为支付工具，可通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 或 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 买到主流币后转入钱包。
 
 <div class="callout callout-tldr">
 <div class="callout-title">TL;DR</div>
@@ -108,7 +108,7 @@ CryptoPunks、无聊猿（BAYC）、Art Blocks 这类「数字藏品」，是最
 
 如果你只是想知道「流程长什么样」，这一节给你一个骨架（具体操作本文不展开，属于系列十后面的实战篇）：
 
-- **第一步：准备钱包和加密货币**。主流 NFT 在以太坊上，你需要一个自托管钱包（如 MetaMask，见 [MetaMask 钱包完全指南](/metamask-guide/)），里面放好 ETH 用来支付。ETH 可以先在交易所买，再提到钱包——可通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 或 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 买币。
+- **第一步：准备钱包和加密货币**。主流 NFT 在以太坊上，你需要一个自托管钱包（如 MetaMask，见 [MetaMask 钱包完全指南](/metamask-guide/)），里面放好 ETH 用来支付。ETH 可以先在交易所买，再提到钱包——可通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 或 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 买币。
 - **第二步：在 NFT 市场浏览、下单**。最大的市场是 [OpenSea](https://opensea.io/)（老牌综合市场）和 Blur（主打专业交易者、扫货）。在上面按「地板价（floor price，一个系列最低的挂牌价）」逛，选中后下单。
 - **第三步：签名/付款成交**。付款时除了 NFT 本身的价格，还要付一笔链上 Gas 费（转账手续费），行情拥堵时可能几十美元。
 - **第四步：持有或转卖**。NFT 会显示在你的钱包里，想卖就在市场上挂牌，等别人买走。

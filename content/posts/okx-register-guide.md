@@ -19,7 +19,7 @@ readingTime: 4
 
 想看视频版一步步操作？可参考 CoinVado 社区的[欧易 OKX 注册与 KYC 教程](https://coinvado.com/posts/okx-registration-guide-kyc-deposit-2026/)。
 
-> 💡 **提示**：邀请码只能在注册时填写，注册完成后无法补填。如果你还没有账号，建议直接通过 [OKX 欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）注册，可享手续费返佣。
+> 💡 **提示**：邀请码只能在注册时填写，注册完成后无法补填。如果你还没有账号，建议直接通过 [OKX 欧易注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）注册，可享手续费返佣。
 
 <div class="callout callout-tldr">
 <div class="callout-title">TL;DR</div>
@@ -46,7 +46,7 @@ OKX 支持 iOS、Android 和网页端，但**手机 App 功能最全**，推荐�
 - **Android 用户**：访问 OKX 官网下载 APK 安装包
 - **网页端**：直接访问 OKX 官网注册
 
-> 💡 **认准官网：** OKX 唯一官方网站是 **www.okx.com**。注册、下载 App 都从这里进，任何让你输入验证码、助记词、或提前付款的「仿冒官网」都是钓鱼。想带返佣注册，可用本站 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
+> 💡 **认准官网：** OKX 唯一官方网站是 **www.okx.com**。注册、下载 App 都从这里进，任何让你输入验证码、助记词、或提前付款的「仿冒官网」都是钓鱼。想带返佣注册，可用本站 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
 
 <div class="callout callout-info">
 <div class="callout-title">ℹ️ 下载提醒</div>
@@ -59,7 +59,7 @@ OKX 支持 iOS、Android 和网页端，但**手机 App 功能最全**，推荐�
 
 通过邀请链接注册，邀请码会自动填入，无需手动输入，同时还能享受手续费返佣。
 
-- **邀请链接**：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
+- **邀请链接**：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)
 - **邀请码**：60895497
 
 点击链接后，按页面提示输入邮箱或手机号、设置密码，完成验证码验证即可。

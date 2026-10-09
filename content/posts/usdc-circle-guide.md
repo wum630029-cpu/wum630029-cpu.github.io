@@ -38,7 +38,7 @@ USDC 是全球第二大稳定币，流通量约 733 亿美元，是「合规派�
 
 > 💡 **学习前提**：本文是系列十六（稳定币与法币出入金）的第 3 篇，聚焦 USDC 的发行方 Circle 的合规路线与真实风险。建议先读 [稳定币为什么值 1 美元：三种锚定机制拆解](/stablecoin-mechanism-guide/) 搞懂「锚定」的底层逻辑，再读 [USDT 会不会暴雷：Tether 储备金与风险](/usdt-tether-reserve-risk-guide/) 对照「离岸派」的做法；想了解「真出事时怎么识别」，配合 [稳定币脱锚风险警示](/stablecoin-depeg-risk-guide/) 一起看。
 
-> 🔵 **本文涉及稳定币买卖与交易。** 若你还没有交易所账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），用于日常买卖、兑换 USDC/USDT。
+> 🔵 **本文涉及稳定币买卖与交易。** 若你还没有交易所账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），用于日常买卖、兑换 USDC/USDT。
 
 ---
 
@@ -181,7 +181,7 @@ USDC 看起来很稳，但它的发行方 Circle 活得并不轻松。Circle 的
 落地买卖 USDC，需要一个完成 KYC 的交易所账户：
 
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，注册后可现货买卖、兑换 USDC）
-- [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ## 常见误区
 

@@ -36,7 +36,7 @@ readingTime: 9
 
 > 💡 **学习前提**：本文是系列十六（稳定币与法币出入金）的第 4 篇，聚焦去中心化稳定币的机制与取舍。建议先读 [稳定币为什么值 1 美元：三种锚定机制拆解](/stablecoin-mechanism-guide/) 搞懂「锚定」的底层逻辑，再读 [稳定币脱锚风险警示：从 UST/LUNA 崩盘看怎么识别危险稳定币](/stablecoin-depeg-risk-guide/) 理解 UST 到底为什么崩；想对照中心化稳定币的做法，可配合 [USDC 会不会再次脱锚](/usdc-circle-guide/) 与 [USDT 会不会暴雷](/usdt-tether-reserve-risk-guide/) 一起看。
 
-> 🔵 **本文涉及稳定币买卖与交易。** 若你还没有交易所账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），用于日常买卖、兑换稳定币。
+> 🔵 **本文涉及稳定币买卖与交易。** 若你还没有交易所账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），用于日常买卖、兑换稳定币。
 
 ---
 
@@ -161,7 +161,7 @@ crvUSD 是 Curve Finance 于 2023 年 5 月推出的超额抵押稳定币。它�
 落地时，去中心化稳定币大多要先在中心化交易所换成 USDT/USDC 再上链，所以一个完成 KYC 的交易所账号仍是第一步：
 
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，注册后可现货买卖、兑换稳定币）
-- [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ## 常见误区
 

@@ -16,7 +16,7 @@ readingTime: 7
 
 OKX 提供了三重降费方式：**OKB 抵扣手续费、VIP 等级优惠、邀请返佣**。这篇文章一次帮你算清楚，怎么省最多。
 
-🟧 **还没有欧易账号？** [立即注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
+🟧 **还没有欧易账号？** [立即注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
 
 ---
 

@@ -22,7 +22,7 @@ readingTime: 8
 
 💡 **学习前提**：还没分清美股代币和真实股票的区别？先看 [什么是美股代币](/what-is-us-stock-token-guide/) 和 [币安 bStocks 全解析](/binance-bstocks-overview-guide/)；想先看完整标的按板块怎么分类，见 [币安 bStocks 标的分类地图](/binance-bstocks-sector-map-guide/)。本文是系列十五（链上美股与 RWA 专题）第 14 篇，下一篇推荐：**美股代币定投策略：7×24 交易下的 DCA 与分红再投资**。
 
-> 🔵 **注册链接**：想实操美股代币，先要有币安账户。[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享现货与合约手续费返佣）；🟧 欧易用户可用 [OKX 注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
+> 🔵 **注册链接**：想实操美股代币，先要有币安账户。[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享现货与合约手续费返佣）；🟧 欧易用户可用 [OKX 注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
 
 <div class="callout callout-tldr">
 <div class="callout-title">TL;DR</div>
@@ -183,7 +183,7 @@ PE（市盈率）= 股价 ÷ 每股盈利。苹果约 30 倍，意味着市场�
 
 想实际操作美股代币，先开好账户：
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）
-- 🟧 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 

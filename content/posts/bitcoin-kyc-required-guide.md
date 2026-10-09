@@ -127,7 +127,7 @@ readingTime: 9
 注册入口（都是正规头部交易所，实名流程约 10 分钟）：
 
 - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
-- 欧易：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- 欧易：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 注册 + 实名的具体步骤，看这两篇：[币安注册完整指南](/binance-register-guide/)、[OKX 欧易注册教程](/okx-register-guide/)。
 

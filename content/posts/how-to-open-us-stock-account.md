@@ -120,7 +120,7 @@ readingTime: 9
 **如果看到这里你觉得「开个户也太麻烦了」，还有一条不用开券商账户的路**：币安 bStocks 用 USDC 稳定币就能买苹果、特斯拉、英伟达的碎股，5 美元起，绕开了「券商开户 + 境外卡 + 换汇」这一整套流程。入口：
 
 - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
-- 欧易：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- 欧易：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 买美股的三条路完整对比，看这篇：[怎么买美股？2026 新手从开户到买入完整流程](/how-to-buy-us-stocks/)。
 

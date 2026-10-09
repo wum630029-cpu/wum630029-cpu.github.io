@@ -23,7 +23,7 @@ readingTime: 9
 
 💡 **学习前提**：还不清楚美股代币是什么、和真实股票差在哪？先看 [什么是美股代币](/what-is-us-stock-token-guide/) 和 [美股代币 vs 传统美股](/us-stock-token-vs-traditional-stock-guide/) 补基础。本文是系列十五（链上美股与 RWA 专题）第 3 篇，下一篇推荐：**谁在发行美股代币：BTech、Backed、Ondo 与监管牌照解析**。
 
-> 🔵 **注册链接**：想实操美股代币，先要有币安账户。[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享现货与合约手续费返佣）；🟧 欧易用户可用 [OKX 注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
+> 🔵 **注册链接**：想实操美股代币，先要有币安账户。[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享现货与合约手续费返佣）；🟧 欧易用户可用 [OKX 注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
 
 <div class="callout callout-tldr">
 <div class="callout-title">TL;DR</div>
@@ -166,7 +166,7 @@ bStocks 提供**每日抵押品证明（Proof of Collateral）**页面，公开�
 
 想实际操作美股代币，先开好账户：
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）
-- 🟧 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 想看视频版讲解？CoinVado 社区的[币安美股分红机制讲解](https://coinvado.com/videos/binance-us-stocks-dividends/)与本文的倍数章节互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

@@ -139,7 +139,7 @@ A：传销靠拉人头、庞氏靠后来人的钱填前面的窟窿、承诺固�
 A：个人买卖、持有比特币本身不构成刑事犯罪，但相关业务活动属于非法金融活动，交易不受法律保护、损失自担，账户和资金可能面临冻结风险。详见 [虚拟货币交易合法吗](/virtual-currency-trading-legal-china-guide/)。
 
 **Q：怎么安全地买一点比特币试试？**
-A：用「亏了也不影响生活」的闲钱，走头部交易所正规渠道——通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）注册，具体步骤见 [比特币怎么买](/how-to-buy-bitcoin-beginner/)。
+A：用「亏了也不影响生活」的闲钱，走头部交易所正规渠道——通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）注册，具体步骤见 [比特币怎么买](/how-to-buy-bitcoin-beginner/)。
 
 ## 总结
 

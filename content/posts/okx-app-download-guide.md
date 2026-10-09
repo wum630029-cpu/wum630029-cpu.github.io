@@ -71,8 +71,8 @@ readingTime: 4
 
 1. **访问欧易官网**
 
-[👉 立即注册欧易](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
-- 邀请链接：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
+[👉 立即注册欧易](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)
+- 邀请链接：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)
 - 邀请码：**60895497**
 
 2. **下载 APK 安装包**

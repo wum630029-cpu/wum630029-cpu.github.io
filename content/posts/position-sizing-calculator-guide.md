@@ -26,7 +26,7 @@ readingTime: 9
 >
 > 本文是「交易技巧实战全系列」模块三的第一篇，系列十四总第十篇——下一篇推荐学习 [杠杆选择法则](/futures-risk-management-guide/)。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -347,7 +347,7 @@ readingTime: 9
 
 > 🟦 **开始你的交易之旅**：
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 邀请码 **BT123**
-> 🟧 [欧易 OKX 注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
+> 🟧 [欧易 OKX 注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
 
 ---
 

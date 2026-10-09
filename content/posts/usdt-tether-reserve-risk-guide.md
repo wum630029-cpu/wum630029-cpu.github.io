@@ -37,7 +37,7 @@ USDT 是全球第一大稳定币，占了稳定币市场六成以上份额，流
 
 > 💡 **学习前提**：本文是系列十六（稳定币与法币出入金）的第 2 篇，聚焦 USDT 的发行方 Tether 本身的风险。建议先读 [稳定币为什么值 1 美元：三种锚定机制拆解](/stablecoin-mechanism-guide/) 搞懂「锚定」的底层逻辑，再读 [USDT、USDC 与 DAI 三大稳定币对比](/stablecoin-comparison-guide/) 了解它和竞品的差别；想了解「真出事时怎么识别」，配合 [稳定币脱锚风险警示](/stablecoin-depeg-risk-guide/) 一起看。
 
-> 🔵 **本文涉及稳定币买卖与交易。** 若你还没有交易所账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），用于日常买卖、兑换 USDT。
+> 🔵 **本文涉及稳定币买卖与交易。** 若你还没有交易所账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），用于日常买卖、兑换 USDT。
 
 ---
 
@@ -168,7 +168,7 @@ Tether 的「透明度疑云」不是今天才有，而是贯穿了它整个历�
 落地买卖 USDT，需要一个完成 KYC 的交易所账户：
 
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，注册后可现货买卖、兑换 USDT）
-- [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ## 常见误区
 

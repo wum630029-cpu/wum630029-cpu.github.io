@@ -16,7 +16,7 @@ OKX 提供了多种出金方式：**C2C 卖币换成人民币、链上转账提�
 
 这篇文章一次帮你梳理清楚所有出金方式，学会安全、省钱地把资产从 OKX 转出来。
 
-🟧 **还没有欧易账号？** [立即注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
+🟧 **还没有欧易账号？** [立即注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，使用邀请码 **60895497** 享受手续费返佣。
 
 ---
 

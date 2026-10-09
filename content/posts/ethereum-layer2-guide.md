@@ -360,6 +360,6 @@ EIP-4844 上线后，L2 的 Gas 费在大多数网络上又降低了 **10-15 倍
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
 > - [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123)
-> - [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
+> - [欧易注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)
 
 想看更完整的内容？可看 CoinVado 社区的[以太坊 Layer 2 生态](https://coinvado.com/posts/ethereum-layer2-comparison-2026-arbitrum-base-optimism/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

@@ -24,7 +24,7 @@ readingTime: 9
 
 🟦 **注册链接**：想买美股代币先要有币安账户，建议注册时填邀请码 **BT123**（注册后无法补填）：
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)
-- 🟧 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ---
 
@@ -123,7 +123,7 @@ bStocks 的保护逻辑不同：它靠「1:1 底层资产背书 + 受监管托�
 
 还没开户？用下方链接注册币安 / 欧易，现货交易可享手续费返佣：
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
-- 🟧 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 想看更多币安功能与教程？欢迎访问 CoinVado 的[币安专区](https://coinvado.com/zh/binance/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

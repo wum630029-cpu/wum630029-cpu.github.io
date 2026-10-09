@@ -26,7 +26,7 @@ readingTime: 8
 >
 > 本文是「交易技巧实战全系列」模块三的第七篇，系列十四总第十七篇——下一篇推荐学习 [最大回撤控制：从回撤 20% 到 60% 的应对策略](/futures-risk-management-guide/)。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -246,7 +246,7 @@ FOMC 决议、CPI 公布这类宏观事件，价格往往先剧烈波动、再�
 
 > 🟦 **开始你的交易之旅**：
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 邀请码 **BT123**
-> 🟧 [欧易 OKX 注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
+> 🟧 [欧易 OKX 注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
 
 ---
 

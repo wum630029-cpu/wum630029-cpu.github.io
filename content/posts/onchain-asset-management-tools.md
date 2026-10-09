@@ -365,7 +365,7 @@ Zerion App 内置了 WalletConnect 功能，可以直接在手机上连接各种
 >
 > 💡 如果本文有帮助到你，欢迎通过以下链接注册交易所支持本站：
 > - [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123)
-> - [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
+> - [欧易注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)
 
 ### 📌 更多学习资源
 想看更完整的内容？可看 CoinVado 社区的[链上资产管理工具](https://coinvado.com/posts/what-are-on-chain-assets-2026-beginner-guide-wallet-to-rwa/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

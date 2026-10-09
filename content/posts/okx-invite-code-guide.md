@@ -27,7 +27,7 @@ readingTime: 9
 
 💡 **学习前提**：还没注册欧易的，先看[OKX 注册教程](/okx-register-guide/)了解开户与 KYC 全流程；本文是系列二第 15 篇，注册完成后想买第一笔币的，推荐接着看[OKX C2C 买币指南](/okx-c2c-guide/)。
 
-🟧 **注册入口**：[欧意注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**。
+🟧 **注册入口**：[欧意注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**。
 
 ---
 
@@ -69,7 +69,7 @@ readingTime: 9
 
 **路径一：通过带码链接注册（最省事）**
 
-1. 点开邀请链接（如本文的[欧意注册入口](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)）；
+1. 点开邀请链接（如本文的[欧意注册入口](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)）；
 2. 按提示用手机号或邮箱注册，邀请关系自动绑定，不需要再手动输码；
 3. 注册后可在「个人中心 → 邀请返佣」页面确认推荐人信息已生效。
 
@@ -136,7 +136,7 @@ readingTime: 9
 | 被邀请人好处 | 官方当期新手活动为主 | 官方当期活动为主 |
 | 返佣大头 | 邀请人手续费分成 | 邀请人手续费分成 |
 
-- **欧意注册**：[欧意注册入口](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**；
+- **欧意注册**：[欧意注册入口](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**；
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**。
 
 两个交易所怎么选，可以看这篇[主流交易所横向对比](/crypto-exchange-comparison-guide/)；两边的码不通用，各自注册时各自填。

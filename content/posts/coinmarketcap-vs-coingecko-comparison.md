@@ -14,7 +14,7 @@ readingTime: 9
 >
 > 直接给结论：**普通散户看行情、查市值、做组合追踪，两家都够用，CoinGecko 在数据中立性、DeFi/NFT 覆盖和免费 API 上更胜一筹；但如果你要用币安生态、看重市值排名的「行业默认口径」，CoinMarketCap 仍是绕不开的基准。** 下面把这层结论拆开讲。
 
-> 💡 **看完行情想动手买币？** 先用正规交易所注册入金。[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）或[注册欧易](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 60895497），完成认证即可交易。
+> 💡 **看完行情想动手买币？** 先用正规交易所注册入金。[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 BT123）或[注册欧易](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 60895497），完成认证即可交易。
 
 ## 一、先说结论：没有「谁更好」，只有「你更在意什么」
 
@@ -186,7 +186,7 @@ CoinGecko 则从一开始就用「信任评分（Trust Score）」对抗刷量�
 > 💰 **看完了行情，该入场了？**
 >
 > - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**；
-> - 欧易：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**。
+> - 欧易：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**。
 
 ## 推荐阅读
 

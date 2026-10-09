@@ -138,7 +138,7 @@ readingTime: 9
 如果你决定要买、只是想先把开户和实名这一步走通，注册入口在这里：
 
 - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
-- 欧易：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- 欧易：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 注册、实名、第一次入金买币的完整步骤，看这篇：[2026 新手如何安全购买第一枚加密货币](/how-to-buy-cryptocurrency-safely/)。
 

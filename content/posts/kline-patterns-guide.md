@@ -20,7 +20,7 @@ K 线形态（Candlestick Patterns）是技术分析最基础、最直观的语�
 >
 > 本文是「交易技巧实战全系列」的第一篇，下一篇推荐学习 [均线系统实战](/technical-analysis-basics/)。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 

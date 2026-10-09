@@ -106,7 +106,7 @@ readingTime: 9
 如果你愿意接受这些前提，币安 bStocks 确实是**买美股个股门槛最低的一条路**。入口在这里：
 
 - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
-- 欧易：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**，欧易也有美股代币产品）
+- 欧易：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**，欧易也有美股代币产品）
 
 注册后怎么用 USDC 买美股，看这两篇实操：[币安买美股完整攻略](/binance-us-stocks-quickstart-guide/)、[币安 Bstocks 保姆级实操指南](/binance-bstocks-guide/)。
 

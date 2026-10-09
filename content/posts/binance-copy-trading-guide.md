@@ -22,7 +22,7 @@ readingTime: 8
 
 > 🟧 同时也欢迎使用 **OKX 欧易** 跟单功能，注册填写邀请码 **60895497** 可享手续费返佣。
 >
-> 👉 [立即注册欧易](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
+> 👉 [立即注册欧易](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)
 
 ---
 

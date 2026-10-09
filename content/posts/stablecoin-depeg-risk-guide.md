@@ -26,7 +26,7 @@ readingTime: 9
 
 > 💡 **学习前提**：本文是系列三（加密货币新手入门）第 16 篇。建议先读 [USDT、USDC 与 DAI 三大稳定币对比](/stablecoin-comparison-guide/) 了解主流稳定币的基本面，再读 [新手如何安全购买第一枚加密货币](/how-to-buy-cryptocurrency-safely/) 完成第一次实操；读完本文，可继续看 [新手第一次买币的心理准备](/first-crypto-buy-mindset-guide/)，把"控制风险"落到心态上。
 
-> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），享手续费返佣。
+> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），享手续费返佣。
 
 ---
 
@@ -156,7 +156,7 @@ MIT Sloan 研究者后来用链上数据复盘了整个过程，结论很直白�
 ---
 
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
-> [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) ｜ 邀请码 **60895497**（享手续费返佣）
+> [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) ｜ 邀请码 **60895497**（享手续费返佣）
 
 ---
 

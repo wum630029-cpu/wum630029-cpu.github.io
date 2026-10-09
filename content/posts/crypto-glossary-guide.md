@@ -23,7 +23,7 @@ readingTime: 9
 
 > 💡 **学习前提**：术语表最好的用法是「哪里不懂查哪里」。想系统打基础，先读 [什么是比特币](/what-is-bitcoin/) 和 [什么是区块链](/what-is-blockchain/)；想快速上手交易，从 [加密货币钱包选择指南](/cryptocurrency-wallet-guide/) 和 [2026 新手如何安全购买第一枚加密货币](/how-to-buy-cryptocurrency-safely/) 开始。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -136,7 +136,7 @@ readingTime: 9
 
 > 🟦 **开始你的交易之旅**：
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 邀请码 **BT123**
-> 🟧 [欧易 OKX 注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
+> 🟧 [欧易 OKX 注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
 
 ---
 

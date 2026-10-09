@@ -25,7 +25,7 @@ readingTime: 8
 
 > 💡 **学习前提**：本文是系列三（加密货币新手入门）第 19 篇。建议先读 [什么是加密货币](/what-is-cryptocurrency/) 建立基础认知；读完本文，可直接进入 [币安注册完整指南](/binance-register-guide/) 或 [OKX 欧易注册教程](/okx-register-guide/) 实操开户。
 
-> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），享手续费返佣。
+> 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），享手续费返佣。
 
 ---
 
@@ -160,7 +160,7 @@ KYC 核心就查三件事：
 ---
 
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123) ｜ 邀请码 **BT123**（享手续费返佣）
-> [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) ｜ 邀请码 **60895497**（享手续费返佣）
+> [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) ｜ 邀请码 **60895497**（享手续费返佣）
 
 ---
 

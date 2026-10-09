@@ -494,7 +494,7 @@ Step 4：领取奖励（随时操作），点击 Claim Rewards，确认交易，
 
 > 💡 如果你觉得本文有帮助，欢迎通过以下链接注册交易所支持本站持续产出更多 DeFi 教程：
 > - 🟦 [币安注册链接](https://www.bsmkweb.cc/register?ref=BT123)（邀请码：BT123）
-> - 🟧 [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码：60895497）
+> - 🟧 [欧易注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码：60895497）
 
 ### 📌 更多学习资源
 想看更完整的内容？可看 CoinVado 社区的[流动性挖矿](https://coinvado.com/posts/defi-liquidity-pool-impermanent-loss-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。

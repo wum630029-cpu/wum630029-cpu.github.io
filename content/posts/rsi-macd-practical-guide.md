@@ -31,7 +31,7 @@ readingTime: 10
 >
 > 本文是「交易技巧实战全系列」模块一的第五篇,下一篇推荐学习 [BOLL 布林带实战指南:开口收口与中轨支撑压力](/bollinger-bands-guide/)。
 
-> 🟦 **还没有交易所账号?** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号?** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -331,7 +331,7 @@ MACD 柱线代表快慢线之间的差值(动能),柱线背离是更敏感的信
 5. **按止损规则执行** — 背离低点/高点外1-2%设止损
 6. **分阶段止盈** — 不要贪心从头吃到尾
 
-> 🟦 **还没有交易所账号?** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号?** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 >
 > 📌 **更多学习资源**
 > 想看更多行情分析与技术指标实战？欢迎访问 CoinVado 的[行情分析专栏](https://coinvado.com/zh/market-analysis/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。

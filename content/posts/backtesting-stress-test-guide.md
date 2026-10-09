@@ -26,7 +26,7 @@ readingTime: 8
 >
 > 本文是「交易技巧实战全系列」模块三的第七篇、系列十四总第二十二篇——下一篇推荐学习「FOMO 与 FUD：情绪化交易的识别与应对策略」，进入模块四交易心理与纪律。
 
-> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
+> 🟦 **还没有交易所账号？** [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 输入邀请码 **BT123** 享 20% 手续费返佣 | [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 输入邀请码 **60895497**
 
 ---
 
@@ -194,7 +194,7 @@ readingTime: 8
 
 > 🟦 **开始你的交易之旅**：
 > [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 邀请码 **BT123**
-> 🟧 [欧易 OKX 注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
+> 🟧 [欧易 OKX 注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 邀请码 **60895497**
 
 ---
 

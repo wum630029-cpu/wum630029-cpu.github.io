@@ -159,7 +159,7 @@ readingTime: 8
 > 需要交易所账户来买现货或试合约？
 >
 > - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)，邀请码 **BT123**；
-> - 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**。
+> - 欧易（OKX）：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**。
 
 ### 📌 更多学习资源
 

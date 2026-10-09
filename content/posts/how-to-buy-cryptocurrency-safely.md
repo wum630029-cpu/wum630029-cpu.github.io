@@ -55,7 +55,7 @@ readingTime: 5
 
 ### 欧易注册流程
 
-1. 打开 [欧易注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)
+1. 打开 [欧易注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)
 2. 同样用邮箱或手机注册
 3. 输入邀请码：60895497
 4. 完成邮箱/手机验证

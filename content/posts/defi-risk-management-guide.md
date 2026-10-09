@@ -16,7 +16,7 @@ readingTime: 14
 >
 > 本文是你参与 DeFi 前必读的风控手册，系统梳理无常损失、清算风险、合约漏洞、预言机攻击和治理威胁五大核心风险，并给出每条风险对应的实操避险方案。
 
-> 💡 **参与 DeFi 前需要先拥有加密货币。** 还没有 BTC、ETH 或 USDT？通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或 [欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225) 购买后提现到钱包。钱包基础操作可参考本站的 [《加密货币钱包选择指南》](/cryptocurrency-wallet-guide/)。
+> 💡 **参与 DeFi 前需要先拥有加密货币。** 还没有 BTC、ETH 或 USDT？通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 购买后提现到钱包。钱包基础操作可参考本站的 [《加密货币钱包选择指南》](/cryptocurrency-wallet-guide/)。
 
 ---
 

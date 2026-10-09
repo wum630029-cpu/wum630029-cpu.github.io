@@ -27,7 +27,7 @@ readingTime: 10
 - 手续费、到期行权与交割机制
 - 新手到底该不该碰期权，以及三条红线
 
-🟧 **还没有欧易账号？** [立即注册 OKX](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)，注册时填写邀请码 **60895497** 可享手续费返佣。
+🟧 **还没有欧易账号？** [立即注册 OKX](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，注册时填写邀请码 **60895497** 可享手续费返佣。
 
 ---
 
