@@ -22,7 +22,7 @@ readingTime: 9
 
 💡 **学习前提**：先读 [什么是美股代币？代币化证券原理与 1:1 锚定机制详解](/what-is-us-stock-token-guide/)（系列十五第 1 篇）搞清"凭证"概念，再看 [谁在发行美股代币：BTech、Backed、Ondo 与监管牌照解析](/us-stock-token-issuers-guide/) 认识正品发行方。本文是系列十五第 22 篇（风控与合规 · 防坑篇），想先了解正品的固有风险再看 [美股代币五大风险](/us-stock-token-five-risks-guide/)。
 
-> 🔵 **注册链接**：想实操美股代币，先要有币安账户。[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享现货与合约手续费返佣）；🟧 欧易用户可用 [OKX 注册链接](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
+> 🔵 **注册链接**：想实操美股代币，先要有币安账户。[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享现货与合约手续费返佣）；🟧 欧易用户可用 [OKX 注册链接](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）。
 
 <div class="callout callout-tldr">
 <div class="callout-title">TL;DR</div>
@@ -153,7 +153,7 @@ bStocks 属于**第二类**——它是"链上收据"，底层有真实股票背
 
 想实际操作美股代币，先开好账户，只走官方入口：
 - [币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）
-- 🟧 欧易（OKX）：[欧易注册](https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
+- 🟧 欧易（OKX）：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
 ### 📌 更多学习资源
 
