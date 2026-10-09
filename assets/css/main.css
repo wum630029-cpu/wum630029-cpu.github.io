@@ -699,10 +699,10 @@ main { flex: 1; padding: 40px 0; }
   border: none; cursor: pointer; padding: 12px 24px; border-radius: 999px;
   background: var(--brand); color: #fff;
   font-size: 1rem; font-weight: 700; font-family: inherit;
-  box-shadow: 0 0 0 4px rgba(10, 107, 60, 0.18), 0 8px 24px rgba(10, 107, 60, 0.4);
+  box-shadow: 0 8px 24px rgba(10, 107, 60, 0.4);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-.qq-btn:hover { transform: translateY(-2px); box-shadow: 0 0 0 4px rgba(10, 107, 60, 0.28), 0 12px 28px rgba(10, 107, 60, 0.5); color: #fff; }
+.qq-btn:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(10, 107, 60, 0.5); color: #fff; }
 .qq-btn svg { width: 26px; height: 26px; flex-shrink: 0; }
 
 /* ============================================================
