@@ -1,54 +1,86 @@
 {{ define "main" }}
-<section class="hero hero-cover">
-  <div class="hero-bg"></div>
+<!-- Hero -->
+<section class="hero-deep">
+  <div class="hero-glow" aria-hidden="true"></div>
   <div class="container">
-    <h1>{{ .Site.Title }}<br><span>币圈新手的入门灯塔</span></h1>
-    <p>{{ .Site.Params.description }}</p>
-    <div class="hero-features">
-      <span class="hero-feature">🏛️ 交易所注册</span>
-      <span class="hero-feature">🛡️ KYC认证</span>
-      <span class="hero-feature">🔒 安全设置</span>
-      <span class="hero-feature">💰 入金出金</span>
-      <span class="hero-feature">🧭 避坑指南</span>
-      <span class="hero-feature">🌐 Web3</span>
+    <div class="hero-inner">
+      <p class="hero-badge"><span class="dot"></span>免费教程 · 语言直白 · 不讲空话</p>
+      <h1>{{ .Site.Title }}<br><span class="hl">币圈新手的入门灯塔</span></h1>
+      <p class="hero-sub">{{ .Site.Params.description }}</p>
+      <div class="hero-actions">
+        <a href="{{ "/categories/新手入门/" | relURL }}" class="btn btn-hero-outline">🚀 开始学习</a>
+        <a href="https://www.bsmkweb.cc/register?ref=BT123" class="btn btn-hero-outline btn-hero-yellow" target="_blank" rel="noopener sponsored">币安注册</a>
+        <a href="https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225" class="btn btn-hero-outline btn-hero-blue" target="_blank" rel="noopener sponsored">欧易注册</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><span class="stat-num">{{ len site.RegularPages }}</span><span class="stat-label">篇深度教程</span></div>
+        <div class="stat"><span class="stat-num">7</span><span class="stat-label">大学习栏目</span></div>
+        <div class="stat"><span class="stat-num">100%</span><span class="stat-label">免费开放</span></div>
+      </div>
     </div>
-    <div class="hero-actions">
-      <a href="/posts/" class="btn btn-primary">🚀 开始学习</a>
-      <a href="https://www.bsmkweb.cc/register?ref=BT123" class="btn btn-hero-outline btn-hero-yellow" target="_blank" rel="noopener sponsored">币安注册</a>
-      <a href="https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225" class="btn btn-hero-outline btn-hero-blue" target="_blank" rel="noopener sponsored">欧易注册</a>
-    </div>
+  </div>
+  <svg class="hero-wave" viewBox="0 0 1440 72" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0,44 C240,80 480,4 760,26 C1020,46 1240,18 1440,42 L1440,72 L0,72 Z"></path>
+  </svg>
+</section>
+
+<!-- 注册 CTA（币安 + 欧易） -->
+<section class="container" style="padding-top: 40px;" aria-labelledby="home-cta">
+  <h2 id="home-cta" class="section-title">选对交易所，现在开户</h2>
+  {{ partial "register-cta.html" . }}
+</section>
+
+<!-- 新手 4 步路径 -->
+<section class="container" style="padding-top: 40px;" aria-labelledby="trail-title">
+  <h2 id="trail-title" class="section-title">你的 4 步入门路径</h2>
+  <p style="color: var(--muted); margin: -8px 0 20px;">按顺序走，每步都为下一步打基础。</p>
+  <div class="subtopic-grid">
+    <a href="/what-is-cryptocurrency/">
+      <h3>① 搞清楚加密货币</h3>
+      <p>先弄懂区块链、比特币、钱包到底是什么，别急着投钱。</p>
+    </a>
+    <a href="/crypto-exchange-comparison-guide/">
+      <h3>② 选对交易所</h3>
+      <p>币安、OKX、Bybit 手续费与安全性横向对比，一次选对不踩坑。</p>
+    </a>
+    <a href="/binance-register-guide/">
+      <h3>③ 完成开户</h3>
+      <p>注册、KYC 实名、入金买币，照着图文一步步做就能开好户。</p>
+    </a>
+    <a href="/crypto-scam-prevention-guide/">
+      <h3>④ 守住资产安全</h3>
+      <p>助记词、2FA、防骗，把钱守住比赚钱更重要。</p>
+    </a>
   </div>
 </section>
 
-<div class="container">
-  <h2 class="section-title">
-    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="color: var(--primary);">
-      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-      <polyline points="14 2 14 8 20 8"></polyline>
-    </svg>
-    最新文章
-  </h2>
+<!-- 栏目分区 -->
+{{ range $i, $hub := hugo.Data.hubs }}
+  {{ $hubArticles := where site.RegularPages "Params.categories" "intersect" (slice $hub.name) }}
+  {{ $latest := first 3 $hubArticles.ByDate.Reverse }}
+  {{ if $latest }}
+  <section class="container" style="padding-top: 48px;" aria-labelledby="hub-{{ $hub.key }}">
+    <div style="display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px;">
+      <h2 id="hub-{{ $hub.key }}" class="section-title">{{ $hub.name }}</h2>
+      <a href="{{ printf "/categories/%s/" ($hub.name | urlize) }}" style="font-weight: 600; font-size: 0.9rem;">查看全部 {{ len $hubArticles }} 篇 →</a>
+    </div>
+    <p style="color: var(--muted); margin: -8px 0 20px; max-width: 640px;">{{ $hub.description }}</p>
+    <div class="article-list grid-3">
+      {{ range $latest }}
+        {{ partial "article-card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
 
-  {{ partial "search.html" . }}
-
-  <div class="article-list">
-    {{ range where .Site.RegularPages "Type" "posts" }}
-      <article class="article-card">
-        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <div class="article-meta">
-          <span>{{ .Date.Format "2006-01-02" }}</span>
-          <span>阅读约 {{ math.Round (div (countwords .Content) 300.0) }} 分钟</span>
-        </div>
-        <p class="article-excerpt">
-          {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}
-        </p>
-        <div class="article-tags">
-          {{ range .Params.tags }}
-            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
-          {{ end }}
-        </div>
-      </article>
+<!-- 最新文章 -->
+<section class="container" style="padding-top: 48px; padding-bottom: 24px;" aria-labelledby="home-latest">
+  <h2 id="home-latest" class="section-title">最新文章</h2>
+  <div class="article-list grid-3">
+    {{ range first 6 (where site.RegularPages "Type" "posts").ByDate.Reverse }}
+      {{ partial "article-card.html" . }}
     {{ end }}
   </div>
-</div>
+</section>
 {{ end }}

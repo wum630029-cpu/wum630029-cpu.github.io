@@ -6,7 +6,7 @@ draft: false
 description: '币安储蓄与 DeFi 灵活存币对比：从收益、风险、流动性、门槛、税务五大维度拆解。币安存币生息活期年化 1.5-3% 随存随取，Lido stETH 质押与 Aave 借贷等链上灵活理财年化约 2.5-6%，但伴随智能合约风险、Gas 费与无常损失。真实数据对比表格与分场景资金配置建议，帮你选对闲置资产。'
 slug: 'binance-savings-vs-defi-guide'
 tags: ['币安', 'DeFi', '存币生息', '灵活存币', '流动性质押', '加密货币理财', '链上理财']
-categories: ['币安从入门到精通']
+categories: ['币安']
 readingTime: 8
 ---
 

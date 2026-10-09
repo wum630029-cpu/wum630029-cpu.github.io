@@ -6,7 +6,7 @@ draft: false
 description: '欧易官网入口到底在哪？本文给出 OKX 2026 官方唯一正确网址 okx.com，手把手教你电脑网页版、手机版登录入口的正确访问方法，并教你三招快速辨别真假官网、彻底避开高仿钓鱼站，附官网打不开时的排查步骤、常见问题解答与注册邀请码60895497，一篇讲清怎么安全进入欧易官网、避开钓鱼站不踩坑。'
 slug: 'okx-official-website-guide'
 tags: ['OKX', '欧易', '欧易官网', '官网入口', '防钓鱼', '网页版', '加密货币']
-categories: ['欧易 OKX 全系列']
+categories: ['欧易 OKX']
 readingTime: 8
 ---
 

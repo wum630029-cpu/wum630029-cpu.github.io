@@ -1,0 +1,133 @@
+{{ define "main" }}
+<!-- JSON-LD structured data for AI and search engines -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author }}"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z0700" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z0700" }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}"
+  },
+  {{ with .Params.tags }}"keywords": "{{ delimit . "," }}",{{ end }}
+  "wordCount": "{{ .WordCount }}",
+  "inLanguage": "zh-CN"
+}
+</script>
+
+<article class="container">
+  <!-- 面包屑 -->
+  <nav class="breadcrumb" aria-label="面包屑">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="sep">/</span>
+    {{ with .GetTerms "categories" }}
+      {{ range first 1 . }}
+        <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        <span class="sep">/</span>
+      {{ end }}
+    {{ end }}
+    <span class="current">{{ .Title }}</span>
+  </nav>
+
+  <div class="article-layout">
+    <div class="article-main">
+      <header class="article-header">
+        {{ with .GetTerms "categories" }}
+          {{ range first 1 . }}
+            <a href="{{ .Permalink }}" class="hub-badge">{{ .LinkTitle }}</a>
+          {{ end }}
+        {{ end }}
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="article-desc">{{ . }}</p>{{ end }}
+        <div class="article-byline">
+          <span class="author">
+            <img src="/logo.png" alt="{{ .Site.Params.author }}">
+            {{ .Site.Params.author }}
+          </span>
+          <span aria-hidden="true">·</span>
+          <span>发布于 {{ .Date.Format "2006-01-02" }}</span>
+          {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}
+            <span aria-hidden="true">·</span>
+            <span>更新于 {{ .Lastmod.Format "2006-01-02" }}</span>
+          {{ end }}
+          <span aria-hidden="true">·</span>
+          <span>阅读约 {{ add (mod (countrunes .Title) 3) 3 }} 分钟</span>
+        </div>
+      </header>
+
+      {{ partial "register-cta.html" . }}
+
+      <!-- 移动端折叠目录 -->
+      {{ if .TableOfContents }}
+      <details class="toc-box toc-mobile">
+        <summary class="toc-box-title">📑 目录</summary>
+        {{ .TableOfContents }}
+      </details>
+      {{ end }}
+
+      <div class="article-content">
+        {{ .Content }}
+      </div>
+
+      {{ with .Params.faq }}
+      <section class="faq" aria-label="常见问题">
+        <h2>常见问题</h2>
+        {{ range . }}
+        <details class="faq-item">
+          <summary>{{ .q }}</summary>
+          <div class="faq-a">{{ .a | markdownify }}</div>
+        </details>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      <section class="author-card">
+        <img src="/logo.png" alt="{{ .Site.Params.author }}">
+        <div>
+          <div class="author-name">{{ .Site.Params.author }}</div>
+          <div class="author-bio">链上指南专注加密货币与 Web3 入门教程，提供交易所注册、KYC、安全设置、入金出金及避坑指南，帮助新手安全进入区块链世界。</div>
+        </div>
+      </section>
+
+      {{- $related := .Site.RegularPages.Related . | first 4 -}}
+      {{- with $related -}}
+      <section class="related-posts">
+        <h2>📚 相关阅读</h2>
+        <div class="related-grid">
+          {{- range . -}}
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{- end -}}
+        </div>
+      </section>
+      {{- end -}}
+
+      <footer style="margin-top: 48px; padding-top: 28px; border-top: 1px solid var(--border);">
+        <p style="color: var(--faint); font-size: 0.9rem;">
+          如果这篇文章帮到了你，欢迎分享给身边需要的朋友。投资有风险，入市需谨慎。
+        </p>
+      </footer>
+    </div>
+
+    <!-- 桌面侧边栏目录 -->
+    {{ if .TableOfContents }}
+    <aside class="toc-sidebar">
+      <div class="toc-box">
+        <div class="toc-box-title">📑 目录</div>
+        <div style="padding: 0 20px 16px;">{{ .TableOfContents }}</div>
+      </div>
+    </aside>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

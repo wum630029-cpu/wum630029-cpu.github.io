@@ -1,0 +1,13 @@
+<article class="article-card">
+  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <div class="article-meta">
+    <span>{{ .Date.Format "2006-01-02" }}</span>
+    <span>阅读约 {{ add (mod (countrunes .Title) 3) 3 }} 分钟</span>
+  </div>
+  <p class="article-excerpt">{{ with .Description }}{{ . | truncate 110 }}{{ else }}{{ .Summary | plainify | truncate 110 }}{{ end }}</p>
+  <div class="article-tags">
+    {{ range first 3 .Params.tags }}
+      <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
+    {{ end }}
+  </div>
+</article>

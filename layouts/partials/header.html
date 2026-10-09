@@ -1,12 +1,19 @@
 <header class="site-header">
   <div class="container">
     <a href="{{ "/" | relURL }}" class="brand">
-      <img src="/logo.png" alt="CoinVado" class="brand-icon" style="width: 32px; height: 32px; border-radius: 50%; object-fit: cover;">
+      <img src="/logo.png" alt="链上指南" class="brand-icon" width="32" height="32">
+      <span>{{ .Site.Title }}</span>
     </a>
-    <nav class="main-nav">
-      {{ range .Site.Menus.main }}
-        <a href="{{ .URL | relURL }}"{{ if $.IsMenuCurrent "main" . }} style="color: var(--primary);"{{ end }}>{{ .Name }}</a>
+
+    <nav class="main-nav" aria-label="主导航">
+      <a href="{{ "/" | relURL }}" class="{{ if .IsHome }}active{{ end }}">首页</a>
+      {{ range hugo.Data.hubs }}
+        {{ $active := in $.Params.categories .name }}
+        <a href="{{ printf "/categories/%s/" (.name | urlize) }}" class="{{ if $active }}active{{ end }}">{{ .name }}</a>
       {{ end }}
+    </nav>
+
+    <div class="nav-actions">
       <button class="theme-toggle" id="theme-toggle" aria-label="切换主题">
         <svg id="theme-icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
           <circle cx="12" cy="12" r="5"></circle>
@@ -23,8 +30,25 @@
           <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
         </svg>
       </button>
-    </nav>
+      <button class="menu-toggle" id="menu-toggle" aria-label="打开菜单" aria-expanded="false">
+        <svg class="icon-open" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+        <svg class="icon-close" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
+          <path d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+    </div>
   </div>
+
+  <nav id="mobile-menu" class="mobile-menu" aria-label="移动导航">
+    <a href="{{ "/" | relURL }}">首页</a>
+    {{ range hugo.Data.hubs }}
+      <a href="{{ printf "/categories/%s/" (.name | urlize) }}">{{ .name }}</a>
+    {{ end }}
+    <a href="{{ "/resources/" | relURL }}">资源</a>
+    <a href="{{ "/about/" | relURL }}">关于</a>
+  </nav>
 </header>
 
 <script>
@@ -38,9 +62,7 @@
       sun.style.display = isDark ? 'block' : 'none';
       moon.style.display = isDark ? 'none' : 'block';
     }
-
     updateIcon();
-
     toggle.addEventListener('click', function() {
       const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
       if (isDark) {
@@ -51,6 +73,18 @@
         localStorage.setItem('theme', 'dark');
       }
       updateIcon();
+    });
+
+    // 移动端菜单
+    const menuToggle = document.getElementById('menu-toggle');
+    const menu = document.getElementById('mobile-menu');
+    const iconOpen = menuToggle.querySelector('.icon-open');
+    const iconClose = menuToggle.querySelector('.icon-close');
+    menuToggle.addEventListener('click', function() {
+      const isOpen = menu.classList.toggle('open');
+      menuToggle.setAttribute('aria-expanded', String(isOpen));
+      iconOpen.style.display = isOpen ? 'none' : 'block';
+      iconClose.style.display = isOpen ? 'block' : 'none';
     });
   })();
 </script>

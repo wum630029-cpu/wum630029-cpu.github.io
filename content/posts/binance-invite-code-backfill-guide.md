@@ -7,7 +7,7 @@ description: '币安老用户补填或换绑邀请码怎么办？本文讲清补
 slug: 'binance-invite-code-backfill-guide'
 aliases: ['/binance-rebind-invite-code-guide/']
 tags: ['币安', 'Binance', '邀请码', '推荐码', '返佣', '手续费', '注册', '老用户回归', '补填', '换绑', '新手教程', '加密货币']
-categories: ['交易所教程']
+categories: ['币安']
 readingTime: 9
 ---
 

@@ -6,7 +6,7 @@ draft: false
 description: '比特币的进化远超想象！从 Ordinals 铭文协议引爆的资产发行革命、到 Runes 同质化代币协议标准、Babylon 质押机制解锁 BTC 在 PoS 链上的安全性收益，再到数十条比特币 Layer 2 主网上线。比特币从单一储值蜕变为完整金融生态，本文一站式梳理比特币新生态全貌核心协议与投资机会。'
 slug: 'bitcoin-layer2-ecosystem-guide'
 tags: ['比特币', 'Bitcoin', 'Layer2', 'Ordinals', 'Runes', 'BRC-20', 'BTC质押', 'Babylon', 'Stacks', '比特币生态', '链上操作']
-categories: ['链上操作实战指南']
+categories: ['链上与DeFi']
 readingTime: 10
 ---
 

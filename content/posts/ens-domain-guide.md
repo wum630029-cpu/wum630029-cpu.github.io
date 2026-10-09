@@ -6,7 +6,7 @@ draft: false
 description: '从 0x 开头长长一串的钱包地址到 yourname.eth 个性化域名，ENS 以太坊域名服务让链上身份变得前所未有的简单易用与个性化。本文详解 .eth 域名注册购买完整流程、反向解析让地址显示为域名、子域名批量管理与 Gas 费优化节省技巧及续费策略，一站式手把手教你打造属于自己的 Web3 链上身份。'
 slug: 'ens-domain-guide'
 tags: ['ENS', '以太坊域名', '域名服务', '.eth', 'Web3', '链上操作', '以太坊', '链上身份']
-categories: ['链上操作实战指南']
+categories: ['链上与DeFi']
 readingTime: 11
 ---
 

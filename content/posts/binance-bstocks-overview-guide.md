@@ -6,7 +6,7 @@ draft: false
 description: '币安 bStocks 是币安推出的代币化美股产品，支持 7×24 小时交易与约 5 美元碎股起投。本文全解析 bStocks 工作原理、发行结构、截至 2026 年 8 月已上线的 35 只标的清单、maker 免佣与 BEP-20 链上结算、股息自动再投资机制，配实操示例与对比表格，助你快速上手链上美股。'
 slug: 'binance-bstocks-overview-guide'
 tags: ['美股代币', '代币化证券', '交易实操', 'bStocks', '碎股', 'RWA']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

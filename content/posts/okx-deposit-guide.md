@@ -6,7 +6,7 @@ draft: false
 description: '欧易OKX入金充值完整教程2026版：C2C买USDT（支付宝/微信/银行卡）、快捷买币与银行卡转账、链上充值三大方法详细对比，逐条说明手续费、到账时间、单笔额度与防冻卡避坑，讲清新手入金前必须知道的安全事项与常见错误，附注册邀请码60895497，带你一次看懂怎么给OKX充值买U最省钱最安全。'
 slug: 'okx-deposit-guide'
 tags: ['OKX', '欧易', '欧意', 'OKX入金', 'OKX充值', 'C2C买币', '链上充值', 'USDT', '加密货币']
-categories: ['欧易 OKX 全系列']
+categories: ['欧易 OKX']
 readingTime: 8
 ---
 

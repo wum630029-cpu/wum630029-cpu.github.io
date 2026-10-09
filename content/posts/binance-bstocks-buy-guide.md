@@ -6,7 +6,7 @@ draft: false
 description: '币安买美股实操指南 2026：从 USDC 入金到首次买入 bStocks 碎股完整流程，覆盖 KYC 资格检查、买股票自动转换与现货直购两条买入路径、持仓管理与股息自动再投资、卖出变现闭环，并延伸闪兑 0.01 USDC 起、定投 DCA、1:1 兑换真实股票与提现自托管等进阶玩法，配具体金额演算。'
 slug: 'binance-bstocks-buy-guide'
 tags: ['美股代币', '交易实操', 'bStocks', 'USDC', '碎股', '币安', '美股']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

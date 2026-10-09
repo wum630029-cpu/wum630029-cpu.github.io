@@ -6,7 +6,7 @@ draft: false
 description: '币安卡（Binance Card）使用完整指南：从卡片类型、加密货币充值激活到日常消费刷卡的完整操作详解。涵盖充值三种方式、线上线下消费场景、ATM 取现、费用结构与交易限额，手把手教你用加密货币在 Mastercard 受理商户直接刷卡支付，实现加密资产与法币支付的无缝衔接，附币安注册邀请码 BT123。'
 slug: 'binance-card-guide'
 tags: ['币安', 'Binance', '币安卡', 'Binance Card', 'Mastercard', '加密货币支付', '消费']
-categories: ['币安从入门到精通']
+categories: ['币安']
 readingTime: 6
 ---
 

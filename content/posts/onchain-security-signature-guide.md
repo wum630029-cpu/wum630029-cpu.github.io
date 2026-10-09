@@ -6,7 +6,7 @@ draft: false
 description: '链上安全防骗必读指南！深度揭秘 Approve 无限授权钓鱼、Permit 离线签名钓鱼、盲目签名等三大链上攻击手法的原理与真实案例。附完整安全交互自检 Checklist，手把手教你识别每一笔 Approve 授权签名和合约调用的真实风险与潜在危害，保护你的钱包资产安全，远离链上钓鱼陷阱和恶意合约调用。'
 slug: 'onchain-security-signature-guide'
 tags: ['链上安全', '智能合约', '签名授权', '代币授权', '区块链安全', 'Web3', '防钓鱼', '钱包安全']
-categories: ['链上操作实战指南']
+categories: ['链上与DeFi']
 ---
 
 > 你可能会想：「我只是在 Uniswap 上点了一下 Approve，能有什么问题？」

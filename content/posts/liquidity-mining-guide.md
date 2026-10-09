@@ -6,7 +6,7 @@ draft: false
 description: '从 AMM 自动做市商核心原理出发，手把手教你 Uniswap V3 集中流动性做市策略如何选择价格区间与费率层级以最大化手续费收益，以及 Curve 稳定币池低风险做市方法与收益对比。涵盖无常损失计算与对冲策略、LP 代币质押挖矿获取额外协议奖励，助你成为 DeFi 做市高手，实现链上稳健被动收益。'
 slug: 'liquidity-mining-guide'
 tags: ['Uniswap', 'Curve', '流动性挖矿', 'DeFi', 'AMM', '做市商', '无常损失', 'Yield Farming', '以太坊', '加密货币']
-categories: ['DeFi 去中心化金融深度指南']
+categories: ['链上与DeFi']
 ---
 
 > 你已经在 Aave 学会了存入和借出资产，让闲置资金开始产生利息——但如果你想要**更高的收益**，流动性挖矿（Liquidity Mining / Yield Farming）是 DeFi 中最核心的收益策略之一。

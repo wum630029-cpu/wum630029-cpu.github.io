@@ -6,7 +6,7 @@ draft: false
 description: 'Solana 生态完整入门教程：从 Solana 与以太坊的核心差异讲起，手把手教你创建 Phantom 钱包、从 CEX 充值 SOL、使用 Jupiter 兑换代币、体验 Raydium 与 Meteora 等主流 DeFi 协议，以及 Solana 生态全景速览——让你一小时掌握这条高速公链的核心玩法。'
 slug: 'solana-ecosystem-guide'
 tags: ['Solana', 'Phantom', 'Jupiter', 'Raydium', 'DeFi', '公链', '生态', '钱包', '跨链', '区块链', '高吞吐量']
-categories: ['公链生态与 Layer 2']
+categories: ['链上与DeFi']
 readingTime: 14
 ---
 

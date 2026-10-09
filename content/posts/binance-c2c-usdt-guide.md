@@ -6,7 +6,7 @@ draft: false
 description: '币安 C2C 怎么买 USDT 卖 USDT？本文从买 U 到卖 U 讲清完整步骤、商家筛选标准（成交率、神盾标识、支付方式）与买卖价差真实成本测算，拆解买与卖双向冻卡风险及避坑清单，附币安注册邀请码 BT123。新手照着本文步骤做，就能安全高效走完首笔 C2C 买卖，把钱进出币圈少踩坑、少交学费。'
 slug: 'binance-c2c-usdt-guide'
 tags: ['币安', 'Binance', 'C2C', 'USDT', '买币', '卖币', '防冻卡', '出入金', '交易教程']
-categories: ['交易指南']
+categories: ['币安']
 readingTime: 9
 ---
 

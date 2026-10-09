@@ -6,7 +6,7 @@ draft: false
 description: '币安 Launchpool 是新币质押挖矿平台，锁定 BNB、USDC、FDUSD 免费挖新币，本金可随时赎回。本文讲清参与步骤、收益计算与真实年化，拆解新币下跌、APY 稀释等亏损原因，对比 Launchpad、HODLer 空投、Megadrop 五种打新方式，附新手避坑清单，帮你判断值不值得参与。'
 slug: 'binance-launchpool-guide'
 tags: ['币安', 'Binance', 'Launchpool', '打新', '新币挖矿', '质押', 'Launchpad', '新手教程', '加密货币']
-categories: ['币安从入门到精通']
+categories: ['币安']
 readingTime: 9
 ---
 

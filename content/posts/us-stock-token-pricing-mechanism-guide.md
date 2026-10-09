@@ -6,7 +6,7 @@ draft: false
 description: '美股代币价格和真实股价不一致是怎么回事？本文讲透代币化股票的三层定价结构：预言机锚定、发行方铸造赎回与做市商报价，拆解折溢价在美股休市、周末与流动性稀薄时如何产生，附苹果代币溢价12%与亚马逊代币百倍脱锚的真实案例、bStocks与xStocks机制对比表，以及遇到折溢价时最实用的六条规则，帮你避开休市追价开盘被套。'
 slug: 'us-stock-token-pricing-mechanism-guide'
 tags: ['美股代币', '代币化证券', 'RWA', 'bStocks', 'xStocks', '折溢价', '预言机', '链上美股']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

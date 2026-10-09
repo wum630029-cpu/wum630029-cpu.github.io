@@ -6,7 +6,7 @@ draft: false
 description: 'OKX xStocks 与币安 bStocks 美股代币怎么选？本文从上线时间与背景、标的数量与板块侧重、费率结构、链上提现网络、分红处理与策略工具六个维度逐项对比，并给出一张按账户基础、目标标的与链上需求划分的决策表，帮你选出适合自己的平台，同时提示盘外定价与赎回的关键差异，文末附风险提示。'
 slug: 'okx-vs-binance-us-stock-tokens-guide'
 tags: ['美股代币', '代币化证券', 'OKX', 'xStocks', '币安', 'bStocks', 'RWA']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 10
 ---
 

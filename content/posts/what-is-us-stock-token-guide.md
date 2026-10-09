@@ -6,7 +6,7 @@ draft: false
 description: '美股代币是什么？一文搞懂币安 bStocks 代币化证券原理与 1:1 锚定机制：真实美股如何上链、7×24 小时交易如何定价、代币与真实股票在权益分红投票权上的本质差异，以及新手最常犯的五大误区与应对，帮你快速建立链上美股与 RWA 投资认知框架，低至 5 美元碎股也能投资苹果英伟达等全球顶尖科技公司。'
 slug: 'what-is-us-stock-token-guide'
 tags: ['美股代币', '代币化证券', 'RWA', 'bStocks', '链上美股', '美股']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 8
 ---
 

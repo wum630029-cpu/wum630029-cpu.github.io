@@ -6,7 +6,7 @@ draft: false
 description: '币安出金提现完整教程 2026！从 C2C 卖币把 USDT 换成人民币到账支付宝微信、链上转账提币到外部钱包，再到币安内部转账与 Binance Pay，三种主流出金方式的流程、手续费对比与防冻卡避坑全解析；教你选对 TRC-20、ERC-20 网络、设置提现白名单，安全高效把钱从币安转出来的完整攻略。'
 slug: 'binance-withdraw-guide'
 tags: ['币安', 'Binance', '出金', '提现', 'C2C卖币', '链上转账', '提币', '防冻卡', '新手教程', '加密货币']
-categories: ['交易所教程']
+categories: ['币安']
 readingTime: 9
 ---
 

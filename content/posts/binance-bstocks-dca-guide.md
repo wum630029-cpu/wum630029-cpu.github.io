@@ -6,7 +6,7 @@ draft: false
 description: '币安 bStocks 定投怎么设置？本文讲透美股代币 DCA 定投策略：闪兑定投模式最低 0.01 USDC 即可自动定期买入，周/月频率与单笔金额怎么定，休市时段定价偏离如何应对，股息自动再投资叠加定投的双重复利怎么计算，附标的决策表、实操路径与常见误区，助你从零开始科学定投链上美股、稳步积累资产。'
 slug: 'binance-bstocks-dca-guide'
 tags: ['美股代币', '投资策略', 'bStocks', 'DCA', '股息', 'USDC']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 8
 ---
 

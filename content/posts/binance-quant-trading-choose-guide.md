@@ -6,7 +6,7 @@ draft: false
 description: '币安量化交易怎么选？网格、API 自建机器人、跟单交易三种方式到底会不会亏、哪种更适合新手？本文用一张选型决策表讲清三者的收益、亏损场景与风险等级，拆解高频手续费侵蚀、代码 bug、跟单追高三大新手坑，附收益对比与起步建议，并给出注册填写邀请码 BT123 享 20% 手续费返佣的完整操作步骤说明。'
 slug: 'binance-quant-trading-choose-guide'
 tags: ['币安', '量化交易', '网格交易', 'API', '跟单交易', '新手避坑', '交易策略']
-categories: ['交易策略与收益提升']
+categories: ['交易策略']
 readingTime: 8
 ---
 

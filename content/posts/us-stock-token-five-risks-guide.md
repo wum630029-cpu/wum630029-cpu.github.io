@@ -6,7 +6,7 @@ draft: false
 description: '美股代币并非免费的美股，买入前必须看懂五大风险：非交易时段价格偏离真实股价的脱锚风险、冷门标的流动性不足导致滑点扩大的风险、依赖发行方与托管机构背书的信用风险、凭证非股份致发行方破产时的兑付风险，以及 SEC 视代币化证券为证券的监管风险。本文以币安 bStocks 为例逐项拆解，助你评估真实风险。'
 slug: 'us-stock-token-five-risks-guide'
 tags: ['美股代币', '代币化证券', '风险管理', 'bStocks', 'RWA', '投资风险']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

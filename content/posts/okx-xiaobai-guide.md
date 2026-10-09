@@ -7,7 +7,7 @@ description: '欧意 OKX 小白零基础入门保姆级教程：先搞懂 USDT�
 slug: 'okx-xiaobai-guide'
 aliases: ['/okx-beginner-guide/']
 tags: ['OKX', '欧意', '欧易', '新手教程', '入门', '现货交易', '加密货币', '避坑']
-categories: ['交易所教程']
+categories: ['欧易 OKX']
 readingTime: 9
 ---
 

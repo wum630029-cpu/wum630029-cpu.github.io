@@ -6,7 +6,7 @@ draft: false
 description: '搜币安邀请码前排大量宣称 20% 甚至 40% 返佣，比例互相矛盾、出处不明。本文实测拆穿 40% 返佣话术套路，用手续费对比表算清真实返佣比例，给出官方有效码 BT123 的填写与补填方法，并说明返佣与 BNB 抵扣能否叠加使用，附真实交易额返佣金额对照，并给出 2026 官方有效邀请码清单与填写位置说明。'
 slug: 'binance-invite-code-20-percent-rebate-guide'
 tags: ['币安', 'Binance', '邀请码', '推荐码', '返佣', '手续费', '超级返佣', '注册', '新手教程', '加密货币']
-categories: ['交易所教程']
+categories: ['币安']
 readingTime: 8
 ---
 

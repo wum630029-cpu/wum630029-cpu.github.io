@@ -6,7 +6,7 @@ draft: false
 description: 'Bybit 怎么注册开户？本文从 App 下载讲起，讲清账号注册、KYC 身份认证与安全设置全流程，涵盖合约交易入门、Launchpad 打新与资金费率套利等特色功能，说明大陆用户能否注册、手续费费率与邀请码返佣规则，附注册链接与邀请码，手把手带你从注册到完成首次交易，含注册步骤图解，零基础也能跟着做。'
 slug: 'bybit-register-guide'
 tags: ['Bybit', '注册教程', 'KYC', '合约交易', '加密货币', '交易所教程', '新手入门']
-categories: ['交易所教程']
+categories: ['新手入门']
 readingTime: 6
 ---
 

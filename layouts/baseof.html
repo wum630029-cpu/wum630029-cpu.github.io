@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ .Site.LanguageCode | default "zh-CN" }}"{{ if eq .Site.Params.defaultTheme "dark" }} data-theme="dark"{{ end }}>
+<html lang="{{ .Site.Language.Locale | default "zh-CN" }}"{{ if eq .Site.Params.defaultTheme "dark" }} data-theme="dark"{{ end }}>
 <head>
   {{ partial "head.html" . }}
 </head>
@@ -10,6 +10,7 @@
   </main>
 
   {{ partial "footer.html" . }}
+  {{ partial "back-to-top.html" . }}
   {{ partial "qq-float.html" . }}
 </body>
 </html>

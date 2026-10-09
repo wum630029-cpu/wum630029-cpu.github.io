@@ -6,7 +6,7 @@ draft: false
 description: 'MetaMask 小狐狸钱包创建与使用完全指南，从浏览器插件版与手机 App 版下载安装、创建新钱包与安全备份助记词和私钥保存、导入已有钱包到连接以太坊二层网络等主流 DApp 交互 Uniswap 等 DeFi 协议。手把手带你从零掌握 Web3 钱包的全部核心操作，轻松安全进入链上去中心化世界。'
 slug: 'metamask-guide'
 tags: ['MetaMask', '加密货币钱包', 'Web3', 'DeFi', '以太坊', '智能合约', 'DApp']
-categories: ['链上操作实战指南']
+categories: ['链上与DeFi']
 readingTime: 7
 ---
 

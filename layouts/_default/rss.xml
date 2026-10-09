@@ -5,7 +5,7 @@
     <link>{{ .Permalink }}</link>
     <description>{{ .Site.Params.description }}</description>
     <generator>Hugo</generator>
-    <language>{{ .Site.LanguageCode }}</language>
+    <language>{{ .Site.Language.Locale }}</language>
     <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
     {{ range .Pages | first 20 }}
     <item>

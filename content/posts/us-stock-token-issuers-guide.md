@@ -6,7 +6,7 @@ draft: false
 description: '美股代币背后是谁在发行、你的钱押在谁身上？本文拆解 BTech（币安 bStocks）、Backed（xStocks）、Ondo 三大发行方的注册地、监管牌照、底层托管与破产隔离，用对比表看懂追踪凭证、结构化票据、上链注册三种架构的靠谱度排序，并给出买前查验发行方与抵押品的三步清单，回答倒闭时钱能不能拿回来。'
 slug: 'us-stock-token-issuers-guide'
 tags: ['美股代币', '代币化证券', 'RWA', 'bStocks', 'xStocks', 'Ondo', '发行方', '监管牌照']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

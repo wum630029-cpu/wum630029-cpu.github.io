@@ -6,7 +6,7 @@ draft: false
 description: '想买苹果、英伟达股票却开不了美股账户？币安 bStocks 用碎股机制让你最低约 5 美元就能买入美股一小份，7×24 小时全天候可交易，无需券商开户与跨境汇款。本文讲透碎股是什么、为什么能拆着买、怎么从 USDC 买入第一笔苹果碎股、门槛费用与股息规则，以及凭证非股票的三大风险，新手零基础也能看懂上手。'
 slug: 'binance-bstocks-fractional-shares-guide'
 tags: ['碎股', 'bStocks', '美股代币', '币安美股', '美股', '币安']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 8
 ---
 

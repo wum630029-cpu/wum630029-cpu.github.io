@@ -6,7 +6,7 @@ draft: false
 description: '美股代币到底怎么纳入加密组合？本文用十年相关性数据与2026年行情解析加密与美股的关系：平时低相关、危机时同步回撤的真相，按投资目标与风险承受给出保守/均衡/进取三档组合模板与仓位参考，并手把手实操币安bStocks定投美股、板块分散与定期再平衡，附决策表与常见误区，帮你科学设定组合比例并控制回撤风险。'
 slug: 'us-stock-token-allocation-guide'
 tags: ['美股代币', '投资策略', '资产配置', 'bStocks', '相关性', 'USDC']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 8
 ---
 

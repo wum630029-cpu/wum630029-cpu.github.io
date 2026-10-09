@@ -6,7 +6,7 @@ draft: false
 description: '欧意 OKX 全流程实操保姆级教程：从注册账号、填邀请码 60895497、KYC 实名认证、下载 App、C2C 入金买 USDT、资金划转到现货买入，再到卖出提现与安全设置，每一步都给出具体操作路径和金额示例，附手续费返佣说明与新手避坑提醒，让零基础用户照着一篇就能独立完成第一笔加密货币买入交易。'
 slug: 'okx-full-flow-guide'
 tags: ['OKX', '欧意', '欧易', '新手教程', '全流程', '入金', '现货交易', '提现']
-categories: ['交易所教程']
+categories: ['欧易 OKX']
 readingTime: 10
 ---
 

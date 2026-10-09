@@ -1,0 +1,71 @@
+# 7 个栏目（hub）配置：名称对应 frontmatter 的 categories 值。
+# 首页分区、顶部导航、栏目落地页都从这里读。
+- key: beginner
+  name: 新手入门
+  description: 从零搞懂比特币、以太坊、稳定币与 Web3 核心概念，用大白话讲清加密货币是什么、怎么安全买入第一笔、怎么避开新手常见坑。
+  cta: false
+  learningPath:
+    - { title: 什么是加密货币, href: /what-is-cryptocurrency/ }
+    - { title: 什么是比特币, href: /what-is-bitcoin/ }
+    - { title: 买比特币用什么软件, href: /what-software-to-buy-bitcoin/ }
+    - { title: 比特币怎么买, href: /how-to-buy-bitcoin-beginner/ }
+
+- key: binance
+  name: 币安
+  description: 币安注册、KYC 实名、App 下载、入金买币、提现出金、手续费返佣全流程教程，邀请码 BT123 享 20% 手续费返佣，新手照着做就能开户。
+  cta: true
+  learningPath:
+    - { title: 币安注册开户, href: /binance-register-guide/ }
+    - { title: 币安 App 下载, href: /binance-app-download-guide/ }
+    - { title: 币安入金充值, href: /binance-deposit-guide/ }
+    - { title: 币安提现出金, href: /binance-withdraw-guide/ }
+
+- key: okx
+  name: 欧易 OKX
+  description: 欧易 OKX 注册开户、KYC 认证、App 下载、C2C 入金买币、出金提现与安全设置全流程教程，邀请码 60895497 享手续费返佣。
+  cta: true
+  learningPath:
+    - { title: 欧易注册开户, href: /okx-register-guide/ }
+    - { title: 欧易 App 下载, href: /okx-app-download-guide/ }
+    - { title: 欧易入金充值, href: /okx-deposit-guide/ }
+    - { title: 欧易出金提现, href: /okx-withdraw-guide/ }
+
+- key: trading
+  name: 交易策略
+  description: 技术分析、K线形态、均线、仓位管理、止盈止损、交易纪律等实战策略，从入门到精通，帮助新手建立自己的交易系统。
+  cta: false
+  learningPath:
+    - { title: 技术分析入门, href: /technical-analysis-basics/ }
+    - { title: 支撑阻力位, href: /support-resistance-levels-guide/ }
+    - { title: K线形态识别, href: /kline-patterns-guide/ }
+    - { title: 资金管理, href: /capital-management-guide/ }
+
+- key: stocks
+  name: 美股代币
+  description: 币安 bStocks 美股代币全解析：什么是美股代币、怎么用 USDC 买美股、开户门槛与风险，美股与加密货币双资产配置指南。
+  cta: true
+  learningPath:
+    - { title: 什么是美股代币, href: /what-is-us-stock-token-guide/ }
+    - { title: bStocks 全解析, href: /binance-bstocks-overview-guide/ }
+    - { title: 怎么买美股, href: /how-to-buy-us-stocks/ }
+    - { title: 美股怎么开户, href: /how-to-open-us-stock-account/ }
+
+- key: defi
+  name: 链上与DeFi
+  description: MetaMask 钱包、DEX 去中心化交易所、DeFi 借贷与流动性挖矿、Layer 2 扩容，从 CEX 走向链上世界的一站式指南。
+  cta: false
+  learningPath:
+    - { title: 什么是 DeFi, href: /what-is-defi/ }
+    - { title: MetaMask 钱包, href: /metamask-guide/ }
+    - { title: DEX 交易所, href: /dex-decentralized-exchange-guide/ }
+    - { title: DeFi 借贷, href: /defi-lending-guide/ }
+
+- key: security
+  name: 资产安全
+  description: 助记词备份、冷热钱包选择、2FA 双因子验证、C2C 防冻卡、加密货币骗局识别，全方位保护你的数字资产安全。
+  cta: false
+  learningPath:
+    - { title: 助记词安全, href: /mnemonic-security-guide/ }
+    - { title: 冷钱包 vs 热钱包, href: /cold-wallet-vs-hot-wallet/ }
+    - { title: 骗局汇总防范, href: /crypto-scam-prevention-guide/ }
+    - { title: 账户安全设置, href: /binance-security-guide/ }

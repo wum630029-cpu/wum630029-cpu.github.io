@@ -6,7 +6,7 @@ draft: false
 description: 'OKX 账户安全设置全攻略指南：从 Google 2FA 双因素认证绑定与备用恢复码保存、资金独立密码设置、反钓鱼码识别恶意邮件与链接到提现地址白名单管理及 API 密钥权限安全分级管控，15 分钟内即可完成全套防护措施的设置与验证。系统保护你的 OKX 账户远离黑客入侵与资产被盗风险，交易才能安心无忧。'
 slug: 'okx-security-guide'
 tags: ['OKX', '欧易', '账户安全', '2FA', '双因素认证', '防钓鱼码', '安全设置', '资产保护']
-categories: ['欧易 OKX 全系列']
+categories: ['欧易 OKX']
 readingTime: 7
 ---
 

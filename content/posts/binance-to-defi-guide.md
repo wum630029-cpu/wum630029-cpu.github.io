@@ -6,7 +6,7 @@ draft: false
 description: '从币安交易平台走向链上去中心化世界的完整实操指南。手把手教你 MetaMask 钱包创建与助记词安全备份、从币安提现 USDT 或 ETH 到链上钱包时 Gas 费计算与网络选择优化技巧、在 Uniswap 完成首次代币兑换交易以及提供流动性赚取手续费收益。三十分钟带你掌握从交易所迈向链上的完整实操路径。'
 slug: 'binance-to-defi-guide'
 tags: ['币安', 'DeFi', '链上', 'MetaMask', '去中心化金融', 'Uniswap', '加密货币入门', 'CEX到DeFi', '区块链交互']
-categories: ['币安从入门到精通']
+categories: ['币安']
 ---
 
 > 你在币安上买卖过 BTC、用过合约、赚过理财收益——但总听人说「Not your keys, not your coins」，说真正的加密货币玩家最终都会走向链上。

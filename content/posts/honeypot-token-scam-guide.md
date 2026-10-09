@@ -6,7 +6,7 @@ draft: false
 description: '在链上看到百倍币激动买入后发现盈利数倍却卖不掉——这就是貔貅币蜜罐骗局！本文从智能合约层面深度解析蜜罐代币三种常见拦截技术，手把手教你用 Token Sniffer 等安全工具检测代币风险，结合链上交易溯源与防骗操作 Checklist，手把手助你从此彻底避开蜜罐陷阱，安全放心交易链上代币资产不踩雷。'
 slug: 'honeypot-token-scam-guide'
 tags: ['链上安全', '蜜罐地址', '貔貅币', 'Honeypot', '防骗', '代币安全', '智能合约', 'Web3安全', 'Token Sniffer', '貔貅盘']
-categories: ['链上操作实战指南']
+categories: ['链上与DeFi']
 readingTime: 14
 ---
 

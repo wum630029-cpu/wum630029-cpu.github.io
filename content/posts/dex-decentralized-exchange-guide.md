@@ -6,7 +6,7 @@ draft: false
 description: '买了 USDT 不知道怎样在链上用？从 CEX 到 DEX 实操完整指南。手把手连接 MetaMask 到以太坊主网与 BNB Chain、在 Uniswap 和 PancakeSwap 进行代币兑换并正确设置滑点保护、以及添加流动性赚取手续费收益。掌握 DEX 操作，从 CEX 踏入 Web3 链上世界。'
 slug: 'dex-decentralized-exchange-guide'
 tags: ['DEX', '去中心化交易所', 'Uniswap', 'PancakeSwap', 'DeFi', 'AMM', '去中心化金融', '链上交易', '加密货币']
-categories: ['链上操作实战指南']
+categories: ['链上与DeFi']
 ---
 
 > 你在币安买了 USDT，提到 MetaMask，然后……就卡住了。

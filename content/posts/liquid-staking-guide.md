@@ -6,7 +6,7 @@ draft: false
 description: '全面解析流动性质押 LSD 的运作核心原理与优势，深入对比 Lido、Rocket Pool 与 EtherFi 三大协议的 ETH 质押流程、费用与年化收益差异。详解 stETH 等流动性衍生代币如何在 DeFi 中继续使用实现双重收益，助你安全质押 ETH 资产并释放资产获取流动性双重最大化收益。'
 slug: 'liquid-staking-guide'
 tags: ['DeFi', '流动性质押', 'LSD', 'Lido', 'Rocket Pool', 'EtherFi', 'stETH', 'ETH质押', 'EigenLayer', '再质押', '加密货币', '以太坊']
-categories: ['DeFi 深度指南']
+categories: ['链上与DeFi']
 readingTime: 16
 ---
 

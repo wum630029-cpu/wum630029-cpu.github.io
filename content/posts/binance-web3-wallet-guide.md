@@ -6,7 +6,7 @@ draft: false
 description: '币安 Web3 钱包完整实操教程，手把手教你创建自托管去中心化钱包、安全备份助记词与私钥文件、通过内置跨链桥在不同公链间转账及交互主流 DApp 与 DeFi 协议。从 CEX 中心化交易所用户无缝过渡到链上去中心化世界，一站式全面掌握多链资产管理、Gas 费设置与 dApp 连接等全部链上核心操作技能。'
 slug: 'binance-web3-wallet-guide'
 tags: ['币安', 'Binance', 'Web3钱包', 'DeFi', '跨链', '加密货币钱包', '新手进阶']
-categories: ['币安从入门到精通']
+categories: ['币安']
 readingTime: 4
 ---
 

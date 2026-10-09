@@ -6,7 +6,7 @@ draft: false
 description: '想参与优质新币早期发行获取超高回报？这篇欧易 Jumpstart 打新完整指南详解从参与资格与 OKB 持仓要求、不同质押池的选择策略及收益对比、项目评估筛选方法到抢购时间点把握与 Gas 优化技巧的完整流程。手把手教你掌握 OKX Jumpstart 打新每一步操作，不错过每一轮优质项目抢购机遇。'
 slug: 'okx-jumpstart-guide'
 tags: ['OKX', '欧易', 'Jumpstart', '打新', '新币挖矿', 'OKB', '加密货币']
-categories: ['欧易 OKX 全系列']
+categories: ['欧易 OKX']
 readingTime: 6
 ---
 

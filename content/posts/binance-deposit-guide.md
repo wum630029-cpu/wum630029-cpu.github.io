@@ -6,7 +6,7 @@ draft: false
 description: '币安入金充值历来是新手遇到的第一道实操门槛。2026 年最新六种入金方式详解：C2C 快捷买币用支付宝微信向商家直接购买 USDT、P2P 交易安全指南、Visa 信用卡借记卡直接购币以及从外部钱包链上转账充值的操作步骤。附完整费率对比表格和安全提醒，手把手教你选对入金方法，从零到一轻松完成首笔充值。'
 slug: 'binance-deposit-guide'
 tags: ['币安', 'Binance', '入金', 'C2C', 'P2P', '充值', 'USDT', '加密货币', '新手教程']
-categories: ['交易所教程']
+categories: ['币安']
 readingTime: 8
 ---
 

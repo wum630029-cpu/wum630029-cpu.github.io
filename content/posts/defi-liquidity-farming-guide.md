@@ -6,7 +6,7 @@ draft: false
 description: '2025 年 DeFi 链上锁仓总价值 TVL 已突破 2000 亿美元，流动性挖矿正成为链上最热门的被动收益方式。本文从 AMM 恒值乘积定价原理到 LP 流动性代币的运作机制与收益来源，从无常损失形成原因与量化计算方法到多策略风险对冲技巧，系统拆解收益农场的知识体系与实战风控策略，助你安全参与链上做市。'
 slug: 'defi-liquidity-farming-guide'
 tags: ['DeFi', '流动性挖矿', '收益农场', 'AMM', '无常损失', 'LP代币', '去中心化金融']
-categories: ['DeFi 指南']
+categories: ['链上与DeFi']
 readingTime: 5
 ---
 

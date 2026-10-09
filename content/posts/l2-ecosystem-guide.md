@@ -6,7 +6,7 @@ draft: false
 description: 'Layer 2 生态完整入门教程：从 Rollup 技术原理与分类到 Arbitrum、Optimism、Base、zkSync 四大主流 L2 的实际操作与体验。涵盖各生态对比、钱包配置、跨链桥使用及 L2 上 DeFi 协议实操体验，手把手让你一小时快速掌握 L2 世界的核心玩法与操作实操技能。'
 slug: 'l2-ecosystem-guide'
 tags: ['Layer 2', 'Arbitrum', 'Optimism', 'Base', 'zkSync', 'Rollup', 'L2', '跨链', 'DeFi', '公链', '以太坊', '扩容']
-categories: ['公链生态与 Layer 2']
+categories: ['链上与DeFi']
 readingTime: 18
 ---
 

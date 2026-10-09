@@ -1,13 +1,19 @@
 {{ define "main" }}
 <div class="container">
-  <h1 style="font-size: 2rem; font-weight: 900; margin-bottom: 8px;">{{ .Title }}</h1>
-  <p style="color: var(--text-2);">共 {{ len .Data.Terms }} 个标签</p>
+  <nav class="breadcrumb" aria-label="面包屑">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="sep">/</span>
+    <span class="current">{{ .Title }}</span>
+  </nav>
+
+  <h1 style="font-size: 1.9rem; font-weight: 900; margin-bottom: 8px;">{{ .Title }}</h1>
+  <p style="color: var(--muted);">共 {{ len .Data.Terms }} 个标签</p>
 
   <div class="tags-cloud">
     {{ range .Data.Terms.ByCount }}
       <a href="{{ .Page.RelPermalink }}" class="tag-lg">
         {{ .Page.Title }}
-        <span style="color: var(--text-3); margin-left: 6px;">{{ .Count }}</span>
+        <span style="color: var(--faint); margin-left: 6px;">{{ .Count }}</span>
       </a>
     {{ end }}
   </div>

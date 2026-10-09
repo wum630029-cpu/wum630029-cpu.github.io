@@ -6,7 +6,7 @@ draft: false
 description: '2026 年最新币安美股交易完整教程，手把手教你用 USDC 稳定币在 Bstocks 购买苹果、特斯拉、英伟达等热门美股碎股及 ETF 基金。支持 7 天 24 小时全天候交易，最低 1 美元即可起步。涵盖 Bstocks 开通流程、USDC 入金充值、搜索股票与下单买入到查看持仓与卖出管理全流程详解。'
 slug: 'binance-us-stocks-usdc-guide'
 tags: ['币安美股', 'Bstocks', 'USDC', '美股', '买美股', '数字资产', '碎股', '投资教程', '2026']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 4
 ---
 

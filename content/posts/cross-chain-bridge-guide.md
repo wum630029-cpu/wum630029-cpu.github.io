@@ -6,7 +6,7 @@ draft: false
 description: '一文精通跨链桥的完整操作与安全知识！从跨链桥的锁定铸造与销毁解锁核心原理到 Wormhole 等主流桥使用教程，以及不同桥的费用深度对比与跨链安全风险全解析。2026 年每日超 30 亿美元跨链转账的必备技能，学会在以太坊、BNB Chain、Arbitrum、Base 等公链之间自由转移数字资产。'
 slug: 'cross-chain-bridge-guide'
 tags: ['跨链桥', '跨链', '多链', 'Arbitrum', 'Optimism', 'Base', 'BNB Chain', 'Layer2']
-categories: ['链上操作实战指南']
+categories: ['链上与DeFi']
 readingTime: 7
 ---
 

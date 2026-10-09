@@ -6,7 +6,7 @@ draft: false
 description: '不想依赖 Infura 或 Alchemy 等第三方节点服务商？本文手把手教你搭建以太坊执行层 Geth 与共识层 Lighthouse 全节点及 Solana 节点。涵盖服务器硬件选型、操作系统环境优化、客户端安装同步、状态剪裁节省空间、同步加速技巧与运维监控告警设置，让你掌控区块链数据与 RPC 接口。'
 slug: 'self-host-blockchain-node-guide'
 tags: ['区块链节点', '以太坊', 'Solana', '全节点', 'Linux', '运维', 'RPC', '节点搭建']
-categories: ['链上操作实战指南']
+categories: ['链上与DeFi']
 readingTime: 10
 ---
 

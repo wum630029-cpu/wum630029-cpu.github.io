@@ -6,7 +6,7 @@ draft: false
 description: '币安买美股有两条通道：真实美股（超 7000 只、零佣金、真实持股与现金分红）与 bStocks 代币股（40 余只、7×24 全天候链上交易）。本文列出 2026 年两条通道的完整标的清单与核心区别，并给出 AI 算力、稳健蓝筹、指数打底等热门组合推荐，帮你一次选对通道、配好组合、避开买错产品的坑。'
 slug: 'binance-us-stocks-supported-list-guide'
 tags: ['币安美股', '美股代币', 'bStocks', '真实美股', '投资组合', '碎股', 'ETF', 'RWA']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

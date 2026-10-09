@@ -6,7 +6,7 @@ draft: false
 description: '全面对比三大去中心化永续合约平台 dYdX 订单簿、GMX 多资产池与 Hyperliquid 全链上订单簿的交易机制差异、费用结构与 Maker Taker 费率、支持的加密资产种类与链上安全审计记录。通过对比分析每个平台的优劣，帮你找到最适合自己风格的去中心化衍生品平台，无需 KYC 也能享受合约交易。'
 slug: 'decentralized-perpetuals-comparison-guide'
 tags: ['dYdX', 'GMX', 'Hyperliquid', '去中心化永续合约', 'DeFi', '衍生品交易', '永续合约', 'DEX', 'GLP', '订单簿', 'dYdX Chain', '跨链交易', '加密货币', '杠杆交易', '链上交易']
-categories: ['DeFi 深度指南']
+categories: ['链上与DeFi']
 readingTime: 16
 ---
 

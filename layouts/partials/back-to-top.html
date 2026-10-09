@@ -1,0 +1,20 @@
+<button type="button" class="back-to-top" id="backToTop" aria-label="返回顶部" title="返回顶部">
+  <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" role="img">
+    <path d="M12 19V5M5 12l7-7 7 7" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</button>
+
+<script>
+(function() {
+  var btn = document.getElementById('backToTop');
+  function onScroll() {
+    if (window.scrollY > 400) { btn.classList.add('show'); }
+    else { btn.classList.remove('show'); }
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+  btn.addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+})();
+</script>

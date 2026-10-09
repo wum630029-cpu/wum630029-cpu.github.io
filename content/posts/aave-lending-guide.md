@@ -6,7 +6,7 @@ draft: false
 description: 'Aave 借贷协议实操指南：从零开始将 ETH 或 USDC 存入 Aave 赚取存款利息，并利用抵押资产借出其他代币获取额外流动性进而参与其他 DeFi 协议。详细讲解 LTV 抵押率计算、清算机制触发条件与健康因子实时监控方法，手把手教你玩转以太坊上最主流的去中心化借贷协议完整操作流程与收益策略。'
 slug: 'aave-lending-guide'
 tags: ['Aave', 'DeFi', '借贷', '链上', '去中心化金融', '以太坊', '加密货币', '流动性挖矿', '存款理财']
-categories: ['DeFi 去中心化金融深度指南']
+categories: ['链上与DeFi']
 ---
 
 > 你在 CEX 到 DeFi 的入门课程中学会了从币安提币到 MetaMask，在 Uniswap 完成首次 Swap——**现在，是时候让你的资产在链上「自动工作」了。**

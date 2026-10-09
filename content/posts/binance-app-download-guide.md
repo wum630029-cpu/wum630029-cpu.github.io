@@ -6,7 +6,7 @@ draft: false
 description: '苹果 App Store 搜不到币安？本文给 2026 官方安卓 APK 直连下载与苹果 iOS 换区下载两种渠道，讲清如何识别真假币安图标与官网链接、核对安装包签名，避免下载到山寨应用导致资产损失，并对比官网直连与第三方商店下载的风险差异，附安装后切换中文界面与开启 2FA 的安全步骤，下载前先看这篇避免踩坑。'
 slug: 'binance-app-download-guide'
 tags: ['币安', 'Binance', '币安下载', 'App下载', '安卓APK', '苹果iOS', '加密货币']
-categories: ['交易所教程']
+categories: ['币安']
 readingTime: 4
 ---
 

@@ -6,7 +6,7 @@ draft: false
 description: '币安 bStocks 2026 年已上线 35 只美股代币，覆盖科技、半导体、航天、金融及 ETF 五大板块。本文拆解各板块选股逻辑与驱动因素，指出资金主线高度集中于 AI 与航天，并给出保守、均衡、进取三套配置方案与 1000 USDC 实操演示，助你从 35 只标的中找到适合自己风险承受力的组合。'
 slug: 'binance-bstocks-sector-map-guide'
 tags: ['美股代币', '投资策略', 'bStocks', '板块配置', '资产配置', '半导体', 'RWA']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

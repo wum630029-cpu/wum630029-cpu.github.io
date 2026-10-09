@@ -6,7 +6,7 @@ draft: false
 description: '从币安注册开户、完成 KYC 认证到入金充值买币与现货交易全流程一站式教程，手把手带零基础新手学会通过 C2C 用支付宝微信买 USDT、再用 USDT 在现货市场买卖 BTC 与 ETH。系统解决新人最常遇到的三大困惑：钱怎么存进去、买到的币在哪查看以及怎么卖出变现，看完就能独立安全完成完整交易。'
 slug: 'binance-complete-guide'
 tags: ['币安', 'Binance', '新手教程', '入金', 'C2C', '现货交易', '注册教程', '加密货币']
-categories: ['交易所教程']
+categories: ['币安']
 readingTime: 6
 ---
 

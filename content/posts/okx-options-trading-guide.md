@@ -6,7 +6,7 @@ draft: false
 description: 'OKX 欧易期权交易完整教程：详解看涨期权与看跌期权的区别、买方与卖方的风险收益不对称、欧式期权只能在到期日行权、BTC 与 ETH 期权合约规格与命名规则，教你用 T 型报价和期权简选下单，看清挂单吃单手续费与到期自动行权交割机制，再告诉你新手到底该不该碰期权、以及卖方无限亏损风险，附常见误区与 FAQ。'
 slug: 'okx-options-trading-guide'
 tags: ['OKX', '欧易', '期权交易', '看涨期权', '看跌期权', 'Call', 'Put', '到期行权']
-categories: ['欧易 OKX 全系列']
+categories: ['欧易 OKX']
 readingTime: 10
 ---
 

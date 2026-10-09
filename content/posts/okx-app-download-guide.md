@@ -6,7 +6,7 @@ draft: false
 description: '苹果 App Store 搜不到 OKX 怎么办？本文给安卓 APK 官方直连与苹果换区 Apple ID 两大下载方法，讲清安装后如何验证是官方应用（包名、签名证书核对），避免下载到山寨应用导致资产损失，附下载后切换中文界面、设置指纹支付与开启 2FA、反钓鱼码的完整步骤，助你安全完成下载安装，少走弯路。'
 slug: 'okx-app-download-guide'
 tags: ['OKX', '欧易', '欧易下载', 'App下载', '安卓APK', '苹果iOS', '加密货币']
-categories: ['交易所教程']
+categories: ['欧易 OKX']
 readingTime: 4
 ---
 

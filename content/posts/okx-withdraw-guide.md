@@ -6,7 +6,7 @@ draft: false
 description: 'OKX 欧易出金提现完整教程！从 C2C 卖币将 USDT 换成人民币到账支付宝微信、链上转账提币到 MetaMask 等外部钱包进行 DeFi 交互、以及内部转账到其他 OKX 用户，四种主流提现方式的操作流程、手续费对比和安全避坑全解析。手把手教你安全高效地从 OKX 转出资产，避免出金踩雷掉坑。'
 slug: 'okx-withdraw-guide'
 tags: ['OKX', '欧易', '出金', '提现', 'C2C卖币', '链上转账', '提币', '加密货币', '新手教程']
-categories: ['欧易 OKX 全系列']
+categories: ['欧易 OKX']
 readingTime: 7
 ---
 

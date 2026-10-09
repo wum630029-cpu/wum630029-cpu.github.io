@@ -6,7 +6,7 @@ draft: false
 description: '币安手续费怎么省最全攻略！现货、合约、杠杆全品类费率结构与阶梯费率标准全面解析，手把手教你三招最实用的降费方法：使用 BNB 抵扣手续费可节省 25%、填写邀请码 BT123 享返佣加码以及提升 VIP 等级获得阶梯优惠，三重叠加最高可省下 50% 交易成本，新手也能学会，含三档费率对比与省钱清单。'
 slug: 'binance-fee-rebate-guide'
 tags: ['币安', 'Binance', '手续费', '返佣', 'BNB抵扣', 'VIP等级', '交易费用']
-categories: ['币安从入门到精通']
+categories: ['币安']
 readingTime: 4
 ---
 

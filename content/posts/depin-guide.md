@@ -6,7 +6,7 @@ draft: false
 description: 'DePIN 去中心化物理基础设施网络正在深刻改变传统云计算与物联网行业格局，让普通人贡献闲置路由器带宽、硬盘存储空间与 GPU 显卡算力即可参与网络建设并持续获取代币激励回报。本文深度揭秘 DePIN 赛道头部项目案例、代币经济模型设计与投资逻辑，带你把握 Web3 基础设施建设这一波全新投资机遇。'
 slug: 'depin-guide'
 tags: ['DePIN', '去中心化基础设施', 'Helium', 'Filecoin', 'Render Network', 'Web3', '物联网', '分布式网络', '加密投资', '区块链']
-categories: ['Web3 概念与生态']
+categories: ['新手入门']
 readingTime: 14
 ---
 

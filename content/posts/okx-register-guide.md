@@ -7,7 +7,7 @@ description: '欧易 OKX 注册教程：从下载 App 讲起，一次讲清填�
 slug: 'okx-register-guide'
 aliases: ['/okx-signup-tutorial/']
 tags: ['OKX', '欧易', '注册教程', 'KYC', '邀请码', '加密货币', '新手教程']
-categories: ['交易所教程']
+categories: ['欧易 OKX']
 readingTime: 4
 ---
 

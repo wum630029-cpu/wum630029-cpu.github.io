@@ -6,7 +6,7 @@ draft: false
 description: '刚注册币安却卡在充值这一步？本文手把手带你完成首次充值：从确认 KYC 认证、设置安全到 C2C 用支付宝微信买 USDT 的完整 6 步流程，附商家挑选标准、转账备注防冻卡技巧、付款后如何点「我已付款」确认到账，以及付了钱没到账、商家迟迟不放币、怕冻卡等新手最担心的常见问题解答，零基础也能一次充值成功。'
 slug: 'binance-first-deposit-guide'
 tags: ['币安', 'Binance', '首次充值', '充值', 'C2C', 'USDT', '新手教程', '买币']
-categories: ['交易所教程']
+categories: ['币安']
 readingTime: 9
 ---
 

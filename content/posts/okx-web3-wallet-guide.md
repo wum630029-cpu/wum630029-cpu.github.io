@@ -6,7 +6,7 @@ draft: false
 description: '欧易 Web3 钱包完整实操指南：从 CEX 到链上世界，手把手教你创建自托管去中心化钱包、备份助记词、管理 60 余条公链资产、使用内置跨链桥转账及交互 DeFi 与 NFT dApp。一文掌握从交易所用户迈向去中心化世界所需的所有链上操作技能，轻松穿梭于中心化与去中心化世界之间，开启你的 Web3 之旅。'
 slug: 'okx-web3-wallet-guide'
 tags: ['OKX', '欧易', 'Web3钱包', 'DeFi', '跨链', '多链钱包', 'dApp']
-categories: ['欧易 OKX 全系列']
+categories: ['欧易 OKX']
 readingTime: 6
 ---
 

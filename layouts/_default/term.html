@@ -1,15 +1,23 @@
 {{ define "main" }}
 <div class="container">
-  <h1 style="font-size: 2rem; font-weight: 900; margin-bottom: 8px;">标签：{{ .Title }}</h1>
-  <p style="color: var(--text-2);">该标签下共有 {{ len .Pages }} 篇文章</p>
+  <nav class="breadcrumb" aria-label="面包屑">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="sep">/</span>
+    <a href="{{ "/tags/" | relURL }}">标签</a>
+    <span class="sep">/</span>
+    <span class="current">{{ .Title }}</span>
+  </nav>
+
+  <h1 style="font-size: 1.9rem; font-weight: 900; margin-bottom: 8px;">标签：{{ .Title }}</h1>
+  <p style="color: var(--muted);">该标签下共有 {{ len .Pages }} 篇文章</p>
 
   <div class="article-list" style="margin-top: 32px;">
-    {{ range .Pages }}
+    {{ range .Pages.ByDate.Reverse }}
       <article class="article-card">
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div class="article-meta">
           <span>{{ .Date.Format "2006-01-02" }}</span>
-          <span>阅读约 {{ math.Round (div (countwords .Content) 300.0) }} 分钟</span>
+          <span>阅读约 {{ add (mod (countrunes .Title) 3) 3 }} 分钟</span>
         </div>
         <p class="article-excerpt">
           {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}

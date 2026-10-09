@@ -6,7 +6,7 @@ draft: false
 description: 'OKX 赚币完整实操攻略！手把手教你玩转链上 Staking 质押 ETH 获取年化收益、赚币宝灵活存入 USDT 享受活期定期不同利率、以及双币投资挂钩 BTC 或 ETH 价格区间获取结构性高收益产品。让闲置的 USDT 和币种轻松获取被动年化收益，附三大产品收益对比与资金配置策略，零基础也能轻松上手。'
 slug: 'okx-earn-guide'
 tags: ['OKX', '欧易', '赚币', 'Staking', '双币投资', '赚币宝', '被动收益', '加密货币理财']
-categories: ['欧易 OKX 全系列']
+categories: ['欧易 OKX']
 readingTime: 7
 ---
 

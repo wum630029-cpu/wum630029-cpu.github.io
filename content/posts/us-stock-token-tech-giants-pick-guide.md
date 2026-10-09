@@ -6,7 +6,7 @@ draft: false
 description: '苹果、特斯拉、微软这些明星科技股代币怎么选？本文用估值、赛道、波动率三大维度拆解币安 bStocks 的选股框架，对比三家公司的商业模式、PE 估值与波动特性，讲清谁适合稳健配置、谁适合博成长、谁回撤最大，附选股打分表与分批建仓实操示例，并提示 24/7 交易与代币特有风险，帮你避开只看涨幅追热门股的坑。'
 slug: 'us-stock-token-tech-giants-pick-guide'
 tags: ['美股代币', '投资策略', 'bStocks', '苹果', '特斯拉', '微软', '选股', '估值']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 8
 ---
 

@@ -6,7 +6,7 @@ draft: false
 description: '从零下载币安 App 并完成首次入金的保姆级教程：苹果 iPhone 大陆用户如何一步步注册港区/美区 Apple ID（付款方式选 None）、如何使用 VPN、安卓如何从官网下载 APK 并开启未知来源权限，以及注册、KYC 实名、C2C 买 USDT 入金的每一步操作与防冻卡技巧，全程无跳步。'
 slug: 'binance-app-download-deposit-guide'
 tags: ['币安', 'Binance', '币安下载', 'App下载', '海外AppleID', '安卓APK', 'VPN', '入金', 'C2C', '新手教程', '加密货币']
-categories: ['交易所教程']
+categories: ['币安']
 readingTime: 12
 ---
 

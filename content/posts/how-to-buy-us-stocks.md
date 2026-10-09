@@ -6,7 +6,7 @@ draft: false
 description: '怎么买美股？这篇从零讲清大陆用户2026买美股的三条路：境外券商开户、QDII基金与跨境ETF、以及币安bStocks加密货币平台。每条路讲清门槛、要不要境外卡、最低多少钱、有什么风险，再给你一张按「有没有境外卡、能承受多大风险」选的决策框架，帮你避开富途老虎关闭开户后最容易踩的坑，附开户避坑清单。'
 slug: 'how-to-buy-us-stocks'
 tags: ['美股', '买美股', '美股开户', '新手教程', 'QDII', '跨境ETF', 'bStocks', '2026']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

@@ -6,7 +6,7 @@ draft: false
 description: '美股代币与真实股票到底差在哪？本文从法律定性、投票权、分红处理、交易时段与破产隔离五大维度全面对比币安 bStocks 与传统美股，用对比表讲清哪些权益被保留、哪些缺失：谁无投票权、股息为何再投资并扣 30% 预扣税、7×24 vs T+1、SIPC 为何不保代币，帮你判断是否适合你的投资目标与风险承受力。'
 slug: 'us-stock-token-vs-traditional-stock-guide'
 tags: ['美股代币', '代币化证券', '美股', 'bStocks', '股东权益', '投资对比']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 9
 ---
 

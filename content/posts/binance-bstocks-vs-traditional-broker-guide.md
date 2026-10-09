@@ -6,7 +6,7 @@ draft: false
 description: '币安 bStocks 与传统美股券商怎么选？本文从开户门槛、交易时段与结算、起投与标的范围、费率结构、权益与保护五大维度逐项深度对比，先给按账户资格划分的结论表，再用先问资格、再数标的覆盖、最后看资产终点的三问决策表帮你选对路径，同时拆解免佣推广期、盘外点差与购汇额度等隐性成本，附常见误区与实操建议。'
 slug: 'binance-bstocks-vs-traditional-broker-guide'
 tags: ['美股代币', '代币化证券', '交易实操', 'bStocks', '券商', '美股', 'RWA']
-categories: ['美股教程']
+categories: ['美股代币']
 readingTime: 10
 ---
 

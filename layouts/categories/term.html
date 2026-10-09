@@ -1,0 +1,52 @@
+{{ define "main" }}
+{{ $term := .Data.Term }}
+{{ $hub := index (where hugo.Data.hubs "name" $term) 0 }}
+
+<div class="container">
+  <nav class="breadcrumb" aria-label="面包屑">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="sep">/</span>
+    <span class="current">{{ $term }}</span>
+  </nav>
+
+  <section class="hub-hero">
+    <h1>{{ $term }}</h1>
+    {{ with $hub }}
+      <p>{{ .description }}</p>
+      {{ with .learningPath }}
+      <div class="learning-path">
+        <div class="lp-title">新手学习路径</div>
+        <ol>
+          {{ range $i, $step := . }}
+          <li>
+            <a href="{{ $step.href }}">
+              <span class="num">{{ add $i 1 }}</span>
+              {{ $step.title }}
+            </a>
+          </li>
+          {{ end }}
+        </ol>
+      </div>
+      {{ end }}
+    {{ end }}
+  </section>
+
+  {{ if and $hub $hub.cta }}
+    {{ partial "register-cta.html" . }}
+  {{ end }}
+
+  <h2 class="section-title" style="margin-top: 28px;">全部文章（{{ len .Pages }}）</h2>
+  <div class="article-list">
+    {{ range .Pages.ByDate.Reverse }}
+      <article class="article-card">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div class="article-meta">
+          <span>{{ .Date.Format "2006-01-02" }}</span>
+          <span>阅读约 {{ add (mod (countrunes .Title) 3) 3 }} 分钟</span>
+        </div>
+        <p class="article-excerpt">{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}</p>
+      </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
