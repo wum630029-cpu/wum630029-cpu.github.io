@@ -13,7 +13,7 @@
         <a href="https://www.mitnpkwxvfr.com/zh-hans/join?channelId=ACE533225" class="btn btn-hero-outline btn-hero-blue" target="_blank" rel="noopener sponsored">欧易注册</a>
       </div>
       <div class="hero-stats">
-        <div class="stat"><span class="stat-num">{{ len site.RegularPages }}</span><span class="stat-label">篇深度教程</span></div>
+        <div class="stat"><span class="stat-num">{{ len (where site.RegularPages "Type" "posts") }}</span><span class="stat-label">篇深度教程</span></div>
         <div class="stat"><span class="stat-num">7</span><span class="stat-label">大学习栏目</span></div>
         <div class="stat"><span class="stat-num">100%</span><span class="stat-label">免费开放</span></div>
       </div>

@@ -731,6 +731,8 @@ main { flex: 1; padding: 40px 0; }
   .main-nav { gap: 0; }
   .main-nav a { padding: 6px 9px; font-size: 0.85rem; }
   .hero-inner { padding: 48px 0 72px; }
+  .hero-actions { display: grid; grid-template-columns: 1fr 1fr; }
+  .hero-actions .btn:first-child { grid-column: 1 / -1; }
   .article-card { padding: 22px; }
   .site-footer .container { flex-direction: column; text-align: center; }
   .qq-float { right: 14px; bottom: 16px; }
