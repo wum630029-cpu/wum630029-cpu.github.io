@@ -263,6 +263,7 @@ main { flex: 1; padding: 40px 0; }
   max-width: 620px;
 }
 .hero-actions { display: flex; gap: 12px; margin-top: 30px; flex-wrap: wrap; }
+.hero-actions .btn img { border-radius: 6px; }
 .hero-stats {
   display: flex; gap: 40px; flex-wrap: wrap;
   margin-top: 34px; padding-top: 24px;
