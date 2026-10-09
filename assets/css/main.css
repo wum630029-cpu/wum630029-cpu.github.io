@@ -126,6 +126,12 @@ main { flex: 1; padding: 40px 0; }
   box-shadow: 0 6px 16px rgba(232, 165, 15, 0.32);
 }
 .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 10px 22px rgba(232, 165, 15, 0.42); color: #fff; }
+.btn-blue {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  color: #fff;
+  box-shadow: 0 6px 16px rgba(37, 99, 235, 0.32);
+}
+.btn-blue:hover { transform: translateY(-2px); box-shadow: 0 10px 22px rgba(37, 99, 235, 0.42); color: #fff; }
 .btn-ghost {
   background: transparent;
   color: var(--brand);
