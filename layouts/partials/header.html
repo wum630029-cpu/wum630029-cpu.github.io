@@ -7,6 +7,7 @@
 
     <nav class="main-nav" aria-label="主导航">
       <a href="{{ "/" | relURL }}" class="{{ if .IsHome }}active{{ end }}">首页</a>
+      <a href="{{ "/tools/" | relURL }}" class="{{ if eq .Section "tools" }}active{{ end }}">工具</a>
       {{ range hugo.Data.hubs }}
         {{ $active := in $.Params.categories .name }}
         <a href="{{ printf "/categories/%s/" (.name | urlize) }}" class="{{ if $active }}active{{ end }}">{{ .name }}</a>
@@ -43,6 +44,7 @@
 
   <nav id="mobile-menu" class="mobile-menu" aria-label="移动导航">
     <a href="{{ "/" | relURL }}">首页</a>
+    <a href="{{ "/tools/" | relURL }}">工具</a>
     {{ range hugo.Data.hubs }}
       <a href="{{ printf "/categories/%s/" (.name | urlize) }}">{{ .name }}</a>
     {{ end }}

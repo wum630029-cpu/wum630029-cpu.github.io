@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="container" style="padding-top: 32px;">
+  <nav class="breadcrumb" aria-label="面包屑">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="sep">/</span>
+    <span class="current">工具</span>
+  </nav>
+
+  <header class="tools-header">
+    <h1>实用工具</h1>
+    <p>{{ or .Description .Site.Params.description }}</p>
+  </header>
+
+  <div class="tools-grid">
+    {{ range .Pages.ByWeight }}
+    <a href="{{ .RelPermalink }}" class="tool-card">
+      <div class="tool-icon" aria-hidden="true">{{ with .Params.icon }}{{ . }}{{ else }}🧮{{ end }}</div>
+      <div class="tool-card-body">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Description }}</p>
+        <span class="tool-cta">立即使用 →</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+
+  {{ with .Content }}
+  <div class="article-content" style="margin-top: 40px;">{{ . }}</div>
+  {{ end }}
+</div>
+{{ end }}

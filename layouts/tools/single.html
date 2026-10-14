@@ -1,0 +1,57 @@
+{{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>
+
+<article class="container">
+  <nav class="breadcrumb" aria-label="面包屑">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="sep">/</span>
+    <a href="{{ "/tools/" | relURL }}">工具</a>
+    <span class="sep">/</span>
+    <span class="current">{{ .Title }}</span>
+  </nav>
+
+  <header class="tools-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="tools-desc">{{ . }}</p>{{ end }}
+  </header>
+
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+
+  {{ partial "register-cta.html" . }}
+
+  {{ with .Params.faq }}
+  <section class="faq" aria-label="常见问题">
+    <h2>常见问题</h2>
+    {{ range . }}
+    <details class="faq-item">
+      <summary>{{ .q }}</summary>
+      <div class="faq-a">{{ .a | markdownify }}</div>
+    </details>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  <footer style="margin-top: 48px; padding-top: 28px; border-top: 1px solid var(--border);">
+    <p style="color: var(--faint); font-size: 0.9rem;">
+      本工具计算结果仅供参考，历史回测不代表未来收益。投资有风险，入市需谨慎。
+    </p>
+  </footer>
+</article>
+{{ end }}
