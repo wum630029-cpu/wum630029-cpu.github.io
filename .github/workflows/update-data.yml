@@ -1,0 +1,69 @@
+name: 工具数据月度更新
+
+on:
+  schedule:
+    # 每月 1 日 01:30 UTC，赶在 02:00 每日构建（hugo.yml）之前提交 BTC 数据
+    - cron: '30 1 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  # 1) BTC 月度价格：脚本拉 Binance 数据 → 改文件 → 提交（靠每日 02:00 构建自动部署）
+  update-btc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 更新 BTC 月度价格
+        run: python3 scripts/update_btc_price.py
+
+      - name: 提交并推送（如数据有变化）
+        run: |
+          if [ -n "$(git status --porcelain -- content/tools/bitcoin-dca-calculator.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add content/tools/bitcoin-dca-calculator.md
+            git commit -m "data: 更新 BTC 月度价格（自动，$(date -u +%Y-%m)）"
+            git push
+            echo "✅ 已提交 BTC 数据变更"
+          else
+            echo "ℹ️ BTC 数据无变化，跳过提交"
+          fi
+
+  # 2) 编辑数据（空投/Gas/解锁）：每月生成一个 GitHub Issue 清单，人工研究后更新
+  reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 生成本月数据更新提醒 Issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          MONTH="$(date -u +%Y-%m)"
+          TITLE="📅 工具数据月度更新提醒 ${MONTH}"
+
+          if gh issue list --state open --json title --jq '.[].title' | grep -qF "${TITLE}"; then
+            echo "ℹ️ 本月提醒 Issue 已存在，跳过"
+            exit 0
+          fi
+
+          cat > /tmp/body.md <<'BODY'
+          ## 本月待更新（数据为快照，需人工研究后更新）
+
+          - [ ] **空投查询** `content/tools/airdrop-checker.md` — 更新进行中/历史空投名单、截止时间、难度。数据源：币安公告、项目官方、RootData、airdrops.io
+          - [ ] **交互成本计算** `content/tools/gas-cost-calculator.md` — 复核各链 Gas 区间。数据源：CoinPaprika、社区 L2 实测
+          - [ ] **项目日历** `content/tools/crypto-calendar.md` — 更新代币解锁 + 空投节点。数据源：Tokenomist/WuBlockchain、RootData、币安公告
+
+          BTC 月度价格已由 `update-btc` job 自动更新（若本月有新增月份）。
+
+          > 更新完记得改各工具页 frontmatter 的 `lastmod`，以及正文里「数据更新于」的日期。
+          BODY
+
+          gh issue create --title "${TITLE}" --body-file /tmp/body.md
+          echo "✅ 已创建提醒 Issue: ${TITLE}"

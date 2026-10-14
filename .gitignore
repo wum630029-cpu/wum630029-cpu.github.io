@@ -5,3 +5,5 @@ resources/
 *.log
 node_modules/
 .secrets/
+__pycache__/
+*.pyc
