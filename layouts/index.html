@@ -54,6 +54,29 @@
   </div>
 </section>
 
+<!-- 实用工具 -->
+{{ $tools := where site.RegularPages "Section" "tools" }}
+{{ if $tools }}
+<section class="container" style="padding-top: 40px;" aria-labelledby="home-tools">
+  <div style="display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px;">
+    <h2 id="home-tools" class="section-title">实用工具</h2>
+    <a href="{{ "/tools/" | relURL }}" style="font-weight: 600; font-size: 0.9rem;">查看全部工具 →</a>
+  </div>
+  <p style="color: var(--muted); margin: -8px 0 20px;">在线即用、无需注册，算清每一笔投资。</p>
+  <div class="home-tools-grid">
+    {{ range $tools.ByWeight }}
+    <a href="{{ .RelPermalink }}" class="home-tool-card">
+      <span class="home-tool-icon" aria-hidden="true">{{ with .Params.icon }}{{ . }}{{ else }}🧮{{ end }}</span>
+      <span class="home-tool-body">
+        <span class="home-tool-name">{{ with .Params.name }}{{ . }}{{ else }}{{ .Title }}{{ end }}</span>
+        <span class="home-tool-summary">{{ with .Params.summary }}{{ . }}{{ else }}{{ .Description }}{{ end }}</span>
+      </span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
 <!-- 栏目分区 -->
 {{ range $i, $hub := hugo.Data.hubs }}
   {{ $hubArticles := where site.RegularPages "Params.categories" "intersect" (slice $hub.name) }}
