@@ -1,7 +1,7 @@
 ---
-title: '2026欧易OKX App怎么下载？App Store搜不到，苹果换区ID+安卓官方APK与山寨辨别避坑'
+title: '欧易 OKX App 怎么下载？苹果换区 ID + 安卓官网 APK 两个方法，附山寨辨别（2026）'
 date: 2026-06-26T00:00:00+08:00
-lastmod: 2026-10-11T00:00:00+08:00
+lastmod: 2026-10-15T00:00:00+08:00
 draft: false
 description: 'App Store 搜不到欧易 OKX？教你苹果换区海外 Apple ID 与安卓官网 APK 两个官方下载方法，讲清正版包名 com.okex.android、签名 OKX PTE. LTD.、开发者 OKX Inc. 三个验真硬标准，附买海外 ID 的 iCloud 锁机红线，避免下到山寨 App。'
 slug: 'okx-app-download-guide'
