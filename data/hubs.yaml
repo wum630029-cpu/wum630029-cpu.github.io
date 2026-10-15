@@ -26,7 +26,7 @@
   cta: true
   learningPath:
     - { title: 欧易注册开户, href: /okx-register-guide/ }
-    - { title: 欧易 App 下载, href: /okx-app-download-guide/ }
+    - { title: 欧易 App 下载, href: /okx-app-install-guide/ }
     - { title: 欧易入金充值, href: /okx-deposit-guide/ }
     - { title: 欧易出金提现, href: /okx-withdraw-guide/ }
 

@@ -147,7 +147,7 @@ readingTime: 7
 ---
 
 📌 **更多学习资源**  
-苹果下载只是入口，接下来看[币安注册教程](/binance-register-guide/)完成开户 KYC，安卓用户可看[币安 App 下载安装（安卓 APK 与 iOS 概览）](/binance-app-download-guide/)或[下载 + 首次入金全流程](/binance-app-download-deposit-guide/)；用欧易的话参考[欧易 OKX App 下载](/okx-app-download-guide/)。更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
+苹果下载只是入口，接下来看[币安注册教程](/binance-register-guide/)完成开户 KYC，安卓用户可看[币安 App 下载安装（安卓 APK 与 iOS 概览）](/binance-app-download-guide/)或[下载 + 首次入金全流程](/binance-app-download-deposit-guide/)；用欧易的话参考[欧易 OKX App 下载](/okx-app-install-guide/)。更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

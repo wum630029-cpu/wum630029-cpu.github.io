@@ -88,7 +88,7 @@ readingTime: 9
 - **安卓 Android**：国内用不了 Google Play 的话，**只从官网下载 APK**，别用第三方市场。
 - **核对开发者**：下载前看一眼 App 开发者是不是 Binance / OKX 官方（应用商店里能看到开发者名称），山寨的根本对不上号。
 
-官方下载入口：币安官方下载页、OKX 官方下载页（下方参考资料）。更细的下载步骤看这两篇：[币安 App 下载安装教程](/binance-app-download-guide/) 和 [欧易 OKX App 下载教程](/okx-app-download-guide/)；下载后入金操作看 [币安 App 下载入金完整流程](/binance-app-download-deposit-guide/)。
+官方下载入口：币安官方下载页、OKX 官方下载页（下方参考资料）。更细的下载步骤看这两篇：[币安 App 下载安装教程](/binance-app-download-guide/) 和 [欧易 OKX App 下载教程](/okx-app-install-guide/)；下载后入金操作看 [币安 App 下载入金完整流程](/binance-app-download-deposit-guide/)。
 
 ## 五、下好 App 之后，下一步怎么走
 

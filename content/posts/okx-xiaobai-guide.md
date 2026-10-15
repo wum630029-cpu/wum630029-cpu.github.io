@@ -86,7 +86,7 @@ KYC（实名认证）是充值、交易、提现的前提，没认证基本什�
 
 ## 五、下载 App，认准官方渠道
 
-欧意 App 功能最全，但**大陆区 App Store 搜不到，山寨仿冒 App 也很多**。下载、切换 Apple ID 地区、验证正版的方法见[欧易 OKX App 下载与安装教程](/okx-app-download-guide/)。记住一条铁律：**只从官网或官方指引的渠道下载，装完核对版本号和签名**。
+欧意 App 功能最全，但**大陆区 App Store 搜不到，山寨仿冒 App 也很多**。下载、切换 Apple ID 地区、验证正版的方法见[欧易 OKX App 下载与安装教程](/okx-app-install-guide/)。记住一条铁律：**只从官网或官方指引的渠道下载，装完核对版本号和签名**。
 
 ## 六、入金：用 C2C 买 USDT（新手最常用）
 
@@ -149,7 +149,7 @@ USDT 划到交易账户后，打开「交易」→「现货」，选 BTC/USDT：
 ## 📖 推荐阅读
 
 - [OKX 欧易注册教程：开户、KYC 与手续费返佣全指南](/okx-register-guide/)
-- [欧易 OKX App 下载与安装教程](/okx-app-download-guide/)
+- [欧易 OKX App 下载与安装教程](/okx-app-install-guide/)
 - [OKX C2C 买币指南：支付宝微信购买 USDT 与防冻卡技巧](/okx-c2c-guide/)
 - [OKX 欧易交易指南：现货、合约与跟单详解](/okx-trading-guide/)
 - [OKX 账户安全设置指南：2FA 双重验证与资产保护](/okx-security-guide/)

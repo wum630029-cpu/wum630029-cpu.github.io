@@ -52,7 +52,7 @@ readingTime: 10
 2. Android：去欧意官网下 APK
 3. 装完核对版本号和应用签名，确认是正版
 
-大陆区 App Store 搜不到，山寨 App 也多，完整避坑见[欧易 OKX App 下载与安装教程](/okx-app-download-guide/)。
+大陆区 App Store 搜不到，山寨 App 也多，完整避坑见[欧易 OKX App 下载与安装教程](/okx-app-install-guide/)。
 
 ## 第四步：C2C 入金买 USDT
 

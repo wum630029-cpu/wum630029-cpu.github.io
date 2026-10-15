@@ -104,7 +104,7 @@ readingTime: 8
 | 手机浏览器访问官网 | 临时查看行情、登录账户 | 直接输入 okx.com，与电脑版同一套系统 |
 | 官方 App | 长期使用、交易下单 | 需从官网或官方渠道下载，App Store 国区搜不到 |
 
-**重点提醒：** 手机上下载欧易 App，一定要走官网提供的下载入口，不要从第三方网站或网盘下载 APK，避免装到被植入木马的山寨包。App 的完整下载、iOS 切换海外 Apple ID、安卓 APK 验证等步骤，看这篇[欧易App下载与安装教程](/okx-app-download-guide/)。
+**重点提醒：** 手机上下载欧易 App，一定要走官网提供的下载入口，不要从第三方网站或网盘下载 APK，避免装到被植入木马的山寨包。App 的完整下载、iOS 切换海外 Apple ID、安卓 APK 验证等步骤，看这篇[欧易App下载与安装教程](/okx-app-install-guide/)。
 
 ---
 
@@ -223,7 +223,7 @@ readingTime: 8
 ---
 
 📌 **更多学习资源**
-还没注册账号？看 [欧易OKX怎么注册](/okx-register-guide/)；想下载 App，看 [欧易App下载与安装教程](/okx-app-download-guide/)；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
+还没注册账号？看 [欧易OKX怎么注册](/okx-register-guide/)；想下载 App，看 [欧易App下载与安装教程](/okx-app-install-guide/)；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
