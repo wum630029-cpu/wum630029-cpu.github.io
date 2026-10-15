@@ -47,8 +47,8 @@ readingTime: 8
 
 不管你走哪种入金方式，入金前先把这三件事做完，否则会卡在最后一步：
 
-1. **注册并填邀请码**：通过 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 进入官网注册，邀请码填 **60895497**，具体步骤见 [OKX 欧易注册教程](/okx-register-guide/)。
-2. **完成 KYC 实名认证**：C2C 交易、大额入金都必须先实名。完成 Lv.2 认证才能用 C2C 买卖币，详见 [注册教程的 KYC 部分](/okx-register-guide/)。
+1. **注册并填邀请码**：通过 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 进入官网注册，邀请码填 **60895497**，具体步骤见 [OKX 欧易注册教程](/okx-signup-guide/)。
+2. **完成 KYC 实名认证**：C2C 交易、大额入金都必须先实名。完成 Lv.2 认证才能用 C2C 买卖币，详见 [注册教程的 KYC 部分](/okx-signup-guide/)。
 3. **开好安全设置**：Google 2FA 双重验证、资金密码、反钓鱼码、提现白名单，入金前一次性配齐，具体见 [OKX 账户安全设置指南](/okx-security-guide/)。
 
 这三件事做完，入金才不会中途被「请先完成认证」打断。
@@ -241,7 +241,7 @@ A：两者入金逻辑几乎一样（都是 C2C/银行卡/链上三条路），�
 
 - [OKX C2C 买币指南与防冻卡技巧](/okx-c2c-guide/)
 - [OKX 欧易出金提现完全指南](/okx-withdraw-guide/)
-- [OKX 欧易注册教程与 KYC 认证](/okx-register-guide/)
+- [OKX 欧易注册教程与 KYC 认证](/okx-signup-guide/)
 - [OKX 账户安全设置指南](/okx-security-guide/)
 - [欧意 OKX 新手入门完整教程](/okx-xiaobai-guide/)
 - [法币出入金总纲：钱怎么进币圈又怎么退出来](/fiat-on-off-ramp-guide/)

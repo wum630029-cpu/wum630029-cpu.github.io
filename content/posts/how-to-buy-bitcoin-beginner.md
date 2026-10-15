@@ -91,7 +91,7 @@ readingTime: 9
 - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（注册时填邀请码 **BT123**）
 - 欧易：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
-更细的注册步骤，可看这两篇：[币安注册完整指南](/binance-register-guide/) 和 [OKX 欧易注册教程](/okx-register-guide/)。
+更细的注册步骤，可看这两篇：[币安注册完整指南](/binance-register-guide/) 和 [OKX 欧易注册教程](/okx-signup-guide/)。
 
 ## 四、第二步：注册 + 实名认证（KYC）
 

@@ -96,7 +96,7 @@ readingTime: 8
 2. **完成 KYC 实名认证**：上传证件 + 人脸识别，通过后才能充值交易。
 3. **买第一枚币**：用 C2C 买 USDT（支付宝/微信/银行卡）→ 在现货市场用 USDT 买入 BTC 或 ETH。
 
-> 完整的注册、认证与入金步骤，见 [2026 币安注册完整指南](/binance-register-guide/) 与 [OKX 欧易注册教程](/okx-register-guide/)。
+> 完整的注册、认证与入金步骤，见 [2026 币安注册完整指南](/binance-register-guide/) 与 [OKX 欧易注册教程](/okx-signup-guide/)。
 
 
 ## 七、风险与注意

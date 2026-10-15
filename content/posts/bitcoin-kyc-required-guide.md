@@ -129,7 +129,7 @@ readingTime: 9
 - 币安：[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）
 - 欧易：[欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**）
 
-注册 + 实名的具体步骤，看这两篇：[币安注册完整指南](/binance-register-guide/)、[OKX 欧易注册教程](/okx-register-guide/)。
+注册 + 实名的具体步骤，看这两篇：[币安注册完整指南](/binance-register-guide/)、[OKX 欧易注册教程](/okx-signup-guide/)。
 
 ## 常见问题
 
@@ -170,7 +170,7 @@ readingTime: 9
 - [什么是 KYC？为什么交易所都要你上传身份证](/what-is-kyc-verification-guide/)
 - [比特币怎么买？新手第一次买 BTC 全流程](/how-to-buy-bitcoin-beginner/)
 - [币安注册完整指南](/binance-register-guide/)
-- [OKX 欧易注册教程](/okx-register-guide/)
+- [OKX 欧易注册教程](/okx-signup-guide/)
 - [C2C 冻卡防坑指南](/c2c-freeze-card-guide/)
 - [比特币存储方式指南](/bitcoin-storage-guide/)
 

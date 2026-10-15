@@ -66,7 +66,7 @@ readingTime: 9
 
 ## 四、交易所与市场（8 个）
 
-- **CEX（中心化交易所）**：平台托管资产、帮你撮合交易的交易所，如币安、欧易，新手首选。→ [币安注册指南](/binance-register-guide/) / [OKX 注册指南](/okx-register-guide/)
+- **CEX（中心化交易所）**：平台托管资产、帮你撮合交易的交易所，如币安、欧易，新手首选。→ [币安注册指南](/binance-register-guide/) / [OKX 注册指南](/okx-signup-guide/)
 - **DEX（去中心化交易所）**：链上自动撮合、资产自托管的交易所，如 Uniswap。→ [DEX 使用指南](/dex-decentralized-exchange-guide/)
 - **KYC（实名认证）**：交易所要求的身份验证，是合规和保护你的第一道防线。
 - **C2C / P2P**：个人对个人买卖加密货币，用支付宝、微信、银行卡等法币交易。→ [币安 C2C 指南](/binance-c2c-guide/)

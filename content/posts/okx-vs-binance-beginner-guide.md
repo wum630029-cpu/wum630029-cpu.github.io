@@ -137,7 +137,7 @@ readingTime: 9
 - [四家主流交易所横向对比：币安、OKX、Bybit、Bitget](/crypto-exchange-comparison-guide/)
 - [欧易 OKX 新手入门完整教程](/okx-xiaobai-guide/)
 - [欧易 OKX 靠谱吗？正规性与安全性全解析](/okx-review-safe-legit-guide/)
-- [OKX 欧易注册教程：开户、KYC 与手续费返佣](/okx-register-guide/)
+- [OKX 欧易注册教程：开户、KYC 与手续费返佣](/okx-signup-guide/)
 - [币安注册完整指南](/binance-register-guide/)
 
 > 两家都用得上：

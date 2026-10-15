@@ -219,7 +219,7 @@ App 可以正常打开和使用，出入金、交易功能均正常。
 ---
 
 📌 **更多学习资源**
-想看更完整的注册流程？可看 [欧易OKX怎么注册](/okx-register-guide/)；官网入口、电脑版、手机版登录与进不去排查，看 [欧易官网入口正确地址全攻略](/okx-official-website-guide/)；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
+想看更完整的注册流程？可看 [欧易OKX怎么注册](/okx-signup-guide/)；官网入口、电脑版、手机版登录与进不去排查，看 [欧易官网入口正确地址全攻略](/okx-official-website-guide/)；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

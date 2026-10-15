@@ -91,7 +91,7 @@ readingTime: 8
 
 > 说明：欧易的电脑端就是网页版，通过浏览器访问即可，不需要单独安装桌面客户端。手机端才需要用 App，见下一节。
 
-> 相关阅读：还没注册账号？先看这篇[欧易OKX注册教程](/okx-register-guide/)，从开户到 KYC 认证一次讲清。
+> 相关阅读：还没注册账号？先看这篇[欧易OKX注册教程](/okx-signup-guide/)，从开户到 KYC 认证一次讲清。
 
 ---
 
@@ -223,7 +223,7 @@ readingTime: 8
 ---
 
 📌 **更多学习资源**
-还没注册账号？看 [欧易OKX怎么注册](/okx-register-guide/)；想下载 App，看 [欧易App下载与安装教程](/okx-app-install-guide/)；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
+还没注册账号？看 [欧易OKX怎么注册](/okx-signup-guide/)；想下载 App，看 [欧易App下载与安装教程](/okx-app-install-guide/)；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

@@ -25,7 +25,7 @@ readingTime: 9
 - 币安与欧易邀请码机制对比和注册入口
 - 常见误区与高频问答
 
-💡 **学习前提**：还没注册欧易的，先看[OKX 注册教程](/okx-register-guide/)了解开户与 KYC 全流程；本文是系列二第 15 篇，注册完成后想买第一笔币的，推荐接着看[OKX C2C 买币指南](/okx-c2c-guide/)。
+💡 **学习前提**：还没注册欧易的，先看[OKX 注册教程](/okx-signup-guide/)了解开户与 KYC 全流程；本文是系列二第 15 篇，注册完成后想买第一笔币的，推荐接着看[OKX C2C 买币指南](/okx-c2c-guide/)。
 
 🟧 **注册入口**：[欧意注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)，邀请码 **60895497**。
 
@@ -185,7 +185,7 @@ OKX 的邀请返佣是一套「先分给邀请人、再由邀请人分给你」�
 
 ## 推荐阅读
 
-- [OKX 注册教程：开户、KYC 与手续费返佣全指南](/okx-register-guide/)
+- [OKX 注册教程：开户、KYC 与手续费返佣全指南](/okx-signup-guide/)
 - [OKX 手续费与 VIP 等级详解：OKB 抵扣立省 40%](/okx-fee-rebate-guide/)
 - [币安邀请码 2026 实测：哪个码真的能拿到 20% 返佣](/binance-invite-code-20-percent-rebate-guide/)
 - [币安注册后还能加邀请码吗：老用户 90 天补救全攻略](/binance-invite-code-backfill-guide/)

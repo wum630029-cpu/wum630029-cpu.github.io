@@ -23,7 +23,7 @@ readingTime: 8
 - 新手做 KYC 的实操要点与「代认证」防骗避坑
 - 新手最容易踩的实名认证误区
 
-> 💡 **学习前提**：本文是系列三（加密货币新手入门）第 19 篇。建议先读 [什么是加密货币](/what-is-cryptocurrency/) 建立基础认知；读完本文，可直接进入 [币安注册完整指南](/binance-register-guide/) 或 [OKX 欧易注册教程](/okx-register-guide/) 实操开户。
+> 💡 **学习前提**：本文是系列三（加密货币新手入门）第 19 篇。建议先读 [什么是加密货币](/what-is-cryptocurrency/) 建立基础认知；读完本文，可直接进入 [币安注册完整指南](/binance-register-guide/) 或 [OKX 欧易注册教程](/okx-signup-guide/) 实操开户。
 
 > 🔵 **本文涉及币安与欧易（OKX）两大交易所。** 若你还没有账号，可[注册币安](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）或[注册欧易 OKX](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225)（邀请码 **60895497**），享手续费返佣。
 
@@ -147,7 +147,7 @@ KYC 核心就查三件事：
 ## 📖 推荐阅读
 
 - [币安注册完整指南：Binance 开户、KYC 实名认证与入金教学](/binance-register-guide/)
-- [OKX 欧易注册教程：2026 最新开户、KYC 与手续费返佣全指南](/okx-register-guide/)
+- [OKX 欧易注册教程：2026 最新开户、KYC 与手续费返佣全指南](/okx-signup-guide/)
 - [法币出入金总纲：钱怎么进入、又怎么安全退出](/fiat-on-off-ramp-guide/)
 - [加密货币钱包选择指南：冷钱包 vs 热钱包 vs 交易所](/cryptocurrency-wallet-guide/)
 - [加密货币骗局防范指南：识别常见套路与资金安全](/crypto-scam-prevention-guide/)

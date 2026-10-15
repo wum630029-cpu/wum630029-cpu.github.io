@@ -21,7 +21,7 @@ readingTime: 9
 - 其他值得知道的交易所（简述）
 - 一张选所决策框架 + 避坑清单
 
-💡 **学习前提**：本文是系列十三（精选交易所深度评测）的第 6 篇，做「横向对比」。注册与实操细节，看对应的 [币安注册指南](/binance-register-guide/)、[欧易 OKX 注册教程](/okx-register-guide/)、[Bybit 注册与操作指南](/bybit-register-guide/)。
+💡 **学习前提**：本文是系列十三（精选交易所深度评测）的第 6 篇，做「横向对比」。注册与实操细节，看对应的 [币安注册指南](/binance-register-guide/)、[欧易 OKX 注册教程](/okx-signup-guide/)、[Bybit 注册与操作指南](/bybit-register-guide/)。
 
 ---
 
@@ -156,7 +156,7 @@ A：选对链（TRC20 通常比 ERC20 便宜）、大额可分批、关注平台
 ## 📖 推荐阅读
 
 - [币安注册完整指南：开户、KYC 与入金教学](/binance-register-guide/)
-- [OKX 欧易注册教程：开户、KYC 与手续费返佣全指南](/okx-register-guide/)
+- [OKX 欧易注册教程：开户、KYC 与手续费返佣全指南](/okx-signup-guide/)
 - [Bybit 交易所注册与操作指南：衍生品交易与 Launchpad](/bybit-register-guide/)
 - [什么是合约交易？杠杆、做多做空与爆仓机制](/what-is-futures-contract-guide/)
 - [合约交易风险控制：止盈止损与仓位管理技巧](/futures-risk-management-guide/)

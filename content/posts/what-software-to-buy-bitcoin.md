@@ -101,7 +101,7 @@ readingTime: 9
 
 每一步的细节：
 
-- 注册：[币安注册完整指南](/binance-register-guide/) / [OKX 欧易注册教程](/okx-register-guide/)
+- 注册：[币安注册完整指南](/binance-register-guide/) / [OKX 欧易注册教程](/okx-signup-guide/)
 - 实名为什么要做：[什么是 KYC？为什么交易所都要实名认证](/what-is-kyc-verification-guide/)
 - 买币全流程：[比特币怎么买？新手第一次买 BTC 全流程](/how-to-buy-bitcoin-beginner/)
 
