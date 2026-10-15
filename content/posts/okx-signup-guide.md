@@ -5,7 +5,6 @@ lastmod: 2026-10-16T00:00:00+08:00
 draft: false
 description: '欧易 OKX 注册教程：从下载 App 讲起，一次讲清填邀请码 60895497 享手续费返佣、KYC 实名认证 L1/L2 材料要求与审核时间、2FA 与反钓鱼码安全设置，再到首次 C2C 入金买币，每一步都给操作路径，附返佣到账时间与首充 USDT 渠道建议，零基础照着做也能 10 分钟独立完成开户。'
 slug: 'okx-signup-guide'
-aliases: ['/okx-signup-tutorial/']
 tags: ['OKX', '欧易', '注册教程', 'KYC', '邀请码', '加密货币', '新手教程']
 categories: ['欧易 OKX']
 readingTime: 4
