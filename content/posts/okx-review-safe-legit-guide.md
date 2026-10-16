@@ -23,7 +23,7 @@ readingTime: 9
 - 决策框架：什么人适合、什么人不适合用 OKX
 - 降低风险：6 个具体动作
 
-💡 **学习前提**：本文解决的是「要不要相信 OKX」这个信任问题。如果你已经决定注册，直接看 [OKX 欧易注册教程](/okx-signup-guide/) 或 [欧意 OKX 新手入门完整教程](/okx-xiaobai-guide/)；还没账号的，可以通过 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 注册（邀请码 **60895497**）。
+💡 **学习前提**：本文解决的是「要不要相信 OKX」这个信任问题。如果你已经决定注册，直接看 [OKX 欧易注册教程](/okx-signup-guide/) 或 [欧意 OKX 新手入门完整教程](/okx-novice-guide/)；还没账号的，可以通过 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE533225) 注册（邀请码 **60895497**）。
 
 ---
 
@@ -151,7 +151,7 @@ A：通过 [欧易注册](https://www.jongaccfett.com/zh-hans/join?channelId=ACE
 ## 📖 推荐阅读
 
 - [OKX 欧易注册教程：2026 最新开户 KYC 与手续费返佣全指南](/okx-signup-guide/)
-- [欧意 OKX 新手入门完整教程：从注册 KYC 到入金买币交易全流程](/okx-xiaobai-guide/)
+- [欧意 OKX 新手入门完整教程：从注册 KYC 到入金买币交易全流程](/okx-novice-guide/)
 - [OKX 账户安全设置指南：2FA 双重验证与资产保护](/okx-security-guide/)
 - [OKX 欧意邀请码怎么填才有效？2026 最新返佣比例详解](/okx-invite-code-guide/)
 - [OKX 手续费与 VIP 等级详解：OKB 抵扣与邀请返佣攻略](/okx-fee-rebate-guide/)
