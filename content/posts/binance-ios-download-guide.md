@@ -1,7 +1,7 @@
 ---
-title: '2026币安苹果怎么下载？App Store搜不到币安，海外Apple ID注册换区保姆级教程'
+title: '币安苹果怎么下载？App Store搜不到币安，海外Apple ID注册换区保姆级教程'
 date: 2026-10-11T00:00:00+08:00
-lastmod: 2026-10-11T00:00:00+08:00
+lastmod: 2026-10-17T00:00:00+08:00
 draft: false
 description: '大陆 App Store 搜不到币安？本文手把手带你注册海外 Apple ID（付款方式选 None、地址怎么填）、切区下载 Binance 正版核对开发者，讲清美区 Apple ID 不等于美国币安账号、切回后更新要重登海外 ID 两个必踩的坑，附 TestFlight 备选与山寨 App 识别，先看这篇。'
 slug: 'binance-ios-download-guide'
