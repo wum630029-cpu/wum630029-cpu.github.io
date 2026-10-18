@@ -10,6 +10,7 @@
     <ul>
       <li><strong>注册自动享 20% 手续费返佣</strong></li>
       <li>邀请码 <strong>BT123</strong> · 点下方按钮自动填写</li>
+      <li style="color: #dc2626;">APK下载地址：vlink.cc/cipher <button type="button" class="apk-copy-btn" data-apk="vlink.cc/cipher" style="color: #dc2626; border: 1px solid #dc2626; background: transparent; font-size: 0.78rem; padding: 0 8px; border-radius: 6px; cursor: pointer; line-height: 1.5;">复制</button><span class="apk-copied-tip" role="status" style="color: var(--success); font-size: 0.78rem; margin-left: 6px; display: none;">已复制 ✓</span></li>
     </ul>
     <p style="font-size: 0.82rem; color: var(--muted); margin: 0; line-height: 1.6;">⚠️ 注册后需完成身份认证（KYC）才能交易与提币。<br>🔗 说明：binance.com 在大陆部分地区打不开，此处为币安官方镜像入口，跳转后仍是币安官网，请放心注册。<br>🔄 注册页偶有打不开：刷新页面或重新点击一次即可，无需担心。</p>
     <a href="https://www.bsmkweb.cc/register?ref=BT123" class="btn btn-primary" target="_blank" rel="noopener sponsored" data-cta="binance" data-cta-position="article" style="margin-top: auto;">立即注册</a>
@@ -31,3 +32,42 @@
     <a href="https://www.bsmkweb.cc/register?ref=BINANBT" class="btn btn-blue" target="_blank" rel="noopener sponsored" data-cta="okx" data-cta-position="article" style="margin-top: auto;">立即注册</a>
   </aside>
 </div>
+
+<script>
+(function() {
+  var btn = document.querySelector('.apk-copy-btn');
+  if (!btn) return;
+  var tip = document.querySelector('.apk-copied-tip');
+  var timer = null;
+
+  function showTip() {
+    if (!tip) return;
+    tip.style.display = 'inline';
+    clearTimeout(timer);
+    timer = setTimeout(function() { tip.style.display = 'none'; }, 2000);
+  }
+
+  function fallbackCopy(text) {
+    var ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); showTip(); } catch (err) {}
+    document.body.removeChild(ta);
+  }
+
+  function doCopy(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(text).then(showTip, function() { fallbackCopy(text); });
+    } else {
+      fallbackCopy(text);
+    }
+  }
+
+  btn.addEventListener('click', function() {
+    doCopy(btn.getAttribute('data-apk'));
+  });
+})();
+</script>
