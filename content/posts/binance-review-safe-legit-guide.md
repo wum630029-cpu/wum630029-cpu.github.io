@@ -165,7 +165,7 @@ A：通过 [币安注册](https://www.bsmkweb.cc/register?ref=BT123) 进入官�
 
 ### 📌 更多学习资源
 
-想看更多币安教程、评测和最新资讯？欢迎访问 [CoinVado - 新手进入链上资产世界的第一站](https://coinvado.com/zh/)，这里有更系统的教程、视频和最新资讯，帮助你在币圈少走弯路。
+想看更完整的内容？可看 CoinVado 社区的[币安安全吗：SAFU、储备证明与跑路传闻逐项核查](https://coinvado.com/posts/binance-safety-2026-review/)，与本篇互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

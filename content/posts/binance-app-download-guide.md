@@ -169,7 +169,7 @@ readingTime: 4
 ---
 
 📌 **更多学习资源**  
-想看更完整的内容？可看 CoinVado 社区的[币安 App 下载与安装](https://coinvado.com/posts/binance-app-download-guide-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
+想看更完整的内容？可看 CoinVado 社区的[币安 App 下载与安装](https://coinvado.com/posts/binance-app-download-guide-2026/)和[币安 Windows 电脑版下载](https://coinvado.com/posts/binance-windows-desktop-download-2026/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

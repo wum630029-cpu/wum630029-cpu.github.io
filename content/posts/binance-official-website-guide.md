@@ -227,7 +227,7 @@ readingTime: 8
 ---
 
 📌 **更多学习资源**
-还没注册账号？看 [币安怎么注册](/binance-register-guide/)；想下载 App，看 [币安App下载与安装教程](/binance-app-download-guide/)；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
+还没注册账号？看 [币安怎么注册](/binance-register-guide/)；想下载 App，看 [币安App下载与安装教程](/binance-app-download-guide/)；想在电脑上交易，可看 CoinVado 的[币安 Windows 电脑版下载教程](https://coinvado.com/posts/binance-windows-desktop-download-2026/)；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 

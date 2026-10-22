@@ -358,7 +358,7 @@ categories: ['资产安全']
 ---
 
 📌 **更多学习资源**
-想看更完整的内容？可看 CoinVado 社区的[币安账户安全](https://coinvado.com/posts/binance-comprehensive-review-2026-fees-safety/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
+想看更完整的内容？可看 CoinVado 社区的[币安账户安全](https://coinvado.com/posts/binance-comprehensive-review-2026-fees-safety/)和[币安安全吗：逐项核查](https://coinvado.com/posts/binance-safety-2026-review/)，与本篇图文互为补充；更多教程与最新资讯，欢迎访问 [CoinVado](https://coinvado.com/zh/)。
 
 ---
 
