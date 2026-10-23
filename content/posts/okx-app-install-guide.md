@@ -5,6 +5,7 @@ lastmod: 2026-10-17T00:00:00+08:00
 draft: false
 description: 'App Store 搜不到欧易 OKX？教你苹果换区海外 Apple ID 与安卓官网 APK 两个官方下载方法，讲清正版包名 com.okex.android、签名 OKX PTE. LTD.、开发者 OKX Inc. 三个验真硬标准，附买海外 ID 的 iCloud 锁机红线，避免下到山寨 App。'
 slug: 'okx-app-install-guide'
+aliases: ['/okx-app-download-guide/', '/okx-android-download-guide/', '/okx-ios-download-guide/', '/okx-official-download-guide/', '/okx-pc-download-guide/']
 tags: ['OKX', '欧易', '欧易下载', 'App下载', '安卓APK', '苹果iOS', '加密货币']
 categories: ['欧易 OKX']
 readingTime: 5
@@ -124,6 +125,14 @@ readingTime: 5
 | 助记词 | 正版 App 从不主动索要你的私钥/助记词，索要即山寨 |
 
 ---
+
+## 电脑版怎么下载：网页版 + 桌面客户端
+
+电脑端最省事也最安全的是**网页版**：在浏览器地址栏手动输入 **www.okx.com**（中文界面 www.okx.com/zh-hans），注册时填邀请码 **60895497**。网页版不用下载任何东西，天然避开「下到假安装包」的风险，新手优先走这条路。
+
+需要装客户端的话，也只从官网下载页 **www.okx.com/download** 获取：Windows 选 **Windows 10 及以上（64 位）**、Mac 选 **macOS 11 及以上**，安装包是 .exe / .dmg。**别从第三方软件站、网盘下「OKX_Setup.exe」「OKX.dmg」**——这些名字的安装包极可能被换成植入木马的版本，安装前核对签名主体是不是 OKX 官方。
+
+> 备用下载渠道：官网下载页打不开时，发一封邮件到 **download@okx.com**（标题写「下载欧易」），系统自动回复带官方下载链接。注意官方**不会主动**给你发邮件——收到「OKX 官方」主动发来、带下载链接的邮件反而要警惕是钓鱼。
 
 ## 四、下载后注册与配置
 

@@ -5,6 +5,7 @@ lastmod: 2026-10-17T00:00:00+08:00
 draft: false
 description: '欧意 OKX 小白零基础入门保姆级教程：先搞懂 USDT、现货与合约、资金账户和交易账户的区别，再按注册、填邀请码、KYC、下载 App、C2C 买 USDT、现货交易、安全设置一步步操作，附返佣邀请码 60895497 填写方法和避坑清单，避免充值转错链、账户被盗等新手高频错误，帮你独立完成第一次买币。'
 slug: 'okx-novice-guide'
+aliases: ['/okx-beginner-guide/', '/okx-xiaobai-guide/', '/okx-complete-guide/', '/okx-full-flow-guide/']
 tags: ['OKX', '欧意', '欧易', '新手教程', '入门', '现货交易', '加密货币', '避坑']
 categories: ['欧易 OKX']
 readingTime: 9
