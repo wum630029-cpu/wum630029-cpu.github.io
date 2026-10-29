@@ -1,0 +1,17 @@
+name: IndexNow 删除通知
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 提交已删除的 URL
+        run: python3 scripts/indexnow_removed.py

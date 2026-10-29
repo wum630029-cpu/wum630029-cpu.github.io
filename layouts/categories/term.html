@@ -14,10 +14,15 @@
     {{ with $hub }}
       <p>{{ .description }}</p>
       {{ with .learningPath }}
+      {{ $lp := slice }}
+      {{ range . }}
+        {{ if where site.RegularPages "RelPermalink" .href }}{{ $lp = $lp | append . }}{{ end }}
+      {{ end }}
+      {{ if $lp }}
       <div class="learning-path">
         <div class="lp-title">新手学习路径</div>
         <ol>
-          {{ range $i, $step := . }}
+          {{ range $i, $step := $lp }}
           <li>
             <a href="{{ $step.href }}">
               <span class="num">{{ add $i 1 }}</span>
@@ -27,6 +32,7 @@
           {{ end }}
         </ol>
       </div>
+      {{ end }}
       {{ end }}
     {{ end }}
   </section>

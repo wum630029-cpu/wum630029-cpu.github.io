@@ -20,16 +20,6 @@
     - { title: 币安入金充值, href: /binance-deposit-guide/ }
     - { title: 币安提现出金, href: /binance-withdraw-guide/ }
 
-- key: okx
-  name: 欧易 OKX
-  description: 欧易 OKX 注册开户、KYC 认证、App 下载、C2C 入金买币、出金提现与安全设置全流程教程，邀请码 60895497 享手续费返佣。
-  cta: true
-  learningPath:
-    - { title: 欧易注册开户, href: /okx-signup-guide/ }
-    - { title: 欧易 App 下载, href: /okx-app-install-guide/ }
-    - { title: 欧易入金充值, href: /okx-deposit-guide/ }
-    - { title: 欧易出金提现, href: /okx-withdraw-guide/ }
-
 - key: trading
   name: 交易策略
   description: 技术分析、K线形态、均线、仓位管理、止盈止损、交易纪律等实战策略，从入门到精通，帮助新手建立自己的交易系统。

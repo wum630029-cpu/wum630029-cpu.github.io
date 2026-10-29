@@ -1,7 +1,7 @@
 ---
 title: '空投查询工具：查进行中空投的参与条件、截止时间与难度'
 date: 2026-10-14T00:00:00+08:00
-lastmod: 2026-10-14T00:00:00+08:00
+lastmod: 2026-10-29T00:00:00+08:00
 draft: false
 description: '空投查询工具，汇总进行中与历史主流空投的参与条件、截止时间、难度与预计价值，支持按状态和类型筛选、关键词搜索，快速判断还能领哪些空投、自己有没有漏领。数据整理自币安公告与项目官方等公开渠道，参与前务必到官方认领页核实，谨防钓鱼链接与假代币，免费在线使用、无需注册，先查再领、别为无价值的空投白花 Gas。'
 slug: 'airdrop-checker'
@@ -55,8 +55,8 @@ faq:
       link: 'my.soniclabs.com/airdrop' },
     { name: 'Pharos (PROS) 领取', chain: 'Pharos', status: '进行中', type: '交互', diff: '低',
       deadline: '2026-10-25', value: '多组合格条件',
-      desc: '测试网参与者、Stake Before the Stake 贡献者、Discord 角色与 OKX 钱包活动用户可领。',
-      points: ['测试网参与 / 质押贡献 / Discord 角色', 'OKX 钱包活动用户'],
+      desc: '测试网参与者、Stake Before the Stake 贡献者、Discord 角色与钱包活动用户可领。',
+      points: ['测试网参与 / 质押贡献 / Discord 角色', '钱包活动用户'],
       link: 'claim.pharos.xyz' },
     { name: 'Pheasant Network (PNT)', chain: 'Pheasant', status: '进行中', type: '交互', diff: '低',
       deadline: '10-06 起 21 天', value: '按快照活跃度',
@@ -220,7 +220,6 @@ faq:
 
 上表里「币安 USD1 空投」这类属于**交易所持币空投**，只需要持有稳定币就能瓜分，不需要链上折腾，是新手门槛最低的一类。但前提是得先有交易所账户并完成 KYC：
 
-- [币安注册](/binance-register-guide/)——邀请码 BT123，注册后即可参与 USD1 等持币空投
-- [欧易注册](/okx-signup-guide/)——邀请码 60895497，也有钱包任务与空投活动
+- 币安账户——注册并完成 KYC 后即可参与 USD1 等持币空投（邀请码 BT123）
 
-链上的「任务型/交互型」空投，则大多要一个 Web3 钱包去完成交易、签到、跨链，相关玩法见[如何从币安走向 DeFi](/binance-to-defi-guide/)。
+链上的「任务型/交互型」空投，则大多要一个 Web3 钱包去完成交易、签到、跨链，参与前先用[链上交互成本计算器](/tools/gas-cost-calculator/)算清 Gas 成本。

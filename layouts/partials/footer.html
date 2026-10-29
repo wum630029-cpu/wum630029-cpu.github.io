@@ -3,7 +3,7 @@
     <p>© {{ now.Year }} {{ .Site.Title }}. 内容仅供学习参考，不构成投资建议。</p>
     <div class="footer-links">
       <a href="{{ "/" | relURL }}">首页</a>
-      <a href="{{ "/posts/" | relURL }}">文章</a>
+      {{ if where site.RegularPages "Type" "posts" }}<a href="{{ "/posts/" | relURL }}">文章</a>{{ end }}
       <a href="{{ "/tools/" | relURL }}">工具</a>
       <a href="{{ "/resources/" | relURL }}">资源</a>
       <a href="{{ "/about/" | relURL }}">关于</a>

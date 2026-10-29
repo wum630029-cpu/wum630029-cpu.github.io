@@ -1,7 +1,7 @@
 ---
 title: '合约爆仓价计算器：输入杠杆与仓位算强平价，提前知道爆仓位置'
 date: 2026-10-14T00:00:00+08:00
-lastmod: 2026-10-14T00:00:00+08:00
+lastmod: 2026-10-29T00:00:00+08:00
 draft: false
 description: '合约爆仓价计算器，输入方向、杠杆倍数、开仓均价、仓位数量与维持保证金率，自动算出强平价格、距强平价的距离、初始保证金与爆仓时亏损，帮你提前知道仓位会在什么价位被强平，避免杠杆过重被提前爆仓。采用逐仓模式标准公式计算，适用于BTC、ETH等USDT本位永续合约，本地计算、免费在线使用、无需注册，帮助新手做好合约风控。'
 slug: 'liquidation-price-calculator'
@@ -170,6 +170,6 @@ faq:
 
 ## 相关阅读
 
-- [合约止盈止损设置实战](/futures-risk-management-guide/)
 - [仓位计算器：按风险比例反推该开多少仓](/tools/position-size-calculator/)
-- [资金管理：仓位与风险控制](/capital-management-guide/)
+- [链上交互成本计算器](/tools/gas-cost-calculator/)
+- [全部在线工具](/tools/)

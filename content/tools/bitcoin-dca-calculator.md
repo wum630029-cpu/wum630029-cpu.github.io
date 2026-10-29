@@ -1,7 +1,7 @@
 ---
 title: '比特币定投计算器：回测真实历史价格，算清每月定投收益与一次性买入对比'
 date: 2026-10-14T00:00:00+08:00
-lastmod: 2026-10-14T00:00:00+08:00
+lastmod: 2026-10-29T00:00:00+08:00
 draft: false
 description: '比特币定投计算器，用2017年至今真实历史月度价格回测每月定投收益。输入定投金额、起止时间与手续费率，自动算出总投入、累计买入的比特币数量、当前市值、总收益率与平均成本价，并和一次性买入做对比，直观看到定投摊平成本的效果。数据取自交易所公开行情，全程本地计算，帮助新手判断定投是否适合自己，免费在线使用，无需注册。'
 slug: 'bitcoin-dca-calculator'
@@ -359,6 +359,6 @@ faq:
 
 ## 相关阅读
 
-- [DCA 定投策略全攻略：用币安实现加密货币自动定投](/binance-dca-guide/)
-- [币安定投进阶玩法](/binance-dca-advanced-guide/)
-- [仓位计算器实战：每笔该下多少钱](/position-sizing-calculator-guide/)
+- [仓位计算器：按风险比例反推该下多少钱](/tools/position-size-calculator/)
+- [合约爆仓价计算器](/tools/liquidation-price-calculator/)
+- [全部在线工具](/tools/)

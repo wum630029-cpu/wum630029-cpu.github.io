@@ -1,7 +1,7 @@
 ---
 title: '加密货币项目日历：近期代币解锁与空投关键节点'
 date: 2026-10-14T00:00:00+08:00
-lastmod: 2026-10-14T00:00:00+08:00
+lastmod: 2026-10-29T00:00:00+08:00
 draft: false
 description: '加密货币项目日历，汇总近期主流代币解锁时间表与空投关键节点。代币解锁帮你提前避雷供应冲击，空投节点帮你盯紧截止时间不漏领。数据整理自 Tokenomist、RootData 与项目官方公告，按金额与时间排序，本地展示、免费在线查询、无需注册，仅供参考、不构成投资建议，帮助用户提前避雷、守住利润、少踩坑。'
 slug: 'crypto-calendar'
@@ -76,7 +76,7 @@ faq:
     { name: 'Pheasant (PNT) 领取', date: '10-06 起 21 天', status: '进行中', note: '按 09-08 快照活跃度领取' },
     { name: 'Sonic (S) 领取截止', date: '10-15', status: '截止', note: '截止后未领 3269 万 S 销毁' },
     { name: 'Meteora LP 激励 S2', date: '10-21', status: '截止', note: '领取窗口关闭' },
-    { name: 'Pharos (PROS) 领取截止', date: '10-25', status: '截止', note: '测试网 / 质押 / OKX 钱包用户' },
+    { name: 'Pharos (PROS) 领取截止', date: '10-25', status: '截止', note: '测试网 / 质押 / 钱包用户' },
     { name: 'Grass 第二阶段', date: '至 2027-01-22', status: '进行中', note: '带宽分享者发 USDC 奖励' }
   ];
 
@@ -162,8 +162,8 @@ faq:
 空投领取几乎都有截止时间，过了就作废甚至销毁：
 
 - **Sonic**：10-15 截止，未领的 3269 万 S 将被销毁。
-- **Pharos**：10-25 截止，测试网/质押/OKX 钱包用户要抓紧。
-- **币安 USD1**：10-30 结束，持币即可参与，[币安注册](/binance-register-guide/)后（BT123）在 App 内完成。
+- **Pharos**：10-25 截止，测试网/质押/钱包用户要抓紧。
+- **币安 USD1**：10-30 结束，持币即可参与，在币安 App 内即可完成。
 
 要盯更多空投的参与条件，用[空投查询工具](/tools/airdrop-checker/)配合日历，先查再领。
 
@@ -171,4 +171,5 @@ faq:
 
 - [空投查询工具：查进行中空投](/tools/airdrop-checker/)
 - [链上交互成本计算器](/tools/gas-cost-calculator/)
-- [稳定币脱锚风险与应对](/stablecoin-depeg-risk-guide/)
+- [合约爆仓价计算器](/tools/liquidation-price-calculator/)
+- [全部在线工具](/tools/)

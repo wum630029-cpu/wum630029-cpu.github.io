@@ -11,11 +11,16 @@
     <div class="article-content" style="margin-top: 12px;">{{ . }}</div>
   {{ end }}
 
-  {{ partial "search.html" . }}
+  {{ if .Pages }}
+    {{ partial "search.html" . }}
+  {{ end }}
 
   <div class="article-list" style="margin-top: 32px;">
     {{ range .Pages.ByDate.Reverse }}
       {{ partial "article-card.html" . }}
+    {{ end }}
+    {{ if not .Pages }}
+      <p style="color: var(--muted);">该栏目暂无内容。</p>
     {{ end }}
   </div>
 </div>

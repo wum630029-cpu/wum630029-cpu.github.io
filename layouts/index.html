@@ -1,4 +1,15 @@
 {{ define "main" }}
+{{- $posts := where site.RegularPages "Type" "posts" -}}
+{{- $tools := where site.RegularPages "Section" "tools" -}}
+{{- /* 只保留实际有文章的栏目，避免空栏目链接 404 */ -}}
+{{- $hubs := slice -}}
+{{- range hugo.Data.hubs -}}
+  {{- $hub := . -}}
+  {{- if where $posts "Params.categories" "intersect" (slice $hub.name) -}}
+    {{- $hubs = $hubs | append $hub -}}
+  {{- end -}}
+{{- end -}}
+
 <!-- Hero -->
 <section class="hero-deep">
   <div class="hero-glow" aria-hidden="true"></div>
@@ -8,13 +19,18 @@
       <h1>{{ .Site.Title }}<br><span class="hl">币圈新手的入门灯塔</span></h1>
       <p class="hero-sub">{{ .Site.Params.description }}</p>
       <div class="hero-actions">
-        <a href="{{ "/categories/新手入门/" | relURL }}" class="btn btn-hero-outline">🚀 开始学习</a>
+        {{ with $hubs }}
+        <a href="{{ printf "/categories/%s/" ((index . 0).name | urlize) | relURL }}" class="btn btn-hero-outline">🚀 开始学习</a>
+        {{ end }}
         <a href="https://www.bsmkweb.cc/register?ref=BT123" class="btn btn-hero-outline btn-hero-yellow" target="_blank" rel="noopener sponsored"><img src="/binance.png" alt="" width="20" height="20">币安注册</a>
-        <a href="https://www.mitnpkwxvfr.net/zh-hans/join?channelId=ACE533225" class="btn btn-hero-outline btn-hero-blue" target="_blank" rel="noopener sponsored"><img src="/okx.png" alt="" width="20" height="20">欧易注册</a>
       </div>
       <div class="hero-stats">
-        <div class="stat"><span class="stat-num">{{ len (where site.RegularPages "Type" "posts") }}</span><span class="stat-label">篇深度教程</span></div>
-        <div class="stat"><span class="stat-num">7</span><span class="stat-label">大学习栏目</span></div>
+        {{ if $posts }}
+        <div class="stat"><span class="stat-num">{{ len $posts }}</span><span class="stat-label">篇深度教程</span></div>
+        <div class="stat"><span class="stat-num">{{ len $hubs }}</span><span class="stat-label">大学习栏目</span></div>
+        {{ else }}
+        <div class="stat"><span class="stat-num">{{ len $tools }}</span><span class="stat-label">个在线工具</span></div>
+        {{ end }}
         <div class="stat"><span class="stat-num">100%</span><span class="stat-label">免费开放</span></div>
       </div>
     </div>
@@ -24,38 +40,39 @@
   </svg>
 </section>
 
-<!-- 注册 CTA（币安 + 欧易） -->
+<!-- 注册 CTA（币安） -->
 <section class="container" style="padding-top: 40px;" aria-labelledby="home-cta">
   <h2 id="home-cta" class="section-title">选对交易所，现在开户</h2>
   {{ partial "register-cta.html" . }}
 </section>
 
-<!-- 新手 4 步路径 -->
+<!-- 新手入门路径：只显示当前站点已有的文章 -->
+{{- $steps := slice
+  (dict "href" "/what-is-cryptocurrency/" "title" "① 搞清楚加密货币" "desc" "先弄懂区块链、比特币、钱包到底是什么，别急着投钱。")
+  (dict "href" "/crypto-exchange-comparison-guide/" "title" "② 选对交易所" "desc" "币安、Bybit、Bitget 手续费与安全性横向对比，一次选对不踩坑。")
+  (dict "href" "/binance-register-guide/" "title" "③ 完成开户" "desc" "注册、KYC 实名、入金买币，照着图文一步步做就能开好户。")
+  (dict "href" "/crypto-scam-prevention-guide/" "title" "④ 守住资产安全" "desc" "助记词、2FA、防骗，把钱守住比赚钱更重要。")
+-}}
+{{- $live := slice -}}
+{{- range $steps -}}
+  {{- if where site.RegularPages "RelPermalink" .href -}}{{- $live = $live | append . -}}{{- end -}}
+{{- end -}}
+{{ if $live }}
 <section class="container" style="padding-top: 40px;" aria-labelledby="trail-title">
-  <h2 id="trail-title" class="section-title">你的 4 步入门路径</h2>
+  <h2 id="trail-title" class="section-title">你的 {{ len $live }} 步入门路径</h2>
   <p style="color: var(--muted); margin: -8px 0 20px;">按顺序走，每步都为下一步打基础。</p>
   <div class="subtopic-grid">
-    <a href="/what-is-cryptocurrency/">
-      <h3>① 搞清楚加密货币</h3>
-      <p>先弄懂区块链、比特币、钱包到底是什么，别急着投钱。</p>
+    {{ range $live }}
+    <a href="{{ .href }}">
+      <h3>{{ .title }}</h3>
+      <p>{{ .desc }}</p>
     </a>
-    <a href="/crypto-exchange-comparison-guide/">
-      <h3>② 选对交易所</h3>
-      <p>币安、OKX、Bybit 手续费与安全性横向对比，一次选对不踩坑。</p>
-    </a>
-    <a href="/binance-register-guide/">
-      <h3>③ 完成开户</h3>
-      <p>注册、KYC 实名、入金买币，照着图文一步步做就能开好户。</p>
-    </a>
-    <a href="/crypto-scam-prevention-guide/">
-      <h3>④ 守住资产安全</h3>
-      <p>助记词、2FA、防骗，把钱守住比赚钱更重要。</p>
-    </a>
+    {{ end }}
   </div>
 </section>
+{{ end }}
 
 <!-- 实用工具 -->
-{{ $tools := where site.RegularPages "Section" "tools" }}
 {{ if $tools }}
 <section class="container" style="padding-top: 40px;" aria-labelledby="home-tools">
   <div style="display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px;">
@@ -78,8 +95,9 @@
 {{ end }}
 
 <!-- 栏目分区 -->
-{{ range $i, $hub := hugo.Data.hubs }}
-  {{ $hubArticles := where site.RegularPages "Params.categories" "intersect" (slice $hub.name) }}
+{{ range $hubs }}
+  {{ $hub := . }}
+  {{ $hubArticles := where $posts "Params.categories" "intersect" (slice $hub.name) }}
   {{ $latest := first 3 $hubArticles.ByDate.Reverse }}
   {{ if $latest }}
   <section class="container" style="padding-top: 48px;" aria-labelledby="hub-{{ $hub.key }}">
@@ -98,12 +116,14 @@
 {{ end }}
 
 <!-- 最新文章 -->
+{{ if $posts }}
 <section class="container" style="padding-top: 48px; padding-bottom: 24px;" aria-labelledby="home-latest">
   <h2 id="home-latest" class="section-title">最新文章</h2>
   <div class="article-list grid-3">
-    {{ range first 6 (where site.RegularPages "Type" "posts").ByDate.Reverse }}
+    {{ range first 6 $posts.ByDate.Reverse }}
       {{ partial "article-card.html" . }}
     {{ end }}
   </div>
 </section>
+{{ end }}
 {{ end }}

@@ -7,8 +7,8 @@ theme = 'PaperMod'
 [params]
   env = 'production'
   author = '链上指南'
-  description = '链上指南是专注加密货币与Web3入门的中文教程站点，提供交易所注册、KYC认证、安全设置、入金出金及避坑指南，帮助新手安全进入区块链世界。'
-  keywords = ['加密货币', '币圈', 'OKX', '币安', '注册教程', '比特币', '以太坊']
+  description = '链上指南是专注加密货币与Web3入门的中文站点，提供定投回测、仓位与爆仓价、空投查询、交互成本等在线工具，以及交易所注册、KYC认证与资产安全科普，帮助新手安全进入区块链世界。'
+  keywords = ['加密货币', '币圈', '币安', '注册教程', '比特币', '以太坊']
   avatar = '/logo.png'
   label.icon = '/logo.png'
   label.iconHeight = 30

@@ -1,7 +1,7 @@
 ---
 title: '合约仓位计算器：按风险比例反推仓位，算保证金、止损止盈与盈亏比'
 date: 2026-10-14T00:00:00+08:00
-lastmod: 2026-10-14T00:00:00+08:00
+lastmod: 2026-10-29T00:00:00+08:00
 draft: false
 description: '合约仓位计算器，输入账户资金、单笔风险比例、入场价、止损价与杠杆倍数，自动反推出该开多少仓位、所需保证金与合约张数，再结合止盈价算出潜在盈利和盈亏比，帮你按风险控制每笔仓位、避免重仓爆仓。适用于BTC、ETH等USDT本位永续合约，采用职业交易员的风险金额反推仓位逻辑，本地计算、免费在线使用、无需注册。'
 slug: 'position-size-calculator'
@@ -200,6 +200,6 @@ faq:
 
 ## 相关阅读
 
-- [仓位计算器实战从入门到精通：固定比例与凯利公式](/position-sizing-calculator-guide/)
-- [合约止盈止损设置实战](/futures-risk-management-guide/)
-- [资金管理：仓位与风险控制](/capital-management-guide/)
+- [合约爆仓价计算器：提前知道强平位置](/tools/liquidation-price-calculator/)
+- [比特币定投计算器：回测历史定投收益](/tools/bitcoin-dca-calculator/)
+- [全部在线工具](/tools/)

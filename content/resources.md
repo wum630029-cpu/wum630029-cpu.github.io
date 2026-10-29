@@ -1,8 +1,8 @@
 ---
-title: '币安欧易视频实操教程、每日加密行情与链上工具导航大全：CoinVado 资源中心 2026'
+title: '币安视频实操教程、每日加密行情与链上工具导航大全：CoinVado 资源中心 2026'
 date: 2026-08-15T00:00:00+08:00
 draft: false
-description: 'CoinVado 资源中心汇总币安、欧易等主流交易所的视频实操教程、每日加密行情与新闻解读、链上工具导航及 Telegram 学习社群入口，与链上指南的图文深度教程形成互补，涵盖交易所注册、KYC 认证、钱包安全与防骗避坑，为中文新手提供一站式加密货币学习资源，助你少走弯路、安全进入 Web3 世界。'
+description: 'CoinVado 资源中心汇总币安等主流交易所的视频实操教程、每日加密行情与新闻解读、链上工具导航及 Telegram 学习社群入口，与链上指南的图文深度教程形成互补，涵盖交易所注册、KYC 认证、钱包安全与防骗避坑，为中文新手提供一站式加密货币学习资源，助你少走弯路、安全进入 Web3 世界。'
 ---
 
 ## 一个品牌，两个站点
@@ -16,7 +16,7 @@ description: 'CoinVado 资源中心汇总币安、欧易等主流交易所的视
 
 ## 视频教程（跟着做）
 
-- [视频实操教程](https://coinvado.com/videos/)：比特币入门、币安/欧易注册 KYC、区块链基础、以太坊 ETF 等，边看边做。
+- [视频实操教程](https://coinvado.com/videos/)：比特币入门、币安注册 KYC、区块链基础、以太坊 ETF 等，边看边做。
 
 ## 每日资讯与行情（每天看）
 
@@ -37,7 +37,6 @@ CoinVado 社区上有不少和本站互补的深度内容，按主题挑几篇�
 **交易所入门**
 
 - [币安注册与 KYC 完整教程](https://coinvado.com/posts/binance-registration-guide-kyc-deposit-2026/)
-- [欧易 OKX 注册与 KYC 完整教程](https://coinvado.com/posts/okx-registration-guide-kyc-deposit-2026/)
 - [币安 C2C 买币指南](https://coinvado.com/posts/binance-c2c-buy-crypto-guide-2026/)
 
 **安全防骗**

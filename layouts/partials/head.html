@@ -7,7 +7,7 @@
 
 {{- if .IsHome -}}
   {{- $title = printf "%s - 加密货币与Web3入门教程站" .Site.Title -}}
-  {{- $desc = "链上指南是专注加密货币与Web3入门的中文教程站点，提供交易所注册、KYC认证、安全设置、入金出金及避坑指南，帮助新手安全进入区块链世界。" -}}
+  {{- $desc = .Site.Params.description -}}
 {{- else if eq .Kind "taxonomy" -}}
   {{- if eq .Data.Plural "tags" -}}
     {{- $title = printf "所有标签 - 加密货币入门教程分类导航 | %s" .Site.Title -}}

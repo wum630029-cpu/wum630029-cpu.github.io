@@ -27,7 +27,7 @@ window.__siteSearchIndex = {{ $index | jsonify | safeJS }};
   function norm(s) { return String(s || '').toLowerCase(); }
 
   // 分词：先按空格切，再把「英文/数字连续串」与「单个中文字」拆开，
-  // 使「okx注册」「欧易注册」这类无空格混合词也能分别命中
+  // 使「币安注册」「新手注册」这类无空格混合词也能分别命中
   function tokenize(q) {
     var words = norm(q).trim().split(/\s+/).filter(Boolean);
     var tokens = [];
