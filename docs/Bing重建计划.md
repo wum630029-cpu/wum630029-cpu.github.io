@@ -67,7 +67,7 @@ Bing 指南 §20「保持 URL 稳定」——同一 URL 重发新内容，历史
 
 | 天数 | slug | 目标主词 | 标题（43–53 字） |
 |---|---|---|---|
-| 周一 | `usdt-to-cny-guide` | usdt 汇率 / usdt 兑人民币 | USDT 兑人民币汇率怎么看？2026 场内场外价差、卖出到手价、手续费与到账时间一次算清 |
+| 周一 | `usdt-to-cny-guide` ✅ | usdt 汇率 / usdt 兑人民币 | USDT 汇率怎么看？为什么和美元汇率不一样、换回人民币实际到手多少、比价该比哪个数一次算清 |
 | 周三 | `binance-register-guide` | 币安注册 | 币安怎么注册？大陆用户开户、KYC 实名认证与 BT123 邀请码 20% 返佣图文教程 |
 | 周五 | `binance-card-guide` | 币安卡 / binance card | 币安卡怎么申请？虚拟卡、U 卡与实体卡的区别、支持国家、刷卡手续费与扫码消费提现路径详解 |
 
@@ -99,9 +99,11 @@ Bing 指南 §20「保持 URL 稳定」——同一 URL 重发新内容，历史
 
 | 天 | slug | 目标主词 | 标题 |
 |---|---|---|---|
-| 周一 | `binance-app-download-guide` | 币安下载 / 币安 app | 币安 App 怎么下载？安卓 APK、苹果海外 Apple ID 与防山寨安装包识别教程 |
-| 周三 | `binance-invite-code-guide` | 币安邀请码 | 币安邀请码怎么填？BT123 手续费返佣领取、注册后补填规则、旧码失效与真假辨别一次讲清 |
-| 周五 | `binance-fee-rebate-guide` | 币安手续费 | 币安手续费怎么算？现货与合约费率、BNB 抵扣、20% 邀请码返佣叠加的实测对比与省钱顺序 |
+| 周一 | `binance-app-install-guide` ✅ | 币安下载 / 币安 app | 币安下载怎么装？安卓 APK、苹果海外 Apple ID 切换与防山寨安装包识别完整教程 |
+| 周三 | `binance-invite-code-guide` ✅ | 币安邀请码 | 币安邀请码怎么填？BT123 手续费返佣领取、注册后补填规则、旧码失效与真假辨别一次讲清 |
+| 周五 | `binance-fee-guide` ✅ | 币安手续费 | 币安手续费怎么算？现货与合约费率、BNB 抵扣、20% 邀请码返佣叠加的实测对比与省钱顺序 |
+
+> ⚠️ 实际发布 slug 为 `binance-app-install-guide` / `binance-fee-guide`（非本表最初拟定的 `-download-` / `-fee-rebate-`），内链一律以实际 slug 为准。
 
 ### 第 6 周：技术与概念扩面
 
@@ -150,9 +152,9 @@ usdt-to-cny-guide（枢纽）
   └─ → 币安注册（转化）
 
 binance-register-guide（枢纽）
-  ├─ binance-app-download-guide
+  ├─ binance-app-install-guide
   ├─ binance-invite-code-guide
-  ├─ binance-fee-rebate-guide
+  ├─ binance-fee-guide
   ├─ binance-deposit-guide ─┬─ binance-c2c-guide
   │                         └─ binance-pay-guide
   ├─ binance-withdraw-guide ── binance-withdraw-to-alipay-guide
