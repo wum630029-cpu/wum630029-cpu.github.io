@@ -64,6 +64,8 @@ readingTime: 9
 - **小米 / Redmi**：安装界面会二次确认，要点「仍然安装」，否则会静默取消。
 - **OPPO / vivo**：需要在「安装未知应用」里单独给浏览器授权，否则点了没反应。
 
+各品牌菜单路径不一样，按机型逐步对照见 [币安安卓 APK 怎么下载安装](/binance-android-download-guide/)。
+
 ### 装完核对两件事
 
 打开应用详情页，确认开发者是 **Binance Inc.**、包名是 **com.binance.dev**。两项都对，再登录。
@@ -149,6 +151,8 @@ readingTime: 9
 
 ## 📖 推荐阅读
 
+- [币安安卓 APK 怎么下载安装？各机型拦截设置与失败排查](/binance-android-download-guide/)
+- [币安官网是哪个？入口与仿冒域名识别](/binance-official-website-guide/)
 - [币安邀请码怎么填？BT123 返佣与补填规则一次讲清](/binance-invite-code-guide/)
 - [币安手续费怎么算？BNB 抵扣与邀请返佣的叠加顺序](/binance-fee-guide/)
 
