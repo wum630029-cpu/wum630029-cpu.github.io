@@ -115,15 +115,4 @@
   {{ end }}
 {{ end }}
 
-<!-- 最新文章 -->
-{{ if $posts }}
-<section class="container" style="padding-top: 48px; padding-bottom: 24px;" aria-labelledby="home-latest">
-  <h2 id="home-latest" class="section-title">最新文章</h2>
-  <div class="article-list grid-3">
-    {{ range first 6 $posts.ByDate.Reverse }}
-      {{ partial "article-card.html" . }}
-    {{ end }}
-  </div>
-</section>
-{{ end }}
 {{ end }}
