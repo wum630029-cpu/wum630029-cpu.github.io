@@ -29,7 +29,7 @@ readingTime: 9
 </ul>
 </div>
 
-> 💡 **学习前提**：还没装 App？先看 [币安下载怎么装](/binance-app-install-guide/)，装完再注册更顺；想弄清每一步扣了多少，看 [币安手续费怎么算](/binance-fee-guide/)。
+> 💡 **学习前提**：还没开户？先看 [币安怎么注册](/binance-register-guide/)，注册那一栏就是填码的地方。还没装 App 看 [币安下载怎么装](/binance-app-install-guide/)；想弄清每一步扣了多少，看 [币安手续费怎么算](/binance-fee-guide/)。
 
 > 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）。
 

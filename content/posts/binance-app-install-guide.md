@@ -29,7 +29,7 @@ readingTime: 9
 </ul>
 </div>
 
-> 💡 **学习前提**：还没注册账号？先看 [币安邀请码怎么填](/binance-invite-code-guide/)，注册时把码填对，开通后无法补填。想看省钱的算法，看 [币安手续费怎么算](/binance-fee-guide/)。
+> 💡 **学习前提**：还没注册账号？先看 [币安怎么注册](/binance-register-guide/)；注册时把邀请码填对，见 [币安邀请码怎么填](/binance-invite-code-guide/)，开通后无法补填。想看省钱的算法，看 [币安手续费怎么算](/binance-fee-guide/)。
 
 > 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）。
 

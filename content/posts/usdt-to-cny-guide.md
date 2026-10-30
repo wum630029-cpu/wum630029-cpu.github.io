@@ -23,7 +23,7 @@ readingTime: 11
 </ul>
 </div>
 
-> 💡 **学习前提**：还没装 App？看 [币安下载怎么装](/binance-app-install-guide/)。注册时邀请码怎么填、返佣怎么算，看 [币安邀请码怎么填](/binance-invite-code-guide/)。
+> 💡 **学习前提**：还没开户？先看 [币安怎么注册](/binance-register-guide/)。装 App 看 [币安下载怎么装](/binance-app-install-guide/)；邀请码怎么填、返佣怎么算，看 [币安邀请码怎么填](/binance-invite-code-guide/)。
 
 ---
 
