@@ -53,6 +53,14 @@
 | `binance-c2c-guide` | 256 / 11 | 稳定 |
 
 Bing 指南 §20「保持 URL 稳定」——同一 URL 重发新内容，历史权重能接上；换新 slug 则一切归零。
+
+> **⚠️ 沿用 slug 的必做检查（2026-10-30 踩过坑）**：`scripts/removed-urls.txt` 里有 216 条
+> 已向 IndexNow 通知「删除」的旧 URL。沿用某个旧 slug 前先 `grep "/<slug>/" scripts/removed-urls.txt`，
+> 命中就必须把那一行从清单里删掉——否则 `indexnow_removed.py` 会对已经上线的页面发删除通知。
+> 已沿用并已清理：`usdt-to-cny-guide`、`binance-register-guide`、`binance-official-website-guide`、
+> `binance-ios-download-guide`。
+>
+> **判定标准**：只有「旧 URL 主题 = 新文章主题」才沿用（同一个页面重写）；旧题不写了就别复用它的 slug。
 如果坚持全新 slug，把这 6 篇换成：`usdt-cny-rate-2027`、`binance-withdraw-card-guide`、`binance-card-apply-guide`、`binance-recharge-guide`、`binance-pay-transfer-guide`、`binance-c2c-buy-sell-guide`。
 
 ## 四、18 篇排期（6 周，每周 3 篇）
