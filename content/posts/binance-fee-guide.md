@@ -147,6 +147,7 @@ VIP 等级按 30 天交易量 + BNB 日均持仓综合评定。2026 年 3 月起
 
 - [币安邀请码怎么填？20% 返佣与补填规则](/binance-invite-code-guide/)
 - [币安下载怎么装？认准官方域名与包名](/binance-app-install-guide/)
+- [币安邀请码怎么选？三个码的返佣对比](/binance-invite-code-binabnk/)
 
 ### 📌 更多学习资源
 

@@ -207,6 +207,7 @@ readingTime: 10
 - [币安下载怎么装？安卓 APK 与苹果海外 Apple ID](/binance-app-install-guide/)
 - [币安邀请码怎么填？补填规则与真假辨别](/binance-invite-code-guide/)
 - [币安手续费怎么算？BNB 抵扣与返佣叠加](/binance-fee-guide/)
+- [币安邀请码怎么选？BINANBK 与 BT123 的区别](/binance-invite-code-binabnk/)
 - [USDT 汇率怎么看？换回人民币到手多少](/usdt-to-cny-guide/)
 
 ---
