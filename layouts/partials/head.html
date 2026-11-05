@@ -65,6 +65,9 @@
 <meta name="theme-color" content="#0f172a">
 
 <title>{{ $title }}</title>
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<meta name="robots" content="noindex, follow">
+{{- end }}
 
 <link rel="canonical" href="{{ $canonical }}">
 <link rel="icon" type="image/png" href="{{ "/logo.png" | relURL }}">

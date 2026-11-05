@@ -57,14 +57,15 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Notify IndexNow - 即时通知搜索引擎
+        if: github.event_name != 'schedule'
         run: |
           KEY="7275888e4b33465699b61524ef72d30a"
           SITE="coinvado.net"
           SITEMAP_URL="${SITE}/sitemap.xml"
 
-          echo "📡 从 sitemap 获取所有 URL..."
-          # 从 sitemap.xml 提取所有 URL
-          URLS=$(curl -sL "https://${SITEMAP_URL}" | grep -oP '<loc>\K[^<]+' || true)
+          echo "📡 从 sitemap 获取内容页 URL（跳过标签/分类归档页）..."
+          # 只提交正文/工具页，标签和分类页已 noindex，不再占用抓取预算
+          URLS=$(curl -sL "https://${SITEMAP_URL}" | grep -oP '<loc>\K[^<]+' | grep -vE '/(tags|categories)/' || true)
 
           if [ -z "$URLS" ]; then
             echo "⚠️ 未获取到 URL，跳过 IndexNow 提交"
