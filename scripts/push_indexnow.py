@@ -13,13 +13,16 @@ IndexNow 自动推送脚本。
 import xml.etree.ElementTree as ET
 import urllib.request
 import json
+import ssl
 import sys
 from pathlib import Path
 
 # ========== 配置 ==========
 HOST = "coinvado.net"
 KEY = "7275888e4b33465699b61524ef72d30a"
-SITEMAP_PATH = Path("/Users/wuzhimin/wum630029-cpu.github.io/public/sitemap.xml")
+KEY_LOCATION = f"https://{HOST}/{KEY}.txt"
+# 仓库根目录下的 public/sitemap.xml，不写死本机绝对路径
+SITEMAP_PATH = Path(__file__).resolve().parent.parent / "public" / "sitemap.xml"
 # 支持多个搜索引擎端点
 ENDPOINTS = [
     "https://www.bing.com/indexnow",
@@ -28,6 +31,14 @@ ENDPOINTS = [
 # 每次推送的最大 URL 数量（IndexNow 限制）
 BATCH_SIZE = 10000
 # ==========================
+
+def _ssl_context() -> ssl.SSLContext:
+    """优先用 certifi 的根证书，修复 macOS 自带 Python 的 CERTIFICATE_VERIFY_FAILED。"""
+    try:
+        import certifi
+        return ssl.create_default_context(cafile=certifi.where())
+    except ImportError:
+        return ssl.create_default_context()
 
 def parse_sitemap(path: Path) -> list[str]:
     """解析 sitemap.xml，提取所有 URL"""
@@ -47,9 +58,11 @@ def push_urls(urls: list[str]) -> bool:
     payload = {
         "host": HOST,
         "key": KEY,
+        "keyLocation": KEY_LOCATION,
         "urlList": urls,
     }
     data = json.dumps(payload).encode("utf-8")
+    context = _ssl_context()
 
     all_ok = True
     for endpoint in ENDPOINTS:
@@ -63,7 +76,7 @@ def push_urls(urls: list[str]) -> bool:
             method="POST",
         )
         try:
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=30, context=context) as resp:
                 status = resp.status
                 body = resp.read().decode("utf-8")
                 if status == 200:
@@ -80,10 +93,11 @@ def push_urls(urls: list[str]) -> bool:
 def push_single_url(url: str) -> bool:
     """推送单个 URL（GET 方式，适合 CI 中只推送新文章）"""
     all_ok = True
+    context = _ssl_context()
     for endpoint in ENDPOINTS:
         full_url = f"{endpoint}?url={url}&key={KEY}"
         try:
-            with urllib.request.urlopen(full_url, timeout=30) as resp:
+            with urllib.request.urlopen(full_url, timeout=30, context=context) as resp:
                 status = resp.status
                 if status == 200:
                     print(f"  ✓ {endpoint} - 成功推送 {url}")
