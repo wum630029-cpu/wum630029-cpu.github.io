@@ -2,7 +2,7 @@
    链上指南 — 设计系统（深绿 + 金 机构风）
    布局参考 criptoviva.com（Astro 站），配色调整为中文币圈站气质：
    深绿做主色（logo/链接/表头），金做 CTA/高亮，暖象牙底，圆角卡片。
-   保留本站原有能力：搜索、QQ 悬浮、暗色模式、语义化 callout、目录。
+   保留本站原有能力：搜索、暗色模式、语义化 callout、目录。
    ============================================================ */
 
 :root {
@@ -676,47 +676,10 @@ main { flex: 1; padding: 40px 0; }
 .search-results .empty { padding: 14px 12px; text-align: center; color: var(--faint); font-size: 0.9rem; }
 
 /* ============================================================
-   QQ 咨询悬浮框
-   ============================================================ */
-.qq-float {
-  position: fixed; right: 20px; bottom: 24px; z-index: 200;
-  display: flex; flex-direction: column; align-items: flex-end; padding-top: 12px;
-}
-.qq-card {
-  position: absolute; right: 0; bottom: 100%;
-  background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
-  box-shadow: var(--shadow-md); padding: 18px 22px; width: min(320px, calc(100vw - 40px));
-  opacity: 0; transform: translateY(8px); pointer-events: none;
-  transition: opacity 0.2s ease, transform 0.2s ease;
-}
-.qq-float.open .qq-card { opacity: 1; transform: translateY(0); pointer-events: auto; }
-.qq-card-title { font-size: 1.05rem; font-weight: 800; color: var(--ink); margin-bottom: 6px; }
-.qq-card-desc { font-size: 0.9rem; color: var(--muted); margin-bottom: 12px; }
-.qq-card-row { display: flex; align-items: center; gap: 4px; font-size: 1rem; font-weight: 700; color: var(--ink); }
-.qq-copy-btn {
-  border: none; background: none; cursor: pointer; padding: 2px 4px; border-radius: 6px;
-  color: var(--brand); font-weight: 800; font-size: 1.05rem; font-family: inherit;
-  transition: background 0.15s ease;
-}
-.qq-copy-btn:hover { background: var(--brand-soft); color: var(--brand); }
-.qq-copied-tip { font-size: 0.8rem; font-weight: 600; color: #22c55e; margin-left: 4px; opacity: 0; transition: opacity 0.2s ease; }
-.qq-copied-tip.show { opacity: 1; }
-.qq-btn {
-  display: inline-flex; align-items: center; gap: 8px;
-  border: none; cursor: pointer; padding: 12px 24px; border-radius: 999px;
-  background: var(--brand); color: #fff;
-  font-size: 1rem; font-weight: 700; font-family: inherit;
-  box-shadow: 0 8px 24px rgba(10, 107, 60, 0.4);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-.qq-btn:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(10, 107, 60, 0.5); color: #fff; }
-.qq-btn svg { width: 26px; height: 26px; flex-shrink: 0; }
-
-/* ============================================================
    回到顶部按钮
    ============================================================ */
 .back-to-top {
-  position: fixed; right: 20px; bottom: 92px; z-index: 190;
+  position: fixed; right: 20px; bottom: 24px; z-index: 190;
   width: 44px; height: 44px; border-radius: 50%;
   border: 1px solid var(--border);
   background: var(--surface); color: var(--brand);
@@ -742,10 +705,7 @@ main { flex: 1; padding: 40px 0; }
   .hero-actions .btn:first-child { grid-column: 1 / -1; }
   .article-card { padding: 22px; }
   .site-footer .container { flex-direction: column; text-align: center; }
-  .qq-float { right: 14px; bottom: 16px; }
-  .qq-btn { padding: 10px 18px; font-size: 0.9rem; }
-  .qq-btn svg { width: 22px; height: 22px; }
-  .back-to-top { right: 14px; bottom: 76px; }
+  .back-to-top { right: 14px; bottom: 16px; }
 }
 
 /* 桌面双列布局 */
