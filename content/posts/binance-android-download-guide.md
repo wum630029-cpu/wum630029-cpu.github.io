@@ -1,9 +1,9 @@
 ---
 title: '币安安卓 APK 怎么下载安装？有谷歌服务和没有的两条路、华为小米 OPPO 拦截设置与六种失败排查'
 date: 2026-10-30T00:00:00+08:00
-lastmod: 2026-10-30T00:00:00+08:00
+lastmod: 2026-11-15T00:00:00+08:00
 draft: false
-description: '币安安卓版有两条下载路：有谷歌服务走 Play 商店，没有就走官网 APK。本文给出两条路的完整步骤、华为荣耀小米 OPPO vivo 三星的权限路径对照表、包名 com.binance.dev 的验真方法、六种安装失败的处理顺序、覆盖更新与降级的注意事项，以及装完第一次打开该先设哪几项、为什么要手动更新。'
+description: '币安安卓安装包下载：官方只有两条路——有谷歌服务走 Play 商店，没有就走 binance.com 的 APK 直链。含两条路完整步骤、华为荣耀小米 OPPO vivo 三星的「未知来源」权限路径对照表、包名 com.binance.dev 与 321MB 体积的验真方法、六种安装失败排查顺序。'
 slug: 'binance-android-download-guide'
 tags: ['币安安卓下载', 'APK', '安卓', 'Binance', '安装教程', '防钓鱼']
 categories: ['币安']
