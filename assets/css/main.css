@@ -868,3 +868,66 @@ main { flex: 1; padding: 40px 0; }
 .db-meta b { color: var(--muted); font-weight: 700; }
 .db-empty { padding: 36px 20px; text-align: center; color: var(--faint); font-size: 0.9rem; }
 .db-note { font-size: 0.82rem; color: var(--faint); margin-top: 14px; line-height: 1.7; }
+
+/* ============================================================
+   手机端币安下载悬浮条（向上滑动后从底部滑出）
+   ============================================================ */
+.mobile-download-bar {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 195;
+  display: none;
+  transform: translateY(110%);
+  visibility: hidden;
+  transition: transform 0.25s ease, visibility 0.25s ease;
+}
+.mobile-download-bar.is-visible { transform: translateY(0); visibility: visible; }
+
+.mobile-download-bar-inner {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 14px calc(10px + env(safe-area-inset-bottom));
+  background: color-mix(in srgb, var(--surface) 94%, transparent);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -6px 22px rgba(10, 60, 36, 0.12);
+}
+[data-theme="dark"] .mobile-download-bar-inner { box-shadow: 0 -6px 22px rgba(0, 0, 0, 0.45); }
+
+.mobile-download-bar-copy { flex: 1 1 auto; min-width: 0; }
+.mobile-download-bar-title {
+  font-size: 0.95rem; font-weight: 800; color: var(--ink); line-height: 1.25;
+}
+.mobile-download-bar-rebate {
+  margin-top: 2px;
+  font-size: 0.78rem; font-weight: 700; color: var(--gold-dark); line-height: 1.25;
+}
+
+.mobile-download-bar-btn {
+  flex: 0 0 auto;
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+  padding: 11px 18px; border-radius: 12px;
+  background: var(--grad-gold); color: #fff;
+  font-size: 0.92rem; font-weight: 700; line-height: 1;
+  box-shadow: 0 6px 16px rgba(232, 165, 15, 0.32);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.mobile-download-bar-btn:hover { color: #fff; transform: translateY(-1px); box-shadow: 0 10px 22px rgba(232, 165, 15, 0.42); }
+.mobile-download-bar-btn:active { transform: scale(0.98); }
+.mobile-download-bar-btn svg { width: 16px; height: 16px; }
+
+.mobile-download-bar-close {
+  flex: 0 0 auto;
+  display: flex; align-items: center; justify-content: center;
+  width: 34px; height: 44px; margin-right: -4px; padding: 0;
+  border: 0; border-radius: 8px; background: transparent; color: var(--faint);
+  cursor: pointer; transition: background 0.15s ease, color 0.15s ease;
+}
+.mobile-download-bar-close:hover { background: var(--surface-2); color: var(--muted); }
+.mobile-download-bar-close svg { width: 18px; height: 18px; }
+
+@media (max-width: 767px) {
+  .mobile-download-bar { display: block; }
+  /* 悬浮条出现时给页面留出底部空间，避免遮住页脚最后一行 */
+  body.has-mobile-download-bar { padding-bottom: calc(4.5rem + env(safe-area-inset-bottom)); }
+  /* 回到顶部按钮上移，避免被下载条压住 */
+  body.has-mobile-download-bar .back-to-top { bottom: calc(5rem + env(safe-area-inset-bottom)); }
+}

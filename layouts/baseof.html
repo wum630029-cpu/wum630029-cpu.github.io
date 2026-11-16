@@ -10,6 +10,14 @@
   </main>
 
   {{ partial "footer.html" . }}
+
+  {{/* 手机端下载悬浮条：iOS 安装教程页不放（该页读者装不了 APK） */}}
+  {{- $showDownloadBar := true -}}
+  {{- with .File -}}
+    {{- if eq .Path "posts/binance-ios-download-guide.md" }}{{ $showDownloadBar = false }}{{ end -}}
+  {{- end -}}
+  {{- if $showDownloadBar }}{{ partial "mobile-download-bar.html" . }}{{ end }}
+
   {{ partial "back-to-top.html" . }}
 </body>
 </html>

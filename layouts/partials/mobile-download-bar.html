@@ -1,0 +1,82 @@
+{{/*
+  手机端币安 APK 下载悬浮条：页面向上滑动（滚动超过 420px）后从底部滑出。
+  仅在窄屏显示，桌面端不渲染视觉效果；可手动关闭，本次会话内不再出现。
+*/}}
+<div id="mobileDownloadBar" class="mobile-download-bar" role="complementary" aria-label="币安 App 下载" aria-hidden="true">
+  <div class="mobile-download-bar-inner">
+    <div class="mobile-download-bar-copy">
+      <p class="mobile-download-bar-title">币安 App</p>
+      <p class="mobile-download-bar-rebate">20% 手续费返佣</p>
+    </div>
+    <a
+      class="mobile-download-bar-btn"
+      href="https://download.bsmkweb.cc/pack/BNApp_F0002087.apk?utm_medium=web_share_copy"
+      target="_blank"
+      rel="sponsored nofollow noopener noreferrer"
+      data-cta="binance-apk"
+      data-cta-position="mobile-download-bar"
+    >
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M12 4v11m0 0l-4-4m4 4l4-4M5 18.5v.5a1.5 1.5 0 001.5 1.5h11A1.5 1.5 0 0019 19v-.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span>下载币安</span>
+    </a>
+    <button type="button" class="mobile-download-bar-close" id="mobileDownloadBarClose" aria-label="关闭下载条">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+<script>
+(function () {
+  var bar = document.getElementById('mobileDownloadBar');
+  if (!bar) return;
+
+  var closeBtn = document.getElementById('mobileDownloadBarClose');
+  var DISMISS_KEY = 'dg-mobile-download-bar-dismissed';
+  var SHOW_AT = 420;
+  var HIDE_AT = 240;
+  var mobileQuery = window.matchMedia('(max-width: 767px)');
+
+  var dismissed = false;
+  try {
+    dismissed = sessionStorage.getItem(DISMISS_KEY) === '1';
+  } catch (e) {
+    /* 隐私模式下 sessionStorage 可能不可用，忽略 */
+  }
+
+  function setVisible(visible) {
+    bar.classList.toggle('is-visible', visible);
+    bar.setAttribute('aria-hidden', visible ? 'false' : 'true');
+    document.body.classList.toggle('has-mobile-download-bar', visible);
+  }
+
+  function update() {
+    if (dismissed || !mobileQuery.matches) {
+      setVisible(false);
+      return;
+    }
+    var scrolled = window.scrollY;
+    if (scrolled > SHOW_AT) setVisible(true);
+    else if (scrolled < HIDE_AT) setVisible(false);
+  }
+
+  if (closeBtn) {
+    closeBtn.addEventListener('click', function () {
+      dismissed = true;
+      try {
+        sessionStorage.setItem(DISMISS_KEY, '1');
+      } catch (e) {
+        /* ignore */
+      }
+      setVisible(false);
+    });
+  }
+
+  window.addEventListener('scroll', update, { passive: true });
+  if (mobileQuery.addEventListener) mobileQuery.addEventListener('change', update);
+  update();
+})();
+</script>
