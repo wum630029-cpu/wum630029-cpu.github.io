@@ -1,8 +1,13 @@
 {{ `<?xml version="1.0" encoding="UTF-8"?>` | safeHTML }}
+{{- $pages := where $.Site.RegularPages "Permalink" "!=" "" -}}
+{{- /* 首页 lastmod 取全站内容最近更新时间，不用构建时间：每天定时构建会让 now 天天变，
+       内容没变也声称「今天更新」，Google 会判定 lastmod 不可信而整份 sitemap 忽略它。 */ -}}
+{{- $latest := now -}}
+{{- with $pages.ByLastmod.Reverse -}}{{- $latest = (index . 0).Lastmod -}}{{- end -}}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>{{ $.Site.BaseURL }}</loc>
-    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+    <lastmod>{{ $latest.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
