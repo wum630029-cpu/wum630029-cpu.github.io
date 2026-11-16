@@ -35,17 +35,12 @@
   if (!bar) return;
 
   var closeBtn = document.getElementById('mobileDownloadBarClose');
-  var DISMISS_KEY = 'dg-mobile-download-bar-dismissed';
   var SHOW_AT = 120;
   var HIDE_AT = 60;
   var mobileQuery = window.matchMedia('(max-width: 767px)');
 
+  // 关闭只在当前这次浏览内生效：刷新或进入下一篇页面会重新出现，不做跨页记住
   var dismissed = false;
-  try {
-    dismissed = sessionStorage.getItem(DISMISS_KEY) === '1';
-  } catch (e) {
-    /* 隐私模式下 sessionStorage 可能不可用，忽略 */
-  }
 
   function setVisible(visible) {
     bar.classList.toggle('is-visible', visible);
@@ -66,11 +61,6 @@
   if (closeBtn) {
     closeBtn.addEventListener('click', function () {
       dismissed = true;
-      try {
-        sessionStorage.setItem(DISMISS_KEY, '1');
-      } catch (e) {
-        /* ignore */
-      }
       setVisible(false);
     });
   }
