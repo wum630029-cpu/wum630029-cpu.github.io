@@ -1,25 +1,26 @@
 {{/*
-  手机端币安 APK 下载悬浮条：页面向上滑动（滚动超过 420px）后从底部滑出。
-  仅在窄屏显示，桌面端不渲染视觉效果；可手动关闭，本次会话内不再出现。
+  手机端下载悬浮条：页面向上滑动后从底部滑出。
+  由 baseof 传入 dict：brand、line、href、cta、label、aria（币安 / OKX 两套文案）。
+  仅在窄屏显示，桌面端不渲染视觉效果；可手动关闭，本次浏览内不再出现。
 */}}
-<div id="mobileDownloadBar" class="mobile-download-bar" role="complementary" aria-label="币安 App 下载" aria-hidden="true">
+<div id="mobileDownloadBar" class="mobile-download-bar" role="complementary" aria-label="{{ .aria }}" aria-hidden="true">
   <div class="mobile-download-bar-inner">
     <div class="mobile-download-bar-copy">
-      <p class="mobile-download-bar-title">币安 App</p>
-      <p class="mobile-download-bar-rebate">邀请码自动填入·手续费返佣20%</p>
+      <p class="mobile-download-bar-title">{{ .brand }}</p>
+      <p class="mobile-download-bar-rebate">{{ .line }}</p>
     </div>
     <a
       class="mobile-download-bar-btn"
-      href="https://download.bsmkweb.cc/pack/BNApp_F0002087.apk?utm_medium=web_share_copy"
+      href="{{ .href }}"
       target="_blank"
       rel="sponsored nofollow noopener noreferrer"
-      data-cta="binance-apk"
+      data-cta="{{ .cta }}"
       data-cta-position="mobile-download-bar"
     >
       <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
         <path d="M12 4v11m0 0l-4-4m4 4l4-4M5 18.5v.5a1.5 1.5 0 001.5 1.5h11A1.5 1.5 0 0019 19v-.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
-      <span>下载币安</span>
+      <span>{{ .label }}</span>
     </a>
     <button type="button" class="mobile-download-bar-close" id="mobileDownloadBarClose" aria-label="关闭下载条">
       <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">

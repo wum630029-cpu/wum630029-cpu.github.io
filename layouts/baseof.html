@@ -16,7 +16,24 @@
   {{- with .File -}}
     {{- if eq .Path "posts/binance-ios-download-guide.md" }}{{ $showDownloadBar = false }}{{ end -}}
   {{- end -}}
-  {{- if $showDownloadBar }}{{ partial "mobile-download-bar.html" . }}{{ end }}
+  {{/* 默认币安 APK；frontmatter 写 cta: okx 的页面换成 OKX 安装包 */}}
+  {{- $bar := dict
+    "brand" "币安 App"
+    "line" "邀请码自动填入·手续费返佣20%"
+    "href" "https://download.bsmkweb.cc/pack/BNApp_F0002087.apk?utm_medium=web_share_copy"
+    "cta" "binance-apk"
+    "label" "下载币安"
+    "aria" "币安 App 下载" -}}
+  {{- if eq .Params.cta "okx" -}}
+    {{- $bar = dict
+      "brand" "OKX App"
+      "line" "邀请码自动填入·新用户奖励"
+      "href" "https://www.tapznqqnsou.com/upgradeapp/android_ACE533225.apk"
+      "cta" "okx-apk"
+      "label" "下载 OKX"
+      "aria" "OKX App 下载" -}}
+  {{- end -}}
+  {{- if $showDownloadBar }}{{ partial "mobile-download-bar.html" $bar }}{{ end }}
 
   {{ partial "back-to-top.html" . }}
 </body>

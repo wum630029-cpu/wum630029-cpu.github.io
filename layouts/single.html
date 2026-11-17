@@ -64,7 +64,7 @@
         </div>
       </header>
 
-      {{ partial "register-cta.html" . }}
+      {{ if eq .Params.cta "okx" }}{{ partial "register-cta-okx.html" . }}{{ else }}{{ partial "register-cta.html" . }}{{ end }}
 
       <!-- 移动端折叠目录 -->
       {{ if .TableOfContents }}
