@@ -1,7 +1,7 @@
 ---
 title: '币安手续费怎么算？现货与合约费率、BNB 抵扣、20% 邀请码返佣叠加的实测对比与省钱顺序'
 date: 2026-10-29T00:00:00+08:00
-lastmod: 2026-10-29T00:00:00+08:00
+lastmod: 2026-11-20T00:00:00+08:00
 draft: false
 description: '币安手续费怎么算？本文拆开现货 0.1%、合约挂单 0.02% 吃单 0.05% 的基础费率，讲清手续费按收到的币种扣除再折算 BNB 的算法，算明 BNB 抵扣现货 25%、合约 10% 与 20% 邀请返佣的叠加顺序，给出 0.1% 降到 0.06% 的完整账，纠正「BNB 抵扣停用」「最高省 50%」等错误说法。'
 slug: 'binance-fee-guide'
@@ -31,7 +31,7 @@ readingTime: 9
 
 > 💡 **学习前提**：还没开户？先看 [币安怎么注册](/binance-register-guide/)。还不知道邀请码怎么算，看 [币安邀请码怎么填](/binance-invite-code-guide/)；App 还没装，看 [币安下载怎么装](/binance-app-install-guide/)。
 
-> 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）。
+> 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.net/join?ref=BINANBK)（邀请码 **BINANBK**，享手续费返佣）。
 
 ---
 

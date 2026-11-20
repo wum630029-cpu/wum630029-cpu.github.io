@@ -76,7 +76,7 @@ Bing 指南 §20「保持 URL 稳定」——同一 URL 重发新内容，历史
 | 天数 | slug | 目标主词 | 标题（43–53 字） |
 |---|---|---|---|
 | 周一 | `usdt-to-cny-guide` ✅ | usdt 汇率 / usdt 兑人民币 | USDT 汇率怎么看？为什么和美元汇率不一样、换回人民币实际到手多少、比价该比哪个数一次算清 |
-| 周三 | `binance-register-guide` ✅ | 币安注册 | 币安怎么注册？用邮箱还是手机号、KYC 实名认证一次过与邀请码 BT123 填在哪一步 |
+| 周三 | `binance-register-guide` ✅ | 币安注册 | 币安怎么注册？用邮箱还是手机号、KYC 实名认证一次过与邀请码 BINANBK 填在哪一步 |
 | 周五 | `binance-card-guide` | 币安卡 / binance card | 币安卡怎么申请？虚拟卡、U 卡与实体卡的区别、支持国家、刷卡手续费与扫码消费提现路径详解 |
 
 ### 第 2 周：USDT 集群 + 卡集群扩量
@@ -108,7 +108,7 @@ Bing 指南 §20「保持 URL 稳定」——同一 URL 重发新内容，历史
 | 天 | slug | 目标主词 | 标题 |
 |---|---|---|---|
 | 周一 | `binance-app-install-guide` ✅ | 币安下载 / 币安 app | 币安下载怎么装？安卓 APK、苹果海外 Apple ID 切换与防山寨安装包识别完整教程 |
-| 周三 | `binance-invite-code-guide` ✅ | 币安邀请码 | 币安邀请码怎么填？BT123 手续费返佣领取、注册后补填规则、旧码失效与真假辨别一次讲清 |
+| 周三 | `binance-invite-code-guide` ✅ | 币安邀请码 | 币安邀请码怎么填？BINANBK 手续费返佣领取、注册后补填规则、旧码失效与真假辨别一次讲清 |
 | 周五 | `binance-fee-guide` ✅ | 币安手续费 | 币安手续费怎么算？现货与合约费率、BNB 抵扣、20% 邀请码返佣叠加的实测对比与省钱顺序 |
 
 > ⚠️ 实际发布 slug 为 `binance-app-install-guide` / `binance-fee-guide`（非本表最初拟定的 `-download-` / `-fee-rebate-`），内链一律以实际 slug 为准。
@@ -148,7 +148,7 @@ categories: 对应 hub（新手入门 / 币安 / 交易策略 / 美股代币 / �
 
 - 1 条向上：指向所属集群的枢纽页（USDT → `usdt-to-cny-guide`；币安功能 → `binance-register-guide`）
 - 1–2 条横向：同集群兄弟页
-- 1 条转化：`[币安注册](https://www.bsmkweb.cc/register?ref=BT123)`
+- 1 条转化：`[币安注册](https://www.bsmkweb.net/join?ref=BINANBK)`
 - 不写裸 URL，不写「点击这里」
 
 ## 六、内链拓扑

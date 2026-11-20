@@ -1,7 +1,7 @@
 ---
 title: '币安苹果下载怎么装？App Store 搜不到的原因、海外 Apple ID 自注册与换区更新全流程'
 date: 2026-10-30T00:00:00+08:00
-lastmod: 2026-10-30T00:00:00+08:00
+lastmod: 2026-11-20T00:00:00+08:00
 draft: false
 description: '大陆区 App Store 搜不到币安，是因为商店按 Apple ID 地区分区。本文讲清三层原因、台湾香港美国新加坡怎么选、自己注册海外 Apple ID 的完整步骤、只退「媒体与购买项目」而不动 iCloud 的正确操作、下载后怎么切回原账号、每次更新为何要再切一次、换手机重装时怎么办，以及六种失败情形的逐条排查。'
 slug: 'binance-ios-download-guide'
@@ -10,7 +10,7 @@ categories: ['币安']
 readingTime: 10
 ---
 
-> ⚠️ **先看这条**：大陆区 App Store 搜不到币安，不是你的手机有问题，是**商店按 Apple ID 的地区分区运营**。绝大多数人卡在同一个动作上——退账号时退成了 iCloud，照片、通讯录、「查找我的 iPhone」全跟着掉。这篇把该退哪一层、怎么退、退完怎么切回，一次讲清楚。账号还没开的话，装完直接走[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）。
+> ⚠️ **先看这条**：大陆区 App Store 搜不到币安，不是你的手机有问题，是**商店按 Apple ID 的地区分区运营**。绝大多数人卡在同一个动作上——退账号时退成了 iCloud，照片、通讯录、「查找我的 iPhone」全跟着掉。这篇把该退哪一层、怎么退、退完怎么切回，一次讲清楚。账号还没开的话，装完直接走[币安注册](https://www.bsmkweb.net/join?ref=BINANBK)（邀请码 **BINANBK**）。
 
 <div class="callout callout-tldr">
 <div class="callout-title">TL;DR</div>

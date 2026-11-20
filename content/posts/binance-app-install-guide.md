@@ -1,7 +1,7 @@
 ---
 title: '币安下载怎么装？安卓 APK、苹果海外 Apple ID 切换与防山寨安装包识别完整教程'
 date: 2026-10-29T00:00:00+08:00
-lastmod: 2026-10-29T00:00:00+08:00
+lastmod: 2026-11-20T00:00:00+08:00
 draft: false
 description: '币安下载怎么装才不装到山寨包？本文用官方域名与包名 com.binance.dev 教你三步认出真假下载页，拆解安卓 APK 的未知来源、鸿蒙纯净模式与小米拦截三个卡点，讲清苹果海外 Apple ID 只退「媒体与购买项目」的正确切换方式，附安装失败 6 种情况对照表与装完必做的 2FA、防钓鱼码设置。'
 slug: 'binance-app-install-guide'
@@ -31,7 +31,7 @@ readingTime: 9
 
 > 💡 **学习前提**：还没注册账号？先看 [币安怎么注册](/binance-register-guide/)；注册时把邀请码填对，见 [币安邀请码怎么填](/binance-invite-code-guide/)，开通后无法补填。想看省钱的算法，看 [币安手续费怎么算](/binance-fee-guide/)。
 
-> 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）。
+> 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.net/join?ref=BINANBK)（邀请码 **BINANBK**，享手续费返佣）。
 
 ---
 
@@ -153,7 +153,7 @@ readingTime: 9
 
 - [币安安卓 APK 怎么下载安装？各机型拦截设置与失败排查](/binance-android-download-guide/)
 - [币安官网是哪个？入口与仿冒域名识别](/binance-official-website-guide/)
-- [币安邀请码怎么填？BT123 返佣与补填规则一次讲清](/binance-invite-code-guide/)
+- [币安邀请码怎么填？BINANBK 返佣与补填规则一次讲清](/binance-invite-code-guide/)
 - [币安手续费怎么算？BNB 抵扣与邀请返佣的叠加顺序](/binance-fee-guide/)
 
 ### 📌 更多学习资源

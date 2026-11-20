@@ -1,7 +1,7 @@
 ---
 title: '币安 App 怎么用？注册后中文设置、买币下单、资金划转与新手最常找的六个功能位置全详解'
 date: 2026-11-05T00:00:00+08:00
-lastmod: 2026-11-05T00:00:00+08:00
+lastmod: 2026-11-20T00:00:00+08:00
 draft: false
 description: '币安 App 装好后第一步该点哪里？本文按新用户路径拆开：简版与专业版怎么选、中文界面在哪设、一键买币和 C2C 有什么区别、资金账户到现货账户怎么划转、限价单与市价单怎么下、六个最常找不到的功能入口，以及注册后十分钟内该做的安全设置、语言不生效的排查顺序和新手不该碰的合约与杠杆功能，最后附六个常见误区。'
 slug: 'binance-app-usage-guide'
@@ -10,7 +10,7 @@ categories: ['币安']
 readingTime: 11
 ---
 
-> ⚠️ **先看这条**：装好币安 App 之后，新手最常卡住的三个问题不是「怎么赚钱」，而是：界面全是英文、买完币不能下单、想找的功能怎么翻都找不到。前两个问题来自同一件事——币安有**两套界面**（简版与专业版）和**两层账户**（资金账户与现货账户）。理不清这两层，点再多菜单也还是在原地打转。账号还没开，先在[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**）把账户办下来，再对照本文操作。
+> ⚠️ **先看这条**：装好币安 App 之后，新手最常卡住的三个问题不是「怎么赚钱」，而是：界面全是英文、买完币不能下单、想找的功能怎么翻都找不到。前两个问题来自同一件事——币安有**两套界面**（简版与专业版）和**两层账户**（资金账户与现货账户）。理不清这两层，点再多菜单也还是在原地打转。账号还没开，先在[币安注册](https://www.bsmkweb.net/join?ref=BINANBK)（邀请码 **BINANBK**）把账户办下来，再对照本文操作。
 
 本文从「装好后第一屏该看什么」讲起，系统覆盖：
 
@@ -33,7 +33,7 @@ readingTime: 11
 </ul>
 </div>
 
-> 💡 **学习前提**：账号还没开，先看 [币安怎么注册](/binance-register-guide/)；还没装 App，看 [币安下载怎么装](/binance-app-install-guide/)、[安卓 APK 教程](/binance-android-download-guide/) 或 [苹果下载教程](/binance-ios-download-guide/)。已经装好但还没开户，可直接走[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**），注册完再回来对照本文。
+> 💡 **学习前提**：账号还没开，先看 [币安怎么注册](/binance-register-guide/)；还没装 App，看 [币安下载怎么装](/binance-app-install-guide/)、[安卓 APK 教程](/binance-android-download-guide/) 或 [苹果下载教程](/binance-ios-download-guide/)。已经装好但还没开户，可直接走[币安注册](https://www.bsmkweb.net/join?ref=BINANBK)（邀请码 **BINANBK**），注册完再回来对照本文。
 
 ---
 

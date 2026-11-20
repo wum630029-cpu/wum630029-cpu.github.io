@@ -31,7 +31,7 @@ readingTime: 8
 
 > 💡 **学习前提**：先看 [相关文章 A](/相关slug/)；需要 B 时看 [相关文章 B](/相关slug/)。
 
-> 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.cc/register?ref=BT123)（邀请码 **BT123**，享手续费返佣）。
+> 🔵 **本文为币安操作教程。** 若你还没有币安账号，可[币安注册](https://www.bsmkweb.net/join?ref=BINANBK)（邀请码 **BINANBK**，享手续费返佣）。
 
 ---
 

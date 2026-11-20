@@ -12,7 +12,7 @@
 
 - key: binance
   name: 币安
-  description: 币安注册、KYC 实名、App 下载、入金买币、提现出金、手续费返佣全流程教程，邀请码 BT123 享 20% 手续费返佣，新手照着做就能开户。
+  description: 币安注册、KYC 实名、App 下载、入金买币、提现出金、手续费返佣全流程教程，邀请码 BINANBK 享 20% 手续费返佣，新手照着做就能开户。
   cta: true
   learningPath:
     - { title: 币安注册开户, href: /binance-register-guide/ }

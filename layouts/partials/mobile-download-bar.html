@@ -3,7 +3,7 @@
   由 baseof 传入 dict：brand、line、href、cta、label、aria（币安 / OKX 两套文案）。
   仅在窄屏显示，桌面端不渲染视觉效果；可手动关闭，本次浏览内不再出现。
 */}}
-<div id="mobileDownloadBar" class="mobile-download-bar" role="complementary" aria-label="{{ .aria }}" aria-hidden="true">
+<div id="mobileDownloadBar" class="mobile-download-bar{{ with .mod }} {{ . }}{{ end }}" role="complementary" aria-label="{{ .aria }}" aria-hidden="true">
   <div class="mobile-download-bar-inner">
     <div class="mobile-download-bar-copy">
       <p class="mobile-download-bar-title">{{ .brand }}</p>
