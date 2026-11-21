@@ -543,21 +543,34 @@ main { flex: 1; padding: 40px 0; }
 .cta-card ul li::before { content: '✓'; position: absolute; left: 0; color: var(--brand); font-weight: 700; }
 .cta-grid { display: grid; gap: 20px; grid-template-columns: 1fr; }
 
-/* OKX 注册卡：蓝色体系，和币安的金色卡片区分开 */
+/* OKX 注册卡：浅蓝体系，和币安的金色卡片区分开 */
 .cta-card--okx {
-  background: linear-gradient(135deg, #1746c4 0%, #2563eb 55%, #1b3fae 100%);
-  border-color: #1d4ed8;
-  box-shadow: 0 12px 28px rgba(29, 78, 216, 0.28);
+  background: linear-gradient(135deg, #eef5ff 0%, #dbe8ff 55%, #cbdcff 100%);
+  border-color: #c3d6fa;
+  box-shadow: 0 12px 28px rgba(47, 92, 246, 0.14);
 }
-.cta-card--okx ul li { color: rgba(255, 255, 255, 0.88); }
-.cta-card--okx ul li strong { color: #fff; }
-.cta-card--okx ul li::before { color: #bfdbfe; }
-[data-theme="dark"] .cta-card--okx { border-color: #3b82f6; box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45); }
+.cta-okx-title { font-size: 1.1rem; font-weight: 800; color: #14337a; }
+.cta-okx-sub { font-size: 0.85rem; color: #4a6aa8; }
+.cta-okx-note { font-size: 0.82rem; color: #4a6aa8; margin: 0; line-height: 1.6; }
+.cta-card--okx ul li { color: #33507f; }
+.cta-card--okx ul li strong { color: #14337a; }
+.cta-card--okx ul li::before { color: #2f5cf6; }
 .btn-okx {
-  background: #fff; color: #1d4ed8;
-  box-shadow: 0 6px 16px rgba(9, 28, 80, 0.25);
+  background: #2f5cf6; color: #fff;
+  box-shadow: 0 6px 16px rgba(47, 92, 246, 0.32);
 }
-.btn-okx:hover { background: #eef4ff; color: #1746c4; transform: translateY(-2px); box-shadow: 0 10px 22px rgba(9, 28, 80, 0.34); }
+.btn-okx:hover { background: #1f4ae0; color: #fff; transform: translateY(-2px); box-shadow: 0 10px 22px rgba(47, 92, 246, 0.42); }
+[data-theme="dark"] .cta-card--okx {
+  background: linear-gradient(135deg, #15335f 0%, #1b4478 55%, #1b3f6e 100%);
+  border-color: #2b5c9e;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45);
+}
+[data-theme="dark"] .cta-okx-title { color: #eaf2ff; }
+[data-theme="dark"] .cta-okx-sub,
+[data-theme="dark"] .cta-okx-note { color: #a9c4ea; }
+[data-theme="dark"] .cta-card--okx ul li { color: #c7d8f2; }
+[data-theme="dark"] .cta-card--okx ul li strong { color: #fff; }
+[data-theme="dark"] .cta-card--okx ul li::before { color: #93c5fd; }
 
 /* ============================================================
    FAQ
