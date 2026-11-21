@@ -543,17 +543,21 @@ main { flex: 1; padding: 40px 0; }
 .cta-card ul li::before { content: '✓'; position: absolute; left: 0; color: var(--brand); font-weight: 700; }
 .cta-grid { display: grid; gap: 20px; grid-template-columns: 1fr; }
 
-/* OKX 注册卡：黑白单色，和币安的金色卡片区分开 */
-.cta-card--okx { background: #101114; border-color: #101114; }
-.cta-card--okx ul li { color: rgba(255, 255, 255, 0.82); }
-.cta-card--okx ul li strong { color: #fff; }
-.cta-card--okx ul li::before { color: #fff; }
-[data-theme="dark"] .cta-card--okx { border-color: #2c2f36; }
-.btn-okx {
-  background: #fff; color: #101114;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+/* OKX 注册卡：蓝色体系，和币安的金色卡片区分开 */
+.cta-card--okx {
+  background: linear-gradient(135deg, #1746c4 0%, #2563eb 55%, #1b3fae 100%);
+  border-color: #1d4ed8;
+  box-shadow: 0 12px 28px rgba(29, 78, 216, 0.28);
 }
-.btn-okx:hover { background: #f2f2f2; color: #101114; transform: translateY(-2px); box-shadow: 0 10px 22px rgba(0, 0, 0, 0.28); }
+.cta-card--okx ul li { color: rgba(255, 255, 255, 0.88); }
+.cta-card--okx ul li strong { color: #fff; }
+.cta-card--okx ul li::before { color: #bfdbfe; }
+[data-theme="dark"] .cta-card--okx { border-color: #3b82f6; box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45); }
+.btn-okx {
+  background: #fff; color: #1d4ed8;
+  box-shadow: 0 6px 16px rgba(9, 28, 80, 0.25);
+}
+.btn-okx:hover { background: #eef4ff; color: #1746c4; transform: translateY(-2px); box-shadow: 0 10px 22px rgba(9, 28, 80, 0.34); }
 
 /* ============================================================
    FAQ
@@ -936,18 +940,25 @@ main { flex: 1; padding: 40px 0; }
 .mobile-download-bar-close:hover { background: var(--surface-2); color: var(--muted); }
 .mobile-download-bar-close svg { width: 18px; height: 18px; }
 
-/* OKX 悬浮条：黑白按钮，不用币安的金色 */
-.mobile-download-bar--okx .mobile-download-bar-rebate { color: var(--muted); }
+/* OKX 悬浮条：蓝色底 + 白色按钮，不用币安的金色 */
+.mobile-download-bar--okx .mobile-download-bar-inner {
+  background: linear-gradient(135deg, #1746c4 0%, #2563eb 60%, #1b3fae 100%);
+  border-top-color: #1d4ed8;
+  box-shadow: 0 -6px 22px rgba(29, 78, 216, 0.35);
+}
+.mobile-download-bar--okx .mobile-download-bar-title { color: #fff; }
+.mobile-download-bar--okx .mobile-download-bar-rebate { color: #cfe0ff; }
 .mobile-download-bar--okx .mobile-download-bar-btn {
-  background: #101114; color: #fff;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.26);
+  background: #fff; color: #1d4ed8;
+  box-shadow: 0 6px 16px rgba(9, 28, 80, 0.28);
 }
 .mobile-download-bar--okx .mobile-download-bar-btn:hover {
-  background: #000; color: #fff;
-  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.34);
+  background: #eef4ff; color: #1746c4;
+  box-shadow: 0 10px 22px rgba(9, 28, 80, 0.36);
 }
-[data-theme="dark"] .mobile-download-bar--okx .mobile-download-bar-btn { background: #fff; color: #101114; }
-[data-theme="dark"] .mobile-download-bar--okx .mobile-download-bar-btn:hover { background: #f2f2f2; color: #101114; }
+.mobile-download-bar--okx .mobile-download-bar-close { color: rgba(255, 255, 255, 0.75); }
+.mobile-download-bar--okx .mobile-download-bar-close:hover { background: rgba(255, 255, 255, 0.16); color: #fff; }
+[data-theme="dark"] .mobile-download-bar--okx .mobile-download-bar-inner { box-shadow: 0 -6px 22px rgba(0, 0, 0, 0.5); }
 
 @media (max-width: 767px) {
   .mobile-download-bar { display: block; }
