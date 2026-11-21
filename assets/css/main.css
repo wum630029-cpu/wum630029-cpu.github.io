@@ -940,25 +940,16 @@ main { flex: 1; padding: 40px 0; }
 .mobile-download-bar-close:hover { background: var(--surface-2); color: var(--muted); }
 .mobile-download-bar-close svg { width: 18px; height: 18px; }
 
-/* OKX 悬浮条：蓝色底 + 白色按钮，不用币安的金色 */
-.mobile-download-bar--okx .mobile-download-bar-inner {
-  background: linear-gradient(135deg, #1746c4 0%, #2563eb 60%, #1b3fae 100%);
-  border-top-color: #1d4ed8;
-  box-shadow: 0 -6px 22px rgba(29, 78, 216, 0.35);
-}
-.mobile-download-bar--okx .mobile-download-bar-title { color: #fff; }
-.mobile-download-bar--okx .mobile-download-bar-rebate { color: #cfe0ff; }
+/* OKX 悬浮条：浅色底 + 金色副标 + 蓝色下载按钮 */
+.mobile-download-bar--okx .mobile-download-bar-rebate { color: var(--gold-dark); }
 .mobile-download-bar--okx .mobile-download-bar-btn {
-  background: #fff; color: #1d4ed8;
-  box-shadow: 0 6px 16px rgba(9, 28, 80, 0.28);
+  background: #2f5cf6; color: #fff;
+  box-shadow: 0 6px 16px rgba(47, 92, 246, 0.32);
 }
 .mobile-download-bar--okx .mobile-download-bar-btn:hover {
-  background: #eef4ff; color: #1746c4;
-  box-shadow: 0 10px 22px rgba(9, 28, 80, 0.36);
+  background: #1f4ae0; color: #fff;
+  box-shadow: 0 10px 22px rgba(47, 92, 246, 0.42);
 }
-.mobile-download-bar--okx .mobile-download-bar-close { color: rgba(255, 255, 255, 0.75); }
-.mobile-download-bar--okx .mobile-download-bar-close:hover { background: rgba(255, 255, 255, 0.16); color: #fff; }
-[data-theme="dark"] .mobile-download-bar--okx .mobile-download-bar-inner { box-shadow: 0 -6px 22px rgba(0, 0, 0, 0.5); }
 
 @media (max-width: 767px) {
   .mobile-download-bar { display: block; }
