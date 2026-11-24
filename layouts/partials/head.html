@@ -65,7 +65,9 @@
 <meta name="theme-color" content="#0f172a">
 
 <title>{{ $title }}</title>
-{{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+{{- if eq .Kind "taxonomy" }}
+<meta name="robots" content="noindex, follow">
+{{- else if and (eq .Kind "term") (ne .Data.Plural "categories") }}
 <meta name="robots" content="noindex, follow">
 {{- end }}
 

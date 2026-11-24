@@ -19,4 +19,17 @@
     <priority>{{ .Sitemap.Priority }}</priority>{{ end }}
   </url>
   {{- end }}
+  {{- /* 分类归档页可索引（导航与首页都在链），单独进 sitemap；标签页仍 noindex。 */}}
+  {{- range where $.Site.Pages "Kind" "term" }}
+    {{- if eq .Data.Plural "categories" }}
+    {{- $lastmod := .Lastmod }}
+    {{- with .Pages.ByLastmod.Reverse }}{{ $lastmod = (index . 0).Lastmod }}{{ end }}
+  <url>
+    <loc>{{ .Permalink }}</loc>{{ if not $lastmod.IsZero }}
+    <lastmod>{{ $lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>{{ end }}
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+    {{- end }}
+  {{- end }}
 </urlset>

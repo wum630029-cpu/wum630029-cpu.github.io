@@ -63,9 +63,9 @@ jobs:
           SITE="coinvado.net"
           SITEMAP_URL="${SITE}/sitemap.xml"
 
-          echo "📡 从 sitemap 获取内容页 URL（跳过标签/分类归档页）..."
-          # 只提交正文/工具页，标签和分类页已 noindex，不再占用抓取预算
-          URLS=$(curl -sL "https://${SITEMAP_URL}" | grep -oP '<loc>\K[^<]+' | grep -vE '/(tags|categories)/' || true)
+          echo "📡 从 sitemap 获取内容页 URL（跳过标签归档页）..."
+          # 正文/工具/分类归档页都提交；标签页仍 noindex，不占抓取预算
+          URLS=$(curl -sL "https://${SITEMAP_URL}" | grep -oP '<loc>\K[^<]+' | grep -vE '/tags/' || true)
 
           if [ -z "$URLS" ]; then
             echo "⚠️ 未获取到 URL，跳过 IndexNow 提交"
