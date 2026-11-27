@@ -98,6 +98,7 @@
         </div>
       </section>
 
+      {{- if ne .Params.cta "okx" -}}
       {{- $related := .Site.RegularPages.Related . | first 4 -}}
       {{- with $related -}}
       <section class="related-posts">
@@ -108,6 +109,7 @@
           {{- end -}}
         </div>
       </section>
+      {{- end -}}
       {{- end -}}
 
       <footer style="margin-top: 48px; padding-top: 28px; border-top: 1px solid var(--border);">
